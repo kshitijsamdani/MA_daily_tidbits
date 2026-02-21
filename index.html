@@ -5,14 +5,10 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>MA_daily_tidbits</title>
 
-  <link rel="stylesheet" href="styles.css?v=6" />
+  <link rel="stylesheet" href="styles.css?v=7" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
-
-  <style>
-    .hidden{ display:none !important; }
-  </style>
 </head>
 
 <body>
@@ -23,7 +19,7 @@
       <div class="landing-card">
         <h2>Welcome to MA_daily_tidbits</h2>
         <p class="muted">
-          Read 5 science tidbits daily — one at a time — with category-specific backgrounds.
+          5 science tidbits daily — one at a time — with category images you upload.
         </p>
 
         <div class="landing-actions">
@@ -48,7 +44,7 @@
         </div>
 
         <p class="muted small">
-          Tip: If images don’t appear immediately, do a hard refresh (Ctrl+Shift+R).
+          Tip: After you update files, do a hard refresh (Ctrl+Shift+R).
         </p>
       </div>
     </section>
@@ -61,7 +57,7 @@
           <p id="subtitle">5 science tidbits, refreshed daily</p>
         </div>
 
-        <div class="right controls">
+        <div class="controls">
           <select id="categorySelect" class="select">
             <option value="All">All</option>
             <option value="AI">AI</option>
@@ -87,22 +83,20 @@
             <div class="badge">Daily</div>
             <div id="dateText" class="date"></div>
           </div>
-          <h2 id="heroTitle">Your facts</h2>
-          <p class="muted">One fact at a time. Background follows the current fact image.</p>
+          <h2 id="heroTitle">All categories</h2>
+          <p class="muted">One fact at a time. Big image per fact/category.</p>
         </div>
       </section>
 
       <section id="viewer" class="viewer" aria-live="polite"></section>
 
       <footer class="footer">
-        <p class="muted">
-          Sources: ScienceDaily Top Science RSS + your custom facts.
-        </p>
+        <p class="muted">Sources: ScienceDaily Top Science RSS + your custom facts.</p>
       </footer>
     </section>
 
   </main>
 
-  <script src="app.js?v=6" defer></script>
+  <script src="app.js?v=7" defer></script>
 </body>
 </html>
