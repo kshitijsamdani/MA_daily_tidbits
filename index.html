@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>MA_daily_tidbits</title>
   <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
   <header class="topbar">
@@ -31,26 +34,89 @@
   </header>
 
   <main class="container">
-    <section class="hero">
-      <div class="hero-card">
-        <div class="hero-meta">
-          <div class="badge">Daily</div>
-          <div id="dateText" class="date"></div>
-        </div>
-        <h2>Today’s 5 science tidbits</h2>
+
+    <!-- LANDING -->
+    <section id="landing" class="landing">
+      <div class="landing-card">
+        <h2>Welcome to MA_daily_tidbits</h2>
         <p class="muted">
-          Each item links to the source article. Background images are fetched from Wikipedia when possible.
+          Read 5 science tidbits daily — one at a time — with category-specific backgrounds.
+        </p>
+  
+        <div class="landing-actions">
+          <button id="startAllBtn" class="btn primary">Click here to read your facts →</button>
+  
+          <div class="landing-row">
+            <label class="muted" for="landingCategory">Or choose a category:</label>
+            <select id="landingCategory" class="select">
+              <option value="AI">AI</option>
+              <option value="Physics">Physics</option>
+              <option value="Entrepreneurship">Entrepreneurship</option>
+              <option value="Space">Space</option>
+              <option value="Biology">Biology</option>
+              <option value="Health">Health</option>
+              <option value="Environment">Environment</option>
+              <option value="For you specially">For you specially</option>
+              <option value="Science" selected>Science (general)</option>
+            </select>
+            <button id="startCategoryBtn" class="btn">Start</button>
+          </div>
+        </div>
+  
+        <p class="muted small">
+          Tip: If images don’t appear immediately, do a hard refresh (Ctrl+Shift+R).
         </p>
       </div>
     </section>
-
-    <section id="viewer" class="viewer" aria-live="polite"></section>
-
-    <footer class="footer">
-      <p class="muted">
-        Sources: ScienceDaily Top Science RSS + Wikipedia images when available.
-      </p>
-    </footer>
+  
+    <!-- READER -->
+    <section id="reader" class="reader hidden">
+      <header class="topbar">
+        <div>
+          <h1>MA_daily_tidbits</h1>
+          <p id="subtitle">5 science tidbits, refreshed daily</p>
+        </div>
+  
+        <div class="right controls">
+          <select id="categorySelect" class="select">
+            <option value="All">All</option>
+            <option value="AI">AI</option>
+            <option value="Physics">Physics</option>
+            <option value="Entrepreneurship">Entrepreneurship</option>
+            <option value="Space">Space</option>
+            <option value="Biology">Biology</option>
+            <option value="Health">Health</option>
+            <option value="Environment">Environment</option>
+            <option value="For you specially">For you specially</option>
+            <option value="Science">Science</option>
+          </select>
+  
+          <button id="nextBtn" class="btn">Next Fact →</button>
+          <button id="refreshBtn" class="btn">Refresh</button>
+          <button id="backBtn" class="btn ghost">Back</button>
+        </div>
+      </header>
+  
+      <section class="hero">
+        <div class="hero-card">
+          <div class="hero-meta">
+            <div class="badge">Daily</div>
+            <div id="dateText" class="date"></div>
+          </div>
+          <h2 id="heroTitle">Your facts</h2>
+          <p class="muted">One fact at a time. Background changes with category.</p>
+        </div>
+      </section>
+  
+      <section id="viewer" class="viewer" aria-live="polite"></section>
+  
+      <footer class="footer">
+        <p class="muted">
+          Sources: ScienceDaily Top Science RSS + category backgrounds.
+        </p>
+      </footer>
+    </section>
+  
   </main>
 
   <script src="app.js"></script>
