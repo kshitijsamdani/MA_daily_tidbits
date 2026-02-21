@@ -5,7 +5,106 @@ window.addEventListener("DOMContentLoaded", () => {
   let currentCategory = "All";
   let revealed = false;
 
-  // Category background images (you already keep these in /assets/category/)
+  // ---------- FUN: streak tracking ----------
+  const STREAK_KEY = "ma_tidbits_streak";
+  const LAST_DATE_KEY = "ma_tidbits_last_date";
+
+  function todayISO() {
+    const d = new Date();
+    return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+  }
+
+  function updateStreakUI() {
+    const el = document.getElementById("streakPill");
+    if (!el) return;
+    const streak = Number(localStorage.getItem(STREAK_KEY) || "0");
+    el.textContent = `🔥 Streak: ${streak} day${streak === 1 ? "" : "s"}`;
+  }
+
+  function bumpStreakOncePerDay() {
+    const last = localStorage.getItem(LAST_DATE_KEY) || "";
+    const t = todayISO();
+    if (last === t) return;
+
+    // If last date was exactly yesterday, streak++ else reset to 1
+    const lastDate = last ? new Date(last + "T00:00:00") : null;
+    const today = new Date(t + "T00:00:00");
+
+    let streak = Number(localStorage.getItem(STREAK_KEY) || "0");
+
+    if (!lastDate) {
+      streak = 1;
+    } else {
+      const diffDays = Math.round((today - lastDate) / (1000 * 60 * 60 * 24));
+      if (diffDays === 1) streak += 1;
+      else streak = 1;
+    }
+
+    localStorage.setItem(STREAK_KEY, String(streak));
+    localStorage.setItem(LAST_DATE_KEY, t);
+    updateStreakUI();
+  }
+
+  // ---------- FUN: confetti ----------
+  const confettiCanvas = document.getElementById("confetti");
+  const ctx = confettiCanvas?.getContext("2d");
+
+  function resizeConfetti() {
+    if (!confettiCanvas) return;
+    confettiCanvas.width = window.innerWidth;
+    confettiCanvas.height = window.innerHeight;
+  }
+  window.addEventListener("resize", resizeConfetti);
+
+  function fireConfetti() {
+    if (!confettiCanvas || !ctx) return;
+    confettiCanvas.classList.remove("hidden");
+    resizeConfetti();
+
+    const pieces = Array.from({ length: 120 }, () => ({
+      x: Math.random() * confettiCanvas.width,
+      y: -20 - Math.random() * confettiCanvas.height * 0.2,
+      vx: (Math.random() - 0.5) * 5,
+      vy: 2 + Math.random() * 4,
+      size: 4 + Math.random() * 6,
+      rot: Math.random() * Math.PI,
+      vr: (Math.random() - 0.5) * 0.25,
+      life: 60 + Math.random() * 40,
+      hue: 200 + Math.random() * 120,
+    }));
+
+    let frame = 0;
+    function tick() {
+      frame++;
+      ctx.clearRect(0, 0, confettiCanvas.width, confettiCanvas.height);
+
+      for (const p of pieces) {
+        p.x += p.vx;
+        p.y += p.vy;
+        p.rot += p.vr;
+        p.vy += 0.03; // gravity
+        p.life -= 1;
+
+        ctx.save();
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot);
+        ctx.fillStyle = `hsla(${p.hue}, 90%, 60%, 0.9)`;
+        ctx.fillRect(-p.size / 2, -p.size / 2, p.size, p.size);
+        ctx.restore();
+      }
+
+      const alive = pieces.some(p => p.life > 0 && p.y < confettiCanvas.height + 40);
+      if (frame < 140 && alive) {
+        requestAnimationFrame(tick);
+      } else {
+        ctx.clearRect(0, 0, confettiCanvas.width, confettiCanvas.height);
+        confettiCanvas.classList.add("hidden");
+      }
+    }
+    tick();
+  }
+
+  // ---------- Optional: category image fallback map ----------
   function categoryImage(category) {
     const c = (category || "Science").trim();
     const map = {
@@ -23,15 +122,8 @@ window.addEventListener("DOMContentLoaded", () => {
     return map[c] || map["Science"];
   }
 
-  function setCategoryBackground(category) {
-    const bg = categoryImage(category);
-    document.body.style.setProperty("--bgimg", `url(${bg}?v=${Date.now()})`);
-  }
-
   function normalizeItem(x) {
     const category = (x.category || "Science").trim() || "Science";
-
-    // ✅ Use real fact image when available; fallback to category background
     const img = (x.image && x.image.trim()) ? x.image.trim() : categoryImage(category);
 
     return {
@@ -40,6 +132,10 @@ window.addEventListener("DOMContentLoaded", () => {
       image: img,
       hook: (x.hook || "").trim(),
       question: (x.question || "").trim(),
+      summary: (x.summary || "").trim(),
+      title: (x.title || "").trim(),
+      link: (x.link || "").trim(),
+      wiki_url: (x.wiki_url || "").trim(),
     };
   }
 
@@ -82,12 +178,38 @@ window.addEventListener("DOMContentLoaded", () => {
     `;
   }
 
+  // ---------- Fun micro-copy (no repeated title) ----------
+  function funTeaser(item) {
+    // If build_daily already provides hook, use it.
+    if (item.hook) return item.hook;
+
+    const cat = item.category || "Science";
+    const starters = {
+      "AI": "A model just did something that feels… unfairly fast.",
+      "Physics": "Reality might have a new footnote.",
+      "Entrepreneurship": "This smells like a startup thesis.",
+      "Space": "The universe left a clue. We found it.",
+      "Biology": "Your body has hidden modes. Here’s one.",
+      "Health": "This could change how we detect disease.",
+      "Environment": "Nature is shifting, and the data shows it.",
+      "Science": "A small result with big implications.",
+      "For you specially": "A tiny note, just for you 💜",
+    };
+    return starters[cat] || starters["Science"];
+  }
+
+  function setProgress() {
+    const bar = document.getElementById("progressBar");
+    if (!bar || !filteredItems.length) return;
+    const percent = ((currentIndex + 1) / filteredItems.length) * 100;
+    bar.style.width = `${percent}%`;
+  }
+
   function renderCurrent() {
     const viewer = document.getElementById("viewer");
     viewer.innerHTML = "";
 
     if (!filteredItems.length) {
-      setCategoryBackground("All");
       renderEmpty(viewer);
       return;
     }
@@ -95,8 +217,8 @@ window.addEventListener("DOMContentLoaded", () => {
     currentIndex = ((currentIndex % filteredItems.length) + filteredItems.length) % filteredItems.length;
     const item = filteredItems[currentIndex];
 
-    // Set category background image for the page
-    setCategoryBackground(item.category);
+    // Update progress
+    setProgress();
 
     const card = document.createElement("article");
     card.className = "fact-card";
@@ -108,10 +230,6 @@ window.addEventListener("DOMContentLoaded", () => {
     const img = document.createElement("img");
     img.src = item.image;
     img.alt = item.title || "Fact image";
-
-    img.addEventListener("load", () => {
-      if (img.naturalHeight > img.naturalWidth) img.classList.add("portrait");
-    });
 
     media.appendChild(img);
 
@@ -127,18 +245,18 @@ window.addEventListener("DOMContentLoaded", () => {
     title.className = "fact-title";
     title.textContent = item.title || "Science tidbit";
 
-    // Hook (shown always)
+    // Teaser (clean, no title repeat)
     const hook = document.createElement("p");
     hook.className = "fact-hook";
-    hook.textContent = item.hook ? item.hook : "A curiosity-first science nugget. Tap Reveal.";
+    hook.textContent = funTeaser(item);
 
     // Reveal section
     const reveal = document.createElement("div");
-    reveal.className = "reveal " + (revealed ? "open" : "closed");
+    reveal.className = "reveal";
 
     const summary = document.createElement("p");
     summary.className = "fact-summary";
-    summary.textContent = item.summary || "";
+    summary.textContent = item.summary || "No details available for this one.";
 
     const question = document.createElement("p");
     question.className = "fact-question";
@@ -152,11 +270,19 @@ window.addEventListener("DOMContentLoaded", () => {
     revealBtn.textContent = revealed ? "Hide" : "Reveal";
     revealBtn.addEventListener("click", () => {
       revealed = !revealed;
+
+      // Fun: confetti when user reveals the last fact in a category (or daily complete)
+      const isLast = (currentIndex === filteredItems.length - 1);
+      if (!revealed) return;
+
+      // Fire confetti only sometimes to keep it special
+      if (isLast || Math.random() < 0.18) fireConfetti();
+
       renderCurrent();
     });
     actions.appendChild(revealBtn);
 
-    if (item.link && item.link.trim() && item.link !== "#") {
+    if (item.link && item.link !== "#") {
       const a1 = document.createElement("a");
       a1.className = "link";
       a1.href = item.link;
@@ -166,33 +292,41 @@ window.addEventListener("DOMContentLoaded", () => {
       actions.appendChild(a1);
     }
 
-    if (item.wiki_url && item.wiki_url.trim()) {
+    if (item.wiki_url) {
       const a2 = document.createElement("a");
       a2.className = "link";
       a2.href = item.wiki_url;
       a2.target = "_blank";
       a2.rel = "noopener noreferrer";
-      a2.textContent = "Learn more (Wikipedia)";
+      a2.textContent = "Learn more";
       actions.appendChild(a2);
     }
 
-    reveal.appendChild(summary);
-    if (item.question) reveal.appendChild(question);
-
+    // Build DOM
     body.appendChild(meta);
     body.appendChild(title);
     body.appendChild(hook);
-    if (revealed) body.appendChild(reveal);
+
+    if (revealed) {
+      reveal.appendChild(summary);
+      if (item.question) reveal.appendChild(question);
+      body.appendChild(reveal);
+    }
+
     body.appendChild(actions);
 
     card.appendChild(media);
     card.appendChild(body);
     viewer.appendChild(card);
+
+    // Update streak pill
+    updateStreakUI();
   }
 
   function showReader() {
     document.getElementById("landing").classList.add("hidden");
     document.getElementById("reader").classList.remove("hidden");
+    bumpStreakOncePerDay();
   }
 
   function showLanding() {
@@ -200,10 +334,46 @@ window.addEventListener("DOMContentLoaded", () => {
     document.getElementById("landing").classList.remove("hidden");
   }
 
-  // Buttons
+  // Inject KPI pills + progress bar into hero
+  function injectHeroFunUI() {
+    const hero = document.querySelector(".hero-card");
+    if (!hero) return;
+
+    // Add KPI row
+    const metaRow = hero.querySelector(".hero-meta");
+    if (metaRow && !document.getElementById("streakPill")) {
+      const right = document.createElement("div");
+      right.className = "kpi";
+
+      const streak = document.createElement("div");
+      streak.className = "pill";
+      streak.id = "streakPill";
+      streak.textContent = "🔥 Streak: 0 days";
+
+      const vibe = document.createElement("div");
+      vibe.className = "pill";
+      vibe.id = "vibePill";
+      vibe.textContent = "✨ Curiosity mode";
+
+      right.appendChild(vibe);
+      right.appendChild(streak);
+      metaRow.appendChild(right);
+    }
+
+    // Add progress bar (only once)
+    if (!document.getElementById("progressBar")) {
+      const progress = document.createElement("div");
+      progress.className = "progress";
+      progress.innerHTML = `<div id="progressBar" class="progress-bar"></div>`;
+      hero.appendChild(progress);
+    }
+  }
+
+  // Buttons / events
   document.getElementById("startAllBtn").addEventListener("click", async () => {
     await loadDaily();
     showReader();
+    injectHeroFunUI();
     document.getElementById("categorySelect").value = "All";
     applyCategoryFilter("All");
   });
@@ -212,6 +382,7 @@ window.addEventListener("DOMContentLoaded", () => {
     const cat = document.getElementById("landingCategory").value;
     await loadDaily();
     showReader();
+    injectHeroFunUI();
     document.getElementById("categorySelect").value = cat;
     applyCategoryFilter(cat);
   });
@@ -233,7 +404,4 @@ window.addEventListener("DOMContentLoaded", () => {
   document.getElementById("categorySelect").addEventListener("change", (e) => {
     applyCategoryFilter(e.target.value);
   });
-
-  // Default background on first load
-  setCategoryBackground("All");
 });
