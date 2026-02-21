@@ -129,3 +129,28 @@ body{
 .link:hover{filter:brightness(1.12)}
 
 .footer{padding:18px 2px; text-align:center}
+
+.controls{
+  display:flex;
+  gap:10px;
+  align-items:center;
+  flex-wrap:wrap;
+}
+
+.select{
+  background:#0f1a36;
+  color:var(--text);
+  border:1px solid var(--border);
+  padding:10px 12px;
+  border-radius: 12px;
+}
+
+.viewer{
+  display:block;
+}
+
+.viewer .card{
+  grid-column: unset;
+  width:100%;
+  min-height: 320px;
+}
