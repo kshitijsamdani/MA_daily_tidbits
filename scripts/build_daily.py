@@ -7,7 +7,6 @@ import random
 import requests
 import feedparser
 
-# ScienceDaily top feeds (listed on ScienceDaily's RSS page)
 FEEDS = [
     "https://www.sciencedaily.com/rss/top/science.xml",
     "https://www.sciencedaily.com/rss/top/technology.xml",
@@ -20,7 +19,6 @@ WIKI_OPENSEARCH = "https://en.wikipedia.org/w/api.php"
 WIKI_SUMMARY = "https://en.wikipedia.org/api/rest_v1/page/summary/"
 CUSTOM_FACTS_PATH = "data/custom_facts.json"
 
-# Categories you show in the UI
 TARGET_CATEGORIES = [
     "AI",
     "Physics",
@@ -32,7 +30,6 @@ TARGET_CATEGORIES = [
     "Science",
 ]
 
-
 def clean_html(text: str) -> str:
     if not text:
         return ""
@@ -40,60 +37,37 @@ def clean_html(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-
 def first_two_sentences(text: str) -> str:
     text = (text or "").strip()
     if not text:
         return ""
-    # Simple sentence split (good enough for RSS summaries)
     parts = re.split(r"(?<=[.!?])\s+", text)
     return " ".join(parts[:2]).strip()
 
-
 def build_unsplash_fallback(keywords: str) -> str:
-    # Always returns an image; no API key needed
     return f"https://source.unsplash.com/1600x900/?{quote(keywords or 'science')}"
-
 
 def categorize(title: str, summary: str) -> str:
     t = (title + " " + summary).lower()
 
-    # AI
     if any(k in t for k in ["artificial intelligence", " ai ", "machine learning", "neural", "deep learning", "llm", "model", "generative ai"]):
         return "AI"
-
-    # Physics
     if any(k in t for k in ["quantum", "particle", "physics", "relativity", "thermodynamics", "gravity", "neutrino", "fusion", "plasma"]):
         return "Physics"
-
-    # Entrepreneurship / business-ish innovation
     if any(k in t for k in ["startup", "entrepreneur", "founder", "business", "market", "innovation", "industry", "productivity", "economy"]):
         return "Entrepreneurship"
-
-    # Space
     if any(k in t for k in ["space", "nasa", "planet", "galaxy", "astronomy", "mars", "moon", "exoplanet", "hubble", "telescope"]):
         return "Space"
-
-    # Biology
     if any(k in t for k in ["cell", "genome", "biology", "species", "evolution", "microbe", "protein", "dna", "rna"]):
         return "Biology"
-
-    # Health
     if any(k in t for k in ["health", "disease", "cancer", "medicine", "clinical", "brain", "heart", "diabetes", "alzheimer"]):
         return "Health"
-
-    # Environment
     if any(k in t for k in ["climate", "environment", "carbon", "ocean", "pollution", "ecosystem", "warming", "wildlife"]):
         return "Environment"
 
     return "Science"
 
-
 def wiki_best_image_and_url(query: str):
-    """
-    Try to get a thumbnail and a Wikipedia URL for the topic.
-    If it fails, return ("", "").
-    """
     try:
         params = {
             "action": "opensearch",
@@ -128,11 +102,7 @@ def wiki_best_image_and_url(query: str):
     except Exception:
         return "", ""
 
-
-def make_hook(category: str, title: str) -> str:
-    """
-    Short curiosity line shown first (before reveal).
-    """
+def make_hook(category: str) -> str:
     starters = {
         "AI": [
             "What if a machine could spot patterns humans miss—instantly?",
@@ -176,8 +146,7 @@ def make_hook(category: str, title: str) -> str:
         ],
     }
     pool = starters.get(category, starters["Science"])
-    return f"{random.choice(pool)}  ({title})"
-
+    return random.choice(pool)
 
 def make_question(category: str) -> str:
     questions = {
@@ -191,7 +160,6 @@ def make_question(category: str) -> str:
         "Science": "What’s the simplest experiment you’d run to test this further?",
     }
     return questions.get(category, questions["Science"])
-
 
 def load_custom_facts():
     try:
@@ -218,14 +186,12 @@ def load_custom_facts():
     except Exception:
         return []
 
-
 def parse_candidates():
     seen_links = set()
     candidates = []
 
     for feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
-        # pull more than 5 so we can guarantee categories
         for e in feed.entries[:40]:
             title = (e.get("title") or "").strip()
             link = (e.get("link") or "").strip()
@@ -235,6 +201,7 @@ def parse_candidates():
 
             summary = clean_html(e.get("summary") or e.get("description") or "")
             summary = first_two_sentences(summary)
+
             category = categorize(title, summary)
 
             image, wiki_url = wiki_best_image_and_url(title)
@@ -249,13 +216,12 @@ def parse_candidates():
                     "image": image,
                     "wiki_url": wiki_url,
                     "category": category,
-                    "hook": make_hook(category, title),
+                    "hook": make_hook(category),
                     "question": make_question(category),
                 }
             )
 
     return candidates
-
 
 def pick_one_per_category(candidates):
     picked = []
@@ -267,27 +233,23 @@ def pick_one_per_category(candidates):
             picked.append(match)
             used_links.add(match["link"])
 
-    # If a category is missing (rare), fill remaining slots with unused Science items
     missing = [c for c in TARGET_CATEGORIES if c not in {x["category"] for x in picked}]
     if missing:
         leftovers = [x for x in candidates if x["link"] not in used_links]
         for cat in missing:
-            # try any item at all; force its category to the missing cat so UI still has one
             if leftovers:
                 x = leftovers.pop(0)
                 x["category"] = cat
-                x["hook"] = make_hook(cat, x["title"])
+                x["hook"] = make_hook(cat)
                 x["question"] = make_question(cat)
                 picked.append(x)
 
     return picked
 
-
 def main():
     candidates = parse_candidates()
     items = pick_one_per_category(candidates)
 
-    # Merge in custom facts (kept as-is; typically "For you specially")
     custom_items = load_custom_facts()
 
     out = {
@@ -299,7 +261,6 @@ def main():
         json.dump(out, f, ensure_ascii=False, indent=2)
 
     print("Wrote data/daily.json with", len(out["items"]), "items")
-
 
 if __name__ == "__main__":
     main()
