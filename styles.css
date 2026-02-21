@@ -205,13 +205,12 @@ body{
   to{opacity:1; transform: translateY(0) scale(1);}
 }
 
-/* Big image INSIDE card (not page background) */
+/* BIG IMAGE AREA */
 .fact-media{
   position: relative;
   width: 100%;
-  height: clamp(320px, 60vh, 620px);
-  overflow:hidden;
-  border-bottom: 1px solid rgba(255,255,255,.13);
+  height: clamp(260px, 52vh, 520px);
+  background: rgba(0,0,0,.25);
 }
 
 .fact-media img{
@@ -220,26 +219,13 @@ body{
   object-fit: cover;
   object-position: center;
   display:block;
-  transform: scale(1.06);
-  transition: transform 0.6s ease;
-  filter: saturate(1.08) contrast(1.05);
+  filter: saturate(1.05) contrast(1.02);
 }
 
-.fact-card:hover .fact-media img{
-  transform: scale(1.12);
-}
-
-/* cinematic overlay */
-.fact-media::after{
-  content:"";
-  position:absolute;
-  inset:0;
-  background: linear-gradient(
-    180deg,
-    rgba(0,0,0,.10) 0%,
-    rgba(0,0,0,.40) 55%,
-    rgba(0,0,0,.82) 100%
-  );
+/* Portrait images should not be cropped */
+.fact-media img.portrait{
+  object-fit: contain;
+  background: rgba(0,0,0,.35);
 }
 
 .fact-body{
