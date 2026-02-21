@@ -1,19 +1,11 @@
 {
   "items": [
     {
-      "title": "For you specially: Your custom fact title here",
-      "summary": "Write your made-up fact here in 1–3 lines.",
-      "category": "For you specially",
-      "link": "https://example.com",
-      "image": "https://source.unsplash.com/1600x900/?motivation,stars",
-      "wiki_url": ""
-    },
-    {
-      "title": "For you specially: The Universe has a secret rhythm",
-      "summary": "Made-up fun fact: If you map your daily habits to cycles, you can build a personal 'resonance schedule' that boosts focus.",
+      "title": "Dearest Gentle Reader,",
+      "summary": "A very happy birthday to you.",
       "category": "For you specially",
       "link": "",
-      "image": "https://source.unsplash.com/1600x900/?galaxy,patterns",
+      "image": "assets/custom/birthday.jpg",
       "wiki_url": ""
     }
   ]
