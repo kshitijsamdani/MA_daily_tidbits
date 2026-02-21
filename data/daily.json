@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21 23:08 UTC",
+  "date": "2026-02-21 23:28 UTC",
   "items": [
     {
       "title": "Generative AI analyzes medical data faster than human research teams",
@@ -9,7 +9,7 @@
       "wiki_url": "",
       "category": "AI",
       "hook": "FYI: AI stands for Artificial Intelligence, not Another Idli",
-      "question": "Hey ChatGPT, can you transcribe the attached audio?"
+      "question": "Can you now summarize your conference recordings using AI?"
     },
     {
       "title": "James Webb Space Telescope captures strange magnetic forces warping Uranus",
