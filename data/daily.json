@@ -1,12 +1,40 @@
 {
-  "date": "Not generated yet",
+  "date": "2026-02-21 11:57 UTC",
   "items": [
     {
-      "title": "Your daily tidbits will appear here",
-      "summary": "Once the daily automation runs, you'll see 5 science items with images and article links.",
-      "link": "https://www.sciencedaily.com/rss/top/science.xml",
+      "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
+      "summary": "A common bacterium best known for causing pneumonia and sinus infections may also play a surprising role in Alzheimer’s disease. Researchers found that Chlamydia pneumoniae can invade the retina and brain, where it sparks inflammation, nerve cell death, and the buildup of amyloid-beta—the hallmark protein linked to Alzheimer’s. Higher levels of the bacterium were found in people with Alzheimer’s, especially those carrying the high-risk APOE4 gene, and were tied to more severe cognitive decline.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
       "image": "",
-      "wiki_url": "https://en.wikipedia.org/"
+      "wiki_url": ""
+    },
+    {
+      "title": "Air pollution linked to higher Alzheimer’s risk in 28 million older Americans",
+      "summary": "Breathing polluted air may do more than harm your lungs — it could also increase your risk of Alzheimer’s disease. In a sweeping study of nearly 28 million older Americans, researchers found that long term exposure to fine particle air pollution was linked to a higher likelihood of developing Alzheimer’s. The connection appeared to stem largely from pollution’s direct effects on the brain, rather than through related health conditions like hypertension or depression.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260220010836.htm",
+      "image": "",
+      "wiki_url": ""
+    },
+    {
+      "title": "Scientists uncover oxygen-loving ancestor of all complex life",
+      "summary": "For decades, scientists have believed that complex life began when two very different microbes joined forces, eventually giving rise to plants, animals, and fungi. But one major puzzle remained: how could these organisms have met if one depended on oxygen and the other supposedly lived without it? New research suggests the answer lies in ancient microbes called Asgard archaea.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260220010825.htm",
+      "image": "",
+      "wiki_url": ""
+    },
+    {
+      "title": "Doctors implant dopamine-producing stem cells in Parkinson’s patients",
+      "summary": "A groundbreaking clinical trial is testing whether specially engineered stem cells can help the brain restore its own dopamine production in people with Parkinson’s disease. Because the condition is driven by the gradual loss of dopamine-producing cells—leading to tremors, stiffness, and slowed movement—researchers are implanting lab-grown cells directly into the brain’s movement center to replace what’s been lost.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260219040820.htm",
+      "image": "",
+      "wiki_url": ""
+    },
+    {
+      "title": "Scientists just mapped mysterious earthquakes deep inside Earth",
+      "summary": "Scientists at Stanford have unveiled the first-ever global map of rare earthquakes that rumble deep within Earth’s mantle rather than its crust. Long debated and notoriously difficult to confirm, these elusive quakes turn out to cluster in regions like the Himalayas and near the Bering Strait. By developing a breakthrough method that distinguishes mantle quakes using subtle differences in seismic waves, researchers identified hundreds of these hidden tremors worldwide.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260219040818.htm",
+      "image": "",
+      "wiki_url": ""
     }
   ]
 }
