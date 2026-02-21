@@ -7,6 +7,14 @@
       "link": "https://example.com",
       "image": "https://source.unsplash.com/1600x900/?motivation,stars",
       "wiki_url": ""
+    },
+    {
+      "title": "For you specially: The Universe has a secret rhythm",
+      "summary": "Made-up fun fact: If you map your daily habits to cycles, you can build a personal 'resonance schedule' that boosts focus.",
+      "category": "For you specially",
+      "link": "",
+      "image": "https://source.unsplash.com/1600x900/?galaxy,patterns",
+      "wiki_url": ""
     }
   ]
 }
