@@ -1,37 +1,25 @@
 {
-  "date": "2026-02-21 18:28 UTC",
+  "date": "2026-02-21 19:00 UTC",
   "items": [
     {
-      "title": "Scientists discover why high altitude protects against diabetes",
-      "summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blood sugar levels. A drug that recreates this effect reversed diabetes in mice, hinting at a powerful new treatment strategy.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20why%20high%20altitude%20protects%20against%20diabetes",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
       "title": "Generative AI analyzes medical data faster than human research teams",
-      "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery.",
+      "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CGenerative%20AI%20analyzes%20medical%20data%20faster%20than%20human%20research%20teams",
       "wiki_url": "",
-      "category": "AI"
+      "category": "AI",
+      "hook": "Imagine turning messy data into answers in minutes…  (Generative AI analyzes medical data faster than human research teams)",
+      "question": "If you had this AI tool for one day, what problem would you solve first?"
     },
     {
-      "title": "“Celtic curse” hotspots found in Scotland and Ireland with 1 in 54 at risk",
-      "summary": "Researchers have mapped the genetic risk of hemochromatosis across the UK and Ireland for the first time, uncovering striking hotspots in north-west Ireland and the Outer Hebrides. In some regions, around one in 60 people carry the high-risk gene variant linked to iron overload. The condition can take decades to surface but may lead to liver cancer and arthritis if untreated.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000332.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2C%E2%80%9CCeltic%20curse%E2%80%9D%20hotspots%20found%20in%20Scotland%20and%20Ireland%20with%201%20in%2054%20at%20risk",
+      "title": "James Webb Space Telescope captures strange magnetic forces warping Uranus",
+      "summary": "For the first time, scientists have mapped Uranus’s upper atmosphere in three dimensions, tracking temperatures and charged particles up to 5,000 kilometers above the clouds. Webb’s sharp vision revealed glowing auroral bands and unexpected dark regions shaped by the planet’s wildly tilted magnetic field.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000303.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CJames%20Webb%20Space%20Telescope%20captures%20strange%20magnetic%20forces%20warping%20Uranus",
       "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
-      "summary": "A common bacterium best known for causing pneumonia and sinus infections may also play a surprising role in Alzheimer’s disease. Researchers found that Chlamydia pneumoniae can invade the retina and brain, where it sparks inflammation, nerve cell death, and the buildup of amyloid-beta—the hallmark protein linked to Alzheimer’s. Higher levels of the bacterium were found in people with Alzheimer’s, especially those carrying the high-risk APOE4 gene, and were tied to more severe cognitive decline.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CCommon%20pneumonia%20bacterium%20may%20fuel%20Alzheimer%E2%80%99s%20disease",
-      "wiki_url": "",
-      "category": "AI"
+      "category": "Physics",
+      "hook": "This is the kind of physics that makes you question time itself:  (James Webb Space Telescope captures strange magnetic forces warping Uranus)",
+      "question": "If this result holds up, what ‘law of nature’ would you rethink?"
     },
     {
       "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
@@ -39,7 +27,59 @@
       "link": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
       "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Hubble%20spots%20nearly%20invisible%20%E2%80%9Cghost%20galaxy%E2%80%9D%20made%20of%2099%25%20dark%20matter",
       "wiki_url": "",
-      "category": "Space"
+      "category": "Space",
+      "hook": "Astronomers followed cosmic breadcrumbs and discovered this:  (NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter)",
+      "question": "What do you think we’re missing if ‘invisible’ objects can still be mapped?"
+    },
+    {
+      "title": "Scientists discover why high altitude protects against diabetes",
+      "summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20why%20high%20altitude%20protects%20against%20diabetes",
+      "wiki_url": "",
+      "category": "Biology",
+      "hook": "Your cells may be doing something surprising right now:  (Scientists discover why high altitude protects against diabetes)",
+      "question": "What other biological ‘hidden modes’ do you think exist?"
+    },
+    {
+      "title": "Scientists reveal why human language isn’t like computer code",
+      "summary": "Human language may seem messy and inefficient compared to the ultra-compact strings of ones and zeros used by computers—but our brains actually prefer it that way. New research reveals that while digital-style encoding could theoretically compress information more tightly, it would demand far more mental effort from both speaker and listener.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260219040811.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20reveal%20why%20human%20language%20isn%E2%80%99t%20like%20computer%20code",
+      "wiki_url": "",
+      "category": "Health",
+      "hook": "This discovery could change how we think about disease:  (Scientists reveal why human language isn’t like computer code)",
+      "question": "If this link is real, what should future screenings look like?"
+    },
+    {
+      "title": "A spinning gyroscope could finally unlock ocean wave energy",
+      "summary": "Ocean waves are a vast and steady source of renewable energy, but capturing their power efficiently has long frustrated engineers. A researcher at The University of Osaka has now explored a bold new approach: a gyroscopic wave energy converter that uses a spinning flywheel inside a floating structure to turn wave motion into electricity.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260218031554.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CA%20spinning%20gyroscope%20could%20finally%20unlock%20ocean%20wave%20energy",
+      "wiki_url": "",
+      "category": "Environment",
+      "hook": "A small change in nature can ripple into huge effects:  (A spinning gyroscope could finally unlock ocean wave energy)",
+      "question": "What’s one behavior change that would matter most if this scales globally?"
+    },
+    {
+      "title": "“Celtic curse” hotspots found in Scotland and Ireland with 1 in 54 at risk",
+      "summary": "Researchers have mapped the genetic risk of hemochromatosis across the UK and Ireland for the first time, uncovering striking hotspots in north-west Ireland and the Outer Hebrides. In some regions, around one in 60 people carry the high-risk gene variant linked to iron overload.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000332.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2C%E2%80%9CCeltic%20curse%E2%80%9D%20hotspots%20found%20in%20Scotland%20and%20Ireland%20with%201%20in%2054%20at%20risk",
+      "wiki_url": "",
+      "category": "Science",
+      "hook": "This discovery is unexpectedly elegant:  (“Celtic curse” hotspots found in Scotland and Ireland with 1 in 54 at risk)",
+      "question": "What’s the simplest experiment you’d run to test this further?"
+    },
+    {
+      "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
+      "summary": "A common bacterium best known for causing pneumonia and sinus infections may also play a surprising role in Alzheimer’s disease. Researchers found that Chlamydia pneumoniae can invade the retina and brain, where it sparks inflammation, nerve cell death, and the buildup of amyloid-beta—the hallmark protein linked to Alzheimer’s.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCommon%20pneumonia%20bacterium%20may%20fuel%20Alzheimer%E2%80%99s%20disease",
+      "wiki_url": "",
+      "category": "Entrepreneurship",
+      "hook": "One insight → a whole new market:  (Common pneumonia bacterium may fuel Alzheimer’s disease)",
+      "question": "If you had to turn this into a startup, who pays first—and why?"
     },
     {
       "title": "Dearest Gentle Reader,",
@@ -47,7 +87,9 @@
       "link": "",
       "image": "assets/category/foryou.jpg",
       "wiki_url": "",
-      "category": "For you specially"
+      "category": "For you specially",
+      "hook": "",
+      "question": ""
     }
   ]
 }
