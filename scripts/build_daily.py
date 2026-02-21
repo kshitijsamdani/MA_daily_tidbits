@@ -2,16 +2,35 @@ import json
 import re
 from datetime import datetime, timezone
 from urllib.parse import quote
+import random
 
 import requests
 import feedparser
 
-SCIENCEDAILY_FEED = "https://www.sciencedaily.com/rss/top/science.xml"
+# ScienceDaily top feeds (listed on ScienceDaily's RSS page)
+FEEDS = [
+    "https://www.sciencedaily.com/rss/top/science.xml",
+    "https://www.sciencedaily.com/rss/top/technology.xml",
+    "https://www.sciencedaily.com/rss/top/health.xml",
+    "https://www.sciencedaily.com/rss/top/environment.xml",
+    "https://www.sciencedaily.com/rss/top/society.xml",
+]
 
 WIKI_OPENSEARCH = "https://en.wikipedia.org/w/api.php"
 WIKI_SUMMARY = "https://en.wikipedia.org/api/rest_v1/page/summary/"
-
 CUSTOM_FACTS_PATH = "data/custom_facts.json"
+
+# Categories you show in the UI
+TARGET_CATEGORIES = [
+    "AI",
+    "Physics",
+    "Entrepreneurship",
+    "Space",
+    "Biology",
+    "Health",
+    "Environment",
+    "Science",
+]
 
 
 def clean_html(text: str) -> str:
@@ -22,6 +41,15 @@ def clean_html(text: str) -> str:
     return text
 
 
+def first_two_sentences(text: str) -> str:
+    text = (text or "").strip()
+    if not text:
+        return ""
+    # Simple sentence split (good enough for RSS summaries)
+    parts = re.split(r"(?<=[.!?])\s+", text)
+    return " ".join(parts[:2]).strip()
+
+
 def build_unsplash_fallback(keywords: str) -> str:
     # Always returns an image; no API key needed
     return f"https://source.unsplash.com/1600x900/?{quote(keywords or 'science')}"
@@ -30,26 +58,42 @@ def build_unsplash_fallback(keywords: str) -> str:
 def categorize(title: str, summary: str) -> str:
     t = (title + " " + summary).lower()
 
-    # simple keyword rules (you can expand these anytime)
-    if any(k in t for k in ["artificial intelligence", "ai", "machine learning", "neural", "deep learning", "llm"]):
+    # AI
+    if any(k in t for k in ["artificial intelligence", " ai ", "machine learning", "neural", "deep learning", "llm", "model", "generative ai"]):
         return "AI"
-    if any(k in t for k in ["quantum", "particle", "physics", "relativity", "thermodynamics", "gravity"]):
+
+    # Physics
+    if any(k in t for k in ["quantum", "particle", "physics", "relativity", "thermodynamics", "gravity", "neutrino", "fusion", "plasma"]):
         return "Physics"
-    if any(k in t for k in ["startup", "entrepreneur", "business", "founder", "market", "innovation"]):
+
+    # Entrepreneurship / business-ish innovation
+    if any(k in t for k in ["startup", "entrepreneur", "founder", "business", "market", "innovation", "industry", "productivity", "economy"]):
         return "Entrepreneurship"
-    if any(k in t for k in ["space", "nasa", "planet", "galaxy", "astronomy", "mars", "moon", "exoplanet"]):
+
+    # Space
+    if any(k in t for k in ["space", "nasa", "planet", "galaxy", "astronomy", "mars", "moon", "exoplanet", "hubble", "telescope"]):
         return "Space"
-    if any(k in t for k in ["cell", "genome", "biology", "species", "evolution", "microbe", "protein"]):
+
+    # Biology
+    if any(k in t for k in ["cell", "genome", "biology", "species", "evolution", "microbe", "protein", "dna", "rna"]):
         return "Biology"
-    if any(k in t for k in ["health", "disease", "cancer", "medicine", "clinical", "brain", "heart"]):
+
+    # Health
+    if any(k in t for k in ["health", "disease", "cancer", "medicine", "clinical", "brain", "heart", "diabetes", "alzheimer"]):
         return "Health"
-    if any(k in t for k in ["climate", "environment", "carbon", "ocean", "pollution", "ecosystem"]):
+
+    # Environment
+    if any(k in t for k in ["climate", "environment", "carbon", "ocean", "pollution", "ecosystem", "warming", "wildlife"]):
         return "Environment"
 
     return "Science"
 
 
 def wiki_best_image_and_url(query: str):
+    """
+    Try to get a thumbnail and a Wikipedia URL for the topic.
+    If it fails, return ("", "").
+    """
     try:
         params = {
             "action": "opensearch",
@@ -61,6 +105,7 @@ def wiki_best_image_and_url(query: str):
         r = requests.get(WIKI_OPENSEARCH, params=params, timeout=12)
         r.raise_for_status()
         data = r.json()
+
         titles = data[1] if len(data) > 1 else []
         urls = data[3] if len(data) > 3 else []
         if not titles:
@@ -69,7 +114,11 @@ def wiki_best_image_and_url(query: str):
         title = titles[0]
         wiki_url = urls[0] if urls else f"https://en.wikipedia.org/wiki/{quote(title.replace(' ', '_'))}"
 
-        s = requests.get(WIKI_SUMMARY + quote(title), timeout=12, headers={"accept": "application/json"})
+        s = requests.get(
+            WIKI_SUMMARY + quote(title),
+            timeout=12,
+            headers={"accept": "application/json"},
+        )
         if s.status_code != 200:
             return "", wiki_url
 
@@ -80,22 +129,87 @@ def wiki_best_image_and_url(query: str):
         return "", ""
 
 
+def make_hook(category: str, title: str) -> str:
+    """
+    Short curiosity line shown first (before reveal).
+    """
+    starters = {
+        "AI": [
+            "What if a machine could spot patterns humans miss—instantly?",
+            "Imagine turning messy data into answers in minutes…",
+            "This sounds like sci-fi, but it’s already happening:",
+        ],
+        "Physics": [
+            "A rule of reality might be wobbling—here’s why:",
+            "This is the kind of physics that makes you question time itself:",
+            "Tiny particles, massive consequences:",
+        ],
+        "Entrepreneurship": [
+            "A small tweak could change how industries work:",
+            "This is the kind of idea founders build companies around:",
+            "One insight → a whole new market:",
+        ],
+        "Space": [
+            "Something out there is practically invisible… and we still found it:",
+            "Space just pulled another magic trick:",
+            "Astronomers followed cosmic breadcrumbs and discovered this:",
+        ],
+        "Biology": [
+            "Your cells may be doing something surprising right now:",
+            "Nature built a trick we’re only now noticing:",
+            "Biology just revealed a hidden mechanism:",
+        ],
+        "Health": [
+            "A familiar bug may be linked to something much bigger:",
+            "This discovery could change how we think about disease:",
+            "Doctors have suspected it—now there’s evidence:",
+        ],
+        "Environment": [
+            "The planet is running an experiment—and we’re reading the results:",
+            "A small change in nature can ripple into huge effects:",
+            "This is a climate clue hiding in plain sight:",
+        ],
+        "Science": [
+            "Here’s a weird scientific twist you won’t unsee:",
+            "This discovery is unexpectedly elegant:",
+            "Science found a shortcut—kind of:",
+        ],
+    }
+    pool = starters.get(category, starters["Science"])
+    return f"{random.choice(pool)}  ({title})"
+
+
+def make_question(category: str) -> str:
+    questions = {
+        "AI": "If you had this AI tool for one day, what problem would you solve first?",
+        "Physics": "If this result holds up, what ‘law of nature’ would you rethink?",
+        "Entrepreneurship": "If you had to turn this into a startup, who pays first—and why?",
+        "Space": "What do you think we’re missing if ‘invisible’ objects can still be mapped?",
+        "Biology": "What other biological ‘hidden modes’ do you think exist?",
+        "Health": "If this link is real, what should future screenings look like?",
+        "Environment": "What’s one behavior change that would matter most if this scales globally?",
+        "Science": "What’s the simplest experiment you’d run to test this further?",
+    }
+    return questions.get(category, questions["Science"])
+
+
 def load_custom_facts():
     try:
         with open(CUSTOM_FACTS_PATH, "r", encoding="utf-8") as f:
             data = json.load(f)
         items = data.get("items", [])
-        # normalize
         out = []
         for x in items:
             out.append(
                 {
-                    "title": x.get("title", "").strip(),
-                    "summary": x.get("summary", "").strip(),
-                    "link": x.get("link", "").strip(),
-                    "image": x.get("image", "").strip(),
-                    "wiki_url": x.get("wiki_url", "").strip(),
-                    "category": x.get("category", "For you specially").strip() or "For you specially",
+                    "title": (x.get("title", "") or "").strip(),
+                    "summary": (x.get("summary", "") or "").strip(),
+                    "link": (x.get("link", "") or "").strip(),
+                    "image": (x.get("image", "") or "").strip(),
+                    "wiki_url": (x.get("wiki_url", "") or "").strip(),
+                    "category": (x.get("category", "For you specially") or "").strip() or "For you specially",
+                    "hook": (x.get("hook", "") or "").strip(),
+                    "question": (x.get("question", "") or "").strip(),
                 }
             )
         return out
@@ -105,36 +219,75 @@ def load_custom_facts():
         return []
 
 
+def parse_candidates():
+    seen_links = set()
+    candidates = []
+
+    for feed_url in FEEDS:
+        feed = feedparser.parse(feed_url)
+        # pull more than 5 so we can guarantee categories
+        for e in feed.entries[:40]:
+            title = (e.get("title") or "").strip()
+            link = (e.get("link") or "").strip()
+            if not title or not link or link in seen_links:
+                continue
+            seen_links.add(link)
+
+            summary = clean_html(e.get("summary") or e.get("description") or "")
+            summary = first_two_sentences(summary)
+            category = categorize(title, summary)
+
+            image, wiki_url = wiki_best_image_and_url(title)
+            if not image:
+                image = build_unsplash_fallback(f"{category},{title}")
+
+            candidates.append(
+                {
+                    "title": title,
+                    "summary": summary,
+                    "link": link,
+                    "image": image,
+                    "wiki_url": wiki_url,
+                    "category": category,
+                    "hook": make_hook(category, title),
+                    "question": make_question(category),
+                }
+            )
+
+    return candidates
+
+
+def pick_one_per_category(candidates):
+    picked = []
+    used_links = set()
+
+    for cat in TARGET_CATEGORIES:
+        match = next((x for x in candidates if x["category"] == cat and x["link"] not in used_links), None)
+        if match:
+            picked.append(match)
+            used_links.add(match["link"])
+
+    # If a category is missing (rare), fill remaining slots with unused Science items
+    missing = [c for c in TARGET_CATEGORIES if c not in {x["category"] for x in picked}]
+    if missing:
+        leftovers = [x for x in candidates if x["link"] not in used_links]
+        for cat in missing:
+            # try any item at all; force its category to the missing cat so UI still has one
+            if leftovers:
+                x = leftovers.pop(0)
+                x["category"] = cat
+                x["hook"] = make_hook(cat, x["title"])
+                x["question"] = make_question(cat)
+                picked.append(x)
+
+    return picked
+
+
 def main():
-    feed = feedparser.parse(SCIENCEDAILY_FEED)
-    entries = feed.entries[:5]
+    candidates = parse_candidates()
+    items = pick_one_per_category(candidates)
 
-    items = []
-    for e in entries:
-        title = (e.get("title") or "").strip()
-        link = (e.get("link") or "").strip()
-        summary = clean_html(e.get("summary") or e.get("description") or "")
-
-        category = categorize(title, summary)
-
-        image, wiki_url = wiki_best_image_and_url(title)
-
-        # Guarantee an image by adding a fallback if Wikipedia has none
-        if not image:
-            image = build_unsplash_fallback(f"{category},{title}")
-
-        items.append(
-            {
-                "title": title,
-                "summary": summary,
-                "link": link,
-                "image": image,
-                "wiki_url": wiki_url,
-                "category": category,
-            }
-        )
-
-    # Merge in your custom facts (not overwritten)
+    # Merge in custom facts (kept as-is; typically "For you specially")
     custom_items = load_custom_facts()
 
     out = {
