@@ -1,40 +1,53 @@
 {
-  "date": "2026-02-21 11:57 UTC",
+  "date": "2026-02-21 12:52 UTC",
   "items": [
     {
-      "title": "Someone might get too excited seeing this",
+      "title": "Generative AI analyzes medical data faster than human research teams",
+      "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CGenerative%20AI%20analyzes%20medical%20data%20faster%20than%20human%20research%20teams",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
       "summary": "A common bacterium best known for causing pneumonia and sinus infections may also play a surprising role in Alzheimer’s disease. Researchers found that Chlamydia pneumoniae can invade the retina and brain, where it sparks inflammation, nerve cell death, and the buildup of amyloid-beta—the hallmark protein linked to Alzheimer’s. Higher levels of the bacterium were found in people with Alzheimer’s, especially those carrying the high-risk APOE4 gene, and were tied to more severe cognitive decline.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
-      "image": "",
-      "wiki_url": ""
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCommon%20pneumonia%20bacterium%20may%20fuel%20Alzheimer%E2%80%99s%20disease",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
-      "title": "Air pollution linked to higher Alzheimer’s risk in 28 million older Americans",
-      "summary": "Breathing polluted air may do more than harm your lungs — it could also increase your risk of Alzheimer’s disease. In a sweeping study of nearly 28 million older Americans, researchers found that long term exposure to fine particle air pollution was linked to a higher likelihood of developing Alzheimer’s. The connection appeared to stem largely from pollution’s direct effects on the brain, rather than through related health conditions like hypertension or depression.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260220010836.htm",
-      "image": "",
-      "wiki_url": ""
+      "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
+      "summary": "Astronomers have uncovered one of the most mysterious galaxies ever found — a dim, ghostly object called CDG-2 that is almost entirely made of dark matter. Located 300 million light-years away in the Perseus galaxy cluster, it was discovered in an unusual way: not by its stars, but by four tightly packed globular clusters acting like cosmic breadcrumbs.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Hubble%20spots%20nearly%20invisible%20%E2%80%9Cghost%20galaxy%E2%80%9D%20made%20of%2099%25%20dark%20matter",
+      "wiki_url": "",
+      "category": "Space"
     },
     {
-      "title": "Scientists uncover oxygen-loving ancestor of all complex life",
-      "summary": "For decades, scientists have believed that complex life began when two very different microbes joined forces, eventually giving rise to plants, animals, and fungi. But one major puzzle remained: how could these organisms have met if one depended on oxygen and the other supposedly lived without it? New research suggests the answer lies in ancient microbes called Asgard archaea.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260220010825.htm",
-      "image": "",
-      "wiki_url": ""
+      "title": "James Webb Space Telescope captures strange magnetic forces warping Uranus",
+      "summary": "For the first time, scientists have mapped Uranus’s upper atmosphere in three dimensions, tracking temperatures and charged particles up to 5,000 kilometers above the clouds. Webb’s sharp vision revealed glowing auroral bands and unexpected dark regions shaped by the planet’s wildly tilted magnetic field.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000303.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CJames%20Webb%20Space%20Telescope%20captures%20strange%20magnetic%20forces%20warping%20Uranus",
+      "wiki_url": "",
+      "category": "Physics"
     },
     {
-      "title": "Doctors implant dopamine-producing stem cells in Parkinson’s patients",
-      "summary": "A groundbreaking clinical trial is testing whether specially engineered stem cells can help the brain restore its own dopamine production in people with Parkinson’s disease. Because the condition is driven by the gradual loss of dopamine-producing cells—leading to tremors, stiffness, and slowed movement—researchers are implanting lab-grown cells directly into the brain’s movement center to replace what’s been lost.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260219040820.htm",
-      "image": "",
-      "wiki_url": ""
+      "title": "Scientists may have found the holy grail of quantum computing",
+      "summary": "Scientists may have spotted a long-sought triplet superconductor — a material that can transmit both electricity and electron spin with zero resistance. That ability could dramatically stabilize quantum computers while slashing their energy use. Early experiments suggest the alloy NbRe behaves unlike any conventional superconductor. If verified, it could become a cornerstone of next-generation quantum and spintronic technology.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20found%20the%20holy%20grail%20of%20quantum%20computing",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
-      "title": "Scientists just mapped mysterious earthquakes deep inside Earth",
-      "summary": "Scientists at Stanford have unveiled the first-ever global map of rare earthquakes that rumble deep within Earth’s mantle rather than its crust. Long debated and notoriously difficult to confirm, these elusive quakes turn out to cluster in regions like the Himalayas and near the Bering Strait. By developing a breakthrough method that distinguishes mantle quakes using subtle differences in seismic waves, researchers identified hundreds of these hidden tremors worldwide.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260219040818.htm",
-      "image": "",
-      "wiki_url": ""
+      "title": "For you specially: Your custom fact title here",
+      "summary": "Write your made-up fact here in 1–3 lines.",
+      "link": "https://example.com",
+      "image": "https://source.unsplash.com/1600x900/?motivation,stars",
+      "wiki_url": "",
+      "category": "For you specially"
     }
   ]
 }
