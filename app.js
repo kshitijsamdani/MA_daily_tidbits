@@ -3,8 +3,9 @@ window.addEventListener("DOMContentLoaded", () => {
   let filteredItems = [];
   let currentIndex = 0;
   let currentCategory = "All";
+  let revealed = false;
 
-  // You upload these images into /assets/category/
+  // Category background images (you already keep these in /assets/category/)
   function categoryImage(category) {
     const c = (category || "Science").trim();
     const map = {
@@ -16,24 +17,30 @@ window.addEventListener("DOMContentLoaded", () => {
       "Biology": "assets/category/biology.jpg",
       "Health": "assets/category/health.jpg",
       "Environment": "assets/category/environment.jpg",
+      "Science": "assets/category/science.jpg",
       "For you specially": "assets/category/foryou.jpg",
-      "Science": "assets/category/science.jpg"
     };
     return map[c] || map["Science"];
   }
 
+  function setCategoryBackground(category) {
+    const bg = categoryImage(category);
+    document.body.style.setProperty("--bgimg", `url(${bg}?v=${Date.now()})`);
+  }
+
   function normalizeItem(x) {
     const category = (x.category || "Science").trim() || "Science";
-  
-    // ✅ Force category images for all normal RSS facts
-    // ✅ Only allow custom image for "For you specially"
-    const hasCustom = (x.image && x.image.trim());
-    const image =
-      (category === "For you specially" && hasCustom)
-        ? x.image.trim()
-        : categoryImage(category);
-  
-    return { ...x, category, image };
+
+    // ✅ Use real fact image when available; fallback to category background
+    const img = (x.image && x.image.trim()) ? x.image.trim() : categoryImage(category);
+
+    return {
+      ...x,
+      category,
+      image: img,
+      hook: (x.hook || "").trim(),
+      question: (x.question || "").trim(),
+    };
   }
 
   async function loadDaily() {
@@ -41,7 +48,6 @@ window.addEventListener("DOMContentLoaded", () => {
     try {
       const res = await fetch("data/daily.json", { cache: "no-store" });
       const data = await res.json();
-
       dateText.textContent = data.date ? `Updated: ${data.date}` : "";
       allItems = (data.items || []).map(normalizeItem);
     } catch (e) {
@@ -54,13 +60,13 @@ window.addEventListener("DOMContentLoaded", () => {
     const chosen = categoryValue || document.getElementById("categorySelect").value;
     currentCategory = chosen;
 
-    if (chosen === "All") {
-      filteredItems = [...allItems];
-    } else {
-      filteredItems = allItems.filter(x => x.category === chosen);
-    }
+    filteredItems = (chosen === "All")
+      ? [...allItems]
+      : allItems.filter(x => x.category === chosen);
 
     currentIndex = 0;
+    revealed = false;
+
     document.getElementById("heroTitle").textContent =
       chosen === "All" ? "All categories" : `${chosen} facts`;
 
@@ -69,9 +75,11 @@ window.addEventListener("DOMContentLoaded", () => {
 
   function renderEmpty(viewer) {
     viewer.innerHTML = `
-      <div class="hero-card">
-        <p class="muted">No facts found for this category today. Try “All” or add a custom fact.</p>
-      </div>`;
+      <div class="empty">
+        <h3>No facts found for this category today.</h3>
+        <p class="muted">Try “All” or hit Refresh.</p>
+      </div>
+    `;
   }
 
   function renderCurrent() {
@@ -79,12 +87,16 @@ window.addEventListener("DOMContentLoaded", () => {
     viewer.innerHTML = "";
 
     if (!filteredItems.length) {
+      setCategoryBackground("All");
       renderEmpty(viewer);
       return;
     }
 
     currentIndex = ((currentIndex % filteredItems.length) + filteredItems.length) % filteredItems.length;
     const item = filteredItems[currentIndex];
+
+    // Set category background image for the page
+    setCategoryBackground(item.category);
 
     const card = document.createElement("article");
     card.className = "fact-card";
@@ -94,10 +106,9 @@ window.addEventListener("DOMContentLoaded", () => {
     media.className = "fact-media";
 
     const img = document.createElement("img");
-    img.src = item.image + "?v=" + Date.now();
+    img.src = item.image;
     img.alt = item.title || "Fact image";
 
-    // Detect portrait to avoid cropping for portrait photos
     img.addEventListener("load", () => {
       if (img.naturalHeight > img.naturalWidth) img.classList.add("portrait");
     });
@@ -116,12 +127,34 @@ window.addEventListener("DOMContentLoaded", () => {
     title.className = "fact-title";
     title.textContent = item.title || "Science tidbit";
 
+    // Hook (shown always)
+    const hook = document.createElement("p");
+    hook.className = "fact-hook";
+    hook.textContent = item.hook ? item.hook : "A curiosity-first science nugget. Tap Reveal.";
+
+    // Reveal section
+    const reveal = document.createElement("div");
+    reveal.className = "reveal " + (revealed ? "open" : "closed");
+
     const summary = document.createElement("p");
     summary.className = "fact-summary";
     summary.textContent = item.summary || "";
 
+    const question = document.createElement("p");
+    question.className = "fact-question";
+    question.textContent = item.question ? `Think about it: ${item.question}` : "";
+
     const actions = document.createElement("div");
     actions.className = "actions";
+
+    const revealBtn = document.createElement("button");
+    revealBtn.className = "btn";
+    revealBtn.textContent = revealed ? "Hide" : "Reveal";
+    revealBtn.addEventListener("click", () => {
+      revealed = !revealed;
+      renderCurrent();
+    });
+    actions.appendChild(revealBtn);
 
     if (item.link && item.link.trim() && item.link !== "#") {
       const a1 = document.createElement("a");
@@ -143,14 +176,17 @@ window.addEventListener("DOMContentLoaded", () => {
       actions.appendChild(a2);
     }
 
+    reveal.appendChild(summary);
+    if (item.question) reveal.appendChild(question);
+
     body.appendChild(meta);
     body.appendChild(title);
-    body.appendChild(summary);
+    body.appendChild(hook);
+    if (revealed) body.appendChild(reveal);
     body.appendChild(actions);
 
     card.appendChild(media);
     card.appendChild(body);
-
     viewer.appendChild(card);
   }
 
@@ -190,10 +226,14 @@ window.addEventListener("DOMContentLoaded", () => {
   document.getElementById("nextBtn").addEventListener("click", () => {
     if (!filteredItems.length) return;
     currentIndex = (currentIndex + 1) % filteredItems.length;
+    revealed = false;
     renderCurrent();
   });
 
   document.getElementById("categorySelect").addEventListener("change", (e) => {
     applyCategoryFilter(e.target.value);
   });
+
+  // Default background on first load
+  setCategoryBackground("All");
 });
