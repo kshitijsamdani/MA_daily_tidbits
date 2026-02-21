@@ -4,38 +4,18 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>MA_daily_tidbits</title>
-  <link rel="stylesheet" href="styles.css?v=5" />
+
+  <link rel="stylesheet" href="styles.css?v=6" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+
   <style>
     .hidden{ display:none !important; }
   </style>
 </head>
-<body>
-  <header class="topbar">
-    <div>
-      <h1>MA_daily_tidbits</h1>
-      <p id="subtitle">5 science tidbits, refreshed daily</p>
-    </div>
-    <div class="right controls">
-      <select id="categorySelect" class="select">
-        <option value="All">All</option>
-        <option value="AI">AI</option>
-        <option value="Physics">Physics</option>
-        <option value="Entrepreneurship">Entrepreneurship</option>
-        <option value="Space">Space</option>
-        <option value="Biology">Biology</option>
-        <option value="Health">Health</option>
-        <option value="Environment">Environment</option>
-        <option value="For you specially">For you specially</option>
-      </select>
-    
-      <button id="nextBtn" class="btn">Next Fact →</button>
-      <button id="refreshBtn" class="btn">Refresh</button>
-    </div>
-  </header>
 
+<body>
   <main class="container">
 
     <!-- LANDING -->
@@ -45,13 +25,14 @@
         <p class="muted">
           Read 5 science tidbits daily — one at a time — with category-specific backgrounds.
         </p>
-  
+
         <div class="landing-actions">
           <button id="startAllBtn" class="btn primary">Click here to read your facts →</button>
-  
+
           <div class="landing-row">
             <label class="muted" for="landingCategory">Or choose a category:</label>
             <select id="landingCategory" class="select">
+              <option value="All" selected>All</option>
               <option value="AI">AI</option>
               <option value="Physics">Physics</option>
               <option value="Entrepreneurship">Entrepreneurship</option>
@@ -60,18 +41,18 @@
               <option value="Health">Health</option>
               <option value="Environment">Environment</option>
               <option value="For you specially">For you specially</option>
-              <option value="Science" selected>Science (general)</option>
+              <option value="Science">Science (general)</option>
             </select>
             <button id="startCategoryBtn" class="btn">Start</button>
           </div>
         </div>
-  
+
         <p class="muted small">
           Tip: If images don’t appear immediately, do a hard refresh (Ctrl+Shift+R).
         </p>
       </div>
     </section>
-  
+
     <!-- READER -->
     <section id="reader" class="reader hidden">
       <header class="topbar">
@@ -79,7 +60,7 @@
           <h1>MA_daily_tidbits</h1>
           <p id="subtitle">5 science tidbits, refreshed daily</p>
         </div>
-  
+
         <div class="right controls">
           <select id="categorySelect" class="select">
             <option value="All">All</option>
@@ -93,13 +74,13 @@
             <option value="For you specially">For you specially</option>
             <option value="Science">Science</option>
           </select>
-  
+
           <button id="nextBtn" class="btn">Next Fact →</button>
           <button id="refreshBtn" class="btn">Refresh</button>
           <button id="backBtn" class="btn ghost">Back</button>
         </div>
       </header>
-  
+
       <section class="hero">
         <div class="hero-card">
           <div class="hero-meta">
@@ -107,21 +88,21 @@
             <div id="dateText" class="date"></div>
           </div>
           <h2 id="heroTitle">Your facts</h2>
-          <p class="muted">One fact at a time. Background changes with category.</p>
+          <p class="muted">One fact at a time. Background follows the current fact image.</p>
         </div>
       </section>
-  
+
       <section id="viewer" class="viewer" aria-live="polite"></section>
-  
+
       <footer class="footer">
         <p class="muted">
-          Sources: ScienceDaily Top Science RSS + category backgrounds.
+          Sources: ScienceDaily Top Science RSS + your custom facts.
         </p>
       </footer>
     </section>
-  
+
   </main>
 
-  <script src="app.js?v=5" defer></script>
+  <script src="app.js?v=6" defer></script>
 </body>
 </html>
