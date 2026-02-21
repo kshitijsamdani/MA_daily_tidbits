@@ -5,6 +5,9 @@
   --border: rgba(255,255,255,.14);
   --shadow: 0 12px 36px rgba(0,0,0,.28);
   --radius: 18px;
+
+  /* JS sets this. Must exist for background to work. */
+  --pageBg: none;
 }
 
 *{box-sizing:border-box}
@@ -19,17 +22,18 @@ body{
               linear-gradient(180deg, rgba(18,25,60,.95), rgba(10,14,32,.98));
 }
 
-/* Brighter page background image layer (set by JS) */
+/* Big background image layer (set by JS via --pageBg) */
 body::before{
   content:"";
   position: fixed;
   inset: 0;
   z-index: -2;
+  background-image: var(--pageBg);
   background-size: cover;
   background-position: center;
   filter: brightness(1.12) saturate(1.15) contrast(1.06);
   transform: scale(1.03);
-  opacity: .55;          /* IMPORTANT: makes image visible but not overpowering */
+  opacity: .62;
 }
 
 /* Soft tint layer */
@@ -40,7 +44,7 @@ body::after{
   z-index: -1;
   background: radial-gradient(900px 500px at 20% 20%, rgba(80,140,255,.25), transparent 60%),
               radial-gradient(800px 500px at 80% 25%, rgba(190,90,255,.20), transparent 55%),
-              linear-gradient(180deg, rgba(8,10,24,.55), rgba(8,10,24,.78));
+              linear-gradient(180deg, rgba(8,10,24,.45), rgba(8,10,24,.78));
 }
 
 /* LANDING */
@@ -57,13 +61,13 @@ body::after{
   width:min(860px, 100%);
   border:1px solid var(--border);
   border-radius: 26px;
-  box-shadow: var(--shadow);
-  padding: 26px;
-  background: linear-gradient(135deg, rgba(65,120,255,.28), rgba(255,90,205,.18), rgba(0,0,0,.25));
+  box-shadow: 0 18px 60px rgba(0,0,0,.35);
+  padding: 28px;
+  background: linear-gradient(135deg, rgba(65,120,255,.30), rgba(255,90,205,.18), rgba(0,0,0,.25));
   backdrop-filter: blur(12px);
 }
 
-.landing-card h2{margin:0 0 10px; font-size: 34px; letter-spacing:.2px}
+.landing-card h2{margin:0 0 10px; font-size: 36px; letter-spacing:.2px}
 .landing-actions{margin-top:18px; display:flex; flex-direction:column; gap:14px}
 .landing-row{display:flex; gap:10px; align-items:center; flex-wrap:wrap}
 
@@ -103,8 +107,10 @@ body::after{
   padding:10px 12px;
   border-radius: 14px;
   font-family: "Space Grotesk", system-ui;
+  transition: transform .12s ease, filter .12s ease;
 }
-.btn:hover{filter:brightness(1.10)}
+.btn:hover{filter:brightness(1.12); transform: translateY(-1px);}
+.btn:active{transform: translateY(0);}
 
 .btn.primary{
   background: linear-gradient(135deg, rgba(90,140,255,.85), rgba(190,90,255,.65));
@@ -128,9 +134,9 @@ body::after{
 .hero{margin-top:14px; margin-bottom:14px}
 .hero-card{
   border:1px solid var(--border);
-  background: rgba(10,16,34,.55);
+  background: rgba(10,16,34,.50);
   border-radius: 22px;
-  box-shadow: var(--shadow);
+  box-shadow: 0 18px 60px rgba(0,0,0,.35);
   padding:18px;
   backdrop-filter: blur(10px);
 }
@@ -147,52 +153,58 @@ body::after{
 
 .viewer{display:block}
 
+/* FACT CARD */
 .card{
   width:100%;
   min-height: 360px;
   border-radius: 24px;
-  border: 1px solid var(--border);
-  background: rgba(10,16,34,.55);
-  box-shadow: var(--shadow);
+  border: 1px solid rgba(255,255,255,.16);
+  background: rgba(10,16,34,.40);
+  box-shadow: 0 18px 60px rgba(0,0,0,.35);
   overflow:hidden;
   position:relative;
 }
 
-/* Card background image */
 .card-bg{
   position:absolute; inset:0;
   background-size: cover;
   background-position: center;
-  filter: brightness(1.08) saturate(1.12) contrast(1.05);
-  transform: scale(1.04);
+  transform: scale(1.06);
+  transition: transform .8s ease;
 }
 
-/* Make overlay much lighter so image is visible */
+.card:hover .card-bg{
+  transform: scale(1.10);
+}
+
 .card-overlay{
   position:absolute; inset:0;
-  background: linear-gradient(90deg, rgba(8,10,24,.70) 0%, rgba(8,10,24,.35) 55%, rgba(8,10,24,.65) 100%),
-              linear-gradient(180deg, rgba(8,10,24,.18) 0%, rgba(8,10,24,.72) 85%);
+  background:
+    radial-gradient(800px 380px at 15% 20%, rgba(120,160,255,.22), transparent 60%),
+    linear-gradient(90deg, rgba(8,10,24,.72) 0%, rgba(8,10,24,.30) 55%, rgba(8,10,24,.70) 100%),
+    linear-gradient(180deg, rgba(0,0,0,.08) 0%, rgba(0,0,0,.58) 90%);
 }
 
 .card-content{
   position:relative;
-  padding:18px;
+  padding:20px;
   display:flex;
   flex-direction:column;
   height:100%;
   gap:10px;
 }
 
-.card h3{margin:0; font-size:22px; line-height:1.25}
+.card h3{margin:0; font-size:24px; line-height:1.25}
 .summary{
   margin:0;
   color: #e7edff;
-  font-size: 15px;
-  line-height: 1.6;
-  max-width: 70ch;
+  font-size: 15.5px;
+  line-height: 1.65;
+  max-width: 72ch;
 }
 
 .actions{margin-top:auto; display:flex; gap:10px; flex-wrap:wrap}
+
 .link{
   display:inline-block;
   text-decoration:none;
