@@ -1,6 +1,14 @@
 {
-  "date": "2026-02-21 13:38 UTC",
+  "date": "2026-02-21 17:27 UTC",
   "items": [
+    {
+      "title": "Scientists discover why high altitude protects against diabetes",
+      "summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blood sugar levels. A drug that recreates this effect reversed diabetes in mice, hinting at a powerful new treatment strategy.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20why%20high%20altitude%20protects%20against%20diabetes",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Generative AI analyzes medical data faster than human research teams",
       "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery.",
@@ -8,6 +16,14 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CGenerative%20AI%20analyzes%20medical%20data%20faster%20than%20human%20research%20teams",
       "wiki_url": "",
       "category": "AI"
+    },
+    {
+      "title": "“Celtic curse” hotspots found in Scotland and Ireland with 1 in 54 at risk",
+      "summary": "Researchers have mapped the genetic risk of hemochromatosis across the UK and Ireland for the first time, uncovering striking hotspots in north-west Ireland and the Outer Hebrides. In some regions, around one in 60 people carry the high-risk gene variant linked to iron overload. The condition can take decades to surface but may lead to liver cancer and arthritis if untreated.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000332.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2C%E2%80%9CCeltic%20curse%E2%80%9D%20hotspots%20found%20in%20Scotland%20and%20Ireland%20with%201%20in%2054%20at%20risk",
+      "wiki_url": "",
+      "category": "Health"
     },
     {
       "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
@@ -24,22 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Hubble%20spots%20nearly%20invisible%20%E2%80%9Cghost%20galaxy%E2%80%9D%20made%20of%2099%25%20dark%20matter",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "James Webb Space Telescope captures strange magnetic forces warping Uranus",
-      "summary": "For the first time, scientists have mapped Uranus’s upper atmosphere in three dimensions, tracking temperatures and charged particles up to 5,000 kilometers above the clouds. Webb’s sharp vision revealed glowing auroral bands and unexpected dark regions shaped by the planet’s wildly tilted magnetic field.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000303.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CJames%20Webb%20Space%20Telescope%20captures%20strange%20magnetic%20forces%20warping%20Uranus",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Scientists may have found the holy grail of quantum computing",
-      "summary": "Scientists may have spotted a long-sought triplet superconductor — a material that can transmit both electricity and electron spin with zero resistance. That ability could dramatically stabilize quantum computers while slashing their energy use. Early experiments suggest the alloy NbRe behaves unlike any conventional superconductor. If verified, it could become a cornerstone of next-generation quantum and spintronic technology.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20found%20the%20holy%20grail%20of%20quantum%20computing",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "For you specially: Your custom fact title here",
