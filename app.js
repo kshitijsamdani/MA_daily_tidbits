@@ -272,7 +272,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
     const question = document.createElement("p");
     question.className = "fact-question";
-    question.textContent = item.question ? `Think about it: ${item.question}` : "";
+    question.textContent = item.question ? `For you: ${item.question}` : "";
 
     const actions = document.createElement("div");
     actions.className = "actions";
