@@ -124,18 +124,23 @@ window.addEventListener("DOMContentLoaded", () => {
 
   function normalizeItem(x) {
     const category = (x.category || "Science").trim() || "Science";
-    const img = (x.image && x.image.trim()) ? x.image.trim() : categoryImage(category);
-
+  
+    // Always use category image for RSS facts
+    // Only allow custom image for "For you specially"
+    const hasCustom = (x.image && x.image.trim());
+  
+    const image =
+      (category === "For you specially" && hasCustom)
+        ? x.image.trim()
+        : categoryImage(category);
+  
     return {
       ...x,
       category,
-      image: img,
+      image,
       hook: (x.hook || "").trim(),
       question: (x.question || "").trim(),
       summary: (x.summary || "").trim(),
-      title: (x.title || "").trim(),
-      link: (x.link || "").trim(),
-      wiki_url: (x.wiki_url || "").trim(),
     };
   }
 
