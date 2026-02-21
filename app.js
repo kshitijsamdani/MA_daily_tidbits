@@ -4,45 +4,66 @@ window.addEventListener("DOMContentLoaded", () => {
   let currentIndex = 0;
   let currentCategory = "All";
 
-  // Category fallback images (only if item.image is missing)
+  // You upload these images into /assets/category/
   function categoryImage(category) {
     const c = (category || "Science").trim();
     const map = {
-      "AI": "https://source.unsplash.com/1920x1080/?artificial-intelligence,robot,technology",
-      "Physics": "https://source.unsplash.com/1920x1080/?physics,quantum,particle",
-      "Entrepreneurship": "https://source.unsplash.com/1920x1080/?startup,business,founder",
-      "Space": "https://source.unsplash.com/1920x1080/?space,galaxy,nebula",
-      "Biology": "https://source.unsplash.com/1920x1080/?biology,cells,microscope",
-      "Health": "https://source.unsplash.com/1920x1080/?medicine,health,doctor",
-      "Environment": "https://source.unsplash.com/1920x1080/?nature,climate,forest",
-      "For you specially": "https://source.unsplash.com/1920x1080/?birthday,celebration,stars",
-      "Science": "https://source.unsplash.com/1920x1080/?science,laboratory,research",
-      "All": "https://source.unsplash.com/1920x1080/?colorful,gradient,abstract"
+      "All": "assets/category/all.jpg",
+      "AI": "assets/category/ai.jpg",
+      "Physics": "assets/category/physics.jpg",
+      "Entrepreneurship": "assets/category/entrepreneurship.jpg",
+      "Space": "assets/category/space.jpg",
+      "Biology": "assets/category/biology.jpg",
+      "Health": "assets/category/health.jpg",
+      "Environment": "assets/category/environment.jpg",
+      "For you specially": "assets/category/foryou.jpg",
+      "Science": "assets/category/science.jpg"
     };
-
-    const base = map[c] || map["Science"];
-    return `${base}&v=${Date.now()}`; // cache buster
+    return map[c] || map["Science"];
   }
 
-  function preload(url) {
-    return new Promise((resolve) => {
-      if (!url) return resolve(false);
-      const img = new Image();
-      img.onload = () => resolve(true);
-      img.onerror = () => resolve(false);
-      img.src = url;
-    });
+  function normalizeItem(x) {
+    const category = (x.category || "Science").trim() || "Science";
+    const image = (x.image && x.image.trim()) ? x.image.trim() : categoryImage(category);
+    return { ...x, category, image };
   }
 
-  async function setPageBackground(urlOrCategory) {
-    const val = (urlOrCategory || "").trim();
-    const isUrl = val.startsWith("http") || val.startsWith("assets/");
-    const url = isUrl ? val : categoryImage(val);
+  async function loadDaily() {
+    const dateText = document.getElementById("dateText");
+    try {
+      const res = await fetch("data/daily.json", { cache: "no-store" });
+      const data = await res.json();
 
-    const ok = await preload(url);
-    if (!ok) return;
+      dateText.textContent = data.date ? `Updated: ${data.date}` : "";
+      allItems = (data.items || []).map(normalizeItem);
+    } catch (e) {
+      allItems = [];
+      dateText.textContent = "";
+    }
+  }
 
-    document.documentElement.style.setProperty("--pageBg", `url("${url}")`);
+  function applyCategoryFilter(categoryValue) {
+    const chosen = categoryValue || document.getElementById("categorySelect").value;
+    currentCategory = chosen;
+
+    if (chosen === "All") {
+      filteredItems = [...allItems];
+    } else {
+      filteredItems = allItems.filter(x => x.category === chosen);
+    }
+
+    currentIndex = 0;
+    document.getElementById("heroTitle").textContent =
+      chosen === "All" ? "All categories" : `${chosen} facts`;
+
+    renderCurrent();
+  }
+
+  function renderEmpty(viewer) {
+    viewer.innerHTML = `
+      <div class="hero-card">
+        <p class="muted">No facts found for this category today. Try “All” or add a custom fact.</p>
+      </div>`;
   }
 
   function renderCurrent() {
@@ -50,45 +71,46 @@ window.addEventListener("DOMContentLoaded", () => {
     viewer.innerHTML = "";
 
     if (!filteredItems.length) {
-      viewer.innerHTML = `
-        <div class="hero-card">
-          <p class="muted">No facts found for this category today. Try “All” or add a custom fact.</p>
-        </div>`;
+      renderEmpty(viewer);
       return;
     }
 
     currentIndex = ((currentIndex % filteredItems.length) + filteredItems.length) % filteredItems.length;
     const item = filteredItems[currentIndex];
 
-    // Use item's image if provided; else category fallback
-    const bgUrl = (item.image && item.image.trim())
-      ? item.image.trim()
-      : categoryImage(item.category || currentCategory || "Science");
-
     const card = document.createElement("article");
-    card.className = "card";
+    card.className = "fact-card";
 
-    const bg = document.createElement("div");
-    bg.className = "card-bg";
-    bg.style.backgroundImage = `url("${bgUrl}")`;
+    // Media
+    const media = document.createElement("div");
+    media.className = "fact-media";
 
-    const overlay = document.createElement("div");
-    overlay.className = "card-overlay";
+    const img = document.createElement("img");
+    img.src = item.image;
+    img.alt = item.title || "Fact image";
 
-    const content = document.createElement("div");
-    content.className = "card-content";
+    // Detect portrait to avoid cropping for portrait photos
+    img.addEventListener("load", () => {
+      if (img.naturalHeight > img.naturalWidth) img.classList.add("portrait");
+    });
+
+    media.appendChild(img);
+
+    // Body
+    const body = document.createElement("div");
+    body.className = "fact-body";
 
     const meta = document.createElement("div");
-    meta.className = "muted";
-    meta.style.fontSize = "13px";
-    meta.textContent = `${item.category || "Science"} • ${currentIndex + 1}/${filteredItems.length}`;
+    meta.className = "fact-meta";
+    meta.textContent = `${item.category} • ${currentIndex + 1}/${filteredItems.length}`;
 
-    const h3 = document.createElement("h3");
-    h3.textContent = item.title || "Science tidbit";
+    const title = document.createElement("h3");
+    title.className = "fact-title";
+    title.textContent = item.title || "Science tidbit";
 
-    const p = document.createElement("p");
-    p.className = "summary";
-    p.textContent = item.summary || "";
+    const summary = document.createElement("p");
+    summary.className = "fact-summary";
+    summary.textContent = item.summary || "";
 
     const actions = document.createElement("div");
     actions.className = "actions";
@@ -113,50 +135,15 @@ window.addEventListener("DOMContentLoaded", () => {
       actions.appendChild(a2);
     }
 
-    content.appendChild(meta);
-    content.appendChild(h3);
-    content.appendChild(p);
-    content.appendChild(actions);
+    body.appendChild(meta);
+    body.appendChild(title);
+    body.appendChild(summary);
+    body.appendChild(actions);
 
-    card.appendChild(bg);
-    card.appendChild(overlay);
-    card.appendChild(content);
+    card.appendChild(media);
+    card.appendChild(body);
 
     viewer.appendChild(card);
-
-    // Page background follows current fact image
-    setPageBackground(bgUrl);
-  }
-
-  function applyCategoryFilter(categoryValue) {
-    const chosen = categoryValue || document.getElementById("categorySelect").value;
-    currentCategory = chosen;
-
-    if (chosen === "All") {
-      filteredItems = [...allItems];
-    } else {
-      filteredItems = allItems.filter(x => (x.category || "Science") === chosen);
-    }
-
-    currentIndex = 0;
-    document.getElementById("heroTitle").textContent =
-      chosen === "All" ? "All categories" : `${chosen} facts`;
-
-    renderCurrent();
-  }
-
-  async function loadDaily() {
-    const dateText = document.getElementById("dateText");
-    try {
-      const res = await fetch("data/daily.json", { cache: "no-store" });
-      const data = await res.json();
-
-      dateText.textContent = data.date ? `Updated: ${data.date}` : "";
-      allItems = (data.items || []).map(x => ({ ...x, category: x.category || "Science" }));
-    } catch (e) {
-      allItems = [];
-      dateText.textContent = "";
-    }
   }
 
   function showReader() {
@@ -167,9 +154,9 @@ window.addEventListener("DOMContentLoaded", () => {
   function showLanding() {
     document.getElementById("reader").classList.add("hidden");
     document.getElementById("landing").classList.remove("hidden");
-    setPageBackground("All");
   }
 
+  // Buttons
   document.getElementById("startAllBtn").addEventListener("click", async () => {
     await loadDaily();
     showReader();
@@ -201,7 +188,4 @@ window.addEventListener("DOMContentLoaded", () => {
   document.getElementById("categorySelect").addEventListener("change", (e) => {
     applyCategoryFilter(e.target.value);
   });
-
-  // Initial landing background
-  showLanding();
 });
