@@ -158,7 +158,7 @@ def make_hook(category: str) -> str:
 
 def make_question(category: str) -> str:
     questions = {
-        "AI": "Hey ChatGPT, can you transcribe the attached audio?",
+        "AI": "Can you now summarize your conference recordings using AI?",
         "Physics": "How's my rizz game?",
         "Entrepreneurship": "Am I correct?",
         "Space": "Are you the brightest object in the sky?",
