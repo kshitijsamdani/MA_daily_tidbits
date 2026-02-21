@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21 19:06 UTC",
+  "date": "2026-02-21 19:27 UTC",
   "items": [
     {
       "title": "Generative AI analyzes medical data faster than human research teams",
@@ -8,7 +8,7 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CGenerative%20AI%20analyzes%20medical%20data%20faster%20than%20human%20research%20teams",
       "wiki_url": "",
       "category": "AI",
-      "hook": "Imagine turning messy data into answers in minutes…  (Generative AI analyzes medical data faster than human research teams)",
+      "hook": "Imagine turning messy data into answers in minutes…",
       "question": "If you had this AI tool for one day, what problem would you solve first?"
     },
     {
@@ -18,7 +18,7 @@
       "image": "https://source.unsplash.com/1600x900/?Physics%2CJames%20Webb%20Space%20Telescope%20captures%20strange%20magnetic%20forces%20warping%20Uranus",
       "wiki_url": "",
       "category": "Physics",
-      "hook": "A rule of reality might be wobbling—here’s why:  (James Webb Space Telescope captures strange magnetic forces warping Uranus)",
+      "hook": "A rule of reality might be wobbling—here’s why:",
       "question": "If this result holds up, what ‘law of nature’ would you rethink?"
     },
     {
@@ -28,7 +28,7 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Hubble%20spots%20nearly%20invisible%20%E2%80%9Cghost%20galaxy%E2%80%9D%20made%20of%2099%25%20dark%20matter",
       "wiki_url": "",
       "category": "Space",
-      "hook": "Astronomers followed cosmic breadcrumbs and discovered this:  (NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter)",
+      "hook": "Astronomers followed cosmic breadcrumbs and discovered this:",
       "question": "What do you think we’re missing if ‘invisible’ objects can still be mapped?"
     },
     {
@@ -38,7 +38,7 @@
       "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20why%20high%20altitude%20protects%20against%20diabetes",
       "wiki_url": "",
       "category": "Biology",
-      "hook": "Your cells may be doing something surprising right now:  (Scientists discover why high altitude protects against diabetes)",
+      "hook": "Biology just revealed a hidden mechanism:",
       "question": "What other biological ‘hidden modes’ do you think exist?"
     },
     {
@@ -48,7 +48,7 @@
       "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20reveal%20why%20human%20language%20isn%E2%80%99t%20like%20computer%20code",
       "wiki_url": "",
       "category": "Health",
-      "hook": "Doctors have suspected it—now there’s evidence:  (Scientists reveal why human language isn’t like computer code)",
+      "hook": "This discovery could change how we think about disease:",
       "question": "If this link is real, what should future screenings look like?"
     },
     {
@@ -58,7 +58,7 @@
       "image": "https://source.unsplash.com/1600x900/?Environment%2CA%20spinning%20gyroscope%20could%20finally%20unlock%20ocean%20wave%20energy",
       "wiki_url": "",
       "category": "Environment",
-      "hook": "A small change in nature can ripple into huge effects:  (A spinning gyroscope could finally unlock ocean wave energy)",
+      "hook": "The planet is running an experiment—and we’re reading the results:",
       "question": "What’s one behavior change that would matter most if this scales globally?"
     },
     {
@@ -68,7 +68,7 @@
       "image": "https://source.unsplash.com/1600x900/?Science%2C%E2%80%9CCeltic%20curse%E2%80%9D%20hotspots%20found%20in%20Scotland%20and%20Ireland%20with%201%20in%2054%20at%20risk",
       "wiki_url": "",
       "category": "Science",
-      "hook": "Science found a shortcut—kind of:  (“Celtic curse” hotspots found in Scotland and Ireland with 1 in 54 at risk)",
+      "hook": "Science found a shortcut—kind of:",
       "question": "What’s the simplest experiment you’d run to test this further?"
     },
     {
@@ -78,7 +78,7 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CCommon%20pneumonia%20bacterium%20may%20fuel%20Alzheimer%E2%80%99s%20disease",
       "wiki_url": "",
       "category": "Entrepreneurship",
-      "hook": "This is the kind of idea founders build companies around:  (Common pneumonia bacterium may fuel Alzheimer’s disease)",
+      "hook": "This is the kind of idea founders build companies around:",
       "question": "If you had to turn this into a startup, who pays first—and why?"
     },
     {
