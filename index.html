@@ -5,73 +5,72 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>MA_daily_tidbits</title>
 
-  <link rel="stylesheet" href="styles.css?v=8" />
+  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
-</head>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 
+  <link rel="stylesheet" href="styles.css" />
+</head>
 <body>
   <main class="container">
 
     <!-- LANDING -->
     <section id="landing" class="landing">
       <div class="landing-card">
-        <h2>Welcome to MA_daily_tidbits</h2>
-        <p class="muted">
-          Daily science tidbits, one at a time.
-        </p>
+        <h2>Welcome to <span class="grad">MA_daily_tidbits</span></h2>
+        <p class="muted">Daily science tidbits — one at a time. Built to trigger curiosity.</p>
 
         <div class="landing-actions">
-          <button id="startAllBtn" class="btn primary">Click here to read your facts →</button>
+          <div class="landing-row">
+            <button id="startAllBtn" class="btn primary">Click here to read your facts →</button>
+          </div>
 
           <div class="landing-row">
-            <label class="muted" for="landingCategory">Or choose a category:</label>
+            <span class="muted">Or choose a category:</span>
             <select id="landingCategory" class="select">
-              <option value="All" selected>All</option>
-              <option value="AI">AI</option>
-              <option value="Physics">Physics</option>
-              <option value="Entrepreneurship">Entrepreneurship</option>
-              <option value="Space">Space</option>
-              <option value="Biology">Biology</option>
-              <option value="Health">Health</option>
-              <option value="Environment">Environment</option>
-              <option value="For you specially">For you specially</option>
-              <option value="Science">Science (general)</option>
+              <option>All</option>
+              <option>AI</option>
+              <option>Physics</option>
+              <option>Entrepreneurship</option>
+              <option>Space</option>
+              <option>Biology</option>
+              <option>Health</option>
+              <option>Environment</option>
+              <option>Science</option>
+              <option>For you specially</option>
             </select>
             <button id="startCategoryBtn" class="btn">Start</button>
           </div>
-        </div>
 
-        <p class="muted small">
-          Tip: After you update files, do a hard refresh (Ctrl+Shift+R).
-        </p>
+          <p class="small muted">Tip: After updating files, do a hard refresh (Ctrl+Shift+R).</p>
+        </div>
       </div>
     </section>
 
     <!-- READER -->
-    <section id="reader" class="reader hidden">
+    <section id="reader" class="hidden">
       <header class="topbar">
         <div>
           <h1>MA_daily_tidbits</h1>
-          <p id="subtitle">5 science tidbits, refreshed daily</p>
+          <p id="dateText">Daily</p>
         </div>
 
         <div class="controls">
           <select id="categorySelect" class="select">
-            <option value="All">All</option>
-            <option value="AI">AI</option>
-            <option value="Physics">Physics</option>
-            <option value="Entrepreneurship">Entrepreneurship</option>
-            <option value="Space">Space</option>
-            <option value="Biology">Biology</option>
-            <option value="Health">Health</option>
-            <option value="Environment">Environment</option>
-            <option value="For you specially">For you specially</option>
-            <option value="Science">Science</option>
+            <option>All</option>
+            <option>AI</option>
+            <option>Physics</option>
+            <option>Entrepreneurship</option>
+            <option>Space</option>
+            <option>Biology</option>
+            <option>Health</option>
+            <option>Environment</option>
+            <option>Science</option>
+            <option>For you specially</option>
           </select>
 
-          <button id="nextBtn" class="btn">Next Fact →</button>
+          <button id="nextBtn" class="btn primary">Next Fact →</button>
           <button id="refreshBtn" class="btn">Refresh</button>
           <button id="backBtn" class="btn ghost">Back</button>
         </div>
@@ -80,23 +79,22 @@
       <section class="hero">
         <div class="hero-card">
           <div class="hero-meta">
-            <div class="badge">Daily</div>
-            <div id="dateText" class="date"></div>
+            <span class="badge">One at a time</span>
+            <span id="heroTitle" class="date">All categories</span>
           </div>
-          <h2 id="heroTitle">All categories</h2>
-          <p class="muted">One fact at a time.</p>
+          <p class="muted small">Tap <b>Reveal</b> to unfold the story.</p>
         </div>
       </section>
 
-      <section id="viewer" class="viewer" aria-live="polite"></section>
+      <section id="viewer" class="viewer"></section>
 
-      <footer class="footer">
-        <p class="muted">Sources: ScienceDaily Top Science RSS</p>
+      <footer class="footer muted small">
+        Sources: ScienceDaily RSS (Top Science / Tech / Health / Environment / Society)
       </footer>
     </section>
 
   </main>
 
-  <script src="app.js?v=8" defer></script>
+  <script src="app.js"></script>
 </body>
 </html>
