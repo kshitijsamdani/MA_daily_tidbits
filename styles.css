@@ -3,11 +3,8 @@
   --text:#eef3ff;
   --muted:#c9d3f7;
   --border: rgba(255,255,255,.14);
-  --shadow: 0 12px 36px rgba(0,0,0,.28);
+  --shadow: 0 18px 60px rgba(0,0,0,.35);
   --radius: 18px;
-
-  /* JS sets this. Must exist for background to work. */
-  --pageBg: none;
 }
 
 *{box-sizing:border-box}
@@ -17,66 +14,38 @@ body{
   margin:0;
   color:var(--text);
   font-family: "Space Grotesk", system-ui, -apple-system, Segoe UI, Roboto, Arial;
-  background: radial-gradient(1200px 600px at 15% 10%, rgba(90,140,255,.35) 0%, transparent 60%),
-              radial-gradient(900px 500px at 80% 20%, rgba(190,90,255,.28) 0%, transparent 55%),
-              linear-gradient(180deg, rgba(18,25,60,.95), rgba(10,14,32,.98));
+  background:
+    radial-gradient(1200px 600px at 15% 10%, rgba(90,140,255,.35) 0%, transparent 60%),
+    radial-gradient(900px 500px at 80% 20%, rgba(190,90,255,.28) 0%, transparent 55%),
+    linear-gradient(180deg, rgba(18,25,60,.95), rgba(10,14,32,.98));
 }
 
-/* Big background image layer (set by JS via --pageBg) */
-body::before{
-  content:"";
-  position: fixed;
-  inset: 0;
-  z-index: -2;
-  background-image: var(--pageBg);
-  background-size: cover;
-  background-position: center;
-  filter: brightness(1.12) saturate(1.15) contrast(1.06);
-  transform: scale(1.03);
-  opacity: .62;
-}
-
-/* Soft tint layer */
-body::after{
-  content:"";
-  position: fixed;
-  inset: 0;
-  z-index: -1;
-  background: radial-gradient(900px 500px at 20% 20%, rgba(80,140,255,.25), transparent 60%),
-              radial-gradient(800px 500px at 80% 25%, rgba(190,90,255,.20), transparent 55%),
-              linear-gradient(180deg, rgba(8,10,24,.45), rgba(8,10,24,.78));
-}
-
-/* LANDING */
+.hidden{display:none !important;}
 .container{max-width:1100px; margin:0 auto; padding:18px}
 
+/* LANDING */
 .landing{
   min-height: calc(100vh - 36px);
   display:flex;
   align-items:center;
   justify-content:center;
 }
-
 .landing-card{
   width:min(860px, 100%);
   border:1px solid var(--border);
   border-radius: 26px;
-  box-shadow: 0 18px 60px rgba(0,0,0,.35);
+  box-shadow: var(--shadow);
   padding: 28px;
   background: linear-gradient(135deg, rgba(65,120,255,.30), rgba(255,90,205,.18), rgba(0,0,0,.25));
   backdrop-filter: blur(12px);
 }
-
-.landing-card h2{margin:0 0 10px; font-size: 36px; letter-spacing:.2px}
+.landing-card h2{margin:0 0 10px; font-size: 36px}
 .landing-actions{margin-top:18px; display:flex; flex-direction:column; gap:14px}
 .landing-row{display:flex; gap:10px; align-items:center; flex-wrap:wrap}
-
 .small{font-size: 12px}
+.muted{color:var(--muted)}
 
-/* READER */
-.hidden{display:none}
-.reader{padding-bottom: 18px}
-
+/* TOP BAR */
 .topbar{
   position:sticky; top:0;
   backdrop-filter: blur(10px);
@@ -88,8 +57,7 @@ body::after{
   margin-top: 10px;
   z-index:10;
 }
-
-.topbar h1{margin:0; font-size:18px; letter-spacing:.3px}
+.topbar h1{margin:0; font-size:18px}
 .topbar p{margin:4px 0 0; color:var(--muted); font-size:13px}
 
 .controls{
@@ -116,7 +84,6 @@ body::after{
   background: linear-gradient(135deg, rgba(90,140,255,.85), rgba(190,90,255,.65));
   border: 1px solid rgba(255,255,255,.22);
 }
-
 .btn.ghost{
   background: rgba(0,0,0,.15);
 }
@@ -131,12 +98,13 @@ body::after{
   font-size: 12.5px;
 }
 
+/* HERO */
 .hero{margin-top:14px; margin-bottom:14px}
 .hero-card{
   border:1px solid var(--border);
   background: rgba(10,16,34,.50);
   border-radius: 22px;
-  box-shadow: 0 18px 60px rgba(0,0,0,.35);
+  box-shadow: var(--shadow);
   padding:18px;
   backdrop-filter: blur(10px);
 }
@@ -149,61 +117,67 @@ body::after{
   background: rgba(20,36,74,.55);
 }
 .date{color:var(--muted); font-size:13px}
-.muted{color:var(--muted)}
 
+/* VIEWER + CARD */
 .viewer{display:block}
 
-/* FACT CARD */
-.card{
-  width:100%;
-  min-height: 360px;
+.fact-card{
+  border:1px solid rgba(255,255,255,.16);
   border-radius: 24px;
-  border: 1px solid rgba(255,255,255,.16);
-  background: rgba(10,16,34,.40);
-  box-shadow: 0 18px 60px rgba(0,0,0,.35);
+  background: rgba(10,16,34,.45);
+  box-shadow: var(--shadow);
   overflow:hidden;
-  position:relative;
 }
 
-.card-bg{
-  position:absolute; inset:0;
-  background-size: cover;
-  background-position: center;
-  transform: scale(1.06);
-  transition: transform .8s ease;
+/* BIG IMAGE AREA */
+.fact-media{
+  position: relative;
+  width: 100%;
+  height: clamp(260px, 52vh, 520px); /* big image */
+  background: rgba(0,0,0,.25);
 }
 
-.card:hover .card-bg{
-  transform: scale(1.10);
+.fact-media img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;       /* default for landscape */
+  object-position: center;
+  display:block;
+  filter: saturate(1.05) contrast(1.02);
 }
 
-.card-overlay{
-  position:absolute; inset:0;
-  background:
-    radial-gradient(800px 380px at 15% 20%, rgba(120,160,255,.22), transparent 60%),
-    linear-gradient(90deg, rgba(8,10,24,.72) 0%, rgba(8,10,24,.30) 55%, rgba(8,10,24,.70) 100%),
-    linear-gradient(180deg, rgba(0,0,0,.08) 0%, rgba(0,0,0,.58) 90%);
+.fact-media img.portrait{
+  object-fit: contain;     /* for portrait photos: show full image */
+  background: rgba(0,0,0,.35);
 }
 
-.card-content{
-  position:relative;
-  padding:20px;
+.fact-body{
+  padding: 18px 20px 20px;
   display:flex;
   flex-direction:column;
-  height:100%;
   gap:10px;
 }
 
-.card h3{margin:0; font-size:24px; line-height:1.25}
-.summary{
+.fact-meta{
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.fact-title{
+  margin:0;
+  font-size: 26px;
+  line-height: 1.2;
+}
+
+.fact-summary{
   margin:0;
   color: #e7edff;
   font-size: 15.5px;
   line-height: 1.65;
-  max-width: 72ch;
+  max-width: 76ch;
 }
 
-.actions{margin-top:auto; display:flex; gap:10px; flex-wrap:wrap}
+.actions{margin-top: 8px; display:flex; gap:10px; flex-wrap:wrap}
 
 .link{
   display:inline-block;
