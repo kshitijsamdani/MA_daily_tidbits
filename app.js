@@ -1,3 +1,4 @@
+window.addEventListener("DOMContentLoaded", () => {
 let allItems = [];
 let filteredItems = [];
 let currentIndex = 0;
@@ -197,3 +198,5 @@ document.getElementById("categorySelect").addEventListener("change", (e) => {
 
 // Initial landing background
 showLanding();
+
+});
