@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21 17:27 UTC",
+  "date": "2026-02-21 17:52 UTC",
   "items": [
     {
       "title": "Scientists discover why high altitude protects against diabetes",
@@ -42,18 +42,10 @@
       "category": "Space"
     },
     {
-      "title": "For you specially: Your custom fact title here",
-      "summary": "Write your made-up fact here in 1–3 lines.",
-      "link": "https://example.com",
-      "image": "https://source.unsplash.com/1600x900/?motivation,stars",
-      "wiki_url": "",
-      "category": "For you specially"
-    },
-    {
-      "title": "For you specially: The Universe has a secret rhythm",
-      "summary": "Made-up fun fact: If you map your daily habits to cycles, you can build a personal 'resonance schedule' that boosts focus.",
+      "title": "Dearest Gentle Reader,",
+      "summary": "A very happy birthday to you.",
       "link": "",
-      "image": "https://source.unsplash.com/1600x900/?galaxy,patterns",
+      "image": "assets/custom/birthday.jpeg",
       "wiki_url": "",
       "category": "For you specially"
     }
