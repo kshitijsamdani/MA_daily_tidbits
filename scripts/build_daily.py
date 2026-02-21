@@ -205,8 +205,7 @@ def parse_candidates():
             category = categorize(title, summary)
 
             image, wiki_url = wiki_best_image_and_url(title)
-            if not image:
-                image = build_unsplash_fallback(f"{category},{title}")
+            image = ""
 
             candidates.append(
                 {
