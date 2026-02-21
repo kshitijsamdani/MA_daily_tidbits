@@ -54,7 +54,7 @@ def categorize(title: str, summary: str) -> str:
         return "AI"
     if any(k in t for k in ["quantum", "particle", "physics", "relativity", "thermodynamics", "gravity", "neutrino", "fusion", "plasma"]):
         return "Physics"
-    if any(k in t for k in ["startup", "entrepreneur", "founder", "business", "market", "innovation", "industry", "productivity", "economy"]):
+    if any(k in t for k in ["startup", "entrepreneur", "founder", "business", "market", "industry", "productivity", "economy"]):
         return "Entrepreneurship"
     if any(k in t for k in ["space", "nasa", "planet", "galaxy", "astronomy", "mars", "moon", "exoplanet", "hubble", "telescope"]):
         return "Space"
@@ -105,44 +105,52 @@ def wiki_best_image_and_url(query: str):
 def make_hook(category: str) -> str:
     starters = {
         "AI": [
-            "What if a machine could spot patterns humans miss—instantly?",
-            "Imagine turning messy data into answers in minutes…",
-            "This sounds like sci-fi, but it’s already happening:",
+            "FYI: AI stands for Artificial Intelligence, not Another Idli",
+            # "What if a machine could spot patterns humans miss—instantly?",
+            # "Imagine turning messy data into answers in minutes…",
+            # "This sounds like sci-fi, but it’s already happening:",
         ],
         "Physics": [
-            "A rule of reality might be wobbling—here’s why:",
-            "This is the kind of physics that makes you question time itself:",
-            "Tiny particles, massive consequences:",
+            "FYI: Physics is the most complex, difficult and interesting subject... second only to you",
+            # "A rule of reality might be wobbling—here’s why:",
+            # "This is the kind of physics that makes you question time itself:",
+            # "Tiny particles, massive consequences:",
         ],
         "Entrepreneurship": [
-            "A small tweak could change how industries work:",
-            "This is the kind of idea founders build companies around:",
-            "One insight → a whole new market:",
+            "FYI: Brainpowerzzz has the potential to become a successful startup",
+            # "A small tweak could change how industries work:",
+            # "This is the kind of idea founders build companies around:",
+            # "One insight → a whole new market:",
         ],
         "Space": [
-            "Something out there is practically invisible… and we still found it:",
-            "Space just pulled another magic trick:",
-            "Astronomers followed cosmic breadcrumbs and discovered this:",
+            "FYI: No one bends space more than you do",
+            # "Something out there is practically invisible… and we still found it:",
+            # "Space just pulled another magic trick:",
+            # "Astronomers followed cosmic breadcrumbs and discovered this:",
         ],
         "Biology": [
-            "Your cells may be doing something surprising right now:",
-            "Nature built a trick we’re only now noticing:",
-            "Biology just revealed a hidden mechanism:",
+            "FYI: You have 86 billion neurons. Activate atleast one now and then",
+            # "Your cells may be doing something surprising right now:",
+            # "Nature built a trick we’re only now noticing:",
+            # "Biology just revealed a hidden mechanism:",
         ],
         "Health": [
-            "A familiar bug may be linked to something much bigger:",
-            "This discovery could change how we think about disease:",
-            "Doctors have suspected it—now there’s evidence:",
+            "FYI: Eating junk tasty food alone is injurious to mental health of others. #ShareFoodShareHunger",
+            # "A familiar bug may be linked to something much bigger:",
+            # "This discovery could change how we think about disease:",
+            # "Doctors have suspected it—now there’s evidence:",
         ],
         "Environment": [
-            "The planet is running an experiment—and we’re reading the results:",
-            "A small change in nature can ripple into huge effects:",
-            "This is a climate clue hiding in plain sight:",
+            "FYI: Don't pluck flowers",
+            # "The planet is running an experiment—and we’re reading the results:",
+            # "A small change in nature can ripple into huge effects:",
+            # "This is a climate clue hiding in plain sight:",
         ],
         "Science": [
-            "Here’s a weird scientific twist you won’t unsee:",
-            "This discovery is unexpectedly elegant:",
-            "Science found a shortcut—kind of:",
+            "FYI: You are in my conScience all the time :)",
+            # "Here’s a weird scientific twist you won’t unsee:",
+            # "This discovery is unexpectedly elegant:",
+            # "Science found a shortcut—kind of:",
         ],
     }
     pool = starters.get(category, starters["Science"])
@@ -150,14 +158,14 @@ def make_hook(category: str) -> str:
 
 def make_question(category: str) -> str:
     questions = {
-        "AI": "If you had this AI tool for one day, what problem would you solve first?",
-        "Physics": "If this result holds up, what ‘law of nature’ would you rethink?",
-        "Entrepreneurship": "If you had to turn this into a startup, who pays first—and why?",
-        "Space": "What do you think we’re missing if ‘invisible’ objects can still be mapped?",
-        "Biology": "What other biological ‘hidden modes’ do you think exist?",
-        "Health": "If this link is real, what should future screenings look like?",
-        "Environment": "What’s one behavior change that would matter most if this scales globally?",
-        "Science": "What’s the simplest experiment you’d run to test this further?",
+        "AI": "Hey ChatGPT, can you transcribe the attached audio?",
+        "Physics": "How's my rizz game?",
+        "Entrepreneurship": "Am I correct?",
+        "Space": "Are you the brightest object in the sky?",
+        "Biology": "What does XNA stand for again?",
+        "Health": "How many flights of stairs today?",
+        "Environment": "Is it okay for immigrants to litter?",
+        "Science":  "You didn't answer. How's my rizz game?",
     }
     return questions.get(category, questions["Science"])
 
