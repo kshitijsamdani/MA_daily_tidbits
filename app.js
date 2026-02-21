@@ -228,8 +228,15 @@ window.addEventListener("DOMContentLoaded", () => {
     media.className = "fact-media";
 
     const img = document.createElement("img");
-    img.src = item.image;
+    img.src = item.image + "?v=" + Date.now();
     img.alt = item.title || "Fact image";
+    
+    // Detect portrait orientation to avoid cropping
+    img.addEventListener("load", () => {
+      if (img.naturalHeight > img.naturalWidth) {
+        img.classList.add("portrait");
+      }
+    });
 
     media.appendChild(img);
 
