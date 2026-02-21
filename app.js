@@ -1,21 +1,41 @@
 let allItems = [];
 let filteredItems = [];
 let currentIndex = 0;
+let currentCategory = "All";
 
-function buildUnsplashUrl(keywords) {
-  const q = encodeURIComponent(keywords || "science");
-  // Always returns a random relevant image
-  return `https://source.unsplash.com/1600x900/?${q}`;
+// These are *guaranteed* image URLs per category (no keys, always returns an image).
+// We also add a cache-buster so GitHub Pages caching doesn't make it look “stuck”.
+function categoryImage(category) {
+  const c = (category || "Science").trim();
+  const map = {
+    "AI": "https://source.unsplash.com/1920x1080/?artificial-intelligence,robot,technology",
+    "Physics": "https://source.unsplash.com/1920x1080/?physics,quantum,particle",
+    "Entrepreneurship": "https://source.unsplash.com/1920x1080/?startup,business,founder",
+    "Space": "https://source.unsplash.com/1920x1080/?space,galaxy,nebula",
+    "Biology": "https://source.unsplash.com/1920x1080/?biology,cells,microscope",
+    "Health": "https://source.unsplash.com/1920x1080/?medicine,health,doctor",
+    "Environment": "https://source.unsplash.com/1920x1080/?nature,climate,forest",
+    "For you specially": "https://source.unsplash.com/1920x1080/?colorful,abstract,neon",
+    "Science": "https://source.unsplash.com/1920x1080/?science,laboratory,research",
+    "All": "https://source.unsplash.com/1920x1080/?colorful,gradient,abstract"
+  };
+
+  const base = map[c] || map["Science"];
+  return `${base}&v=${Date.now()}`; // cache buster
 }
 
-function pickBackgroundImage(item) {
-  // Priority:
-  // 1) item.image from generator (wiki thumb or fallback)
-  // 2) unsplash using category + title keywords (always works)
-  if (item.image && item.image.trim()) return item.image;
-
-  const k = `${item.category || "science"},${item.title || "science"}`;
-  return buildUnsplashUrl(k);
+function setPageBackground(category) {
+  // sets the big background image layer
+  document.body.style.setProperty("--pageBg", `url("${categoryImage(category)}")`);
+  // apply it to body::before
+  const styleId = "dynamic-bg-style";
+  let style = document.getElementById(styleId);
+  if (!style) {
+    style = document.createElement("style");
+    style.id = styleId;
+    document.head.appendChild(style);
+  }
+  style.textContent = `body::before{ background-image: var(--pageBg); }`;
 }
 
 function renderCurrent() {
@@ -25,22 +45,23 @@ function renderCurrent() {
   if (!filteredItems.length) {
     viewer.innerHTML = `
       <div class="hero-card">
-        <p class="muted">No facts found for this category today. Try "All" or add a custom fact.</p>
+        <p class="muted">No facts found for this category today. Try “All” or add a custom fact.</p>
       </div>`;
     return;
   }
 
-  // keep index in range
   currentIndex = ((currentIndex % filteredItems.length) + filteredItems.length) % filteredItems.length;
-
   const item = filteredItems[currentIndex];
+
+  // Mandatory: category background image is always used for the card
+  const bgUrl = categoryImage(item.category || currentCategory || "Science");
 
   const card = document.createElement("article");
   card.className = "card";
 
   const bg = document.createElement("div");
   bg.className = "card-bg";
-  bg.style.backgroundImage = `url("${pickBackgroundImage(item)}")`;
+  bg.style.backgroundImage = `url("${bgUrl}")`;
 
   const overlay = document.createElement("div");
   overlay.className = "card-overlay";
@@ -69,7 +90,6 @@ function renderCurrent() {
   a1.target = "_blank";
   a1.rel = "noopener noreferrer";
   a1.textContent = "Read article";
-
   actions.appendChild(a1);
 
   if (item.wiki_url) {
@@ -92,11 +112,14 @@ function renderCurrent() {
   card.appendChild(content);
 
   viewer.appendChild(card);
+
+  // Also set the whole page background to current category (must)
+  setPageBackground(item.category || "Science");
 }
 
-function applyCategoryFilter() {
-  const sel = document.getElementById("categorySelect");
-  const chosen = sel.value;
+function applyCategoryFilter(categoryValue) {
+  const chosen = categoryValue || document.getElementById("categorySelect").value;
+  currentCategory = chosen;
 
   if (chosen === "All") {
     filteredItems = [...allItems];
@@ -105,30 +128,62 @@ function applyCategoryFilter() {
   }
 
   currentIndex = 0;
+  document.getElementById("heroTitle").textContent =
+    chosen === "All" ? "All categories" : `${chosen} facts`;
+
+  // when switching, immediately change background
+  setPageBackground(chosen === "All" ? "All" : chosen);
   renderCurrent();
 }
 
 async function loadDaily() {
   const dateText = document.getElementById("dateText");
-
   try {
     const res = await fetch("data/daily.json", { cache: "no-store" });
     const data = await res.json();
 
     dateText.textContent = data.date ? `Updated: ${data.date}` : "";
-    allItems = (data.items || []).map(x => ({
-      ...x,
-      category: x.category || "Science"
-    }));
-
-    applyCategoryFilter();
+    allItems = (data.items || []).map(x => ({ ...x, category: x.category || "Science" }));
   } catch (e) {
-    document.getElementById("viewer").innerHTML =
-      `<div class="hero-card"><p class="muted">Could not load daily data. Try again later.</p></div>`;
+    allItems = [];
   }
 }
 
-document.getElementById("refreshBtn").addEventListener("click", loadDaily);
+// Landing -> Reader transitions
+function showReader() {
+  document.getElementById("landing").classList.add("hidden");
+  document.getElementById("reader").classList.remove("hidden");
+}
+
+function showLanding() {
+  document.getElementById("reader").classList.add("hidden");
+  document.getElementById("landing").classList.remove("hidden");
+  setPageBackground("All");
+}
+
+document.getElementById("startAllBtn").addEventListener("click", async () => {
+  await loadDaily();
+  showReader();
+  document.getElementById("categorySelect").value = "All";
+  applyCategoryFilter("All");
+});
+
+document.getElementById("startCategoryBtn").addEventListener("click", async () => {
+  const cat = document.getElementById("landingCategory").value;
+  await loadDaily();
+  showReader();
+  document.getElementById("categorySelect").value = cat;
+  applyCategoryFilter(cat);
+});
+
+document.getElementById("backBtn").addEventListener("click", () => {
+  showLanding();
+});
+
+document.getElementById("refreshBtn").addEventListener("click", async () => {
+  await loadDaily();
+  applyCategoryFilter(currentCategory);
+});
 
 document.getElementById("nextBtn").addEventListener("click", () => {
   if (!filteredItems.length) return;
@@ -136,6 +191,9 @@ document.getElementById("nextBtn").addEventListener("click", () => {
   renderCurrent();
 });
 
-document.getElementById("categorySelect").addEventListener("change", applyCategoryFilter);
+document.getElementById("categorySelect").addEventListener("change", (e) => {
+  applyCategoryFilter(e.target.value);
+});
 
-loadDaily();
+// Initial landing background
+showLanding();
