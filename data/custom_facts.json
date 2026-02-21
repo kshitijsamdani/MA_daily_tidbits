@@ -5,8 +5,16 @@
       "summary": "Happyyyy birthdayyyyy high maintenance. Here's a fact: You are now one year closer to losing the weight bet. And here's another: Ennaku unnai romba pudichirukku. Hehehe.",
       "category": "For you specially",
       "link": "",
-      "image": "assets/category/foryou.jpg",
-      "wiki_url": ""
+      "images": [
+        "assets/category/foryou.jpg",
+        "assets/category/foryou2.jpg",
+        "assets/category/foryou3.jpg"
+      ],
+      "wiki_url": "",
+      "audio": {
+        "src": "assets/audio/song1_ShowMeLove.mp3",
+        "title": "Party vibes 🎵"
+      }
     }
   ]
 }
