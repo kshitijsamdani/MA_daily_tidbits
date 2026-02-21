@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21 12:52 UTC",
+  "date": "2026-02-21 12:58 UTC",
   "items": [
     {
       "title": "Generative AI analyzes medical data faster than human research teams",
@@ -46,6 +46,14 @@
       "summary": "Write your made-up fact here in 1–3 lines.",
       "link": "https://example.com",
       "image": "https://source.unsplash.com/1600x900/?motivation,stars",
+      "wiki_url": "",
+      "category": "For you specially"
+    },
+    {
+      "title": "For you specially: The Universe has a secret rhythm",
+      "summary": "Made-up fun fact: If you map your daily habits to cycles, you can build a personal 'resonance schedule' that boosts focus.",
+      "link": "",
+      "image": "https://source.unsplash.com/1600x900/?galaxy,patterns",
       "wiki_url": "",
       "category": "For you specially"
     }
