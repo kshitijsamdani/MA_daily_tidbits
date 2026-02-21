@@ -24,7 +24,15 @@ window.addEventListener("DOMContentLoaded", () => {
 
   function normalizeItem(x) {
     const category = (x.category || "Science").trim() || "Science";
-    const image = (x.image && x.image.trim()) ? x.image.trim() : categoryImage(category);
+  
+    // ✅ Force category images for all normal RSS facts
+    // ✅ Only allow custom image for "For you specially"
+    const hasCustom = (x.image && x.image.trim());
+    const image =
+      (category === "For you specially" && hasCustom)
+        ? x.image.trim()
+        : categoryImage(category);
+  
     return { ...x, category, image };
   }
 
@@ -86,7 +94,7 @@ window.addEventListener("DOMContentLoaded", () => {
     media.className = "fact-media";
 
     const img = document.createElement("img");
-    img.src = item.image;
+    img.src = item.image + "?v=" + Date.now();
     img.alt = item.title || "Fact image";
 
     // Detect portrait to avoid cropping for portrait photos
