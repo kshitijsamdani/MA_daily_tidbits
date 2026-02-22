@@ -3,12 +3,13 @@ import re
 from datetime import datetime, timezone
 from urllib.parse import quote
 import random
+import time
 
 import requests
 import feedparser
 
 # -----------------------------
-# Feeds (keep ScienceDaily + add a few more variety sources)
+# Feeds (science-y + variety)
 # -----------------------------
 FEEDS = [
     "https://www.sciencedaily.com/rss/top/science.xml",
@@ -16,8 +17,6 @@ FEEDS = [
     "https://www.sciencedaily.com/rss/top/health.xml",
     "https://www.sciencedaily.com/rss/top/environment.xml",
     "https://www.sciencedaily.com/rss/top/society.xml",
-
-    # extra variety (still science-y)
     "https://www.sciencedaily.com/rss/strange_offbeat.xml",
     "https://phys.org/rss-feed/",
     "https://news.mit.edu/rss",
@@ -26,6 +25,13 @@ FEEDS = [
 WIKI_OPENSEARCH = "https://en.wikipedia.org/w/api.php"
 WIKI_SUMMARY = "https://en.wikipedia.org/api/rest_v1/page/summary/"
 CUSTOM_FACTS_PATH = "data/custom_facts.json"
+
+# IMPORTANT: Wikipedia REST often expects a descriptive User-Agent.
+# This is critical for GitHub Actions reliability.
+HTTP_HEADERS = {
+    "accept": "application/json",
+    "user-agent": "MA_daily_tidbits/1.0 (https://github.com/kshitijsamdani/MA_daily_tidbits; contact: kshitijsamdani)",
+}
 
 TARGET_CATEGORIES = [
     "AI",
@@ -82,45 +88,7 @@ def categorize(title: str, summary: str) -> str:
     return "Science"
 
 # -----------------------------
-# Wikipedia lookup (kept)
-# -----------------------------
-def wiki_best_image_and_url(query: str):
-    try:
-        params = {
-            "action": "opensearch",
-            "search": query,
-            "limit": 1,
-            "namespace": 0,
-            "format": "json",
-        }
-        r = requests.get(WIKI_OPENSEARCH, params=params, timeout=12)
-        r.raise_for_status()
-        data = r.json()
-
-        titles = data[1] if len(data) > 1 else []
-        urls = data[3] if len(data) > 3 else []
-        if not titles:
-            return "", ""
-
-        title = titles[0]
-        wiki_url = urls[0] if urls else f"https://en.wikipedia.org/wiki/{quote(title.replace(' ', '_'))}"
-
-        s = requests.get(
-            WIKI_SUMMARY + quote(title),
-            timeout=12,
-            headers={"accept": "application/json"},
-        )
-        if s.status_code != 200:
-            return "", wiki_url
-
-        summary = s.json()
-        thumb = summary.get("thumbnail", {}).get("source", "")
-        return thumb, wiki_url
-    except Exception:
-        return "", ""
-
-# -----------------------------
-# KEEP AS-IS: your custom hook/question (do not change)
+# KEEP AS-IS: your custom hook/question (unchanged)
 # -----------------------------
 def make_hook(category: str) -> str:
     starters = {
@@ -179,7 +147,6 @@ def load_custom_facts():
         for x in items:
             category = (x.get("category", "For you specially") or "").strip() or "For you specially"
 
-            # allow either image (string) or images (array)
             image = (x.get("image", "") or "").strip()
             images = x.get("images", [])
             if not isinstance(images, list):
@@ -189,7 +156,6 @@ def load_custom_facts():
             if (not images) and image:
                 images = [image]
 
-            # audio object
             audio = x.get("audio", None)
             if not isinstance(audio, dict):
                 audio = None
@@ -220,7 +186,7 @@ def load_custom_facts():
         return []
 
 # -----------------------------
-# NEW: stronger relevance scoring (fixes wrong categories)
+# NEW: relevance scoring (better category pick)
 # -----------------------------
 CATEGORY_KEYWORDS = {
     "AI": [
@@ -262,13 +228,12 @@ def relevance_score(category: str, title: str, summary: str) -> int:
     for k in CATEGORY_KEYWORDS.get(category, []):
         if k in text:
             score += 2
-    # small bonus if the categorizer already put it in that category
     if categorize(title, summary) == category:
         score += 1
     return score
 
 # -----------------------------
-# NEW: simple fun facts fallback (Wikipedia “quick fact”)
+# Wikipedia fun-fact seeds + final fallback facts (guaranteed)
 # -----------------------------
 WIKI_SEEDS = {
     "AI": ["Transformer (machine learning)", "Backpropagation", "Convolutional neural network", "AlphaFold", "Large language model"],
@@ -281,59 +246,126 @@ WIKI_SEEDS = {
     "Science": ["Tardigrade", "Periodic table", "Penicillin", "Photosynthesis", "DNA"],
 }
 
+# Absolute last-resort facts (no network needed)
+FALLBACK_FUN_FACTS = {
+    "AI": [
+        "Did you know? A neural network ‘learns’ by adjusting millions of tiny numbers called weights.",
+        "Did you know? The same transformer idea powers many chatbots and translation systems.",
+    ],
+    "Physics": [
+        "Did you know? If the Sun suddenly vanished, Earth would keep orbiting for about 8 minutes before ‘noticing’.",
+        "Did you know? Absolute zero is the coldest possible temperature — but it’s practically unreachable.",
+    ],
+    "Entrepreneurship": [
+        "Did you know? Many startups fail not due to tech, but because they build something nobody wants.",
+        "Did you know? A ‘network effect’ means a product gets more valuable as more people use it.",
+    ],
+    "Space": [
+        "Did you know? Venus rotates so slowly that a day on Venus is longer than its year.",
+        "Did you know? You can fit over 1 million Earths inside the Sun by volume (roughly).",
+    ],
+    "Biology": [
+        "Did you know? Your body has roughly as many bacterial cells as human cells (order-of-magnitude).",
+        "Did you know? Octopuses have blue blood because it uses copper-based hemocyanin.",
+    ],
+    "Health": [
+        "Did you know? Your circadian rhythm affects alertness, digestion, and even body temperature.",
+        "Did you know? Placebos can cause real effects — especially on symptoms like pain and nausea.",
+    ],
+    "Environment": [
+        "Did you know? A single mature tree can host hundreds of species of insects, fungi, and microbes.",
+        "Did you know? Most of Earth’s oxygen is produced by ocean phytoplankton, not forests.",
+    ],
+    "Science": [
+        "Did you know? Tardigrades can survive extreme cold, radiation, and even the vacuum of space (for a while).",
+        "Did you know? Penicillin was discovered after mold accidentally contaminated a petri dish.",
+    ],
+}
+
+def wiki_page_url_from_title(title: str) -> str:
+    return f"https://en.wikipedia.org/wiki/{quote(title.replace(' ', '_'))}"
+
+def fetch_wiki_summary(title: str) -> dict | None:
+    # retry a bit (handles transient 429/5xx)
+    for attempt in range(3):
+        try:
+            r = requests.get(WIKI_SUMMARY + quote(title), timeout=15, headers=HTTP_HEADERS)
+            if r.status_code in (429, 500, 502, 503, 504):
+                time.sleep(1.25 * (attempt + 1))
+                continue
+            if r.status_code != 200:
+                return None
+            data = r.json()
+            return data if isinstance(data, dict) else None
+        except Exception:
+            time.sleep(1.25 * (attempt + 1))
+    return None
+
 def wiki_fun_fact(category: str):
     page = random.choice(WIKI_SEEDS.get(category, WIKI_SEEDS["Science"]))
-    try:
-        r = requests.get(WIKI_SUMMARY + quote(page), timeout=12, headers={"accept": "application/json"})
-        r.raise_for_status()
-        data = r.json()
 
-        title = (data.get("title") or page).strip()
-        extract = (data.get("extract") or "").strip()
-        fun = first_two_sentences(extract) or extract
-        fun = fun.strip()
+    data = fetch_wiki_summary(page)
+    if not data:
+        return fun_fact_offline(category)
 
-        # Make it "simple fun fact" style
-        summary = f"Did you know? {fun}" if fun else f"Did you know? Here’s a quick fact about {title}."
+    # handle disambiguation / missing extract
+    extract = (data.get("extract") or "").strip()
+    if not extract or data.get("type") == "disambiguation":
+        # try another seed once
+        page2 = random.choice(WIKI_SEEDS.get(category, WIKI_SEEDS["Science"]))
+        data2 = fetch_wiki_summary(page2)
+        if data2 and (data2.get("extract") or "").strip() and data2.get("type") != "disambiguation":
+            data = data2
+            extract = (data.get("extract") or "").strip()
+        else:
+            return fun_fact_offline(category)
 
-        # link
-        wiki_url = ""
-        content_urls = data.get("content_urls", {})
-        if isinstance(content_urls, dict):
-            desktop = content_urls.get("desktop", {})
-            if isinstance(desktop, dict):
-                wiki_url = (desktop.get("page") or "").strip()
-        if not wiki_url:
-            wiki_url = f"https://en.wikipedia.org/wiki/{quote(title.replace(' ', '_'))}"
+    title = (data.get("title") or page).strip()
+    fun = first_two_sentences(extract) or extract
+    fun = fun.strip()
 
-        return {
-            "title": f"Quick fact: {title}",
-            "summary": summary,
-            "link": wiki_url,
-            "image": "",       # keep images disabled from wiki
-            "wiki_url": wiki_url,
-            "category": category,
-            "hook": make_hook(category),        # your custom hook
-            "question": make_question(category),# your custom question
-            "images": [],
-            "audio": None,
-        }
-    except Exception:
-        return {
-            "title": f"Quick fact ({category})",
-            "summary": "Did you know? Science is happening everywhere — check back tomorrow for a fresh one.",
-            "link": "",
-            "image": "",
-            "wiki_url": "",
-            "category": category,
-            "hook": make_hook(category),
-            "question": make_question(category),
-            "images": [],
-            "audio": None,
-        }
+    summary = f"Did you know? {fun}" if fun else random.choice(FALLBACK_FUN_FACTS.get(category, FALLBACK_FUN_FACTS["Science"]))
+
+    # best link
+    wiki_url = ""
+    content_urls = data.get("content_urls", {})
+    if isinstance(content_urls, dict):
+        desktop = content_urls.get("desktop", {})
+        if isinstance(desktop, dict):
+            wiki_url = (desktop.get("page") or "").strip()
+    if not wiki_url:
+        wiki_url = wiki_page_url_from_title(title)
+
+    return {
+        "title": f"Quick fact: {title}",
+        "summary": summary,
+        "link": wiki_url,
+        "image": "",  # keep wiki image disabled
+        "wiki_url": wiki_url,
+        "category": category,
+        "hook": make_hook(category),
+        "question": make_question(category),
+        "images": [],
+        "audio": None,
+    }
+
+def fun_fact_offline(category: str):
+    text = random.choice(FALLBACK_FUN_FACTS.get(category, FALLBACK_FUN_FACTS["Science"]))
+    return {
+        "title": f"Quick fact: {category}",
+        "summary": text,
+        "link": "",
+        "image": "",
+        "wiki_url": "",
+        "category": category,
+        "hook": make_hook(category),
+        "question": make_question(category),
+        "images": [],
+        "audio": None,
+    }
 
 # -----------------------------
-# RSS parsing (kept, but used as optional candidates now)
+# RSS parsing -> candidates
 # -----------------------------
 def parse_candidates():
     seen_links = set()
@@ -355,16 +387,13 @@ def parse_candidates():
 
             category = categorize(title, summary)
 
-            image, wiki_url = wiki_best_image_and_url(title)
-            image = ""  # you intentionally disabled wiki image
-
             candidates.append(
                 {
                     "title": title,
                     "summary": summary,
                     "link": link,
-                    "image": image,
-                    "wiki_url": wiki_url,
+                    "image": "",
+                    "wiki_url": "",
                     "category": category,
                     "hook": make_hook(category),
                     "question": make_question(category),
@@ -376,14 +405,14 @@ def parse_candidates():
     return candidates
 
 # -----------------------------
-# NEW: pick best per category (no forced relabeling) + fun fact fallback
+# Pick best per category + fun fact fallback
 # -----------------------------
 def pick_one_per_category(candidates):
     picked = []
     used_links = set()
 
-    # If RSS isn't clearly relevant, use fun fact instead (keeps it simple + correct)
-    MIN_SCORE = 4  # raise to use more Wikipedia facts; lower to use more RSS
+    # strict threshold -> forces fun facts unless RSS is very relevant
+    MIN_SCORE = 4
 
     for cat in TARGET_CATEGORIES:
         best = None
@@ -398,14 +427,12 @@ def pick_one_per_category(candidates):
                 best = x
 
         if best and best_score >= MIN_SCORE:
-            # lock it to the category we selected + align hook/question
             best["category"] = cat
             best["hook"] = make_hook(cat)
             best["question"] = make_question(cat)
             picked.append(best)
             used_links.add(best["link"])
         else:
-            # simple fun fact fallback (always category-correct)
             picked.append(wiki_fun_fact(cat))
 
     return picked
@@ -416,7 +443,6 @@ def pick_one_per_category(candidates):
 def main():
     candidates = parse_candidates()
     items = pick_one_per_category(candidates)
-
     custom_items = load_custom_facts()
 
     out = {
