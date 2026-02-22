@@ -106,51 +106,27 @@ def make_hook(category: str) -> str:
     starters = {
         "AI": [
             "FYI: AI stands for Artificial Intelligence, not Another Idli",
-            # "What if a machine could spot patterns humans miss—instantly?",
-            # "Imagine turning messy data into answers in minutes…",
-            # "This sounds like sci-fi, but it’s already happening:",
         ],
         "Physics": [
             "FYI: Physics is the most complex, difficult and interesting subject... second only to you",
-            # "A rule of reality might be wobbling—here’s why:",
-            # "This is the kind of physics that makes you question time itself:",
-            # "Tiny particles, massive consequences:",
         ],
         "Entrepreneurship": [
             "FYI: Brainpowerzzz has the potential to become a successful startup",
-            # "A small tweak could change how industries work:",
-            # "This is the kind of idea founders build companies around:",
-            # "One insight → a whole new market:",
         ],
         "Space": [
             "FYI: No one bends space more than you do",
-            # "Something out there is practically invisible… and we still found it:",
-            # "Space just pulled another magic trick:",
-            # "Astronomers followed cosmic breadcrumbs and discovered this:",
         ],
         "Biology": [
             "FYI: You have 86 billion neurons. Activate atleast one now and then",
-            # "Your cells may be doing something surprising right now:",
-            # "Nature built a trick we’re only now noticing:",
-            # "Biology just revealed a hidden mechanism:",
         ],
         "Health": [
             "FYI: Eating junk tasty food alone is injurious to mental health of others. #ShareFoodShareHunger",
-            # "A familiar bug may be linked to something much bigger:",
-            # "This discovery could change how we think about disease:",
-            # "Doctors have suspected it—now there’s evidence:",
         ],
         "Environment": [
             "FYI: Don't pluck flowers",
-            # "The planet is running an experiment—and we’re reading the results:",
-            # "A small change in nature can ripple into huge effects:",
-            # "This is a climate clue hiding in plain sight:",
         ],
         "Science": [
             "FYI: You are in my conScience all the time :)",
-            # "Here’s a weird scientific twist you won’t unsee:",
-            # "This discovery is unexpectedly elegant:",
-            # "Science found a shortcut—kind of:",
         ],
     }
     pool = starters.get(category, starters["Science"])
@@ -173,21 +149,50 @@ def load_custom_facts():
     try:
         with open(CUSTOM_FACTS_PATH, "r", encoding="utf-8") as f:
             data = json.load(f)
+
         items = data.get("items", [])
         out = []
+
         for x in items:
+            category = (x.get("category", "For you specially") or "").strip() or "For you specially"
+
+            # NEW: allow either image (string) or images (array)
+            image = (x.get("image", "") or "").strip()
+            images = x.get("images", [])
+            if not isinstance(images, list):
+                images = []
+            images = [str(p).strip() for p in images if str(p).strip()]
+
+            # If user only gave image, convert to images[0] for convenience
+            if (not images) and image:
+                images = [image]
+
+            # NEW: audio object
+            audio = x.get("audio", None)
+            if not isinstance(audio, dict):
+                audio = None
+            else:
+                src = (audio.get("src", "") or "").strip()
+                title = (audio.get("title", "") or "").strip()
+                audio = {"src": src, "title": title} if src else None
+
             out.append(
                 {
                     "title": (x.get("title", "") or "").strip(),
                     "summary": (x.get("summary", "") or "").strip(),
                     "link": (x.get("link", "") or "").strip(),
-                    "image": (x.get("image", "") or "").strip(),
                     "wiki_url": (x.get("wiki_url", "") or "").strip(),
-                    "category": (x.get("category", "For you specially") or "").strip() or "For you specially",
+                    "category": category,
                     "hook": (x.get("hook", "") or "").strip(),
                     "question": (x.get("question", "") or "").strip(),
+
+                    # keep both for backward compatibility
+                    "image": image,
+                    "images": images,
+                    "audio": audio,
                 }
             )
+
         return out
     except FileNotFoundError:
         return []
@@ -213,7 +218,7 @@ def parse_candidates():
             category = categorize(title, summary)
 
             image, wiki_url = wiki_best_image_and_url(title)
-            image = ""
+            image = ""  # you intentionally disabled wiki image
 
             candidates.append(
                 {
@@ -225,6 +230,10 @@ def parse_candidates():
                     "category": category,
                     "hook": make_hook(category),
                     "question": make_question(category),
+
+                    # keep keys consistent
+                    "images": [],
+                    "audio": None,
                 }
             )
 
