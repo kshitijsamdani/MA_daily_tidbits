@@ -1,10 +1,10 @@
 {
-  "date": "2026-02-22 00:35 UTC",
+  "date": "2026-02-22 02:54 UTC",
   "items": [
     {
-      "title": "Generative AI analyzes medical data faster than human research teams",
-      "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
+      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+      "summary": "Qubits, the heart of quantum computers, can change performance in fractions of a second — but until now, scientists couldn’t see it happening. Researchers at NBI have built a real-time monitoring system that tracks these rapid fluctuations about 100 times faster than previous methods.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
       "image": "",
       "wiki_url": "",
       "category": "AI",
@@ -14,9 +14,9 @@
       "audio": null
     },
     {
-      "title": "James Webb Space Telescope captures strange magnetic forces warping Uranus",
-      "summary": "For the first time, scientists have mapped Uranus’s upper atmosphere in three dimensions, tracking temperatures and charged particles up to 5,000 kilometers above the clouds. Webb’s sharp vision revealed glowing auroral bands and unexpected dark regions shaped by the planet’s wildly tilted magnetic field.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000303.htm",
+      "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
+      "summary": "Astronomers have uncovered one of the most mysterious galaxies ever found — a dim, ghostly object called CDG-2 that is almost entirely made of dark matter. Located 300 million light-years away in the Perseus galaxy cluster, it was discovered in an unusual way: not by its stars, but by four tightly packed globular clusters acting like cosmic breadcrumbs.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
       "image": "",
       "wiki_url": "",
       "category": "Physics",
@@ -26,9 +26,21 @@
       "audio": null
     },
     {
-      "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
-      "summary": "Astronomers have uncovered one of the most mysterious galaxies ever found — a dim, ghostly object called CDG-2 that is almost entirely made of dark matter. Located 300 million light-years away in the Perseus galaxy cluster, it was discovered in an unusual way: not by its stars, but by four tightly packed globular clusters acting like cosmic breadcrumbs.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
+      "title": "Your fireplace may be doing more harm than you think",
+      "summary": "Home fireplaces and wood stoves are quietly driving a large share of winter air pollution, even though only a small number of households rely on wood heat. Researchers found that wood smoke accounts for over one-fifth of Americans’ winter exposure to dangerous fine particles linked to heart disease and early death.",
+      "link": "https://www.sciencedaily.com/releases/2026/01/260126075839.htm",
+      "image": "",
+      "wiki_url": "",
+      "category": "Entrepreneurship",
+      "hook": "FYI: Brainpowerzzz has the potential to become a successful startup",
+      "question": "Am I correct?",
+      "images": [],
+      "audio": null
+    },
+    {
+      "title": "James Webb Space Telescope captures strange magnetic forces warping Uranus",
+      "summary": "For the first time, scientists have mapped Uranus’s upper atmosphere in three dimensions, tracking temperatures and charged particles up to 5,000 kilometers above the clouds. Webb’s sharp vision revealed glowing auroral bands and unexpected dark regions shaped by the planet’s wildly tilted magnetic field.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000303.htm",
       "image": "",
       "wiki_url": "",
       "category": "Space",
@@ -38,9 +50,9 @@
       "audio": null
     },
     {
-      "title": "Scientists discover why high altitude protects against diabetes",
-      "summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
+      "title": "Scientists uncover oxygen-loving ancestor of all complex life",
+      "summary": "For decades, scientists have believed that complex life began when two very different microbes joined forces, eventually giving rise to plants, animals, and fungi. But one major puzzle remained: how could these organisms have met if one depended on oxygen and the other supposedly lived without it?",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260220010825.htm",
       "image": "",
       "wiki_url": "",
       "category": "Biology",
@@ -50,9 +62,9 @@
       "audio": null
     },
     {
-      "title": "Scientists reveal why human language isn’t like computer code",
-      "summary": "Human language may seem messy and inefficient compared to the ultra-compact strings of ones and zeros used by computers—but our brains actually prefer it that way. New research reveals that while digital-style encoding could theoretically compress information more tightly, it would demand far more mental effort from both speaker and listener.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260219040811.htm",
+      "title": "Scientists discover why high altitude protects against diabetes",
+      "summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
       "image": "",
       "wiki_url": "",
       "category": "Health",
@@ -62,9 +74,9 @@
       "audio": null
     },
     {
-      "title": "A spinning gyroscope could finally unlock ocean wave energy",
-      "summary": "Ocean waves are a vast and steady source of renewable energy, but capturing their power efficiently has long frustrated engineers. A researcher at The University of Osaka has now explored a bold new approach: a gyroscopic wave energy converter that uses a spinning flywheel inside a floating structure to turn wave motion into electricity.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260218031554.htm",
+      "title": "Scientists just mapped mysterious earthquakes deep inside Earth",
+      "summary": "Scientists at Stanford have unveiled the first-ever global map of rare earthquakes that rumble deep within Earth’s mantle rather than its crust. Long debated and notoriously difficult to confirm, these elusive quakes turn out to cluster in regions like the Himalayas and near the Bering Strait.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260219040818.htm",
       "image": "",
       "wiki_url": "",
       "category": "Environment",
@@ -74,26 +86,14 @@
       "audio": null
     },
     {
-      "title": "“Celtic curse” hotspots found in Scotland and Ireland with 1 in 54 at risk",
-      "summary": "Researchers have mapped the genetic risk of hemochromatosis across the UK and Ireland for the first time, uncovering striking hotspots in north-west Ireland and the Outer Hebrides. In some regions, around one in 60 people carry the high-risk gene variant linked to iron overload.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000332.htm",
+      "title": "Generative AI analyzes medical data faster than human research teams",
+      "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
       "image": "",
       "wiki_url": "",
       "category": "Science",
       "hook": "FYI: You are in my conScience all the time :)",
       "question": "You didn't answer. How's my rizz game?",
-      "images": [],
-      "audio": null
-    },
-    {
-      "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
-      "summary": "A common bacterium best known for causing pneumonia and sinus infections may also play a surprising role in Alzheimer’s disease. Researchers found that Chlamydia pneumoniae can invade the retina and brain, where it sparks inflammation, nerve cell death, and the buildup of amyloid-beta—the hallmark protein linked to Alzheimer’s.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
-      "image": "",
-      "wiki_url": "",
-      "category": "Entrepreneurship",
-      "hook": "FYI: Brainpowerzzz has the potential to become a successful startup",
-      "question": "Am I correct?",
       "images": [],
       "audio": null
     },
