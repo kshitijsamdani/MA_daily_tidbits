@@ -5,13 +5,18 @@ window.addEventListener("DOMContentLoaded", () => {
   let currentCategory = "All";
   let revealed = false;
 
+  // Cleanup handles for slideshow/audio on rerender
+  let mediaCleanup = null;
+
   // ---------- FUN: streak tracking ----------
   const STREAK_KEY = "ma_tidbits_streak";
   const LAST_DATE_KEY = "ma_tidbits_last_date";
 
   function todayISO() {
     const d = new Date();
-    return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(
+      d.getDate()
+    ).padStart(2, "0")}`;
   }
 
   function updateStreakUI() {
@@ -26,7 +31,6 @@ window.addEventListener("DOMContentLoaded", () => {
     const t = todayISO();
     if (last === t) return;
 
-    // If last date was exactly yesterday, streak++ else reset to 1
     const lastDate = last ? new Date(last + "T00:00:00") : null;
     const today = new Date(t + "T00:00:00");
 
@@ -82,7 +86,7 @@ window.addEventListener("DOMContentLoaded", () => {
         p.x += p.vx;
         p.y += p.vy;
         p.rot += p.vr;
-        p.vy += 0.03; // gravity
+        p.vy += 0.03;
         p.life -= 1;
 
         ctx.save();
@@ -93,10 +97,9 @@ window.addEventListener("DOMContentLoaded", () => {
         ctx.restore();
       }
 
-      const alive = pieces.some(p => p.life > 0 && p.y < confettiCanvas.height + 40);
-      if (frame < 140 && alive) {
-        requestAnimationFrame(tick);
-      } else {
+      const alive = pieces.some((p) => p.life > 0 && p.y < confettiCanvas.height + 40);
+      if (frame < 140 && alive) requestAnimationFrame(tick);
+      else {
         ctx.clearRect(0, 0, confettiCanvas.width, confettiCanvas.height);
         confettiCanvas.classList.add("hidden");
       }
@@ -108,15 +111,15 @@ window.addEventListener("DOMContentLoaded", () => {
   function categoryImage(category) {
     const c = (category || "Science").trim();
     const map = {
-      "All": "assets/category/all.jpg",
-      "AI": "assets/category/ai.jpg",
-      "Physics": "assets/category/physics.jpg",
-      "Entrepreneurship": "assets/category/entrepreneurship.jpg",
-      "Space": "assets/category/space.jpg",
-      "Biology": "assets/category/biology.jpg",
-      "Health": "assets/category/health.jpg",
-      "Environment": "assets/category/environment.jpg",
-      "Science": "assets/category/science.jpg",
+      All: "assets/category/all.jpg",
+      AI: "assets/category/ai.jpg",
+      Physics: "assets/category/physics.jpg",
+      Entrepreneurship: "assets/category/entrepreneurship.jpg",
+      Space: "assets/category/space.jpg",
+      Biology: "assets/category/biology.jpg",
+      Health: "assets/category/health.jpg",
+      Environment: "assets/category/environment.jpg",
+      Science: "assets/category/science.jpg",
       "For you specially": "assets/category/foryou.jpg",
     };
     return map[c] || map["Science"];
@@ -124,23 +127,42 @@ window.addEventListener("DOMContentLoaded", () => {
 
   function normalizeItem(x) {
     const category = (x.category || "Science").trim() || "Science";
-  
-    // Always use category image for RSS facts
-    // Only allow custom image for "For you specially"
-    const hasCustom = (x.image && x.image.trim());
-  
+
+    // Allow custom slideshow/audio ONLY for "For you specially"
+    const isForYou = category === "For you specially";
+
+    const rawImages = Array.isArray(x.images) ? x.images : [];
+    const images = rawImages.map((p) => String(p || "").trim()).filter(Boolean);
+
+    const hasCustomSingle = x.image && String(x.image).trim();
+    const fallbackSingle = categoryImage(category);
+
+    // what we store:
+    // - image: single image used by normal categories
+    // - images: array used only by For you
     const image =
-      (category === "For you specially" && hasCustom)
-        ? x.image.trim()
-        : categoryImage(category);
-  
+      isForYou && hasCustomSingle ? String(x.image).trim() : fallbackSingle;
+
+    const audio =
+      isForYou && x.audio && typeof x.audio === "object"
+        ? {
+            src: String(x.audio.src || "").trim(),
+            title: String(x.audio.title || "").trim(),
+          }
+        : null;
+
     return {
       ...x,
       category,
       image,
+      images: isForYou ? images : [],
+      audio: audio && audio.src ? audio : null,
       hook: (x.hook || "").trim(),
       question: (x.question || "").trim(),
       summary: (x.summary || "").trim(),
+      title: (x.title || "").trim(),
+      link: (x.link || "").trim(),
+      wiki_url: (x.wiki_url || "").trim(),
     };
   }
 
@@ -161,9 +183,7 @@ window.addEventListener("DOMContentLoaded", () => {
     const chosen = categoryValue || document.getElementById("categorySelect").value;
     currentCategory = chosen;
 
-    filteredItems = (chosen === "All")
-      ? [...allItems]
-      : allItems.filter(x => x.category === chosen);
+    filteredItems = chosen === "All" ? [...allItems] : allItems.filter((x) => x.category === chosen);
 
     currentIndex = 0;
     revealed = false;
@@ -183,21 +203,19 @@ window.addEventListener("DOMContentLoaded", () => {
     `;
   }
 
-  // ---------- Fun micro-copy (no repeated title) ----------
   function funTeaser(item) {
-    // If build_daily already provides hook, use it.
     if (item.hook) return item.hook;
 
     const cat = item.category || "Science";
     const starters = {
-      "AI": "A model just did something that feels… unfairly fast.",
-      "Physics": "Reality might have a new footnote.",
-      "Entrepreneurship": "This smells like a startup thesis.",
-      "Space": "The universe left a clue. We found it.",
-      "Biology": "Your body has hidden modes. Here’s one.",
-      "Health": "This could change how we detect disease.",
-      "Environment": "Nature is shifting, and the data shows it.",
-      "Science": "A small result with big implications.",
+      AI: "A model just did something that feels… unfairly fast.",
+      Physics: "Reality might have a new footnote.",
+      Entrepreneurship: "This smells like a startup thesis.",
+      Space: "The universe left a clue. We found it.",
+      Biology: "Your body has hidden modes. Here’s one.",
+      Health: "This could change how we detect disease.",
+      Environment: "Nature is shifting, and the data shows it.",
+      Science: "A small result with big implications.",
       "For you specially": "A tiny note, just for you 💜",
     };
     return starters[cat] || starters["Science"];
@@ -210,7 +228,156 @@ window.addEventListener("DOMContentLoaded", () => {
     bar.style.width = `${percent}%`;
   }
 
+  // ---------- For You: slideshow ----------
+  function mountSlideshow(mediaEl, images, fallbackImage) {
+    const pics = (images && images.length ? images : [fallbackImage]).slice();
+    if (!pics.length) return () => {};
+
+    const wrap = document.createElement("div");
+    wrap.className = "slideshow";
+
+    const imgA = document.createElement("img");
+    const imgB = document.createElement("img");
+    imgA.className = "slide is-on";
+    imgB.className = "slide";
+
+    imgA.src = pics[0] + "?v=" + Date.now();
+    imgA.alt = "For you image";
+
+    imgB.alt = "For you image";
+
+    // portrait detection helper
+    function markPortrait(img) {
+      img.addEventListener("load", () => {
+        img.classList.toggle("portrait", img.naturalHeight > img.naturalWidth);
+      });
+    }
+    markPortrait(imgA);
+    markPortrait(imgB);
+
+    wrap.appendChild(imgA);
+    wrap.appendChild(imgB);
+    mediaEl.appendChild(wrap);
+
+    let idx = 0;
+    let showingA = true;
+    let timer = null;
+
+    function tick() {
+      if (pics.length <= 1) return;
+
+      const nextIdx = (idx + 1) % pics.length;
+      const incoming = showingA ? imgB : imgA;
+      const outgoing = showingA ? imgA : imgB;
+
+      incoming.src = pics[nextIdx] + "?v=" + Date.now();
+
+      // crossfade
+      outgoing.classList.remove("is-on");
+      incoming.classList.add("is-on");
+
+      idx = nextIdx;
+      showingA = !showingA;
+    }
+
+    // start rotation
+    timer = window.setInterval(tick, 2600);
+
+    return () => {
+      if (timer) window.clearInterval(timer);
+    };
+  }
+
+  // ---------- For You: audio player ----------
+  function mountAudioPlayer(parentEl, audioObj) {
+    if (!audioObj || !audioObj.src) return () => {};
+
+    const wrap = document.createElement("div");
+    wrap.className = "audio-player";
+
+    const label = document.createElement("div");
+    label.className = "audio-title";
+    label.textContent = audioObj.title ? audioObj.title : "A lil song 🎶";
+
+    const row = document.createElement("div");
+    row.className = "audio-controls";
+
+    const btn = document.createElement("button");
+    btn.className = "btn audio-btn";
+    btn.type = "button";
+    btn.textContent = "▶ Play";
+
+    const volWrap = document.createElement("div");
+    volWrap.className = "vol-wrap";
+
+    const volIcon = document.createElement("span");
+    volIcon.className = "vol-icon";
+    volIcon.textContent = "🔊";
+
+    const vol = document.createElement("input");
+    vol.type = "range";
+    vol.min = "0";
+    vol.max = "1";
+    vol.step = "0.01";
+    vol.value = "0.65";
+    vol.className = "vol";
+
+    volWrap.appendChild(volIcon);
+    volWrap.appendChild(vol);
+
+    const audio = document.createElement("audio");
+    audio.src = audioObj.src;
+    audio.preload = "metadata";
+    audio.volume = Number(vol.value);
+
+    btn.addEventListener("click", async () => {
+      try {
+        if (audio.paused) {
+          await audio.play();
+          btn.textContent = "⏸ Pause";
+        } else {
+          audio.pause();
+          btn.textContent = "▶ Play";
+        }
+      } catch (e) {
+        // autoplay restrictions etc.
+        btn.textContent = "▶ Play";
+      }
+    });
+
+    vol.addEventListener("input", () => {
+      audio.volume = Number(vol.value);
+      if (audio.volume === 0) volIcon.textContent = "🔇";
+      else if (audio.volume < 0.5) volIcon.textContent = "🔉";
+      else volIcon.textContent = "🔊";
+    });
+
+    audio.addEventListener("ended", () => {
+      btn.textContent = "▶ Play";
+    });
+
+    row.appendChild(btn);
+    row.appendChild(volWrap);
+
+    wrap.appendChild(label);
+    wrap.appendChild(row);
+
+    parentEl.appendChild(wrap);
+    parentEl.appendChild(audio);
+
+    return () => {
+      try {
+        audio.pause();
+        audio.src = "";
+      } catch {}
+    };
+  }
+
   function renderCurrent() {
+    // cleanup previous slideshow/audio if any
+    if (typeof mediaCleanup === "function") mediaCleanup();
+    mediaCleanup = null;
+
     const viewer = document.getElementById("viewer");
     viewer.innerHTML = "";
 
@@ -222,30 +389,40 @@ window.addEventListener("DOMContentLoaded", () => {
     currentIndex = ((currentIndex % filteredItems.length) + filteredItems.length) % filteredItems.length;
     const item = filteredItems[currentIndex];
 
-    // Update progress
     setProgress();
 
     const card = document.createElement("article");
     card.className = "fact-card";
 
-    // Media
     const media = document.createElement("div");
     media.className = "fact-media";
 
-    const img = document.createElement("img");
-    img.src = item.image + "?v=" + Date.now();
-    img.alt = item.title || "Fact image";
-    
-    // Detect portrait orientation to avoid cropping
-    img.addEventListener("load", () => {
-      if (img.naturalHeight > img.naturalWidth) {
-        img.classList.add("portrait");
-      }
-    });
+    const isForYou = item.category === "For you specially";
 
-    media.appendChild(img);
+    if (isForYou) {
+      // slideshow for For You
+      const cleanupSlide = mountSlideshow(media, item.images, item.image);
 
-    // Body
+      // optional audio player
+      const cleanupAudio = mountAudioPlayer(media, item.audio);
+
+      mediaCleanup = () => {
+        cleanupSlide && cleanupSlide();
+        cleanupAudio && cleanupAudio();
+      };
+    } else {
+      // normal single image for all other categories
+      const img = document.createElement("img");
+      img.src = item.image + "?v=" + Date.now();
+      img.alt = item.title || "Fact image";
+
+      img.addEventListener("load", () => {
+        if (img.naturalHeight > img.naturalWidth) img.classList.add("portrait");
+      });
+
+      media.appendChild(img);
+    }
+
     const body = document.createElement("div");
     body.className = "fact-body";
 
@@ -257,12 +434,10 @@ window.addEventListener("DOMContentLoaded", () => {
     title.className = "fact-title";
     title.textContent = item.title || "Science tidbit";
 
-    // Teaser (clean, no title repeat)
     const hook = document.createElement("p");
     hook.className = "fact-hook";
     hook.textContent = funTeaser(item);
 
-    // Reveal section
     const reveal = document.createElement("div");
     reveal.className = "reveal";
 
@@ -283,13 +458,10 @@ window.addEventListener("DOMContentLoaded", () => {
     revealBtn.addEventListener("click", () => {
       revealed = !revealed;
 
-      // Fun: confetti when user reveals the last fact in a category (or daily complete)
-      const isLast = (currentIndex === filteredItems.length - 1);
+      const isLast = currentIndex === filteredItems.length - 1;
       if (!revealed) return;
 
-      // Fire confetti only sometimes to keep it special
       if (isLast || Math.random() < 0.18) fireConfetti();
-
       renderCurrent();
     });
     actions.appendChild(revealBtn);
@@ -314,7 +486,6 @@ window.addEventListener("DOMContentLoaded", () => {
       actions.appendChild(a2);
     }
 
-    // Build DOM
     body.appendChild(meta);
     body.appendChild(title);
     body.appendChild(hook);
@@ -331,7 +502,6 @@ window.addEventListener("DOMContentLoaded", () => {
     card.appendChild(body);
     viewer.appendChild(card);
 
-    // Update streak pill
     updateStreakUI();
   }
 
@@ -342,16 +512,18 @@ window.addEventListener("DOMContentLoaded", () => {
   }
 
   function showLanding() {
+    // stop slideshow/audio when leaving reader
+    if (typeof mediaCleanup === "function") mediaCleanup();
+    mediaCleanup = null;
+
     document.getElementById("reader").classList.add("hidden");
     document.getElementById("landing").classList.remove("hidden");
   }
 
-  // Inject KPI pills + progress bar into hero
   function injectHeroFunUI() {
     const hero = document.querySelector(".hero-card");
     if (!hero) return;
 
-    // Add KPI row
     const metaRow = hero.querySelector(".hero-meta");
     if (metaRow && !document.getElementById("streakPill")) {
       const right = document.createElement("div");
@@ -372,7 +544,6 @@ window.addEventListener("DOMContentLoaded", () => {
       metaRow.appendChild(right);
     }
 
-    // Add progress bar (only once)
     if (!document.getElementById("progressBar")) {
       const progress = document.createElement("div");
       progress.className = "progress";
