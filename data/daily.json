@@ -1,10 +1,10 @@
 {
-  "date": "2026-02-22 02:54 UTC",
+  "date": "2026-02-22 03:04 UTC",
   "items": [
     {
-      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
-      "summary": "Qubits, the heart of quantum computers, can change performance in fractions of a second — but until now, scientists couldn’t see it happening. Researchers at NBI have built a real-time monitoring system that tracks these rapid fluctuations about 100 times faster than previous methods.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+      "title": "Quick fact (AI)",
+      "summary": "Did you know? Science is happening everywhere — check back tomorrow for a fresh one.",
+      "link": "",
       "image": "",
       "wiki_url": "",
       "category": "AI",
@@ -14,9 +14,9 @@
       "audio": null
     },
     {
-      "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
-      "summary": "Astronomers have uncovered one of the most mysterious galaxies ever found — a dim, ghostly object called CDG-2 that is almost entirely made of dark matter. Located 300 million light-years away in the Perseus galaxy cluster, it was discovered in an unusual way: not by its stars, but by four tightly packed globular clusters acting like cosmic breadcrumbs.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
+      "title": "Scientists may have found the holy grail of quantum computing",
+      "summary": "Scientists may have spotted a long-sought triplet superconductor — a material that can transmit both electricity and electron spin with zero resistance. That ability could dramatically stabilize quantum computers while slashing their energy use.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
       "image": "",
       "wiki_url": "",
       "category": "Physics",
@@ -26,9 +26,9 @@
       "audio": null
     },
     {
-      "title": "Your fireplace may be doing more harm than you think",
-      "summary": "Home fireplaces and wood stoves are quietly driving a large share of winter air pollution, even though only a small number of households rely on wood heat. Researchers found that wood smoke accounts for over one-fifth of Americans’ winter exposure to dangerous fine particles linked to heart disease and early death.",
-      "link": "https://www.sciencedaily.com/releases/2026/01/260126075839.htm",
+      "title": "Quick fact (Entrepreneurship)",
+      "summary": "Did you know? Science is happening everywhere — check back tomorrow for a fresh one.",
+      "link": "",
       "image": "",
       "wiki_url": "",
       "category": "Entrepreneurship",
@@ -38,9 +38,9 @@
       "audio": null
     },
     {
-      "title": "James Webb Space Telescope captures strange magnetic forces warping Uranus",
-      "summary": "For the first time, scientists have mapped Uranus’s upper atmosphere in three dimensions, tracking temperatures and charged particles up to 5,000 kilometers above the clouds. Webb’s sharp vision revealed glowing auroral bands and unexpected dark regions shaped by the planet’s wildly tilted magnetic field.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000303.htm",
+      "title": "Scientists just mapped the hidden structure holding the Universe together",
+      "summary": "Astronomers have produced the most detailed map yet of dark matter, revealing the invisible framework that shaped the Universe long before stars and galaxies formed. Using powerful new observations from NASA’s James Webb Space Telescope, the research shows how dark matter gathered ordinary matter into dense regions, setting the stage for galaxies like the Milky Way and eventually planets like Earth.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260203020205.htm",
       "image": "",
       "wiki_url": "",
       "category": "Space",
@@ -50,9 +50,9 @@
       "audio": null
     },
     {
-      "title": "Scientists uncover oxygen-loving ancestor of all complex life",
-      "summary": "For decades, scientists have believed that complex life began when two very different microbes joined forces, eventually giving rise to plants, animals, and fungi. But one major puzzle remained: how could these organisms have met if one depended on oxygen and the other supposedly lived without it?",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260220010825.htm",
+      "title": "Gut bacteria can sense their environment and it’s key to your health",
+      "summary": "Your gut is home to trillions of bacteria that constantly “sense” their surroundings to survive and thrive. New research shows that beneficial gut microbes, especially common Clostridia bacteria, can detect a surprisingly wide range of chemical signals produced during digestion, including byproducts of fats, proteins, sugars, and even DNA.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260208011017.htm",
       "image": "",
       "wiki_url": "",
       "category": "Biology",
@@ -62,9 +62,9 @@
       "audio": null
     },
     {
-      "title": "Scientists discover why high altitude protects against diabetes",
-      "summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
+      "title": "Viagra and shingles vaccine show surprising promise against Alzheimer’s",
+      "summary": "A major new study has spotlighted three familiar medicines that could take on an unexpected new role in the fight against Alzheimer’s disease — with a shingles vaccine emerging as the front-runner. After reviewing 80 existing drugs, an international panel of experts identified Zostavax, Viagra (sildenafil), and riluzole as the most promising candidates for repurposing.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260217005759.htm",
       "image": "",
       "wiki_url": "",
       "category": "Health",
@@ -74,9 +74,9 @@
       "audio": null
     },
     {
-      "title": "Scientists just mapped mysterious earthquakes deep inside Earth",
-      "summary": "Scientists at Stanford have unveiled the first-ever global map of rare earthquakes that rumble deep within Earth’s mantle rather than its crust. Long debated and notoriously difficult to confirm, these elusive quakes turn out to cluster in regions like the Himalayas and near the Bering Strait.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260219040818.htm",
+      "title": "Scientists warn climate models are missing a key ocean player",
+      "summary": "Tiny marine plankton that build calcium carbonate shells play an outsized role in regulating Earth’s climate, quietly pulling carbon from the atmosphere and helping lock it away in the deep ocean. New research shows these microscopic engineers are largely missing from the climate models used to forecast our planet’s future, meaning scientists may be underestimating how the ocean responds to climate change.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260208011024.htm",
       "image": "",
       "wiki_url": "",
       "category": "Environment",
@@ -86,9 +86,9 @@
       "audio": null
     },
     {
-      "title": "Generative AI analyzes medical data faster than human research teams",
-      "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
+      "title": "Scientists discover pets are helping an invasive flatworm spread",
+      "summary": "A new study shows that dogs and cats may be helping an invasive flatworm spread. Researchers analyzing over a decade of reports discovered the worm attached to pet fur.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260210231550.htm",
       "image": "",
       "wiki_url": "",
       "category": "Science",
