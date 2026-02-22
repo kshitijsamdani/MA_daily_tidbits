@@ -1,12 +1,12 @@
 {
-  "date": "2026-02-22 03:04 UTC",
+  "date": "2026-02-22 03:11 UTC",
   "items": [
     {
-      "title": "Quick fact (AI)",
-      "summary": "Did you know? Science is happening everywhere — check back tomorrow for a fresh one.",
-      "link": "",
+      "title": "Quick fact: Convolutional neural network",
+      "summary": "Did you know? A convolutional neural network (CNN) is a type of feedforward neural network that learns features via filter optimization. This type of deep learning network has been applied to process and make predictions from many different types of data including text, images and audio.",
+      "link": "https://en.wikipedia.org/wiki/Convolutional_neural_network",
       "image": "",
-      "wiki_url": "",
+      "wiki_url": "https://en.wikipedia.org/wiki/Convolutional_neural_network",
       "category": "AI",
       "hook": "FYI: AI stands for Artificial Intelligence, not Another Idli",
       "question": "Can you now summarize your conference recordings using AI?",
@@ -26,11 +26,11 @@
       "audio": null
     },
     {
-      "title": "Quick fact (Entrepreneurship)",
-      "summary": "Did you know? Science is happening everywhere — check back tomorrow for a fresh one.",
-      "link": "",
+      "title": "Quick fact: Lean startup",
+      "summary": "Did you know? Lean startup is a methodology for developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable; this is achieved by adopting a combination of business-hypothesis-driven experimentation, iterative product releases, and validated learning. Lean startup emphasizes customer feedback over intuition and flexibility over planning.",
+      "link": "https://en.wikipedia.org/wiki/Lean_startup",
       "image": "",
-      "wiki_url": "",
+      "wiki_url": "https://en.wikipedia.org/wiki/Lean_startup",
       "category": "Entrepreneurship",
       "hook": "FYI: Brainpowerzzz has the potential to become a successful startup",
       "question": "Am I correct?",
