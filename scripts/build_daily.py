@@ -8,83 +8,20 @@ import requests
 import feedparser
 
 # -----------------------------
-# SOURCES
+# Feeds (keep ScienceDaily + add a few more variety sources)
 # -----------------------------
-# Keep your existing ScienceDaily top feeds, but ALSO add:
-# - ScienceDaily "Strange & Offbeat" (more "fun")
-# - Phys.org category pages (more variety)
-# - MIT News RSS (good for AI/tech + business-ish stories)
-#
-# Note: We will pick PER CATEGORY from CATEGORY_FEEDS (below),
-# and we will use Wikipedia "quick fact" fallback if a category has no match.
-
-GENERAL_FEEDS = [
+FEEDS = [
     "https://www.sciencedaily.com/rss/top/science.xml",
     "https://www.sciencedaily.com/rss/top/technology.xml",
     "https://www.sciencedaily.com/rss/top/health.xml",
     "https://www.sciencedaily.com/rss/top/environment.xml",
     "https://www.sciencedaily.com/rss/top/society.xml",
+
+    # extra variety (still science-y)
     "https://www.sciencedaily.com/rss/strange_offbeat.xml",
+    "https://phys.org/rss-feed/",
     "https://news.mit.edu/rss",
 ]
-
-# Per-category feeds (try these first to keep categories consistent)
-CATEGORY_FEEDS = {
-    "AI": [
-        # ScienceDaily AI section page is reliable; RSS is linked from their RSS directory.
-        # If it ever fails, we'll still have GENERAL_FEEDS + Wikipedia fallback.
-        "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-        "https://www.sciencedaily.com/rss/computers_math/machine_learning.xml",
-        "https://www.sciencedaily.com/rss/computers_math/robotics.xml",
-        "https://news.mit.edu/rss",
-        "https://phys.org/rss-feed/technology-news/",
-    ],
-    "Physics": [
-        "https://www.sciencedaily.com/rss/matter_energy.xml",
-        "https://www.sciencedaily.com/rss/space_time.xml",
-        "https://phys.org/rss-feed/physics-news/",
-        "https://phys.org/rss-feed/materials-news/",
-    ],
-    "Entrepreneurship": [
-        # Entrepreneurship is hard to source in pure "science" RSS.
-        # We'll treat this as "science/tech innovation + business/industry angle".
-        "https://www.sciencedaily.com/rss/business_industry.xml",
-        "https://www.sciencedaily.com/rss/computers_math/technology.xml",
-        "https://news.mit.edu/rss",
-        "https://phys.org/rss-feed/business-news/",
-        "https://phys.org/rss-feed/technology-news/",
-    ],
-    "Space": [
-        "https://www.sciencedaily.com/rss/space_time.xml",
-        "https://www.sciencedaily.com/rss/space_time/astronomy.xml",
-        "https://phys.org/rss-feed/space-news/",
-        # NASA feeds are great, but sometimes rate-limit. Keeping them optional:
-        "https://www.nasa.gov/feed/",
-    ],
-    "Biology": [
-        "https://www.sciencedaily.com/rss/plants_animals.xml",
-        "https://www.sciencedaily.com/rss/plants_animals/biology.xml",
-        "https://phys.org/rss-feed/biology-news/",
-        "https://phys.org/rss-feed/plants-news/",
-    ],
-    "Health": [
-        "https://www.sciencedaily.com/rss/health.xml",
-        "https://www.sciencedaily.com/rss/health_medicine.xml",
-        "https://phys.org/rss-feed/medicine-news/",
-    ],
-    "Environment": [
-        "https://www.sciencedaily.com/rss/environment.xml",
-        "https://www.sciencedaily.com/rss/earth_climate.xml",
-        "https://phys.org/rss-feed/earth-news/",
-        "https://phys.org/rss-feed/environment-news/",
-    ],
-    "Science": [
-        "https://www.sciencedaily.com/rss/top/science.xml",
-        "https://www.sciencedaily.com/rss/most_popular.xml",
-        "https://phys.org/rss-feed/science-news/",
-        "https://www.sciencedaily.com/rss/strange_offbeat.xml",
-    ],
-}
 
 WIKI_OPENSEARCH = "https://en.wikipedia.org/w/api.php"
 WIKI_SUMMARY = "https://en.wikipedia.org/api/rest_v1/page/summary/"
@@ -101,69 +38,8 @@ TARGET_CATEGORIES = [
     "Science",
 ]
 
-# Wikipedia “quick fact” seeds: simple + fun + stable.
-# (These are just page titles; we’ll fetch a short summary daily.)
-WIKI_SEEDS = {
-    "AI": [
-        "Transformer (machine learning)",
-        "Backpropagation",
-        "Convolutional neural network",
-        "Large language model",
-        "AlphaFold",
-    ],
-    "Physics": [
-        "Double-slit experiment",
-        "Quantum entanglement",
-        "Higgs boson",
-        "Superconductivity",
-        "Time dilation",
-    ],
-    "Entrepreneurship": [
-        "Lean startup",
-        "Network effect",
-        "Venture capital",
-        "Product–market fit",
-        "Business model",
-    ],
-    "Space": [
-        "James Webb Space Telescope",
-        "Voyager program",
-        "Exoplanet",
-        "Black hole",
-        "Aurora",
-    ],
-    "Biology": [
-        "CRISPR",
-        "Mitochondrion",
-        "Gut microbiota",
-        "DNA",
-        "Octopus",
-    ],
-    "Health": [
-        "Placebo",
-        "Vaccine",
-        "Circadian rhythm",
-        "Insulin",
-        "MRI",
-    ],
-    "Environment": [
-        "Carbon cycle",
-        "Coral bleaching",
-        "Renewable energy",
-        "Ozone layer",
-        "Greenhouse effect",
-    ],
-    "Science": [
-        "Periodic table",
-        "DNA",
-        "Tardigrade",
-        "Photosynthesis",
-        "Penicillin",
-    ],
-}
-
 # -----------------------------
-# Helpers
+# Text helpers
 # -----------------------------
 def clean_html(text: str) -> str:
     if not text:
@@ -179,8 +55,36 @@ def first_two_sentences(text: str) -> str:
     parts = re.split(r"(?<=[.!?])\s+", text)
     return " ".join(parts[:2]).strip()
 
+def safe_lower(s: str) -> str:
+    return (s or "").lower()
+
+# -----------------------------
+# Your existing category heuristic (kept)
+# -----------------------------
+def categorize(title: str, summary: str) -> str:
+    t = (title + " " + summary).lower()
+
+    if any(k in t for k in ["artificial intelligence", " ai ", "machine learning", "neural", "deep learning", "llm", "model", "generative ai"]):
+        return "AI"
+    if any(k in t for k in ["quantum", "particle", "physics", "relativity", "thermodynamics", "gravity", "neutrino", "fusion", "plasma"]):
+        return "Physics"
+    if any(k in t for k in ["startup", "entrepreneur", "founder", "business", "market", "industry", "productivity", "economy"]):
+        return "Entrepreneurship"
+    if any(k in t for k in ["space", "nasa", "planet", "galaxy", "astronomy", "mars", "moon", "exoplanet", "hubble", "telescope"]):
+        return "Space"
+    if any(k in t for k in ["cell", "genome", "biology", "species", "evolution", "microbe", "protein", "dna", "rna"]):
+        return "Biology"
+    if any(k in t for k in ["health", "disease", "cancer", "medicine", "clinical", "brain", "heart", "diabetes", "alzheimer"]):
+        return "Health"
+    if any(k in t for k in ["climate", "environment", "carbon", "ocean", "pollution", "ecosystem", "warming", "wildlife"]):
+        return "Environment"
+
+    return "Science"
+
+# -----------------------------
+# Wikipedia lookup (kept)
+# -----------------------------
 def wiki_best_image_and_url(query: str):
-    # You currently disable images intentionally; keep behavior.
     try:
         params = {
             "action": "opensearch",
@@ -200,12 +104,23 @@ def wiki_best_image_and_url(query: str):
 
         title = titles[0]
         wiki_url = urls[0] if urls else f"https://en.wikipedia.org/wiki/{quote(title.replace(' ', '_'))}"
-        return "", wiki_url
+
+        s = requests.get(
+            WIKI_SUMMARY + quote(title),
+            timeout=12,
+            headers={"accept": "application/json"},
+        )
+        if s.status_code != 200:
+            return "", wiki_url
+
+        summary = s.json()
+        thumb = summary.get("thumbnail", {}).get("source", "")
+        return thumb, wiki_url
     except Exception:
         return "", ""
 
 # -----------------------------
-# KEEP THESE AS-IS (your custom tone)
+# KEEP AS-IS: your custom hook/question (do not change)
 # -----------------------------
 def make_hook(category: str) -> str:
     starters = {
@@ -251,7 +166,7 @@ def make_question(category: str) -> str:
     return questions.get(category, questions["Science"])
 
 # -----------------------------
-# Custom facts loader (unchanged behavior)
+# Custom facts loader (kept)
 # -----------------------------
 def load_custom_facts():
     try:
@@ -264,6 +179,7 @@ def load_custom_facts():
         for x in items:
             category = (x.get("category", "For you specially") or "").strip() or "For you specially"
 
+            # allow either image (string) or images (array)
             image = (x.get("image", "") or "").strip()
             images = x.get("images", [])
             if not isinstance(images, list):
@@ -273,6 +189,7 @@ def load_custom_facts():
             if (not images) and image:
                 images = [image]
 
+            # audio object
             audio = x.get("audio", None)
             if not isinstance(audio, dict):
                 audio = None
@@ -303,80 +220,83 @@ def load_custom_facts():
         return []
 
 # -----------------------------
-# New: pick per-category from per-category feeds
+# NEW: stronger relevance scoring (fixes wrong categories)
 # -----------------------------
-def entry_to_item(e, forced_category: str):
-    title = (e.get("title") or "").strip()
-    link = (e.get("link") or "").strip()
+CATEGORY_KEYWORDS = {
+    "AI": [
+        "artificial intelligence", "machine learning", "neural", "deep learning", "llm",
+        "transformer", "generative", "diffusion", "reinforcement learning", "computer vision", "nlp"
+    ],
+    "Physics": [
+        "quantum", "particle", "relativity", "thermodynamics", "gravity", "neutrino", "fusion",
+        "plasma", "superconduct", "boson", "accelerator"
+    ],
+    "Entrepreneurship": [
+        "startup", "entrepreneur", "founder", "venture", "funding", "business", "company",
+        "product–market fit", "product-market fit", "innovation", "commercial", "industry"
+    ],
+    "Space": [
+        "space", "nasa", "planet", "galaxy", "astronomy", "mars", "moon", "exoplanet",
+        "telescope", "asteroid", "comet", "jupiter", "saturn"
+    ],
+    "Biology": [
+        "cell", "genome", "biology", "species", "evolution", "microbe", "protein", "dna", "rna",
+        "enzyme", "bacteria", "virus", "microbiome"
+    ],
+    "Health": [
+        "health", "disease", "cancer", "medicine", "clinical", "brain", "heart", "diabetes",
+        "alzheimer", "vaccine", "drug", "therapy"
+    ],
+    "Environment": [
+        "climate", "environment", "carbon", "ocean", "pollution", "ecosystem", "warming",
+        "wildlife", "emissions", "biodiversity"
+    ],
+    "Science": [
+        "research", "scientists", "study", "experiment", "discovery"
+    ],
+}
 
-    summary = clean_html(e.get("summary") or e.get("description") or "")
-    summary = first_two_sentences(summary)
+def relevance_score(category: str, title: str, summary: str) -> int:
+    text = safe_lower(title) + " " + safe_lower(summary)
+    score = 0
+    for k in CATEGORY_KEYWORDS.get(category, []):
+        if k in text:
+            score += 2
+    # small bonus if the categorizer already put it in that category
+    if categorize(title, summary) == category:
+        score += 1
+    return score
 
-    # If summary is empty, skip
-    if not title or not link or not summary:
-        return None
+# -----------------------------
+# NEW: simple fun facts fallback (Wikipedia “quick fact”)
+# -----------------------------
+WIKI_SEEDS = {
+    "AI": ["Transformer (machine learning)", "Backpropagation", "Convolutional neural network", "AlphaFold", "Large language model"],
+    "Physics": ["Quantum entanglement", "Double-slit experiment", "Superconductivity", "Time dilation", "Higgs boson"],
+    "Entrepreneurship": ["Lean startup", "Network effect", "Venture capital", "Product–market fit", "Business model"],
+    "Space": ["James Webb Space Telescope", "Exoplanet", "Voyager program", "Black hole", "Aurora"],
+    "Biology": ["CRISPR", "Mitochondrion", "DNA", "Gut microbiota", "Octopus"],
+    "Health": ["Vaccine", "Placebo", "Circadian rhythm", "MRI", "Insulin"],
+    "Environment": ["Carbon cycle", "Coral bleaching", "Ozone layer", "Greenhouse effect", "Renewable energy"],
+    "Science": ["Tardigrade", "Periodic table", "Penicillin", "Photosynthesis", "DNA"],
+}
 
-    _, wiki_url = wiki_best_image_and_url(title)
-
-    return {
-        "title": title,
-        "summary": summary,
-        "link": link,
-        "image": "",  # you intentionally disabled wiki image
-        "wiki_url": wiki_url,
-        "category": forced_category,
-        "hook": make_hook(forced_category),
-        "question": make_question(forced_category),
-        "images": [],
-        "audio": None,
-    }
-
-def parse_feed(url: str, limit: int = 30):
-    try:
-        feed = feedparser.parse(url)
-        return feed.entries[:limit]
-    except Exception:
-        return []
-
-def pick_from_feeds_for_category(category: str, used_links: set):
-    # 1) Try category-specific feeds
-    for url in CATEGORY_FEEDS.get(category, []):
-        for e in parse_feed(url, limit=35):
-            item = entry_to_item(e, forced_category=category)
-            if not item:
-                continue
-            if item["link"] in used_links:
-                continue
-            return item
-
-    # 2) Fallback: try general feeds but still forced category
-    for url in GENERAL_FEEDS:
-        for e in parse_feed(url, limit=35):
-            item = entry_to_item(e, forced_category=category)
-            if not item:
-                continue
-            if item["link"] in used_links:
-                continue
-            return item
-
-    return None
-
-def wiki_quick_fact(category: str):
-    # Pick a random seed page, fetch a short summary.
-    seeds = WIKI_SEEDS.get(category, WIKI_SEEDS["Science"])
-    page = random.choice(seeds)
-
+def wiki_fun_fact(category: str):
+    page = random.choice(WIKI_SEEDS.get(category, WIKI_SEEDS["Science"]))
     try:
         r = requests.get(WIKI_SUMMARY + quote(page), timeout=12, headers={"accept": "application/json"})
-        if r.status_code != 200:
-            raise RuntimeError("bad wiki status")
-
+        r.raise_for_status()
         data = r.json()
+
         title = (data.get("title") or page).strip()
         extract = (data.get("extract") or "").strip()
-        summary = first_two_sentences(extract) or extract
+        fun = first_two_sentences(extract) or extract
+        fun = fun.strip()
 
-        # Page link
+        # Make it "simple fun fact" style
+        summary = f"Did you know? {fun}" if fun else f"Did you know? Here’s a quick fact about {title}."
+
+        # link
         wiki_url = ""
         content_urls = data.get("content_urls", {})
         if isinstance(content_urls, dict):
@@ -388,21 +308,20 @@ def wiki_quick_fact(category: str):
 
         return {
             "title": f"Quick fact: {title}",
-            "summary": summary if summary else f"Fun fact about {title}.",
-            "link": wiki_url,      # treat wiki as “Read article”
-            "image": "",           # UI uses category image anyway
-            "wiki_url": wiki_url,  # “Learn more”
+            "summary": summary,
+            "link": wiki_url,
+            "image": "",       # keep images disabled from wiki
+            "wiki_url": wiki_url,
             "category": category,
-            "hook": make_hook(category),
-            "question": make_question(category),
+            "hook": make_hook(category),        # your custom hook
+            "question": make_question(category),# your custom question
             "images": [],
             "audio": None,
         }
     except Exception:
-        # absolute last resort
         return {
             "title": f"Quick fact ({category})",
-            "summary": "No fresh feed today, so here’s a tiny reminder: science is happening everywhere — check back tomorrow.",
+            "summary": "Did you know? Science is happening everywhere — check back tomorrow for a fresh one.",
             "link": "",
             "image": "",
             "wiki_url": "",
@@ -413,22 +332,90 @@ def wiki_quick_fact(category: str):
             "audio": None,
         }
 
-def main():
-    items = []
+# -----------------------------
+# RSS parsing (kept, but used as optional candidates now)
+# -----------------------------
+def parse_candidates():
+    seen_links = set()
+    candidates = []
+
+    for feed_url in FEEDS:
+        feed = feedparser.parse(feed_url)
+        for e in feed.entries[:60]:
+            title = (e.get("title") or "").strip()
+            link = (e.get("link") or "").strip()
+            if not title or not link or link in seen_links:
+                continue
+            seen_links.add(link)
+
+            summary = clean_html(e.get("summary") or e.get("description") or "")
+            summary = first_two_sentences(summary)
+            if not summary:
+                continue
+
+            category = categorize(title, summary)
+
+            image, wiki_url = wiki_best_image_and_url(title)
+            image = ""  # you intentionally disabled wiki image
+
+            candidates.append(
+                {
+                    "title": title,
+                    "summary": summary,
+                    "link": link,
+                    "image": image,
+                    "wiki_url": wiki_url,
+                    "category": category,
+                    "hook": make_hook(category),
+                    "question": make_question(category),
+                    "images": [],
+                    "audio": None,
+                }
+            )
+
+    return candidates
+
+# -----------------------------
+# NEW: pick best per category (no forced relabeling) + fun fact fallback
+# -----------------------------
+def pick_one_per_category(candidates):
+    picked = []
     used_links = set()
 
-    # IMPORTANT CHANGE:
-    # - We do NOT relabel leftovers anymore.
-    # - We always produce one item per category:
-    #   (a) from category feeds, else (b) Wikipedia quick fact.
-    for cat in TARGET_CATEGORIES:
-        picked = pick_from_feeds_for_category(cat, used_links)
-        if not picked:
-            picked = wiki_quick_fact(cat)
+    # If RSS isn't clearly relevant, use fun fact instead (keeps it simple + correct)
+    MIN_SCORE = 4  # raise to use more Wikipedia facts; lower to use more RSS
 
-        if picked.get("link"):
-            used_links.add(picked["link"])
-        items.append(picked)
+    for cat in TARGET_CATEGORIES:
+        best = None
+        best_score = -1
+
+        for x in candidates:
+            if x["link"] in used_links:
+                continue
+            s = relevance_score(cat, x["title"], x["summary"])
+            if s > best_score:
+                best_score = s
+                best = x
+
+        if best and best_score >= MIN_SCORE:
+            # lock it to the category we selected + align hook/question
+            best["category"] = cat
+            best["hook"] = make_hook(cat)
+            best["question"] = make_question(cat)
+            picked.append(best)
+            used_links.add(best["link"])
+        else:
+            # simple fun fact fallback (always category-correct)
+            picked.append(wiki_fun_fact(cat))
+
+    return picked
+
+# -----------------------------
+# Main
+# -----------------------------
+def main():
+    candidates = parse_candidates()
+    items = pick_one_per_category(candidates)
 
     custom_items = load_custom_facts()
 
