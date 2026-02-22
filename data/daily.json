@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-22 00:04 UTC",
+  "date": "2026-02-22 00:35 UTC",
   "items": [
     {
       "title": "Generative AI analyzes medical data faster than human research teams",
@@ -109,7 +109,10 @@
       "images": [
         "assets/category/foryou.jpg",
         "assets/category/foryou2.jpg",
-        "assets/category/foryou3.jpg"
+        "assets/category/foryou3.jpg",
+        "assets/category/foryou4.jpg",
+        "assets/category/foryou5.jpg",
+        "assets/category/foryou6.jpg"
       ],
       "audio": {
         "src": "assets/audio/song1_ShowMeLove.mp3",
