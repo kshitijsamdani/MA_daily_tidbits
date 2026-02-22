@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21 23:28 UTC",
+  "date": "2026-02-22 00:04 UTC",
   "items": [
     {
       "title": "Generative AI analyzes medical data faster than human research teams",
@@ -9,7 +9,9 @@
       "wiki_url": "",
       "category": "AI",
       "hook": "FYI: AI stands for Artificial Intelligence, not Another Idli",
-      "question": "Can you now summarize your conference recordings using AI?"
+      "question": "Can you now summarize your conference recordings using AI?",
+      "images": [],
+      "audio": null
     },
     {
       "title": "James Webb Space Telescope captures strange magnetic forces warping Uranus",
@@ -19,7 +21,9 @@
       "wiki_url": "",
       "category": "Physics",
       "hook": "FYI: Physics is the most complex, difficult and interesting subject... second only to you",
-      "question": "How's my rizz game?"
+      "question": "How's my rizz game?",
+      "images": [],
+      "audio": null
     },
     {
       "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
@@ -29,7 +33,9 @@
       "wiki_url": "",
       "category": "Space",
       "hook": "FYI: No one bends space more than you do",
-      "question": "Are you the brightest object in the sky?"
+      "question": "Are you the brightest object in the sky?",
+      "images": [],
+      "audio": null
     },
     {
       "title": "Scientists discover why high altitude protects against diabetes",
@@ -39,7 +45,9 @@
       "wiki_url": "",
       "category": "Biology",
       "hook": "FYI: You have 86 billion neurons. Activate atleast one now and then",
-      "question": "What does XNA stand for again?"
+      "question": "What does XNA stand for again?",
+      "images": [],
+      "audio": null
     },
     {
       "title": "Scientists reveal why human language isn’t like computer code",
@@ -49,7 +57,9 @@
       "wiki_url": "",
       "category": "Health",
       "hook": "FYI: Eating junk tasty food alone is injurious to mental health of others. #ShareFoodShareHunger",
-      "question": "How many flights of stairs today?"
+      "question": "How many flights of stairs today?",
+      "images": [],
+      "audio": null
     },
     {
       "title": "A spinning gyroscope could finally unlock ocean wave energy",
@@ -59,7 +69,9 @@
       "wiki_url": "",
       "category": "Environment",
       "hook": "FYI: Don't pluck flowers",
-      "question": "Is it okay for immigrants to litter?"
+      "question": "Is it okay for immigrants to litter?",
+      "images": [],
+      "audio": null
     },
     {
       "title": "“Celtic curse” hotspots found in Scotland and Ireland with 1 in 54 at risk",
@@ -69,7 +81,9 @@
       "wiki_url": "",
       "category": "Science",
       "hook": "FYI: You are in my conScience all the time :)",
-      "question": "You didn't answer. How's my rizz game?"
+      "question": "You didn't answer. How's my rizz game?",
+      "images": [],
+      "audio": null
     },
     {
       "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
@@ -79,17 +93,28 @@
       "wiki_url": "",
       "category": "Entrepreneurship",
       "hook": "FYI: Brainpowerzzz has the potential to become a successful startup",
-      "question": "Am I correct?"
+      "question": "Am I correct?",
+      "images": [],
+      "audio": null
     },
     {
       "title": "Dearest Gentle Reader,",
       "summary": "Happyyyy birthdayyyyy high maintenance. Here's a fact: You are now one year closer to losing the weight bet. And here's another: Ennaku unnai romba pudichirukku. Hehehe.",
       "link": "",
-      "image": "assets/category/foryou.jpg",
       "wiki_url": "",
       "category": "For you specially",
       "hook": "",
-      "question": ""
+      "question": "",
+      "image": "",
+      "images": [
+        "assets/category/foryou.jpg",
+        "assets/category/foryou2.jpg",
+        "assets/category/foryou3.jpg"
+      ],
+      "audio": {
+        "src": "assets/audio/song1_ShowMeLove.mp3",
+        "title": "Party vibes 🎵"
+      }
     }
   ]
 }
