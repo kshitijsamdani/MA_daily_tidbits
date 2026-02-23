@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-22 03:23 UTC",
+  "date": "2026-02-23 03:26 UTC",
   "items": [
     {
       "title": "Scientists discover why high altitude protects against diabetes",
@@ -26,20 +26,20 @@
       "category": "Health"
     },
     {
+      "title": "Flea and tick treatments for dogs and cats may be harming wildlife",
+      "summary": "Flea and tick medications trusted by pet owners worldwide may have an unexpected environmental cost. Scientists found that active ingredients from isoxazoline treatments pass into pet feces, exposing dung-feeding insects to toxic chemicals. These insects are essential for nutrient cycling and soil health. The findings suggest everyday pet treatments could ripple through ecosystems in surprising ways.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000328.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CFlea%20and%20tick%20treatments%20for%20dogs%20and%20cats%20may%20be%20harming%20wildlife",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
       "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
       "summary": "A common bacterium best known for causing pneumonia and sinus infections may also play a surprising role in Alzheimer’s disease. Researchers found that Chlamydia pneumoniae can invade the retina and brain, where it sparks inflammation, nerve cell death, and the buildup of amyloid-beta—the hallmark protein linked to Alzheimer’s. Higher levels of the bacterium were found in people with Alzheimer’s, especially those carrying the high-risk APOE4 gene, and were tied to more severe cognitive decline.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CCommon%20pneumonia%20bacterium%20may%20fuel%20Alzheimer%E2%80%99s%20disease",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
-      "summary": "Astronomers have uncovered one of the most mysterious galaxies ever found — a dim, ghostly object called CDG-2 that is almost entirely made of dark matter. Located 300 million light-years away in the Perseus galaxy cluster, it was discovered in an unusual way: not by its stars, but by four tightly packed globular clusters acting like cosmic breadcrumbs.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Hubble%20spots%20nearly%20invisible%20%E2%80%9Cghost%20galaxy%E2%80%9D%20made%20of%2099%25%20dark%20matter",
-      "wiki_url": "",
-      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
