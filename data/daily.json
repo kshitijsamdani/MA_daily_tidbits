@@ -1,15 +1,15 @@
 {
-  "date": "2026-02-22 03:11 UTC",
+  "date": "2026-02-23 16:28 UTC",
   "items": [
     {
-      "title": "Quick fact: Convolutional neural network",
-      "summary": "Did you know? A convolutional neural network (CNN) is a type of feedforward neural network that learns features via filter optimization. This type of deep learning network has been applied to process and make predictions from many different types of data including text, images and audio.",
-      "link": "https://en.wikipedia.org/wiki/Convolutional_neural_network",
+      "title": "Quick fact: AlphaFold",
+      "summary": "Did you know? AlphaFold is an artificial intelligence (AI) program developed by DeepMind, a subsidiary of Alphabet, which performs predictions of protein structure. It is designed using deep learning techniques.",
+      "link": "https://en.wikipedia.org/wiki/AlphaFold",
       "image": "",
-      "wiki_url": "https://en.wikipedia.org/wiki/Convolutional_neural_network",
+      "wiki_url": "https://en.wikipedia.org/wiki/AlphaFold",
       "category": "AI",
       "hook": "FYI: AI stands for Artificial Intelligence, not Another Idli",
-      "question": "Can you now summarize your conference recordings using AI?",
+      "question": "Can you now summarize your conference recordings using AI now?",
       "images": [],
       "audio": null
     },
@@ -21,16 +21,16 @@
       "wiki_url": "",
       "category": "Physics",
       "hook": "FYI: Physics is the most complex, difficult and interesting subject... second only to you",
-      "question": "How's my rizz game?",
+      "question": "How strong is your gravitational pull?",
       "images": [],
       "audio": null
     },
     {
-      "title": "Quick fact: Lean startup",
-      "summary": "Did you know? Lean startup is a methodology for developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable; this is achieved by adopting a combination of business-hypothesis-driven experimentation, iterative product releases, and validated learning. Lean startup emphasizes customer feedback over intuition and flexibility over planning.",
-      "link": "https://en.wikipedia.org/wiki/Lean_startup",
+      "title": "Quick fact: Business model",
+      "summary": "Did you know? A business model describes how a business organization creates, delivers, and captures value, in economic, social, cultural or other contexts. The model describes the specific way in which the business conducts itself, spends, and earns money in a way that generates profit.",
+      "link": "https://en.wikipedia.org/wiki/Business_model",
       "image": "",
-      "wiki_url": "https://en.wikipedia.org/wiki/Lean_startup",
+      "wiki_url": "https://en.wikipedia.org/wiki/Business_model",
       "category": "Entrepreneurship",
       "hook": "FYI: Brainpowerzzz has the potential to become a successful startup",
       "question": "Am I correct?",
@@ -45,7 +45,7 @@
       "wiki_url": "",
       "category": "Space",
       "hook": "FYI: No one bends space more than you do",
-      "question": "Are you the brightest object in the sky?",
+      "question": "What's the brightest object in the sky? :)",
       "images": [],
       "audio": null
     },
@@ -86,20 +86,20 @@
       "audio": null
     },
     {
-      "title": "Scientists discover pets are helping an invasive flatworm spread",
-      "summary": "A new study shows that dogs and cats may be helping an invasive flatworm spread. Researchers analyzing over a decade of reports discovered the worm attached to pet fur.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260210231550.htm",
+      "title": "Babies exposed to far more “forever chemicals” before birth than scientists knew",
+      "summary": "Babies born in the early 2000s were exposed in the womb to far more “forever chemicals” than researchers once realized, according to a new study. By using advanced chemical screening on umbilical cord blood, scientists detected 42 different PFAS compounds, including many that standard tests do not routinely check for.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260222085209.htm",
       "image": "",
       "wiki_url": "",
       "category": "Science",
       "hook": "FYI: You are in my conScience all the time :)",
-      "question": "You didn't answer. How's my rizz game?",
+      "question": "What is your problem?",
       "images": [],
       "audio": null
     },
     {
       "title": "Dearest Gentle Reader,",
-      "summary": "Happyyyy birthdayyyyy high maintenance. Here's a fact: You are now one year closer to losing the weight bet. And here's another: Ennaku unnai romba pudichirukku. Hehehe.",
+      "summary": "Happyyyy birthdayyyyy high maintenance. Here's a fact: You are now one year closer to losing the weight bet. And here's another: Ennaku unnai romba pudichirukku. Hehehe ❤️",
       "link": "",
       "wiki_url": "",
       "category": "For you specially",
