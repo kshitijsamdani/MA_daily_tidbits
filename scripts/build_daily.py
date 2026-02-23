@@ -122,14 +122,14 @@ def make_hook(category: str) -> str:
 
 def make_question(category: str) -> str:
     questions = {
-        "AI": "Can you now summarize your conference recordings using AI?",
-        "Physics": "How's my rizz game?",
+        "AI": "Can you now summarize your conference recordings using AI now?",
+        "Physics": "How strong is your gravitational pull?",
         "Entrepreneurship": "Am I correct?",
-        "Space": "Are you the brightest object in the sky?",
+        "Space": "What's the brightest object in the sky? :)",
         "Biology": "What does XNA stand for again?",
         "Health": "How many flights of stairs today?",
         "Environment": "Is it okay for immigrants to litter?",
-        "Science":  "You didn't answer. How's my rizz game?",
+        "Science":  "What is your problem?",
     }
     return questions.get(category, questions["Science"])
 
