@@ -1,45 +1,45 @@
 {
-  "date": "2026-02-23 03:26 UTC",
+  "date": "2026-02-24 03:21 UTC",
   "items": [
     {
-      "title": "Scientists discover why high altitude protects against diabetes",
-      "summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blood sugar levels. A drug that recreates this effect reversed diabetes in mice, hinting at a powerful new treatment strategy.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20why%20high%20altitude%20protects%20against%20diabetes",
+      "title": "Young Mars volcano hides a powerful magma engine beneath the surface",
+      "summary": "A Martian volcano once thought to be the result of a single eruption turns out to have a much more complex past. Orbital imaging and mineral data show it developed through multiple eruptive phases, all powered by the same evolving magma system underground. Shifts in mineral composition reveal the magma changed over time, hinting at different depths and storage histories. Mars’ interior was far more active than previously believed.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CYoung%20Mars%20volcano%20hides%20a%20powerful%20magma%20engine%20beneath%20the%20surface",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "A hidden force beneath the Atlantic ripped open a 500 kilometer canyon",
+      "summary": "Far beneath the Atlantic Ocean, about 1,000 kilometers off Portugal’s coast, lies a colossal underwater canyon system that dwarfs even the Grand Canyon. Known as the King’s Trough Complex, this 500-kilometer stretch of trenches and deep basins formed not from rushing water, but from dramatic tectonic forces that once tore the seafloor apart.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260222092327.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CA%20hidden%20force%20beneath%20the%20Atlantic%20ripped%20open%20a%20500%20kilometer%20canyon",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "Schrödinger’s color theory finally completed after 100 years",
+      "summary": "A century after Erwin Schrödinger sketched out a bold vision for how we perceive color, scientists have finally filled in the missing pieces. A Los Alamos team used advanced geometry to show that hue, saturation, and lightness aren’t shaped by culture or experience — they’re built directly into the mathematical structure of how we see color. By defining a crucial missing element known as the “neutral axis,” the researchers repaired a long-standing flaw in Schrödinger’s model and even corrected tricky visual quirks like the way brightness can subtly shift perceived hue.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260222092302.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CSchr%C3%B6dinger%E2%80%99s%20color%20theory%20finally%20completed%20after%20100%20years",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Generative AI analyzes medical data faster than human research teams",
-      "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CGenerative%20AI%20analyzes%20medical%20data%20faster%20than%20human%20research%20teams",
+      "title": "Scientists create universal nasal spray vaccine that protects against COVID, flu, and pneumonia",
+      "summary": "Scientists at Stanford Medicine have unveiled a bold new kind of “universal” vaccine that could one day protect against everything from COVID-19 and the flu to bacterial pneumonia and even common allergens. Instead of targeting a specific virus or bacterium, the nasal spray vaccine supercharges the lungs’ own immune defenses, keeping them on high alert for months. In mice, it slashed viral levels, prevented severe illness, and even blocked allergic reactions.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260222092258.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20create%20universal%20nasal%20spray%20vaccine%20that%20protects%20against%20COVID%2C%20flu%2C%20and%20pneumonia",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "“Celtic curse” hotspots found in Scotland and Ireland with 1 in 54 at risk",
-      "summary": "Researchers have mapped the genetic risk of hemochromatosis across the UK and Ireland for the first time, uncovering striking hotspots in north-west Ireland and the Outer Hebrides. In some regions, around one in 60 people carry the high-risk gene variant linked to iron overload. The condition can take decades to surface but may lead to liver cancer and arthritis if untreated.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000332.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2C%E2%80%9CCeltic%20curse%E2%80%9D%20hotspots%20found%20in%20Scotland%20and%20Ireland%20with%201%20in%2054%20at%20risk",
+      "title": "Cleaner wrasse show self awareness in stunning mirror experiments",
+      "summary": "Cleaner wrasse have revealed a remarkable new side of fish intelligence. Marked with fake parasites, they used mirrors to inspect and remove the spots—far faster than seen in earlier tests. Even more striking, some fish dropped shrimp in front of the mirror to watch how its reflection moved, a form of exploratory “contingency testing.” The findings suggest self-awareness may extend well beyond mammals.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260222092255.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CCleaner%20wrasse%20show%20self%20awareness%20in%20stunning%20mirror%20experiments",
       "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Flea and tick treatments for dogs and cats may be harming wildlife",
-      "summary": "Flea and tick medications trusted by pet owners worldwide may have an unexpected environmental cost. Scientists found that active ingredients from isoxazoline treatments pass into pet feces, exposing dung-feeding insects to toxic chemicals. These insects are essential for nutrient cycling and soil health. The findings suggest everyday pet treatments could ripple through ecosystems in surprising ways.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000328.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CFlea%20and%20tick%20treatments%20for%20dogs%20and%20cats%20may%20be%20harming%20wildlife",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
-      "summary": "A common bacterium best known for causing pneumonia and sinus infections may also play a surprising role in Alzheimer’s disease. Researchers found that Chlamydia pneumoniae can invade the retina and brain, where it sparks inflammation, nerve cell death, and the buildup of amyloid-beta—the hallmark protein linked to Alzheimer’s. Higher levels of the bacterium were found in people with Alzheimer’s, especially those carrying the high-risk APOE4 gene, and were tied to more severe cognitive decline.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CCommon%20pneumonia%20bacterium%20may%20fuel%20Alzheimer%E2%80%99s%20disease",
-      "wiki_url": "",
-      "category": "AI"
+      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
