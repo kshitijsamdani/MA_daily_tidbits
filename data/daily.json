@@ -1,12 +1,12 @@
 {
-  "date": "2026-02-23 16:28 UTC",
+  "date": "2026-02-25 21:07 UTC",
   "items": [
     {
-      "title": "Quick fact: AlphaFold",
-      "summary": "Did you know? AlphaFold is an artificial intelligence (AI) program developed by DeepMind, a subsidiary of Alphabet, which performs predictions of protein structure. It is designed using deep learning techniques.",
-      "link": "https://en.wikipedia.org/wiki/AlphaFold",
+      "title": "Alzheimer’s may begin with a silent drop in brain blood flow",
+      "summary": "Subtle changes in brain blood flow and oxygen use are closely linked to hallmark signs of Alzheimer’s, including amyloid plaques and memory-related brain shrinkage. Simple, noninvasive scans may one day help spot risk earlier—by looking at the brain’s vascular health, not just its plaques.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260224023159.htm",
       "image": "",
-      "wiki_url": "https://en.wikipedia.org/wiki/AlphaFold",
+      "wiki_url": "",
       "category": "AI",
       "hook": "FYI: AI stands for Artificial Intelligence, not Another Idli",
       "question": "Can you now summarize your conference recordings using AI now?",
@@ -26,11 +26,11 @@
       "audio": null
     },
     {
-      "title": "Quick fact: Business model",
-      "summary": "Did you know? A business model describes how a business organization creates, delivers, and captures value, in economic, social, cultural or other contexts. The model describes the specific way in which the business conducts itself, spends, and earns money in a way that generates profit.",
-      "link": "https://en.wikipedia.org/wiki/Business_model",
+      "title": "Robot pollinator uses computer vision to shake flowers and boost indoor farm yields",
+      "summary": "Indoor farms, also known as vertical farms, are popular among agricultural researchers and are expanding across the agricultural industry. Some benefits they have over outdoor farms include the year-round production of food crops, less water and land requirements, and they don't need pesticides.",
+      "link": "https://phys.org/news/2026-02-robot-pollinator-vision-boost-indoor.html",
       "image": "",
-      "wiki_url": "https://en.wikipedia.org/wiki/Business_model",
+      "wiki_url": "",
       "category": "Entrepreneurship",
       "hook": "FYI: Brainpowerzzz has the potential to become a successful startup",
       "question": "Am I correct?",
