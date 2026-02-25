@@ -1,45 +1,45 @@
 {
-  "date": "2026-02-24 03:21 UTC",
+  "date": "2026-02-25 03:22 UTC",
   "items": [
     {
-      "title": "Young Mars volcano hides a powerful magma engine beneath the surface",
-      "summary": "A Martian volcano once thought to be the result of a single eruption turns out to have a much more complex past. Orbital imaging and mineral data show it developed through multiple eruptive phases, all powered by the same evolving magma system underground. Shifts in mineral composition reveal the magma changed over time, hinting at different depths and storage histories. Mars’ interior was far more active than previously believed.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CYoung%20Mars%20volcano%20hides%20a%20powerful%20magma%20engine%20beneath%20the%20surface",
+      "title": "190-million-year-old “Sword Dragon” fossil rewrites ichthyosaur history",
+      "summary": "A newly identified ichthyosaur from the UK’s Jurassic Coast is rewriting part of the prehistoric playbook. Nicknamed the “Sword Dragon of Dorset,” the three-meter-long marine reptile lived during a poorly understood window of evolution when major ichthyosaur groups were disappearing and new ones emerging. Its beautifully preserved skeleton — complete with a blade-like snout and possible last meal — helps pinpoint when this dramatic transition occurred.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260224023218.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2C190-million-year-old%20%E2%80%9CSword%20Dragon%E2%80%9D%20fossil%20rewrites%20ichthyosaur%20history",
       "wiki_url": "",
-      "category": "Space"
+      "category": "Biology"
     },
     {
-      "title": "A hidden force beneath the Atlantic ripped open a 500 kilometer canyon",
-      "summary": "Far beneath the Atlantic Ocean, about 1,000 kilometers off Portugal’s coast, lies a colossal underwater canyon system that dwarfs even the Grand Canyon. Known as the King’s Trough Complex, this 500-kilometer stretch of trenches and deep basins formed not from rushing water, but from dramatic tectonic forces that once tore the seafloor apart.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260222092327.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CA%20hidden%20force%20beneath%20the%20Atlantic%20ripped%20open%20a%20500%20kilometer%20canyon",
+      "title": "Can solar storms trigger earthquakes? Scientists propose surprising link",
+      "summary": "Scientists have proposed a surprising connection between solar flares and earthquakes. When solar activity disturbs the ionosphere, it may generate electric fields that penetrate fragile fracture zones in Earth’s crust. If a fault is already critically stressed, this extra electrostatic pressure could help trigger a quake. The idea doesn’t claim direct causation, but it offers a fresh way to think about how space weather and seismic events might interact.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260224023209.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCan%20solar%20storms%20trigger%20earthquakes%3F%20Scientists%20propose%20surprising%20link",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Something strange is happening in the Milky Way’s magnetic field",
+      "summary": "Deep inside the Milky Way, an invisible force is quietly holding everything together — its magnetic field. Now, researchers have created one of the most detailed maps ever of this hidden structure, revealing surprising twists in how it flows through our galaxy.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260224023207.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CSomething%20strange%20is%20happening%20in%20the%20Milky%20Way%E2%80%99s%20magnetic%20field",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "50 year quest ends with creation of silicon aromatic once thought impossible",
+      "summary": "After nearly 50 years of failed attempts and scientific speculation, chemists at Saarland University have achieved what many thought might be impossible: creating a long-sought silicon-based aromatic molecule. By replacing carbon atoms in a famously stable ring-shaped compound with silicon, the team synthesized pentasilacyclopentadienide — a breakthrough published in Science.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260224023205.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2C50%20year%20quest%20ends%20with%20creation%20of%20silicon%20aromatic%20once%20thought%20impossible",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Congo basin blackwater lakes are releasing ancient carbon into the atmosphere",
+      "summary": "Deep in the Congo Basin, vast peatlands quietly store enormous amounts of Earth’s carbon — but new research suggests this ancient vault may be leaking. Scientists studying Africa’s largest blackwater lakes discovered that significant amounts of carbon dioxide bubbling into the atmosphere come not just from recent plant life, but from peat that has been locked away for thousands of years.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260224023201.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CCongo%20basin%20blackwater%20lakes%20are%20releasing%20ancient%20carbon%20into%20the%20atmosphere",
       "wiki_url": "",
       "category": "Environment"
-    },
-    {
-      "title": "Schrödinger’s color theory finally completed after 100 years",
-      "summary": "A century after Erwin Schrödinger sketched out a bold vision for how we perceive color, scientists have finally filled in the missing pieces. A Los Alamos team used advanced geometry to show that hue, saturation, and lightness aren’t shaped by culture or experience — they’re built directly into the mathematical structure of how we see color. By defining a crucial missing element known as the “neutral axis,” the researchers repaired a long-standing flaw in Schrödinger’s model and even corrected tricky visual quirks like the way brightness can subtly shift perceived hue.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260222092302.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CSchr%C3%B6dinger%E2%80%99s%20color%20theory%20finally%20completed%20after%20100%20years",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists create universal nasal spray vaccine that protects against COVID, flu, and pneumonia",
-      "summary": "Scientists at Stanford Medicine have unveiled a bold new kind of “universal” vaccine that could one day protect against everything from COVID-19 and the flu to bacterial pneumonia and even common allergens. Instead of targeting a specific virus or bacterium, the nasal spray vaccine supercharges the lungs’ own immune defenses, keeping them on high alert for months. In mice, it slashed viral levels, prevented severe illness, and even blocked allergic reactions.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260222092258.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20create%20universal%20nasal%20spray%20vaccine%20that%20protects%20against%20COVID%2C%20flu%2C%20and%20pneumonia",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Cleaner wrasse show self awareness in stunning mirror experiments",
-      "summary": "Cleaner wrasse have revealed a remarkable new side of fish intelligence. Marked with fake parasites, they used mirrors to inspect and remove the spots—far faster than seen in earlier tests. Even more striking, some fish dropped shrimp in front of the mirror to watch how its reflection moved, a form of exploratory “contingency testing.” The findings suggest self-awareness may extend well beyond mammals.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260222092255.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CCleaner%20wrasse%20show%20self%20awareness%20in%20stunning%20mirror%20experiments",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
