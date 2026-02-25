@@ -412,7 +412,7 @@ def pick_one_per_category(candidates):
     used_links = set()
 
     # strict threshold -> forces fun facts unless RSS is very relevant
-    MIN_SCORE = 4
+    MIN_SCORE = 3
 
     for cat in TARGET_CATEGORIES:
         best = None
