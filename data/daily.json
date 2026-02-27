@@ -1,6 +1,30 @@
 {
-  "date": "2026-02-26 03:18 UTC",
+  "date": "2026-02-27 03:15 UTC",
   "items": [
+    {
+      "title": "Ireland’s Old Irish Goat has survived 3,000 years",
+      "summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish lineage stretching back millennia. It also adds urgency to protecting this critically endangered survivor of Ireland’s agricultural past.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CIreland%E2%80%99s%20Old%20Irish%20Goat%20has%20survived%203%2C000%20years",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Hidden architecture inside cellular droplets opens new targets for cancer and ALS",
+      "summary": "Biomolecular condensates were long believed to be simple liquid blobs inside cells. Researchers have now uncovered that some are actually supported by fine protein filaments forming an internal scaffold. When this structure is disrupted, cells fail to grow and divide properly. The discovery suggests scientists may one day design drugs that target condensate architecture to fight cancer and neurodegenerative disease.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260226042447.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20architecture%20inside%20cellular%20droplets%20opens%20new%20targets%20for%20cancer%20and%20ALS",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Apollo rocks reveal the Moon had brief bursts of super-strong magnetism",
+      "summary": "Scientists at the University of Oxford have finally settled a decades-long mystery about the Moon’s magnetic field — and it turns out both sides were right. By reanalyzing Apollo mission rocks, they discovered that the Moon did occasionally generate an incredibly powerful magnetic field, even stronger than Earth’s — but only for fleeting bursts lasting thousands of years or less. Most of the time, the Moon’s magnetic field was weak.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260226042445.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CApollo%20rocks%20reveal%20the%20Moon%20had%20brief%20bursts%20of%20super-strong%20magnetism",
+      "wiki_url": "",
+      "category": "Space"
+    },
     {
       "title": "Just two days of oatmeal cut bad cholesterol by 10%",
       "summary": "Eating nothing but oatmeal for just two days might sound extreme, but it delivered a striking payoff in a new clinical trial. People with metabolic syndrome who followed a short, calorie-reduced oat-based plan saw their harmful LDL cholesterol drop by 10%, along with modest weight loss and lower blood pressure. Even more surprising, the cholesterol benefits were still visible six weeks later.",
@@ -16,30 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20study%20finds%20ancient%20life%20could%20survive%2050%20million%20years%20in%20Martian%20ice",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "40,000-year-old signs show humans were recording information long before writing",
-      "summary": "More than 40,000 years ago, Ice Age humans were carving repeated patterns of dots, lines, and crosses into tools and small ivory figurines. A new computational study of more than 3,000 of these Paleolithic signs reveals that they were not random decorations but structured sequences with measurable complexity. Surprisingly, their information density rivals that of proto-cuneiform, the earliest known writing system that emerged around 3,000 B.C.E.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260225001301.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2C40%2C000-year-old%20signs%20show%20humans%20were%20recording%20information%20long%20before%20writing",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Scientists finally solve the mystery of the horse whinny",
-      "summary": "Horses have a vocal trick no one fully understood until now. Scientists have discovered that when a horse whinnies, it produces two completely different sounds at the same time. One is a deep tone created by vibrating the vocal folds, similar to how humans sing. The other is a high-pitched whistle generated inside the larynx, something never before confirmed in a large mammal. This rare ability, known as biphonation, likely helps horses send multiple emotional signals in a single call.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260225001256.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20finally%20solve%20the%20mystery%20of%20the%20horse%20whinny",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "A giant weak spot in Earth’s magnetic field is now half the size of Europe",
-      "summary": "Earth’s magnetic shield is shifting in dramatic ways. New data from ESA’s Swarm satellites show that the South Atlantic Anomaly — a vast weak spot in Earth’s magnetic field — has grown by nearly half the size of continental Europe since 2014. Even more striking, a region southwest of Africa has begun weakening even faster in recent years, hinting at unusual activity deep within Earth’s molten outer core.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260224023221.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20giant%20weak%20spot%20in%20Earth%E2%80%99s%20magnetic%20field%20is%20now%20half%20the%20size%20of%20Europe",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
