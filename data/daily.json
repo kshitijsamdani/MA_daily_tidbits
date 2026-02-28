@@ -1,45 +1,45 @@
 {
-  "date": "2026-02-27 03:15 UTC",
+  "date": "2026-02-28 02:58 UTC",
   "items": [
     {
-      "title": "Ireland’s Old Irish Goat has survived 3,000 years",
-      "summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish lineage stretching back millennia. It also adds urgency to protecting this critically endangered survivor of Ireland’s agricultural past.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CIreland%E2%80%99s%20Old%20Irish%20Goat%20has%20survived%203%2C000%20years",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Hidden architecture inside cellular droplets opens new targets for cancer and ALS",
-      "summary": "Biomolecular condensates were long believed to be simple liquid blobs inside cells. Researchers have now uncovered that some are actually supported by fine protein filaments forming an internal scaffold. When this structure is disrupted, cells fail to grow and divide properly. The discovery suggests scientists may one day design drugs that target condensate architecture to fight cancer and neurodegenerative disease.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260226042447.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20architecture%20inside%20cellular%20droplets%20opens%20new%20targets%20for%20cancer%20and%20ALS",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Apollo rocks reveal the Moon had brief bursts of super-strong magnetism",
-      "summary": "Scientists at the University of Oxford have finally settled a decades-long mystery about the Moon’s magnetic field — and it turns out both sides were right. By reanalyzing Apollo mission rocks, they discovered that the Moon did occasionally generate an incredibly powerful magnetic field, even stronger than Earth’s — but only for fleeting bursts lasting thousands of years or less. Most of the time, the Moon’s magnetic field was weak.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260226042445.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CApollo%20rocks%20reveal%20the%20Moon%20had%20brief%20bursts%20of%20super-strong%20magnetism",
+      "title": "A lost moon may have created Titan and Saturn’s rings",
+      "summary": "Saturn’s largest moon, Titan, may have been born in a colossal cosmic crash. New research suggests Titan formed when two older moons slammed together hundreds of millions of years ago—an event so violent it reshaped Saturn’s entire moon system and may have indirectly sparked the formation of its iconic rings. Clues come from Titan’s unusual orbit, its surprisingly smooth surface, and the strange behavior of the tumbling moon Hyperion.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CA%20lost%20moon%20may%20have%20created%20Titan%20and%20Saturn%E2%80%99s%20rings",
       "wiki_url": "",
       "category": "Space"
     },
     {
-      "title": "Just two days of oatmeal cut bad cholesterol by 10%",
-      "summary": "Eating nothing but oatmeal for just two days might sound extreme, but it delivered a striking payoff in a new clinical trial. People with metabolic syndrome who followed a short, calorie-reduced oat-based plan saw their harmful LDL cholesterol drop by 10%, along with modest weight loss and lower blood pressure. Even more surprising, the cholesterol benefits were still visible six weeks later.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260225081217.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CJust%20two%20days%20of%20oatmeal%20cut%20bad%20cholesterol%20by%2010%25",
+      "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
+      "summary": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, dates back about 11.5 billion years and contains a stellar bar, a bright, linear band of stars and gas stretching across its center, similar to the one in our own Milky Way.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CJames%20Webb%20reveals%20a%20barred%20spiral%20galaxy%20shockingly%20early%20in%20the%20Universe",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "MIT study finds Earth’s first animals were likely ancient sea sponges",
+      "summary": "Scientists at MIT have found compelling chemical evidence that Earth’s earliest animals were likely ancient sea sponges. Hidden inside rocks over 541 million years old are rare molecular “fingerprints” that match compounds made by modern demosponges. After testing rocks, living sponges, and lab-made molecules, researchers confirmed the signals came from life — not geology. The discovery suggests sponges were thriving in the oceans well before most other animal groups appeared.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260227071918.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CMIT%20study%20finds%20Earth%E2%80%99s%20first%20animals%20were%20likely%20ancient%20sea%20sponges",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "Scientists turn methane into medicine in stunning breakthrough",
+      "summary": "Scientists have unveiled a breakthrough way to turn natural gas—long burned as fuel—into valuable chemical building blocks for medicines and other high-demand products. By designing a clever iron-based catalyst powered by LED light, researchers managed to activate stubborn molecules like methane and transform them into complex compounds, even creating the hormone therapy drug dimestrol directly from methane for the first time.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20turn%20methane%20into%20medicine%20in%20stunning%20breakthrough",
       "wiki_url": "",
       "category": "Health"
     },
     {
-      "title": "NASA study finds ancient life could survive 50 million years in Martian ice",
-      "summary": "Mars’ frozen ice caps may be time capsules for ancient life. Lab experiments show that key building blocks of proteins can survive tens of millions of years in pure ice, even under relentless cosmic radiation. Ice mixed with Martian-like soil, however, destroys organic material far more quickly. The findings point future missions toward drilling into clean, buried ice rather than studying rocks or dirt.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260225081147.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20study%20finds%20ancient%20life%20could%20survive%2050%20million%20years%20in%20Martian%20ice",
+      "title": "Stunning 3D maps reveal DNA is structured before life “switches on”",
+      "summary": "For decades, scientists believed a fertilized egg’s DNA began as a shapeless mass, only organizing itself once the embryo switched on its genes. But new research reveals that the genome is already carefully arranged in three dimensions long before that critical activation step, known as Zygotic Genome Activation. Using a powerful new method called Pico-C, researchers captured this hidden DNA architecture in unprecedented detail, showing that a complex scaffold is built early to control which genes will later turn on.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260227061824.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CStunning%203D%20maps%20reveal%20DNA%20is%20structured%20before%20life%20%E2%80%9Cswitches%20on%E2%80%9D",
       "wiki_url": "",
-      "category": "Space"
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
