@@ -1,6 +1,22 @@
 {
-  "date": "2026-02-28 02:58 UTC",
+  "date": "2026-03-01 03:28 UTC",
   "items": [
+    {
+      "title": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
+      "summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall. High-resolution imaging shows these viral proteins lock MurJ into a single position, stopping cell wall construction and leading to bacterial death.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20bacterial%20kill%20switch%20and%20it%20could%20change%20the%20fight%20against%20superbugs",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "How the body really ages: 7 million cells mapped across 21 organs",
+      "summary": "Scientists have built a massive cellular atlas showing how aging reshapes the body across 21 organs. Studying nearly 7 million cells, they found that aging starts earlier than expected and unfolds in a coordinated way throughout the body. About a quarter of cell types change in number over time, and many of these shifts differ between males and females. The research also highlights shared genetic “hotspots” that could become targets for anti-aging therapies.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CHow%20the%20body%20really%20ages%3A%207%20million%20cells%20mapped%20across%2021%20organs",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "A lost moon may have created Titan and Saturn’s rings",
       "summary": "Saturn’s largest moon, Titan, may have been born in a colossal cosmic crash. New research suggests Titan formed when two older moons slammed together hundreds of millions of years ago—an event so violent it reshaped Saturn’s entire moon system and may have indirectly sparked the formation of its iconic rings. Clues come from Titan’s unusual orbit, its surprisingly smooth surface, and the strange behavior of the tumbling moon Hyperion.",
@@ -10,34 +26,18 @@
       "category": "Space"
     },
     {
+      "title": "Your morning coffee could one day help fight cancer",
+      "summary": "Scientists at Texas A&amp;M are turning an everyday pick-me-up into a high-tech medical switch. By combining caffeine with CRISPR gene editing, researchers have created a system that allows cells to be programmed in advance — and then activated simply by consuming a small dose of caffeine from coffee, chocolate, or soda. The approach, known as chemogenetics, lets scientists precisely turn gene-editing activity on and off inside targeted cells, including powerful immune T cells that can fight cancer.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260227071940.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CYour%20morning%20coffee%20could%20one%20day%20help%20fight%20cancer",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
       "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
       "summary": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, dates back about 11.5 billion years and contains a stellar bar, a bright, linear band of stars and gas stretching across its center, similar to the one in our own Milky Way.",
       "link": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CJames%20Webb%20reveals%20a%20barred%20spiral%20galaxy%20shockingly%20early%20in%20the%20Universe",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "MIT study finds Earth’s first animals were likely ancient sea sponges",
-      "summary": "Scientists at MIT have found compelling chemical evidence that Earth’s earliest animals were likely ancient sea sponges. Hidden inside rocks over 541 million years old are rare molecular “fingerprints” that match compounds made by modern demosponges. After testing rocks, living sponges, and lab-made molecules, researchers confirmed the signals came from life — not geology. The discovery suggests sponges were thriving in the oceans well before most other animal groups appeared.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071918.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CMIT%20study%20finds%20Earth%E2%80%99s%20first%20animals%20were%20likely%20ancient%20sea%20sponges",
-      "wiki_url": "",
-      "category": "Environment"
-    },
-    {
-      "title": "Scientists turn methane into medicine in stunning breakthrough",
-      "summary": "Scientists have unveiled a breakthrough way to turn natural gas—long burned as fuel—into valuable chemical building blocks for medicines and other high-demand products. By designing a clever iron-based catalyst powered by LED light, researchers managed to activate stubborn molecules like methane and transform them into complex compounds, even creating the hormone therapy drug dimestrol directly from methane for the first time.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20turn%20methane%20into%20medicine%20in%20stunning%20breakthrough",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Stunning 3D maps reveal DNA is structured before life “switches on”",
-      "summary": "For decades, scientists believed a fertilized egg’s DNA began as a shapeless mass, only organizing itself once the embryo switched on its genes. But new research reveals that the genome is already carefully arranged in three dimensions long before that critical activation step, known as Zygotic Genome Activation. Using a powerful new method called Pico-C, researchers captured this hidden DNA architecture in unprecedented detail, showing that a complex scaffold is built early to control which genes will later turn on.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227061824.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CStunning%203D%20maps%20reveal%20DNA%20is%20structured%20before%20life%20%E2%80%9Cswitches%20on%E2%80%9D",
       "wiki_url": "",
       "category": "AI"
     },
