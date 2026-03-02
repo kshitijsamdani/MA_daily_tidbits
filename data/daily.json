@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-01 03:28 UTC",
+  "date": "2026-03-02 03:16 UTC",
   "items": [
     {
-      "title": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
-      "summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall. High-resolution imaging shows these viral proteins lock MurJ into a single position, stopping cell wall construction and leading to bacterial death.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20bacterial%20kill%20switch%20and%20it%20could%20change%20the%20fight%20against%20superbugs",
+      "title": "Massive asteroid impact 6.3 million years ago left giant glass field in Brazil",
+      "summary": "For the first time ever, scientists have uncovered a vast field of tektites in Brazil — mysterious glassy fragments forged when a powerful extraterrestrial object slammed into Earth about 6.3 million years ago. Named “geraisites” after Minas Gerais, where they were first found, these dark, aerodynamic droplets of natural glass stretch across more than 900 kilometers and may mark one of South America’s most significant ancient impact events.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228093512.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMassive%20asteroid%20impact%206.3%20million%20years%20ago%20left%20giant%20glass%20field%20in%20Brazil",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "How the body really ages: 7 million cells mapped across 21 organs",
-      "summary": "Scientists have built a massive cellular atlas showing how aging reshapes the body across 21 organs. Studying nearly 7 million cells, they found that aging starts earlier than expected and unfolds in a coordinated way throughout the body. About a quarter of cell types change in number over time, and many of these shifts differ between males and females. The research also highlights shared genetic “hotspots” that could become targets for anti-aging therapies.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CHow%20the%20body%20really%20ages%3A%207%20million%20cells%20mapped%20across%2021%20organs",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "A lost moon may have created Titan and Saturn’s rings",
-      "summary": "Saturn’s largest moon, Titan, may have been born in a colossal cosmic crash. New research suggests Titan formed when two older moons slammed together hundreds of millions of years ago—an event so violent it reshaped Saturn’s entire moon system and may have indirectly sparked the formation of its iconic rings. Clues come from Titan’s unusual orbit, its surprisingly smooth surface, and the strange behavior of the tumbling moon Hyperion.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CA%20lost%20moon%20may%20have%20created%20Titan%20and%20Saturn%E2%80%99s%20rings",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Your morning coffee could one day help fight cancer",
-      "summary": "Scientists at Texas A&amp;M are turning an everyday pick-me-up into a high-tech medical switch. By combining caffeine with CRISPR gene editing, researchers have created a system that allows cells to be programmed in advance — and then activated simply by consuming a small dose of caffeine from coffee, chocolate, or soda. The approach, known as chemogenetics, lets scientists precisely turn gene-editing activity on and off inside targeted cells, including powerful immune T cells that can fight cancer.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071940.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CYour%20morning%20coffee%20could%20one%20day%20help%20fight%20cancer",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
-      "summary": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, dates back about 11.5 billion years and contains a stellar bar, a bright, linear band of stars and gas stretching across its center, similar to the one in our own Milky Way.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CJames%20Webb%20reveals%20a%20barred%20spiral%20galaxy%20shockingly%20early%20in%20the%20Universe",
+      "title": "Scientists just created chocolate honey packed with surprising health perks",
+      "summary": "Scientists in Brazil have transformed cocoa waste into a functional chocolate-infused honey packed with antioxidants and natural stimulants. Using ultrasound waves, they enhanced honey’s ability to pull beneficial compounds from cocoa shells—no synthetic solvents required. The process is considered green and sustainable, and the product could find its way into gourmet foods and cosmetics.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228093508.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20created%20chocolate%20honey%20packed%20with%20surprising%20health%20perks",
       "wiki_url": "",
       "category": "AI"
+    },
+    {
+      "title": "Beyond amyloid plaques: AI reveals hidden chemical changes across the Alzheimer’s brain",
+      "summary": "Scientists at Rice University have produced the first full, dye-free molecular atlas of an Alzheimer’s brain. By combining laser-based imaging with machine learning, they uncovered chemical changes that spread unevenly across the brain and extend beyond amyloid plaques. Key memory regions showed major shifts in cholesterol and energy-related molecules. The findings hint that Alzheimer’s is a whole-brain metabolic disruption—not just a protein problem.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228093505.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CBeyond%20amyloid%20plaques%3A%20AI%20reveals%20hidden%20chemical%20changes%20across%20the%20Alzheimer%E2%80%99s%20brain",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "A faint cosmic hum could solve the Universe’s expansion mystery",
+      "summary": "Astronomers have long known the universe is expanding—but exactly how fast remains one of the biggest mysteries in cosmology. Different techniques for measuring the Hubble constant stubbornly disagree, creating the so-called “Hubble tension.” Now researchers at the University of Illinois Urbana-Champaign and the University of Chicago have unveiled a bold new way to weigh in on the debate using gravitational waves—the faint ripples in spacetime produced by colliding black holes.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228093453.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20faint%20cosmic%20hum%20could%20solve%20the%20Universe%E2%80%99s%20expansion%20mystery",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "For the first time, light mimics a Nobel Prize quantum effect",
+      "summary": "Scientists have pulled off a feat long considered out of reach: getting light to mimic the famous quantum Hall effect. In their experiment, photons drift sideways in perfectly defined, quantized steps—just like electrons do in powerful magnetic fields. Because these steps depend only on nature’s fundamental constants, they could become a new gold standard for ultra-precise measurements. The discovery also hints at tougher, more reliable quantum photonic technologies.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228093446.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CFor%20the%20first%20time%2C%20light%20mimics%20a%20Nobel%20Prize%20quantum%20effect",
+      "wiki_url": "",
+      "category": "Physics"
     },
     {
       "title": "Dearest Gentle Reader,",
