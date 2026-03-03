@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-02 03:16 UTC",
+  "date": "2026-03-03 03:20 UTC",
   "items": [
     {
-      "title": "Massive asteroid impact 6.3 million years ago left giant glass field in Brazil",
-      "summary": "For the first time ever, scientists have uncovered a vast field of tektites in Brazil — mysterious glassy fragments forged when a powerful extraterrestrial object slammed into Earth about 6.3 million years ago. Named “geraisites” after Minas Gerais, where they were first found, these dark, aerodynamic droplets of natural glass stretch across more than 900 kilometers and may mark one of South America’s most significant ancient impact events.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260228093512.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMassive%20asteroid%20impact%206.3%20million%20years%20ago%20left%20giant%20glass%20field%20in%20Brazil",
+      "title": "Scientists reveal why a popular anti-aging compound may also fuel cancer",
+      "summary": "Polyamines—natural molecules found in every living cell—have become stars in the longevity world for their ability to boost cellular cleanup and support healthy aging. But there’s a dark twist: high levels of these same molecules are consistently seen in cancer, where tumors grow aggressively.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260302030657.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20reveal%20why%20a%20popular%20anti-aging%20compound%20may%20also%20fuel%20cancer",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Atacama surprise: The world’s driest desert is teeming with hidden life",
+      "summary": "Even in the ultra-dry Atacama Desert, tiny soil-dwelling nematodes are thriving in surprising diversity. Scientists found that biodiversity increases with moisture and altitude shapes which species survive. In the most extreme zones, many nematodes reproduce asexually — a possible survival advantage. The discovery suggests that life in arid regions may be far richer, and more fragile, than once believed.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260302030650.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CAtacama%20surprise%3A%20The%20world%E2%80%99s%20driest%20desert%20is%20teeming%20with%20hidden%20life",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Hidden oceans on icy moons may be boiling beneath the surface",
+      "summary": "Icy moons circling the outer planets may be far more dynamic—and explosive—than they appear. New research suggests that when heat from tidal forces melts their ice shells from below, the sudden drop in pressure could cause hidden oceans to boil beneath the surface. On smaller moons like Enceladus, Mimas, and Miranda, this process may help explain strange features such as Enceladus’ tiger stripes and Miranda’s towering cliffs.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260302030646.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20oceans%20on%20icy%20moons%20may%20be%20boiling%20beneath%20the%20surface",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists just created chocolate honey packed with surprising health perks",
-      "summary": "Scientists in Brazil have transformed cocoa waste into a functional chocolate-infused honey packed with antioxidants and natural stimulants. Using ultrasound waves, they enhanced honey’s ability to pull beneficial compounds from cocoa shells—no synthetic solvents required. The process is considered green and sustainable, and the product could find its way into gourmet foods and cosmetics.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260228093508.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20created%20chocolate%20honey%20packed%20with%20surprising%20health%20perks",
+      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+      "summary": "As millions turn to ChatGPT and other AI chatbots for therapy-style advice, new research from Brown University raises a serious red flag: even when instructed to act like trained therapists, these systems routinely break core ethical standards of mental health care. In side-by-side evaluations with peer counselors and licensed psychologists, researchers uncovered 15 distinct ethical risks — from mishandling crisis situations and reinforcing harmful beliefs to showing biased responses and offering “deceptive empathy” that mimics care without real understanding.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CChatGPT%20as%20a%20therapist%3F%20New%20study%20reveals%20serious%20ethical%20risks",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Beyond amyloid plaques: AI reveals hidden chemical changes across the Alzheimer’s brain",
-      "summary": "Scientists at Rice University have produced the first full, dye-free molecular atlas of an Alzheimer’s brain. By combining laser-based imaging with machine learning, they uncovered chemical changes that spread unevenly across the brain and extend beyond amyloid plaques. Key memory regions showed major shifts in cholesterol and energy-related molecules. The findings hint that Alzheimer’s is a whole-brain metabolic disruption—not just a protein problem.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260228093505.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CBeyond%20amyloid%20plaques%3A%20AI%20reveals%20hidden%20chemical%20changes%20across%20the%20Alzheimer%E2%80%99s%20brain",
+      "title": "Why tipping keeps rising and may not improve service",
+      "summary": "Why do we tip—even when we know we’ll never see the server again? New research suggests it’s not just about rewarding good service, but about social pressure. Some people tip out of genuine appreciation, while others simply follow the norm. But here’s the twist: those who truly value great service tend to tip more than average, and everyone else adjusts upward to match them.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260302030637.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20tipping%20keeps%20rising%20and%20may%20not%20improve%20service",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "A faint cosmic hum could solve the Universe’s expansion mystery",
-      "summary": "Astronomers have long known the universe is expanding—but exactly how fast remains one of the biggest mysteries in cosmology. Different techniques for measuring the Hubble constant stubbornly disagree, creating the so-called “Hubble tension.” Now researchers at the University of Illinois Urbana-Champaign and the University of Chicago have unveiled a bold new way to weigh in on the debate using gravitational waves—the faint ripples in spacetime produced by colliding black holes.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260228093453.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20faint%20cosmic%20hum%20could%20solve%20the%20Universe%E2%80%99s%20expansion%20mystery",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "For the first time, light mimics a Nobel Prize quantum effect",
-      "summary": "Scientists have pulled off a feat long considered out of reach: getting light to mimic the famous quantum Hall effect. In their experiment, photons drift sideways in perfectly defined, quantized steps—just like electrons do in powerful magnetic fields. Because these steps depend only on nature’s fundamental constants, they could become a new gold standard for ultra-precise measurements. The discovery also hints at tougher, more reliable quantum photonic technologies.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260228093446.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CFor%20the%20first%20time%2C%20light%20mimics%20a%20Nobel%20Prize%20quantum%20effect",
-      "wiki_url": "",
-      "category": "Physics"
     },
     {
       "title": "Dearest Gentle Reader,",
