@@ -1,43 +1,43 @@
 {
-  "date": "2026-03-03 03:20 UTC",
+  "date": "2026-03-04 03:12 UTC",
   "items": [
     {
-      "title": "Scientists reveal why a popular anti-aging compound may also fuel cancer",
-      "summary": "Polyamines—natural molecules found in every living cell—have become stars in the longevity world for their ability to boost cellular cleanup and support healthy aging. But there’s a dark twist: high levels of these same molecules are consistently seen in cancer, where tumors grow aggressively.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260302030657.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20reveal%20why%20a%20popular%20anti-aging%20compound%20may%20also%20fuel%20cancer",
+      "title": "What snow monkeys’ steamy baths are really doing to their bodies",
+      "summary": "Japanese snow monkeys don’t just soak in hot springs to escape the winter chill — their steamy spa sessions may also be reshaping their invisible world. Researchers in Japan found that macaques who regularly bathe show subtle but intriguing differences in lice patterns and gut bacteria compared to those who stay dry. Surprisingly, sharing the hot pools didn’t increase their parasite load, challenging assumptions about disease risk.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303153357.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CWhat%20snow%20monkeys%E2%80%99%20steamy%20baths%20are%20really%20doing%20to%20their%20bodies",
       "wiki_url": "",
-      "category": "Biology"
+      "category": "Health"
     },
     {
-      "title": "Atacama surprise: The world’s driest desert is teeming with hidden life",
-      "summary": "Even in the ultra-dry Atacama Desert, tiny soil-dwelling nematodes are thriving in surprising diversity. Scientists found that biodiversity increases with moisture and altitude shapes which species survive. In the most extreme zones, many nematodes reproduce asexually — a possible survival advantage. The discovery suggests that life in arid regions may be far richer, and more fragile, than once believed.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260302030650.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CAtacama%20surprise%3A%20The%20world%E2%80%99s%20driest%20desert%20is%20teeming%20with%20hidden%20life",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Hidden oceans on icy moons may be boiling beneath the surface",
-      "summary": "Icy moons circling the outer planets may be far more dynamic—and explosive—than they appear. New research suggests that when heat from tidal forces melts their ice shells from below, the sudden drop in pressure could cause hidden oceans to boil beneath the surface. On smaller moons like Enceladus, Mimas, and Miranda, this process may help explain strange features such as Enceladus’ tiger stripes and Miranda’s towering cliffs.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260302030646.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20oceans%20on%20icy%20moons%20may%20be%20boiling%20beneath%20the%20surface",
+      "title": "Neutrinos could explain why matter survived the Big Bang",
+      "summary": "An international team combining two major neutrino experiments has uncovered stronger evidence that neutrinos and antimatter don’t behave as perfect mirror images. That subtle difference may hold the key to why the universe didn’t vanish in a flash of self-destruction after the Big Bang.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145703.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNeutrinos%20could%20explain%20why%20matter%20survived%20the%20Big%20Bang",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
-      "summary": "As millions turn to ChatGPT and other AI chatbots for therapy-style advice, new research from Brown University raises a serious red flag: even when instructed to act like trained therapists, these systems routinely break core ethical standards of mental health care. In side-by-side evaluations with peer counselors and licensed psychologists, researchers uncovered 15 distinct ethical risks — from mishandling crisis situations and reinforcing harmful beliefs to showing biased responses and offering “deceptive empathy” that mimics care without real understanding.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CChatGPT%20as%20a%20therapist%3F%20New%20study%20reveals%20serious%20ethical%20risks",
+      "title": "Blasted off Mars and still alive",
+      "summary": "A famously resilient bacterium may be tough enough to survive one of the most violent events imaginable on Mars. In laboratory experiments designed to mimic the crushing shock of a massive asteroid impact, researchers squeezed Deinococcus radiodurans between steel plates and blasted it with pressures reaching 3 GPa (30,000 times atmospheric pressure). Even under these extreme conditions, a significant portion of the microbes survived.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303082606.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CBlasted%20off%20Mars%20and%20still%20alive",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "James Webb spots a galaxy with tentacles in deep space",
+      "summary": "Astronomers using the James Webb Space Telescope have spotted the most distant “jellyfish galaxy” ever seen — a cosmic oddity streaming long, tentacle-like trails of gas and newborn stars as it speeds through a dense galaxy cluster. The galaxy appears as it was 8.5 billion years ago, revealing that the early universe may have been far more violent than scientists expected.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050635.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CJames%20Webb%20spots%20a%20galaxy%20with%20tentacles%20in%20deep%20space",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Why tipping keeps rising and may not improve service",
-      "summary": "Why do we tip—even when we know we’ll never see the server again? New research suggests it’s not just about rewarding good service, but about social pressure. Some people tip out of genuine appreciation, while others simply follow the norm. But here’s the twist: those who truly value great service tend to tip more than average, and everyone else adjusts upward to match them.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260302030637.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20tipping%20keeps%20rising%20and%20may%20not%20improve%20service",
+      "title": "Intelligence emerges when the whole brain works as one",
+      "summary": "For decades, scientists have mapped attention, memory, language, and reasoning to separate brain networks — yet one big mystery remained: why does the mind feel like a single, unified system? Researchers at the University of Notre Dame now suggest that intelligence doesn’t live in one “smart” region of the brain at all. Instead, it emerges from how efficiently and flexibly the brain’s many networks communicate and coordinate with each other.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050632.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CIntelligence%20emerges%20when%20the%20whole%20brain%20works%20as%20one",
       "wiki_url": "",
       "category": "AI"
     },
