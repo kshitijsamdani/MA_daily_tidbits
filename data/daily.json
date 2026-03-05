@@ -1,6 +1,14 @@
 {
-  "date": "2026-03-04 03:12 UTC",
+  "date": "2026-03-05 03:15 UTC",
   "items": [
+    {
+      "title": "Study finds wild release can be deadly for rescued slow lorises",
+      "summary": "Returning rescued slow lorises to the wild may sound like a conservation success, but a new study shows it can turn deadly. Researchers tracked nine released animals and found that only two survived, with most killed in territorial attacks by other lorises. Scientists say better planning is essential to ensure wildlife releases actually help endangered species.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303201801.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CStudy%20finds%20wild%20release%20can%20be%20deadly%20for%20rescued%20slow%20lorises",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "What snow monkeys’ steamy baths are really doing to their bodies",
       "summary": "Japanese snow monkeys don’t just soak in hot springs to escape the winter chill — their steamy spa sessions may also be reshaping their invisible world. Researchers in Japan found that macaques who regularly bathe show subtle but intriguing differences in lice patterns and gut bacteria compared to those who stay dry. Surprisingly, sharing the hot pools didn’t increase their parasite load, challenging assumptions about disease risk.",
@@ -10,36 +18,28 @@
       "category": "Health"
     },
     {
-      "title": "Neutrinos could explain why matter survived the Big Bang",
-      "summary": "An international team combining two major neutrino experiments has uncovered stronger evidence that neutrinos and antimatter don’t behave as perfect mirror images. That subtle difference may hold the key to why the universe didn’t vanish in a flash of self-destruction after the Big Bang.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303145703.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNeutrinos%20could%20explain%20why%20matter%20survived%20the%20Big%20Bang",
+      "title": "2700-year-old teeth reveal the hidden lives of Iron Age Italians",
+      "summary": "Iron Age teeth from southern Italy have become time capsules, preserving intimate details of childhood and diet. Growth lines in the enamel reveal moments of early-life stress, while hardened plaque holds microscopic remains of cereals, legumes, and fermented foods. The findings suggest a community with diverse food resources and strong Mediterranean connections. Even a small sample offers a striking glimpse into how people lived, grew, and ate nearly three millennia ago.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145727.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2C2700-year-old%20teeth%20reveal%20the%20hidden%20lives%20of%20Iron%20Age%20Italians",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Blasted off Mars and still alive",
-      "summary": "A famously resilient bacterium may be tough enough to survive one of the most violent events imaginable on Mars. In laboratory experiments designed to mimic the crushing shock of a massive asteroid impact, researchers squeezed Deinococcus radiodurans between steel plates and blasted it with pressures reaching 3 GPa (30,000 times atmospheric pressure). Even under these extreme conditions, a significant portion of the microbes survived.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303082606.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CBlasted%20off%20Mars%20and%20still%20alive",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "James Webb spots a galaxy with tentacles in deep space",
-      "summary": "Astronomers using the James Webb Space Telescope have spotted the most distant “jellyfish galaxy” ever seen — a cosmic oddity streaming long, tentacle-like trails of gas and newborn stars as it speeds through a dense galaxy cluster. The galaxy appears as it was 8.5 billion years ago, revealing that the early universe may have been far more violent than scientists expected.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303050635.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CJames%20Webb%20spots%20a%20galaxy%20with%20tentacles%20in%20deep%20space",
+      "title": "Millions with joint pain and osteoarthritis are missing the most powerful treatment",
+      "summary": "Stiff knees and aching hips may seem like an inevitable part of aging, but experts say we’re getting osteoarthritis all wrong. Despite affecting nearly 600 million people worldwide — and potentially a billion by 2050 — the most powerful treatment isn’t surgery or medication. It’s exercise. Movement nourishes cartilage, strengthens muscles, reduces inflammation, and even reshapes the biological processes driving joint damage.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145725.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMillions%20with%20joint%20pain%20and%20osteoarthritis%20are%20missing%20the%20most%20powerful%20treatment",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Intelligence emerges when the whole brain works as one",
-      "summary": "For decades, scientists have mapped attention, memory, language, and reasoning to separate brain networks — yet one big mystery remained: why does the mind feel like a single, unified system? Researchers at the University of Notre Dame now suggest that intelligence doesn’t live in one “smart” region of the brain at all. Instead, it emerges from how efficiently and flexibly the brain’s many networks communicate and coordinate with each other.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303050632.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CIntelligence%20emerges%20when%20the%20whole%20brain%20works%20as%20one",
+      "title": "Scientists capture a magnetic flip in 140 trillionths of a second",
+      "summary": "Scientists at the University of Tokyo have captured something never seen before: a frame-by-frame view of how electron spins flip inside an antiferromagnet, a material once thought to be magnetically “invisible.” By firing ultrafast electrical pulses into a thin layer of manganese–tin and tracking the response with precisely timed flashes of light, the team uncovered two distinct switching mechanisms. One relies on heat generated by strong currents, while the other flips spins directly with minimal heating — a far more efficient process.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303145707.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20capture%20a%20magnetic%20flip%20in%20140%20trillionths%20of%20a%20second",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
