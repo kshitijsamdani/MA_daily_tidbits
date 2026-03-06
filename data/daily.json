@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-05 03:15 UTC",
+  "date": "2026-03-06 03:14 UTC",
   "items": [
     {
-      "title": "Study finds wild release can be deadly for rescued slow lorises",
-      "summary": "Returning rescued slow lorises to the wild may sound like a conservation success, but a new study shows it can turn deadly. Researchers tracked nine released animals and found that only two survived, with most killed in territorial attacks by other lorises. Scientists say better planning is essential to ensure wildlife releases actually help endangered species.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303201801.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CStudy%20finds%20wild%20release%20can%20be%20deadly%20for%20rescued%20slow%20lorises",
+      "title": "Scientists discover a hidden force that helps wire the brain",
+      "summary": "Growing neurons rely on chemical cues to find their targets, but new research shows that the brain’s physical properties help shape those signals. Scientists discovered that tissue stiffness can trigger the production of guidance molecules through a force-sensing protein called Piezo1. This protein not only detects mechanical forces but also helps maintain the structure of brain tissue. The discovery reveals a powerful link between the brain’s physical environment and how its wiring is built.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184233.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20hidden%20force%20that%20helps%20wire%20the%20brain",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "T. rex took 40 years to reach full size, study finds",
+      "summary": "Tyrannosaurus rex may have taken far longer to grow up than scientists once thought. By analyzing growth rings in fossilized leg bones from 17 tyrannosaur specimens and using new statistical methods, researchers found that the famous predator likely took about 40 years to reach its full size—around eight tons—rather than the previously estimated 25 years.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184226.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CT.%20rex%20took%2040%20years%20to%20reach%20full%20size%2C%20study%20finds",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Half of Amazon insects could face dangerous heat stress",
+      "summary": "A sweeping new study of more than 2,000 insect species reveals a troubling reality: many insects may be far less capable of coping with rising temperatures than scientists once hoped. Researchers found that while some species living at higher altitudes can temporarily boost their heat tolerance, many insects in tropical lowlands—where biodiversity is highest—lack this flexibility. Because insects play essential roles as pollinators, decomposers, and predators, their vulnerability could ripple through entire ecosystems.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184224.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CHalf%20of%20Amazon%20insects%20could%20face%20dangerous%20heat%20stress",
       "wiki_url": "",
       "category": "Biology"
     },
     {
-      "title": "What snow monkeys’ steamy baths are really doing to their bodies",
-      "summary": "Japanese snow monkeys don’t just soak in hot springs to escape the winter chill — their steamy spa sessions may also be reshaping their invisible world. Researchers in Japan found that macaques who regularly bathe show subtle but intriguing differences in lice patterns and gut bacteria compared to those who stay dry. Surprisingly, sharing the hot pools didn’t increase their parasite load, challenging assumptions about disease risk.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303153357.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CWhat%20snow%20monkeys%E2%80%99%20steamy%20baths%20are%20really%20doing%20to%20their%20bodies",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "2700-year-old teeth reveal the hidden lives of Iron Age Italians",
-      "summary": "Iron Age teeth from southern Italy have become time capsules, preserving intimate details of childhood and diet. Growth lines in the enamel reveal moments of early-life stress, while hardened plaque holds microscopic remains of cereals, legumes, and fermented foods. The findings suggest a community with diverse food resources and strong Mediterranean connections. Even a small sample offers a striking glimpse into how people lived, grew, and ate nearly three millennia ago.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303145727.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2C2700-year-old%20teeth%20reveal%20the%20hidden%20lives%20of%20Iron%20Age%20Italians",
+      "title": "Ozempic-like weight loss drugs may help the heart recover after a heart attack",
+      "summary": "Popular weight-loss drugs such as Ozempic, Wegovy, and Mounjaro may do more than help people shed pounds. New research suggests these GLP-1 medications could also help protect the heart after a heart attack by restoring blood flow in tiny blood vessels that often remain blocked even after doctors reopen a major artery.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184223.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2COzempic-like%20weight%20loss%20drugs%20may%20help%20the%20heart%20recover%20after%20a%20heart%20attack",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Millions with joint pain and osteoarthritis are missing the most powerful treatment",
-      "summary": "Stiff knees and aching hips may seem like an inevitable part of aging, but experts say we’re getting osteoarthritis all wrong. Despite affecting nearly 600 million people worldwide — and potentially a billion by 2050 — the most powerful treatment isn’t surgery or medication. It’s exercise. Movement nourishes cartilage, strengthens muscles, reduces inflammation, and even reshapes the biological processes driving joint damage.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303145725.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMillions%20with%20joint%20pain%20and%20osteoarthritis%20are%20missing%20the%20most%20powerful%20treatment",
+      "title": "Scientists discover the protein that malaria parasites can’t live without",
+      "summary": "Scientists have uncovered a crucial weakness in the malaria parasite that could open the door to new treatments. Researchers identified a protein called Aurora-related kinase 1 (ARK1) that acts like a traffic controller during the parasite’s unusual cell division process, ensuring its genetic material is properly separated as it multiplies. When scientists switched off ARK1 in laboratory experiments, the parasite could no longer replicate correctly and failed to complete its life cycle in both humans and mosquitoes—effectively halting its ability to spread.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20protein%20that%20malaria%20parasites%20can%E2%80%99t%20live%20without",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Scientists capture a magnetic flip in 140 trillionths of a second",
-      "summary": "Scientists at the University of Tokyo have captured something never seen before: a frame-by-frame view of how electron spins flip inside an antiferromagnet, a material once thought to be magnetically “invisible.” By firing ultrafast electrical pulses into a thin layer of manganese–tin and tracking the response with precisely timed flashes of light, the team uncovered two distinct switching mechanisms. One relies on heat generated by strong currents, while the other flips spins directly with minimal heating — a far more efficient process.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303145707.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20capture%20a%20magnetic%20flip%20in%20140%20trillionths%20of%20a%20second",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
