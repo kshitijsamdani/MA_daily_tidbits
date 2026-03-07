@@ -1,43 +1,43 @@
 {
-  "date": "2026-03-06 03:14 UTC",
+  "date": "2026-03-07 03:03 UTC",
   "items": [
     {
-      "title": "Scientists discover a hidden force that helps wire the brain",
-      "summary": "Growing neurons rely on chemical cues to find their targets, but new research shows that the brain’s physical properties help shape those signals. Scientists discovered that tissue stiffness can trigger the production of guidance molecules through a force-sensing protein called Piezo1. This protein not only detects mechanical forces but also helps maintain the structure of brain tissue. The discovery reveals a powerful link between the brain’s physical environment and how its wiring is built.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260304184233.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20hidden%20force%20that%20helps%20wire%20the%20brain",
+      "title": "Astronomers discover giant cosmic sheet around the Milky Way",
+      "summary": "For decades, astronomers wondered why most nearby galaxies are speeding away from the Milky Way instead of being pulled in by its gravity. New simulations reveal the answer: our galaxy sits in a gigantic, flat sheet of matter surrounded by huge empty voids. This hidden structure—dominated by dark matter—balances gravitational forces and lets neighboring galaxies drift outward. The discovery finally explains the puzzling motions of galaxies just beyond our Local Group.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAstronomers%20discover%20giant%20cosmic%20sheet%20around%20the%20Milky%20Way",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "T. rex took 40 years to reach full size, study finds",
-      "summary": "Tyrannosaurus rex may have taken far longer to grow up than scientists once thought. By analyzing growth rings in fossilized leg bones from 17 tyrannosaur specimens and using new statistical methods, researchers found that the famous predator likely took about 40 years to reach its full size—around eight tons—rather than the previously estimated 25 years.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260304184226.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CT.%20rex%20took%2040%20years%20to%20reach%20full%20size%2C%20study%20finds",
+      "title": "Electrons catapult across solar materials in just 18 femtoseconds",
+      "summary": "Electrons in solar materials can be launched across molecules almost as fast as nature allows, thanks to tiny atomic vibrations acting like a “molecular catapult.” In experiments lasting just 18 femtoseconds, researchers at the University of Cambridge observed electrons blasting across a boundary in a single burst, far faster than long-standing theories predicted. Instead of slow, random movement, the electron rides the natural vibrations of the molecule itself, challenging decades of design rules for solar materials.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260305223219.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CElectrons%20catapult%20across%20solar%20materials%20in%20just%2018%20femtoseconds",
       "wiki_url": "",
       "category": "Science"
     },
     {
-      "title": "Half of Amazon insects could face dangerous heat stress",
-      "summary": "A sweeping new study of more than 2,000 insect species reveals a troubling reality: many insects may be far less capable of coping with rising temperatures than scientists once hoped. Researchers found that while some species living at higher altitudes can temporarily boost their heat tolerance, many insects in tropical lowlands—where biodiversity is highest—lack this flexibility. Because insects play essential roles as pollinators, decomposers, and predators, their vulnerability could ripple through entire ecosystems.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260304184224.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CHalf%20of%20Amazon%20insects%20could%20face%20dangerous%20heat%20stress",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Ozempic-like weight loss drugs may help the heart recover after a heart attack",
-      "summary": "Popular weight-loss drugs such as Ozempic, Wegovy, and Mounjaro may do more than help people shed pounds. New research suggests these GLP-1 medications could also help protect the heart after a heart attack by restoring blood flow in tiny blood vessels that often remain blocked even after doctors reopen a major artery.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260304184223.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2COzempic-like%20weight%20loss%20drugs%20may%20help%20the%20heart%20recover%20after%20a%20heart%20attack",
+      "title": "ALMA captures the most detailed image ever of the Milky Way’s turbulent core",
+      "summary": "A sweeping new ALMA image has peeled back the veil on the Milky Way’s core, exposing a dense network of cold gas filaments near the central black hole. Stretching across 650 light-years, the survey maps the hidden fuel for star formation in remarkable detail and reveals a surprisingly complex chemical brew. This extreme region hosts some of the galaxy’s most massive, short-lived stars. The findings could help explain how stars — and even entire galaxies — formed under the universe’s most chaotic conditions.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260305182705.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CALMA%20captures%20the%20most%20detailed%20image%20ever%20of%20the%20Milky%20Way%E2%80%99s%20turbulent%20core",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists discover the protein that malaria parasites can’t live without",
-      "summary": "Scientists have uncovered a crucial weakness in the malaria parasite that could open the door to new treatments. Researchers identified a protein called Aurora-related kinase 1 (ARK1) that acts like a traffic controller during the parasite’s unusual cell division process, ensuring its genetic material is properly separated as it multiplies. When scientists switched off ARK1 in laboratory experiments, the parasite could no longer replicate correctly and failed to complete its life cycle in both humans and mosquitoes—effectively halting its ability to spread.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20protein%20that%20malaria%20parasites%20can%E2%80%99t%20live%20without",
+      "title": "Humpback whale recovery is changing who fathers the calves",
+      "summary": "A new study shows that as humpback whale populations recover from past whaling, older males are gaining a major advantage in reproduction. Early in the recovery, breeding groups were dominated by younger whales. But as more mature males returned, they increasingly fathered more calves than their younger rivals. Scientists say experience in singing and competing may help older males win the breeding battle.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260305182700.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHumpback%20whale%20recovery%20is%20changing%20who%20fathers%20the%20calves",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists discover the switch that revives exhausted cancer-fighting T cells",
+      "summary": "Scientists have uncovered new genetic rules that determine whether the immune system’s “killer” T cells remain powerful long-term defenders or become worn out and ineffective. By building a detailed genetic atlas of CD8 T cell states, researchers identified key molecular switches that push these cells toward either resilience or exhaustion. Remarkably, disabling just two previously unknown genes restored the tumor-killing power of exhausted T cells while preserving their ability to provide lasting immune protection.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184235.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20switch%20that%20revives%20exhausted%20cancer-fighting%20T%20cells",
       "wiki_url": "",
       "category": "AI"
     },
