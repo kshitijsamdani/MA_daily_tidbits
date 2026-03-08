@@ -1,10 +1,10 @@
 {
-  "date": "2026-02-22 00:35 UTC",
+  "date": "2026-03-08 15:24 UTC",
   "items": [
     {
-      "title": "Generative AI analyzes medical data faster than human research teams",
-      "summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
+      "title": "Physicists finally see strange magnetic vortices predicted 50 years ago",
+      "summary": "A team of physicists has experimentally confirmed a long-predicted sequence of exotic magnetic phases in an atomically thin material. When cooled, the material forms tiny magnetic vortices before transitioning into a second ordered magnetic state—exactly as predicted by a famous theoretical model from the 1970s.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260306224223.htm",
       "image": "",
       "wiki_url": "",
       "category": "AI",
@@ -14,9 +14,9 @@
       "audio": null
     },
     {
-      "title": "James Webb Space Telescope captures strange magnetic forces warping Uranus",
-      "summary": "For the first time, scientists have mapped Uranus’s upper atmosphere in three dimensions, tracking temperatures and charged particles up to 5,000 kilometers above the clouds. Webb’s sharp vision revealed glowing auroral bands and unexpected dark regions shaped by the planet’s wildly tilted magnetic field.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000303.htm",
+      "title": "A perfectly balanced atom just broke one of nuclear physics’ biggest rules",
+      "summary": "Physicists have discovered a surprising new “Island of Inversion” in a place no one expected: among nuclei where the number of protons equals the number of neutrons. For decades, these strange regions—where atomic nuclei abandon their usual orderly structure and become strongly deformed—were thought to exist only in highly neutron-rich isotopes far from stability.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260307213241.htm",
       "image": "",
       "wiki_url": "",
       "category": "Physics",
@@ -26,9 +26,9 @@
       "audio": null
     },
     {
-      "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
-      "summary": "Astronomers have uncovered one of the most mysterious galaxies ever found — a dim, ghostly object called CDG-2 that is almost entirely made of dark matter. Located 300 million light-years away in the Perseus galaxy cluster, it was discovered in an unusual way: not by its stars, but by four tightly packed globular clusters acting like cosmic breadcrumbs.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
+      "title": "NASA DART mission reveals asteroids throw “cosmic snowballs” at each other",
+      "summary": "Asteroids with tiny moons may be quietly trading material across space. Images from NASA’s DART mission revealed faint streaks on the moon Dimorphos—evidence of slow “cosmic snowballs” drifting from its parent asteroid, Didymos.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260307213226.htm",
       "image": "",
       "wiki_url": "",
       "category": "Space",
@@ -38,9 +38,9 @@
       "audio": null
     },
     {
-      "title": "Scientists discover why high altitude protects against diabetes",
-      "summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
+      "title": "Scientists discover a brain signal that may trigger autism’s domino effect",
+      "summary": "Researchers have uncovered a surprising molecular chain reaction in the brain that may play a role in some forms of autism. The study suggests that nitric oxide, a tiny signaling molecule normally involved in fine-tuning communication between brain cells, can sometimes trigger a cascade of changes inside neurons.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260307155943.htm",
       "image": "",
       "wiki_url": "",
       "category": "Biology",
@@ -50,9 +50,9 @@
       "audio": null
     },
     {
-      "title": "Scientists reveal why human language isn’t like computer code",
-      "summary": "Human language may seem messy and inefficient compared to the ultra-compact strings of ones and zeros used by computers—but our brains actually prefer it that way. New research reveals that while digital-style encoding could theoretically compress information more tightly, it would demand far more mental effort from both speaker and listener.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260219040811.htm",
+      "title": "Ozempic-like weight loss drugs may help the heart recover after a heart attack",
+      "summary": "Popular weight-loss drugs such as Ozempic, Wegovy, and Mounjaro may do more than help people shed pounds. New research suggests these GLP-1 medications could also help protect the heart after a heart attack by restoring blood flow in tiny blood vessels that often remain blocked even after doctors reopen a major artery.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184223.htm",
       "image": "",
       "wiki_url": "",
       "category": "Health",
@@ -62,9 +62,9 @@
       "audio": null
     },
     {
-      "title": "A spinning gyroscope could finally unlock ocean wave energy",
-      "summary": "Ocean waves are a vast and steady source of renewable energy, but capturing their power efficiently has long frustrated engineers. A researcher at The University of Osaka has now explored a bold new approach: a gyroscopic wave energy converter that uses a spinning flywheel inside a floating structure to turn wave motion into electricity.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260218031554.htm",
+      "title": "Scientists discover tiny ocean fungus that kills toxic algae",
+      "summary": "Scientists have discovered a newly identified marine fungus that can infect and kill toxic algae responsible for harmful blooms. The microscopic parasite, named Algophthora mediterranea, attacks algae such as Ostreopsis cf.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260305223223.htm",
       "image": "",
       "wiki_url": "",
       "category": "Environment",
@@ -74,9 +74,9 @@
       "audio": null
     },
     {
-      "title": "“Celtic curse” hotspots found in Scotland and Ireland with 1 in 54 at risk",
-      "summary": "Researchers have mapped the genetic risk of hemochromatosis across the UK and Ireland for the first time, uncovering striking hotspots in north-west Ireland and the Outer Hebrides. In some regions, around one in 60 people carry the high-risk gene variant linked to iron overload.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000332.htm",
+      "title": "Golden Retriever genes linked to anxiety, aggression, and intelligence in humans",
+      "summary": "Scientists studying 1,300 golden retrievers have uncovered genetic clues explaining why some dogs are more anxious, energetic, or aggressive than others. Remarkably, several of the same genes linked to canine behavior are also tied to human traits like anxiety, depression, and intelligence.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260306224229.htm",
       "image": "",
       "wiki_url": "",
       "category": "Science",
@@ -86,9 +86,9 @@
       "audio": null
     },
     {
-      "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
-      "summary": "A common bacterium best known for causing pneumonia and sinus infections may also play a surprising role in Alzheimer’s disease. Researchers found that Chlamydia pneumoniae can invade the retina and brain, where it sparks inflammation, nerve cell death, and the buildup of amyloid-beta—the hallmark protein linked to Alzheimer’s.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
+      "title": "Scientists warn fake research is spreading faster than real science",
+      "summary": "A sweeping new study from Northwestern University reveals that scientific fraud is no longer just the work of a few rogue researchers—it has evolved into a global, organized enterprise. By analyzing massive datasets of publications, retractions, and editorial records, researchers uncovered networks involving “paper mills,” brokers, and compromised journals that systematically produce and sell fake research, authorship slots, and citations.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260306224235.htm",
       "image": "",
       "wiki_url": "",
       "category": "Entrepreneurship",
