@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-07 03:03 UTC",
+  "date": "2026-03-08 03:17 UTC",
   "items": [
     {
-      "title": "Astronomers discover giant cosmic sheet around the Milky Way",
-      "summary": "For decades, astronomers wondered why most nearby galaxies are speeding away from the Milky Way instead of being pulled in by its gravity. New simulations reveal the answer: our galaxy sits in a gigantic, flat sheet of matter surrounded by huge empty voids. This hidden structure—dominated by dark matter—balances gravitational forces and lets neighboring galaxies drift outward. The discovery finally explains the puzzling motions of galaxies just beyond our Local Group.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAstronomers%20discover%20giant%20cosmic%20sheet%20around%20the%20Milky%20Way",
+      "title": "Scientists discover a brain signal that may trigger autism’s domino effect",
+      "summary": "Researchers have uncovered a surprising molecular chain reaction in the brain that may play a role in some forms of autism. The study suggests that nitric oxide, a tiny signaling molecule normally involved in fine-tuning communication between brain cells, can sometimes trigger a cascade of changes inside neurons. When nitric oxide activity rises, it can alter a protective protein called TSC2, weakening an important cellular brake and allowing the mTOR pathway, which controls growth and protein production, to become overactive.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260307155943.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20brain%20signal%20that%20may%20trigger%20autism%E2%80%99s%20domino%20effect",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Electrons catapult across solar materials in just 18 femtoseconds",
-      "summary": "Electrons in solar materials can be launched across molecules almost as fast as nature allows, thanks to tiny atomic vibrations acting like a “molecular catapult.” In experiments lasting just 18 femtoseconds, researchers at the University of Cambridge observed electrons blasting across a boundary in a single burst, far faster than long-standing theories predicted. Instead of slow, random movement, the electron rides the natural vibrations of the molecule itself, challenging decades of design rules for solar materials.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260305223219.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CElectrons%20catapult%20across%20solar%20materials%20in%20just%2018%20femtoseconds",
+      "title": "Scientists warn fake research is spreading faster than real science",
+      "summary": "A sweeping new study from Northwestern University reveals that scientific fraud is no longer just the work of a few rogue researchers—it has evolved into a global, organized enterprise. By analyzing massive datasets of publications, retractions, and editorial records, researchers uncovered networks involving “paper mills,” brokers, and compromised journals that systematically produce and sell fake research, authorship slots, and citations.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260306224235.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20warn%20fake%20research%20is%20spreading%20faster%20than%20real%20science",
       "wiki_url": "",
       "category": "Science"
     },
     {
-      "title": "ALMA captures the most detailed image ever of the Milky Way’s turbulent core",
-      "summary": "A sweeping new ALMA image has peeled back the veil on the Milky Way’s core, exposing a dense network of cold gas filaments near the central black hole. Stretching across 650 light-years, the survey maps the hidden fuel for star formation in remarkable detail and reveals a surprisingly complex chemical brew. This extreme region hosts some of the galaxy’s most massive, short-lived stars. The findings could help explain how stars — and even entire galaxies — formed under the universe’s most chaotic conditions.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260305182705.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CALMA%20captures%20the%20most%20detailed%20image%20ever%20of%20the%20Milky%20Way%E2%80%99s%20turbulent%20core",
+      "title": "A 4,000-year-old sheep reveals the secret of an ancient plague",
+      "summary": "A mysterious form of plague that spread across Eurasia thousands of years before the Black Death has finally revealed a crucial clue. Scientists analyzing ancient DNA discovered the bacterium Yersinia pestis in a 4,000-year-old domesticated sheep from a Bronze Age settlement in the Ural Mountains—the first time the pathogen has ever been found in a non-human host from that era. Because this early strain couldn’t spread through fleas like the medieval plague, researchers have long puzzled over how it traveled so widely.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260306224232.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%204%2C000-year-old%20sheep%20reveals%20the%20secret%20of%20an%20ancient%20plague",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Humpback whale recovery is changing who fathers the calves",
-      "summary": "A new study shows that as humpback whale populations recover from past whaling, older males are gaining a major advantage in reproduction. Early in the recovery, breeding groups were dominated by younger whales. But as more mature males returned, they increasingly fathered more calves than their younger rivals. Scientists say experience in singing and competing may help older males win the breeding battle.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260305182700.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHumpback%20whale%20recovery%20is%20changing%20who%20fathers%20the%20calves",
+      "title": "Golden Retriever genes linked to anxiety, aggression, and intelligence in humans",
+      "summary": "Scientists studying 1,300 golden retrievers have uncovered genetic clues explaining why some dogs are more anxious, energetic, or aggressive than others. Remarkably, several of the same genes linked to canine behavior are also tied to human traits like anxiety, depression, and intelligence. The discovery suggests dogs and humans share biological roots for emotions and behavior. Understanding these links could help owners better interpret their pets’ reactions and even improve training and veterinary care.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260306224229.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CGolden%20Retriever%20genes%20linked%20to%20anxiety%2C%20aggression%2C%20and%20intelligence%20in%20humans",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists discover the switch that revives exhausted cancer-fighting T cells",
-      "summary": "Scientists have uncovered new genetic rules that determine whether the immune system’s “killer” T cells remain powerful long-term defenders or become worn out and ineffective. By building a detailed genetic atlas of CD8 T cell states, researchers identified key molecular switches that push these cells toward either resilience or exhaustion. Remarkably, disabling just two previously unknown genes restored the tumor-killing power of exhausted T cells while preserving their ability to provide lasting immune protection.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260304184235.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20switch%20that%20revives%20exhausted%20cancer-fighting%20T%20cells",
+      "title": "Physicists finally see strange magnetic vortices predicted 50 years ago",
+      "summary": "A team of physicists has experimentally confirmed a long-predicted sequence of exotic magnetic phases in an atomically thin material. When cooled, the material forms tiny magnetic vortices before transitioning into a second ordered magnetic state—exactly as predicted by a famous theoretical model from the 1970s. Observing both phases together for the first time validates key ideas about how magnetism behaves in two dimensions. The findings could help inspire ultracompact technologies built on nanoscale magnetic control.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260306224223.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CPhysicists%20finally%20see%20strange%20magnetic%20vortices%20predicted%2050%20years%20ago",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
