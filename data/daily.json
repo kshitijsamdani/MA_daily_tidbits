@@ -1,12 +1,12 @@
 {
-  "date": "2026-02-25 21:15 UTC",
+  "date": "2026-03-08 15:19 UTC",
   "items": [
     {
-      "title": "Quick fact: Convolutional neural network",
-      "summary": "Did you know? A convolutional neural network (CNN) is a type of feedforward neural network that learns features via filter optimization. This type of deep learning network has been applied to process and make predictions from many different types of data including text, images and audio.",
-      "link": "https://en.wikipedia.org/wiki/Convolutional_neural_network",
+      "title": "Beyond amyloid plaques: AI reveals hidden chemical changes across the Alzheimer’s brain",
+      "summary": "Scientists at Rice University have produced the first full, dye-free molecular atlas of an Alzheimer’s brain. By combining laser-based imaging with machine learning, they uncovered chemical changes that spread unevenly across the brain and extend beyond amyloid plaques.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228093505.htm",
       "image": "",
-      "wiki_url": "https://en.wikipedia.org/wiki/Convolutional_neural_network",
+      "wiki_url": "",
       "category": "AI",
       "hook": "FYI: AI stands for Artificial Intelligence, not Another Idli",
       "question": "Can you now summarize your conference recordings using AI now?",
@@ -14,11 +14,11 @@
       "audio": null
     },
     {
-      "title": "Quick fact: Superconductivity",
-      "summary": "Did you know? Superconductivity is a set of physical properties observed in superconductors: materials where electrical resistance vanishes and magnetic fields are expelled from the material. Unlike an ordinary metallic conductor, whose resistance decreases gradually as its temperature is lowered, even down to near absolute zero, a superconductor has a characteristic critical temperature below which the resistance drops abruptly to zero.",
-      "link": "https://en.wikipedia.org/wiki/Superconductivity",
+      "title": "'Superconducting dome' hints at high-temperature superconductivity in thin nickelate films",
+      "summary": "Superconductivity is a quantum state of matter characterized by an electrical resistance of zero and the expulsion of magnetic fields at low temperatures below a critical point. Superconductors, materials in which this state occurs, have proved to be highly advantageous for the development of various technologies, including medical imaging devices, particle accelerators and quantum computers.",
+      "link": "https://phys.org/news/2026-03-superconducting-dome-hints-high-temperature.html",
       "image": "",
-      "wiki_url": "https://en.wikipedia.org/wiki/Superconductivity",
+      "wiki_url": "",
       "category": "Physics",
       "hook": "FYI: Physics is the most complex, difficult and interesting subject... second only to you",
       "question": "How strong is your gravitational pull?",
@@ -26,11 +26,11 @@
       "audio": null
     },
     {
-      "title": "Quick fact: Business model",
-      "summary": "Did you know? A business model describes how a business organization creates, delivers, and captures value, in economic, social, cultural or other contexts. The model describes the specific way in which the business conducts itself, spends, and earns money in a way that generates profit.",
-      "link": "https://en.wikipedia.org/wiki/Business_model",
+      "title": "The hidden technology that could unlock commercial fusion power",
+      "summary": "Fusion energy may be one of the most promising clean power sources of the future—but only if scientists can precisely measure the extreme, fast-moving plasmas that make it possible. A new U.S.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303050622.htm",
       "image": "",
-      "wiki_url": "https://en.wikipedia.org/wiki/Business_model",
+      "wiki_url": "",
       "category": "Entrepreneurship",
       "hook": "FYI: Brainpowerzzz has the potential to become a successful startup",
       "question": "Am I correct?",
@@ -38,9 +38,9 @@
       "audio": null
     },
     {
-      "title": "Scientists just mapped the hidden structure holding the Universe together",
-      "summary": "Astronomers have produced the most detailed map yet of dark matter, revealing the invisible framework that shaped the Universe long before stars and galaxies formed. Using powerful new observations from NASA’s James Webb Space Telescope, the research shows how dark matter gathered ordinary matter into dense regions, setting the stage for galaxies like the Milky Way and eventually planets like Earth.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260203020205.htm",
+      "title": "NASA DART mission reveals asteroids throw “cosmic snowballs” at each other",
+      "summary": "Asteroids with tiny moons may be quietly trading material across space. Images from NASA’s DART mission revealed faint streaks on the moon Dimorphos—evidence of slow “cosmic snowballs” drifting from its parent asteroid, Didymos.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260307213226.htm",
       "image": "",
       "wiki_url": "",
       "category": "Space",
@@ -50,9 +50,9 @@
       "audio": null
     },
     {
-      "title": "Gut bacteria can sense their environment and it’s key to your health",
-      "summary": "Your gut is home to trillions of bacteria that constantly “sense” their surroundings to survive and thrive. New research shows that beneficial gut microbes, especially common Clostridia bacteria, can detect a surprisingly wide range of chemical signals produced during digestion, including byproducts of fats, proteins, sugars, and even DNA.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260208011017.htm",
+      "title": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
+      "summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
       "image": "",
       "wiki_url": "",
       "category": "Biology",
@@ -62,9 +62,9 @@
       "audio": null
     },
     {
-      "title": "Viagra and shingles vaccine show surprising promise against Alzheimer’s",
-      "summary": "A major new study has spotlighted three familiar medicines that could take on an unexpected new role in the fight against Alzheimer’s disease — with a shingles vaccine emerging as the front-runner. After reviewing 80 existing drugs, an international panel of experts identified Zostavax, Viagra (sildenafil), and riluzole as the most promising candidates for repurposing.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260217005759.htm",
+      "title": "Scientists turn methane into medicine in stunning breakthrough",
+      "summary": "Scientists have unveiled a breakthrough way to turn natural gas—long burned as fuel—into valuable chemical building blocks for medicines and other high-demand products. By designing a clever iron-based catalyst powered by LED light, researchers managed to activate stubborn molecules like methane and transform them into complex compounds, even creating the hormone therapy drug dimestrol directly from methane for the first time.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm",
       "image": "",
       "wiki_url": "",
       "category": "Health",
@@ -74,9 +74,9 @@
       "audio": null
     },
     {
-      "title": "Scientists warn climate models are missing a key ocean player",
-      "summary": "Tiny marine plankton that build calcium carbonate shells play an outsized role in regulating Earth’s climate, quietly pulling carbon from the atmosphere and helping lock it away in the deep ocean. New research shows these microscopic engineers are largely missing from the climate models used to forecast our planet’s future, meaning scientists may be underestimating how the ocean responds to climate change.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260208011024.htm",
+      "title": "A major climate hope in Antarctica just melted away",
+      "summary": "A popular climate theory suggested that melting Antarctic glaciers would release iron into the ocean, sparking algae blooms that pull carbon dioxide from the air. New field data from West Antarctica reveal that meltwater provides far less iron than scientists once believed.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228082714.htm",
       "image": "",
       "wiki_url": "",
       "category": "Environment",
@@ -86,9 +86,9 @@
       "audio": null
     },
     {
-      "title": "Babies exposed to far more “forever chemicals” before birth than scientists knew",
-      "summary": "Babies born in the early 2000s were exposed in the womb to far more “forever chemicals” than researchers once realized, according to a new study. By using advanced chemical screening on umbilical cord blood, scientists detected 42 different PFAS compounds, including many that standard tests do not routinely check for.",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260222085209.htm",
+      "title": "Textbooks challenged by new discovery about how cells divide",
+      "summary": "Scientists have uncovered a surprising new way that giant embryonic cells divide—without relying on the classic “purse-string” ring long thought essential for splitting a cell in two. Studying zebrafish embryos, researchers found that instead of forming a fully closed contractile ring, cells use a clever “mechanical ratchet” system.",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260227071928.htm",
       "image": "",
       "wiki_url": "",
       "category": "Science",
