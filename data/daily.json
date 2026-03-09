@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-08 03:17 UTC",
+  "date": "2026-03-09 03:20 UTC",
   "items": [
     {
-      "title": "Scientists discover a brain signal that may trigger autism’s domino effect",
-      "summary": "Researchers have uncovered a surprising molecular chain reaction in the brain that may play a role in some forms of autism. The study suggests that nitric oxide, a tiny signaling molecule normally involved in fine-tuning communication between brain cells, can sometimes trigger a cascade of changes inside neurons. When nitric oxide activity rises, it can alter a protective protein called TSC2, weakening an important cellular brake and allowing the mTOR pathway, which controls growth and protein production, to become overactive.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260307155943.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20brain%20signal%20that%20may%20trigger%20autism%E2%80%99s%20domino%20effect",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists warn fake research is spreading faster than real science",
-      "summary": "A sweeping new study from Northwestern University reveals that scientific fraud is no longer just the work of a few rogue researchers—it has evolved into a global, organized enterprise. By analyzing massive datasets of publications, retractions, and editorial records, researchers uncovered networks involving “paper mills,” brokers, and compromised journals that systematically produce and sell fake research, authorship slots, and citations.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260306224235.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20warn%20fake%20research%20is%20spreading%20faster%20than%20real%20science",
+      "title": "Satellites are exposing weak bridges in America and around the world",
+      "summary": "Satellites are giving scientists a powerful new way to watch over the world’s bridges. Using radar imaging, researchers can detect millimeter-scale movements that may signal early structural problems long before inspectors notice them. The study found many bridges—especially in North America—are aging and increasingly vulnerable, but satellite monitoring could sharply reduce the number classified as high-risk. The approach could be especially valuable in regions where traditional monitoring barely exists.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260307213350.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CSatellites%20are%20exposing%20weak%20bridges%20in%20America%20and%20around%20the%20world",
       "wiki_url": "",
       "category": "Science"
     },
     {
-      "title": "A 4,000-year-old sheep reveals the secret of an ancient plague",
-      "summary": "A mysterious form of plague that spread across Eurasia thousands of years before the Black Death has finally revealed a crucial clue. Scientists analyzing ancient DNA discovered the bacterium Yersinia pestis in a 4,000-year-old domesticated sheep from a Bronze Age settlement in the Ural Mountains—the first time the pathogen has ever been found in a non-human host from that era. Because this early strain couldn’t spread through fleas like the medieval plague, researchers have long puzzled over how it traveled so widely.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260306224232.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%204%2C000-year-old%20sheep%20reveals%20the%20secret%20of%20an%20ancient%20plague",
+      "title": "Scientists stunned to find signs of ancient life in a place no one expected",
+      "summary": "While exploring ancient seabeds in Morocco, scientists discovered strange wrinkle-like textures in deep-water sediments that shouldn’t have been there. These structures are usually made by sunlight-loving microbial mats in shallow waters. But the rocks formed far below the reach of light, suggesting a different explanation. Evidence points to chemosynthetic microbes—organisms powered by chemical reactions—creating the mats in the dark depths of an ancient ocean.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260307213247.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20stunned%20to%20find%20signs%20of%20ancient%20life%20in%20a%20place%20no%20one%20expected",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "A perfectly balanced atom just broke one of nuclear physics’ biggest rules",
+      "summary": "Physicists have discovered a surprising new “Island of Inversion” in a place no one expected: among nuclei where the number of protons equals the number of neutrons. For decades, these strange regions—where atomic nuclei abandon their usual orderly structure and become strongly deformed—were thought to exist only in highly neutron-rich isotopes far from stability. But experiments on molybdenum isotopes revealed that molybdenum-84 behaves dramatically differently from its close neighbor molybdenum-86, even though they differ by just two neutrons.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260307213241.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20perfectly%20balanced%20atom%20just%20broke%20one%20of%20nuclear%20physics%E2%80%99%20biggest%20rules",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
+      "title": "Brain scans reveal how ketamine quickly lifts severe depression",
+      "summary": "A new brain-imaging study has revealed how ketamine produces its fast antidepressant effects in people with treatment-resistant depression. Researchers tracked changes in a critical brain receptor that helps neurons communicate and found that ketamine reshapes its activity in specific brain regions tied to mood and reward. These shifts strongly matched improvements in patients’ symptoms. The findings could help scientists develop better ways to predict who will benefit from ketamine therapy.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260307213234.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CBrain%20scans%20reveal%20how%20ketamine%20quickly%20lifts%20severe%20depression",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Golden Retriever genes linked to anxiety, aggression, and intelligence in humans",
-      "summary": "Scientists studying 1,300 golden retrievers have uncovered genetic clues explaining why some dogs are more anxious, energetic, or aggressive than others. Remarkably, several of the same genes linked to canine behavior are also tied to human traits like anxiety, depression, and intelligence. The discovery suggests dogs and humans share biological roots for emotions and behavior. Understanding these links could help owners better interpret their pets’ reactions and even improve training and veterinary care.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260306224229.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CGolden%20Retriever%20genes%20linked%20to%20anxiety%2C%20aggression%2C%20and%20intelligence%20in%20humans",
+      "title": "A new “magic mushroom” drug could treat depression without psychedelic hallucinations",
+      "summary": "Scientists are exploring a new way to harness the medical promise of psychedelic compounds without the mind-bending side effects. Researchers created modified versions of psilocin — the active form of psilocybin from “magic mushrooms” — that still target key serotonin pathways linked to depression and other brain disorders but appear to cause far fewer psychedelic-like effects.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260307213232.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20new%20%E2%80%9Cmagic%20mushroom%E2%80%9D%20drug%20could%20treat%20depression%20without%20psychedelic%20hallucinations",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Physicists finally see strange magnetic vortices predicted 50 years ago",
-      "summary": "A team of physicists has experimentally confirmed a long-predicted sequence of exotic magnetic phases in an atomically thin material. When cooled, the material forms tiny magnetic vortices before transitioning into a second ordered magnetic state—exactly as predicted by a famous theoretical model from the 1970s. Observing both phases together for the first time validates key ideas about how magnetism behaves in two dimensions. The findings could help inspire ultracompact technologies built on nanoscale magnetic control.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260306224223.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CPhysicists%20finally%20see%20strange%20magnetic%20vortices%20predicted%2050%20years%20ago",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
