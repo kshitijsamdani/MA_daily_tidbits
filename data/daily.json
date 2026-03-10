@@ -1,43 +1,43 @@
 {
-  "date": "2026-03-09 03:20 UTC",
+  "date": "2026-03-10 03:12 UTC",
   "items": [
     {
-      "title": "Satellites are exposing weak bridges in America and around the world",
-      "summary": "Satellites are giving scientists a powerful new way to watch over the world’s bridges. Using radar imaging, researchers can detect millimeter-scale movements that may signal early structural problems long before inspectors notice them. The study found many bridges—especially in North America—are aging and increasingly vulnerable, but satellite monitoring could sharply reduce the number classified as high-risk. The approach could be especially valuable in regions where traditional monitoring barely exists.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260307213350.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CSatellites%20are%20exposing%20weak%20bridges%20in%20America%20and%20around%20the%20world",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Scientists stunned to find signs of ancient life in a place no one expected",
-      "summary": "While exploring ancient seabeds in Morocco, scientists discovered strange wrinkle-like textures in deep-water sediments that shouldn’t have been there. These structures are usually made by sunlight-loving microbial mats in shallow waters. But the rocks formed far below the reach of light, suggesting a different explanation. Evidence points to chemosynthetic microbes—organisms powered by chemical reactions—creating the mats in the dark depths of an ancient ocean.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260307213247.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20stunned%20to%20find%20signs%20of%20ancient%20life%20in%20a%20place%20no%20one%20expected",
+      "title": "Light-guided evolution creates proteins that can switch, sense, and compute",
+      "summary": "Researchers have created a method called optovolution that uses light to guide the evolution of proteins with dynamic behaviors. By engineering yeast cells so their survival depended on proteins switching states at the right time, scientists could rapidly select the best-performing variants. The technique produced new light-sensitive proteins that respond to different colors and improved optogenetic systems. It even evolved a protein that behaves like a tiny logic gate, activating genes only when two signals are present.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260309183211.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CLight-guided%20evolution%20creates%20proteins%20that%20can%20switch%2C%20sense%2C%20and%20compute",
       "wiki_url": "",
       "category": "Biology"
     },
     {
-      "title": "A perfectly balanced atom just broke one of nuclear physics’ biggest rules",
-      "summary": "Physicists have discovered a surprising new “Island of Inversion” in a place no one expected: among nuclei where the number of protons equals the number of neutrons. For decades, these strange regions—where atomic nuclei abandon their usual orderly structure and become strongly deformed—were thought to exist only in highly neutron-rich isotopes far from stability. But experiments on molybdenum isotopes revealed that molybdenum-84 behaves dramatically differently from its close neighbor molybdenum-86, even though they differ by just two neutrons.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260307213241.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20perfectly%20balanced%20atom%20just%20broke%20one%20of%20nuclear%20physics%E2%80%99%20biggest%20rules",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Brain scans reveal how ketamine quickly lifts severe depression",
-      "summary": "A new brain-imaging study has revealed how ketamine produces its fast antidepressant effects in people with treatment-resistant depression. Researchers tracked changes in a critical brain receptor that helps neurons communicate and found that ketamine reshapes its activity in specific brain regions tied to mood and reward. These shifts strongly matched improvements in patients’ symptoms. The findings could help scientists develop better ways to predict who will benefit from ketamine therapy.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260307213234.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CBrain%20scans%20reveal%20how%20ketamine%20quickly%20lifts%20severe%20depression",
+      "title": "Hidden metabolism found operating inside the cell nucleus",
+      "summary": "Researchers have found hundreds of metabolic enzymes attached to human DNA inside the cell nucleus. Different tissues and cancers show unique patterns of these enzymes, forming a “nuclear metabolic fingerprint.” Some of the enzymes gather around damaged DNA to assist with repair. The discovery reveals an unexpected link between metabolism and gene regulation that could influence how cancers grow and respond to treatment.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260309183010.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20metabolism%20found%20operating%20inside%20the%20cell%20nucleus",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "A new “magic mushroom” drug could treat depression without psychedelic hallucinations",
-      "summary": "Scientists are exploring a new way to harness the medical promise of psychedelic compounds without the mind-bending side effects. Researchers created modified versions of psilocin — the active form of psilocybin from “magic mushrooms” — that still target key serotonin pathways linked to depression and other brain disorders but appear to cause far fewer psychedelic-like effects.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260307213232.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20new%20%E2%80%9Cmagic%20mushroom%E2%80%9D%20drug%20could%20treat%20depression%20without%20psychedelic%20hallucinations",
+      "title": "Scientists create slippery nanopores that supercharge blue energy",
+      "summary": "Scientists have found a way to significantly boost “blue energy,” which generates electricity from the mixing of saltwater and freshwater. By coating nanopores with lipid molecules that create a friction-reducing water layer, they enabled ions to pass through much more efficiently while keeping the process highly selective. Their prototype membrane produced about two to three times more power than current technologies. The discovery could help bring osmotic energy closer to becoming a practical renewable power source.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260308201623.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20create%20slippery%20nanopores%20that%20supercharge%20blue%20energy",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Archaeologists uncover brutal Iron Age massacre of women and children",
+      "summary": "A prehistoric mass grave in Serbia reveals that more than 77 people—mostly women and children—were deliberately killed in a brutal act of violence about 2,800 years ago. Genetic evidence suggests the victims came from different communities, indicating the massacre may have been a calculated message during fierce territorial struggles in Iron Age Europe.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260308201616.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CArchaeologists%20uncover%20brutal%20Iron%20Age%20massacre%20of%20women%20and%20children",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Particles may not follow Einstein’s paths after all",
+      "summary": "Physicists have long struggled to unite quantum mechanics—the theory governing tiny particles—with Einstein’s theory of gravity, which explains the behavior of stars, planets, and the structure of the universe. Researchers at TU Wien have now taken a new step toward that goal by rethinking one of relativity’s core ideas: the paths particles follow through curved spacetime, known as geodesics. By creating a quantum version of these paths—called the q-desic equation—the team showed that particles moving through a “quantum” spacetime may deviate slightly from the paths predicted by classical relativity.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CParticles%20may%20not%20follow%20Einstein%E2%80%99s%20paths%20after%20all",
       "wiki_url": "",
       "category": "AI"
     },
