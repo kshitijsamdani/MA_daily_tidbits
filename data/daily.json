@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-10 03:12 UTC",
+  "date": "2026-03-11 03:11 UTC",
   "items": [
     {
-      "title": "Light-guided evolution creates proteins that can switch, sense, and compute",
-      "summary": "Researchers have created a method called optovolution that uses light to guide the evolution of proteins with dynamic behaviors. By engineering yeast cells so their survival depended on proteins switching states at the right time, scientists could rapidly select the best-performing variants. The technique produced new light-sensitive proteins that respond to different colors and improved optogenetic systems. It even evolved a protein that behaves like a tiny logic gate, activating genes only when two signals are present.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260309183211.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CLight-guided%20evolution%20creates%20proteins%20that%20can%20switch%2C%20sense%2C%20and%20compute",
+      "title": "Cosmic voids look empty but they may be tearing the universe apart",
+      "summary": "Cosmic voids may seem like the emptiest places in the universe, stripped of matter, radiation, and even dark matter. But they’re far from nothing. Even in these vast empty regions, the fundamental quantum fields that fill all of space remain, carrying a small but real amount of energy known as vacuum energy, or dark energy. While this energy is overwhelmed by matter in galaxies and clusters, in the deep emptiness of cosmic voids it becomes dominant.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260309225236.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCosmic%20voids%20look%20empty%20but%20they%20may%20be%20tearing%20the%20universe%20apart",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "This 2-pound dinosaur is rewriting what scientists know about evolution",
+      "summary": "A nearly complete dinosaur skeleton discovered in Patagonia is helping scientists crack the mystery of alvarezsaurs, a bizarre group of bird-like dinosaurs. The fossil of Alnashetri cerropoliciensis reveals that these animals became tiny before developing their later specialized features, such as stubby arms and ant-eating adaptations. Weighing under two pounds, the dinosaur is one of the smallest known from South America.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CThis%202-pound%20dinosaur%20is%20rewriting%20what%20scientists%20know%20about%20evolution",
       "wiki_url": "",
       "category": "Biology"
     },
     {
-      "title": "Hidden metabolism found operating inside the cell nucleus",
-      "summary": "Researchers have found hundreds of metabolic enzymes attached to human DNA inside the cell nucleus. Different tissues and cancers show unique patterns of these enzymes, forming a “nuclear metabolic fingerprint.” Some of the enzymes gather around damaged DNA to assist with repair. The discovery reveals an unexpected link between metabolism and gene regulation that could influence how cancers grow and respond to treatment.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260309183010.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20metabolism%20found%20operating%20inside%20the%20cell%20nucleus",
+      "title": "Scientists may have discovered a brand-new mineral on Mars",
+      "summary": "Scientists studying Mars may have uncovered a brand-new mineral hidden in the planet’s ancient sulfate deposits. By combining laboratory experiments with orbital data, researchers identified an unusual iron sulfate—ferric hydroxysulfate—forming in layered deposits near the massive Valles Marineris canyon system. The mineral likely formed when sulfate-rich deposits left behind by ancient water were later heated by volcanic or geothermal activity, transforming their chemistry.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260309225228.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20may%20have%20discovered%20a%20brand-new%20mineral%20on%20Mars",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Space"
     },
     {
-      "title": "Scientists create slippery nanopores that supercharge blue energy",
-      "summary": "Scientists have found a way to significantly boost “blue energy,” which generates electricity from the mixing of saltwater and freshwater. By coating nanopores with lipid molecules that create a friction-reducing water layer, they enabled ions to pass through much more efficiently while keeping the process highly selective. Their prototype membrane produced about two to three times more power than current technologies. The discovery could help bring osmotic energy closer to becoming a practical renewable power source.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260308201623.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20create%20slippery%20nanopores%20that%20supercharge%20blue%20energy",
+      "title": "Stanford scientists say colorblindness may hide a deadly bladder cancer warning",
+      "summary": "Colorblindness may be doing more than making traffic lights confusing — it could also be hiding a life-threatening warning sign. Researchers analyzing millions of medical records found that people with bladder cancer who are also colorblind have a 52% higher mortality rate over 20 years compared to those with normal vision. The likely reason: many people with color vision deficiency struggle to see red, making it harder to notice blood in urine, the most common early sign of bladder cancer.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260309225222.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CStanford%20scientists%20say%20colorblindness%20may%20hide%20a%20deadly%20bladder%20cancer%20warning",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "Scientists turn scrap car aluminum into high-performance metal for new vehicles",
+      "summary": "Scientists at Oak Ridge National Laboratory have created a new aluminum alloy called RidgeAlloy that can turn contaminated car-body scrap into strong structural vehicle parts. Normally, impurities introduced during recycling make this scrap unsuitable for high-performance applications. RidgeAlloy overcomes that challenge, enabling recycled aluminum to meet the strength and durability standards required for modern vehicles. The technology could slash energy use, reduce imports, and unlock a huge new supply of domestic aluminum.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260309225217.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20turn%20scrap%20car%20aluminum%20into%20high-performance%20metal%20for%20new%20vehicles",
       "wiki_url": "",
       "category": "Science"
-    },
-    {
-      "title": "Archaeologists uncover brutal Iron Age massacre of women and children",
-      "summary": "A prehistoric mass grave in Serbia reveals that more than 77 people—mostly women and children—were deliberately killed in a brutal act of violence about 2,800 years ago. Genetic evidence suggests the victims came from different communities, indicating the massacre may have been a calculated message during fierce territorial struggles in Iron Age Europe.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260308201616.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CArchaeologists%20uncover%20brutal%20Iron%20Age%20massacre%20of%20women%20and%20children",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Particles may not follow Einstein’s paths after all",
-      "summary": "Physicists have long struggled to unite quantum mechanics—the theory governing tiny particles—with Einstein’s theory of gravity, which explains the behavior of stars, planets, and the structure of the universe. Researchers at TU Wien have now taken a new step toward that goal by rethinking one of relativity’s core ideas: the paths particles follow through curved spacetime, known as geodesics. By creating a quantum version of these paths—called the q-desic equation—the team showed that particles moving through a “quantum” spacetime may deviate slightly from the paths predicted by classical relativity.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CParticles%20may%20not%20follow%20Einstein%E2%80%99s%20paths%20after%20all",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
