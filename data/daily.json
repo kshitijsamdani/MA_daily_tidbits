@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-11 03:11 UTC",
+  "date": "2026-03-12 03:17 UTC",
   "items": [
     {
-      "title": "Cosmic voids look empty but they may be tearing the universe apart",
-      "summary": "Cosmic voids may seem like the emptiest places in the universe, stripped of matter, radiation, and even dark matter. But they’re far from nothing. Even in these vast empty regions, the fundamental quantum fields that fill all of space remain, carrying a small but real amount of energy known as vacuum energy, or dark energy. While this energy is overwhelmed by matter in galaxies and clusters, in the deep emptiness of cosmic voids it becomes dominant.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260309225236.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CCosmic%20voids%20look%20empty%20but%20they%20may%20be%20tearing%20the%20universe%20apart",
+      "title": "A massive asteroid hit the North Sea and triggered a 330-foot tsunami",
+      "summary": "A long-running debate about the Silverpit Crater beneath the North Sea has finally been resolved. Scientists now confirm it formed when a roughly 160-meter asteroid struck the seabed about 43–46 million years ago. New seismic imaging and rare shocked minerals in rock samples provided the crucial proof. The impact would have sent a massive plume skyward and unleashed a tsunami over 100 meters (330 feet) high.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260311004836.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20massive%20asteroid%20hit%20the%20North%20Sea%20and%20triggered%20a%20330-foot%20tsunami",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Scientists discover tiny plant trick that could supercharge crop yields",
+      "summary": "Researchers have uncovered a molecular trick used by hornwort plants that could help future crops capture carbon dioxide more efficiently. A unique protein feature called RbcS-STAR causes the key photosynthesis enzyme Rubisco to cluster into dense compartments, helping it work more effectively. When scientists added this feature to other plants, Rubisco reorganized in the same way. The finding raises the possibility of engineering more efficient photosynthesis into major crops.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260311004716.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20tiny%20plant%20trick%20that%20could%20supercharge%20crop%20yields",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "This 2-pound dinosaur is rewriting what scientists know about evolution",
-      "summary": "A nearly complete dinosaur skeleton discovered in Patagonia is helping scientists crack the mystery of alvarezsaurs, a bizarre group of bird-like dinosaurs. The fossil of Alnashetri cerropoliciensis reveals that these animals became tiny before developing their later specialized features, such as stubby arms and ant-eating adaptations. Weighing under two pounds, the dinosaur is one of the smallest known from South America.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CThis%202-pound%20dinosaur%20is%20rewriting%20what%20scientists%20know%20about%20evolution",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Scientists may have discovered a brand-new mineral on Mars",
-      "summary": "Scientists studying Mars may have uncovered a brand-new mineral hidden in the planet’s ancient sulfate deposits. By combining laboratory experiments with orbital data, researchers identified an unusual iron sulfate—ferric hydroxysulfate—forming in layered deposits near the massive Valles Marineris canyon system. The mineral likely formed when sulfate-rich deposits left behind by ancient water were later heated by volcanic or geothermal activity, transforming their chemistry.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260309225228.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20may%20have%20discovered%20a%20brand-new%20mineral%20on%20Mars",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Stanford scientists say colorblindness may hide a deadly bladder cancer warning",
-      "summary": "Colorblindness may be doing more than making traffic lights confusing — it could also be hiding a life-threatening warning sign. Researchers analyzing millions of medical records found that people with bladder cancer who are also colorblind have a 52% higher mortality rate over 20 years compared to those with normal vision. The likely reason: many people with color vision deficiency struggle to see red, making it harder to notice blood in urine, the most common early sign of bladder cancer.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260309225222.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CStanford%20scientists%20say%20colorblindness%20may%20hide%20a%20deadly%20bladder%20cancer%20warning",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Scientists turn scrap car aluminum into high-performance metal for new vehicles",
-      "summary": "Scientists at Oak Ridge National Laboratory have created a new aluminum alloy called RidgeAlloy that can turn contaminated car-body scrap into strong structural vehicle parts. Normally, impurities introduced during recycling make this scrap unsuitable for high-performance applications. RidgeAlloy overcomes that challenge, enabling recycled aluminum to meet the strength and durability standards required for modern vehicles. The technology could slash energy use, reduce imports, and unlock a huge new supply of domestic aluminum.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260309225217.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20turn%20scrap%20car%20aluminum%20into%20high-performance%20metal%20for%20new%20vehicles",
+      "title": "Cannabis study finds THC can create false memories",
+      "summary": "THC doesn’t just blur memories—it can create new ones that never happened. In a controlled experiment, cannabis users were much more likely to recall words that were never shown and struggled with tasks like remembering to do something later. Researchers found that THC disrupted many different memory systems at once. Surprisingly, moderate doses caused memory problems similar to higher doses.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260311004711.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CCannabis%20study%20finds%20THC%20can%20create%20false%20memories",
       "wiki_url": "",
       "category": "Science"
+    },
+    {
+      "title": "Ocean warming may supercharge a tiny microbe that controls marine nutrients",
+      "summary": "As deep-sea waters warm, scientists expected trouble for the microbes that help keep ocean chemistry in balance. Instead, researchers found that Nitrosopumilus maritimus can adapt to warmer, iron-limited conditions by using iron more efficiently. Because these microbes control key nitrogen reactions that support marine life, their adaptability could help sustain ocean productivity. In a warming world, they may play an even bigger role in shaping marine nutrient cycles.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260311004708.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2COcean%20warming%20may%20supercharge%20a%20tiny%20microbe%20that%20controls%20marine%20nutrients",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "A particle accelerator helped scientists create stunning 3D ants",
+      "summary": "Researchers have developed a high-tech system that rapidly scans ants and converts them into detailed 3D models. Using a synchrotron accelerator, X-ray imaging, robotics, and AI, the team scanned 2,000 specimens in just a week and produced models of 800 species. The images reveal microscopic anatomy that was previously difficult to study. The growing Antscan database could become a powerful digital library of biodiversity.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260310223603.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20particle%20accelerator%20helped%20scientists%20create%20stunning%203D%20ants",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
