@@ -1,6 +1,30 @@
 {
-  "date": "2026-03-14 03:12 UTC",
+  "date": "2026-03-15 03:40 UTC",
   "items": [
+    {
+      "title": "Scared of spiders? Scientists say the real nightmare is losing them",
+      "summary": "Spiders and insects may not be fan favorites, but they are vital to the health of ecosystems—and scientists barely know how they’re doing. Researchers found that nearly 90% of North America’s insect and arachnid species have no conservation status, leaving their fate largely unknown. Even more striking, most states don’t protect a single arachnid species. The study warns that these overlooked creatures are essential to planetary health and urgently need better monitoring and protection.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260314030512.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CScared%20of%20spiders%3F%20Scientists%20say%20the%20real%20nightmare%20is%20losing%20them",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "NASA’s Curiosity rover investigates strange spiderweb ridges on Mars",
+      "summary": "NASA’s Curiosity rover is investigating strange spiderweb-like ridges on Mars that may reveal a hidden chapter of the planet’s watery history. These “boxwork” formations likely formed when groundwater flowed through cracks in the rock, leaving minerals that hardened into ridges while surrounding material eroded away. New chemical analyses of drilled rock samples show minerals linked to water activity.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260314030449.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Curiosity%20rover%20investigates%20strange%20spiderweb%20ridges%20on%20Mars",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Scientists discover giant swirling plumes hidden deep inside Greenland’s ice sheet",
+      "summary": "Scientists may have finally solved the mystery of strange plume-like structures hidden deep inside the Greenland ice sheet. New research suggests they form through thermal convection—slow, swirling motions driven by temperature differences inside the ice. This means the deep ice could be far softer than scientists once believed. Understanding this hidden movement could improve predictions about how Greenland’s ice sheet behaves in a warming world.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260314030446.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20giant%20swirling%20plumes%20hidden%20deep%20inside%20Greenland%E2%80%99s%20ice%20sheet",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "Our Sun may have escaped the Milky Way’s center with thousands of twin stars",
       "summary": "Scientists have uncovered evidence that our Sun may have traveled across the Milky Way as part of a massive migration of Sun-like stars billions of years ago. The journey may have carried the solar system away from the galaxy’s crowded center into a calmer region where life could eventually emerge.",
@@ -10,36 +34,12 @@
       "category": "Space"
     },
     {
-      "title": "Monty Python Got It Wrong About Medieval Disease",
-      "summary": "In medieval Denmark, people could pay for more prestigious graves closer to the church — a sign of wealth and status. But when researchers examined hundreds of skeletons, they discovered something unexpected: even people with stigmatized diseases like leprosy were buried in these high-status spots. Instead of excluding the sick, many communities appear to have treated them much like everyone else.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260313002645.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CMonty%20Python%20Got%20It%20Wrong%20About%20Medieval%20Disease",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Microplastics may be quietly damaging your brain and fueling Alzheimer’s and Parkinson’s",
-      "summary": "Tiny plastic particles may be quietly threatening brain health. New research suggests microplastics—now widely found in food, water, and even household dust—could trigger inflammation and damage in the brain through multiple biological pathways. Scientists estimate adults may consume about 250 grams of these particles each year, and some can accumulate in organs including the brain.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260313002637.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMicroplastics%20may%20be%20quietly%20damaging%20your%20brain%20and%20fueling%20Alzheimer%E2%80%99s%20and%20Parkinson%E2%80%99s",
+      "title": "A lab mistake at Cambridge reveals a powerful new way to modify drug molecules",
+      "summary": "Cambridge scientists have discovered a light-powered chemical reaction that lets researchers modify complex drug molecules at the final stages of development. Unlike traditional methods that rely on toxic chemicals and harsh conditions, the new approach uses an LED lamp to create essential carbon–carbon bonds under mild conditions. This could make drug discovery faster and more environmentally friendly. The breakthrough was uncovered unexpectedly during a failed laboratory experiment.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260313062539.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20lab%20mistake%20at%20Cambridge%20reveals%20a%20powerful%20new%20way%20to%20modify%20drug%20molecules",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Scientists crack a 20-year nuclear mystery behind the creation of gold",
-      "summary": "Gold and other heavy elements are born in some of the universe’s most violent events—but scientists still struggle to understand the nuclear steps that create them. Now, nuclear physicists have uncovered three key discoveries about how unstable atomic nuclei decay during the rapid neutron-capture process, the chain reaction responsible for forging elements like gold and platinum.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260313002633.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20crack%20a%2020-year%20nuclear%20mystery%20behind%20the%20creation%20of%20gold",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Simple water trick cuts diesel engine pollution by over 60%",
-      "summary": "Scientists are exploring a surprisingly simple way to clean up diesel engines: adding tiny droplets of water to the fuel. During combustion, the water rapidly vaporizes, triggering micro-explosions that improve fuel mixing and lower combustion temperatures. Studies show this technique can slash nitrogen oxide and soot emissions by more than 60% while sometimes even improving engine efficiency. Because it works in existing engines without redesign, it could provide a quick path to cleaner diesel use.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260313002630.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CSimple%20water%20trick%20cuts%20diesel%20engine%20pollution%20by%20over%2060%25",
-      "wiki_url": "",
-      "category": "Environment"
     },
     {
       "title": "Dearest Gentle Reader,",
