@@ -1,6 +1,38 @@
 {
-  "date": "2026-03-15 03:40 UTC",
+  "date": "2026-03-16 03:43 UTC",
   "items": [
+    {
+      "title": "Astronomers just found the source of the brightest fast radio burst ever",
+      "summary": "Astronomers have discovered the brightest fast radio burst ever detected and traced it to a nearby galaxy using a new network of CHIME Outrigger telescopes. The flash, nicknamed RBFLOAT, lasted only a fraction of a second but briefly outshone every other radio source in its galaxy. Follow-up observations with the James Webb Space Telescope spotted a faint infrared signal at the same location. The burst’s unusual behavior—showing no signs of repeating—may challenge current ideas about what causes these mysterious cosmic flashes.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260315004348.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAstronomers%20just%20found%20the%20source%20of%20the%20brightest%20fast%20radio%20burst%20ever",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists discover hidden water beneath Mars that could have supported life",
+      "summary": "New research suggests Mars may have remained habitable much longer than scientists once thought. Ancient sand dunes in Gale Crater appear to have been soaked by underground water billions of years ago, leaving behind minerals that can preserve signs of life. Even after surface water disappeared, subsurface flows may have created protected environments for microbes. These hidden habitats could be key targets in the ongoing search for past life on Mars.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260315004340.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20hidden%20water%20beneath%20Mars%20that%20could%20have%20supported%20life",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Crops irrigated with wastewater store drugs in their leaves",
+      "summary": "Scientists studying crops irrigated with treated wastewater discovered that trace pharmaceuticals often collect in plant leaves. Tomatoes, carrots, and lettuce absorbed medications such as antidepressants and seizure drugs during the experiment. However, the edible portions of tomatoes and carrots contained much lower levels than the leaves. The findings help researchers understand how crops process contaminants as wastewater reuse becomes more common.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260315001841.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCrops%20irrigated%20with%20wastewater%20store%20drugs%20in%20their%20leaves",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "The financial crisis that quietly stunted a generation",
+      "summary": "When the Asian financial crisis sent rice prices soaring in Indonesia in the late 1990s, the shock didn’t just strain household budgets—it left lasting marks on children’s bodies. Researchers from the University of Bonn found that kids exposed to the food price surge were more likely to experience stunted growth and, years later, a higher risk of obesity. The findings suggest that during crises, families often maintain calorie intake but cut back on nutrient-rich foods, creating hidden nutritional deficiencies that disrupt healthy development.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260314030521.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20financial%20crisis%20that%20quietly%20stunted%20a%20generation",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Scared of spiders? Scientists say the real nightmare is losing them",
       "summary": "Spiders and insects may not be fan favorites, but they are vital to the health of ecosystems—and scientists barely know how they’re doing. Researchers found that nearly 90% of North America’s insect and arachnid species have no conservation status, leaving their fate largely unknown. Even more striking, most states don’t protect a single arachnid species. The study warns that these overlooked creatures are essential to planetary health and urgently need better monitoring and protection.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CScared%20of%20spiders%3F%20Scientists%20say%20the%20real%20nightmare%20is%20losing%20them",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "NASA’s Curiosity rover investigates strange spiderweb ridges on Mars",
-      "summary": "NASA’s Curiosity rover is investigating strange spiderweb-like ridges on Mars that may reveal a hidden chapter of the planet’s watery history. These “boxwork” formations likely formed when groundwater flowed through cracks in the rock, leaving minerals that hardened into ridges while surrounding material eroded away. New chemical analyses of drilled rock samples show minerals linked to water activity.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260314030449.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Curiosity%20rover%20investigates%20strange%20spiderweb%20ridges%20on%20Mars",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Scientists discover giant swirling plumes hidden deep inside Greenland’s ice sheet",
-      "summary": "Scientists may have finally solved the mystery of strange plume-like structures hidden deep inside the Greenland ice sheet. New research suggests they form through thermal convection—slow, swirling motions driven by temperature differences inside the ice. This means the deep ice could be far softer than scientists once believed. Understanding this hidden movement could improve predictions about how Greenland’s ice sheet behaves in a warming world.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260314030446.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20giant%20swirling%20plumes%20hidden%20deep%20inside%20Greenland%E2%80%99s%20ice%20sheet",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Our Sun may have escaped the Milky Way’s center with thousands of twin stars",
-      "summary": "Scientists have uncovered evidence that our Sun may have traveled across the Milky Way as part of a massive migration of Sun-like stars billions of years ago. The journey may have carried the solar system away from the galaxy’s crowded center into a calmer region where life could eventually emerge.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260313062543.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2COur%20Sun%20may%20have%20escaped%20the%20Milky%20Way%E2%80%99s%20center%20with%20thousands%20of%20twin%20stars",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "A lab mistake at Cambridge reveals a powerful new way to modify drug molecules",
-      "summary": "Cambridge scientists have discovered a light-powered chemical reaction that lets researchers modify complex drug molecules at the final stages of development. Unlike traditional methods that rely on toxic chemicals and harsh conditions, the new approach uses an LED lamp to create essential carbon–carbon bonds under mild conditions. This could make drug discovery faster and more environmentally friendly. The breakthrough was uncovered unexpectedly during a failed laboratory experiment.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260313062539.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20lab%20mistake%20at%20Cambridge%20reveals%20a%20powerful%20new%20way%20to%20modify%20drug%20molecules",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
