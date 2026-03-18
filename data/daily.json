@@ -1,6 +1,38 @@
 {
-  "date": "2026-03-17 03:19 UTC",
+  "date": "2026-03-18 03:26 UTC",
   "items": [
+    {
+      "title": "JWST reveals a strange sulfur world unlike any planet we know",
+      "summary": "Astronomers have identified a strange new kind of exoplanet that challenges how scientists classify worlds beyond our Solar System. The planet, L 98-59 d, appears to contain a vast ocean of molten rock beneath its surface that traps large amounts of sulfur deep inside. Observations from the James Webb Space Telescope revealed unusual sulfur-rich gases in its atmosphere and a surprisingly low density for its size.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260317190802.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CJWST%20reveals%20a%20strange%20sulfur%20world%20unlike%20any%20planet%20we%20know",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "This massive crater could expose the heart of a lost planet",
+      "summary": "A mysterious metal-rich asteroid called Psyche has been baffling scientists for over two centuries, and its true origin remains one of the biggest unanswered questions in planetary science. Is it the exposed core of a failed planet, or a chaotic mix of rock and metal forged through countless violent collisions? To find out, researchers simulated how a massive crater near Psyche’s north pole formed, revealing that the asteroid’s internal “porosity” — how much empty space it contains — may hold the key to its secrets.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260317064440.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20massive%20crater%20could%20expose%20the%20heart%20of%20a%20lost%20planet",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists just discovered bull sharks have friends",
+      "summary": "Bull sharks may have a reputation as lone hunters, but new research reveals they actually form social bonds and even have preferred “friends.” After six years of observing 184 sharks in Fiji, scientists discovered these animals don’t just mix randomly—they choose companions, swim together, and even follow one another in coordinated ways.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260317064436.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20just%20discovered%20bull%20sharks%20have%20friends",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "NASA’s Webb captures a bizarre brain-shaped nebula around a dying star",
+      "summary": "The James Webb Space Telescope has revealed new details in a bizarre nebula that looks like a brain floating in space. Formed by a dying star, the “Exposed Cranium” nebula shows layered gas and a dark central divide that creates its eerie shape. Webb’s infrared view suggests powerful jets may be shaping the structure. The images capture a brief and dramatic phase in a star’s final evolution.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260317015938.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Webb%20captures%20a%20bizarre%20brain-shaped%20nebula%20around%20a%20dying%20star",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "The smell of Egyptian mummies is revealing 2,000-year-old secrets",
       "summary": "The distinctive smell of ancient mummies is helping scientists decode the secrets of Egyptian mummification. By analyzing tiny traces of chemicals in the air around mummy samples, researchers identified dozens of compounds linked to oils, resins, beeswax, and bitumen used during embalming. The chemical clues reveal that mummification grew increasingly complex over thousands of years.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20smell%20of%20Egyptian%20mummies%20is%20revealing%202%2C000-year-old%20secrets",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "A strange twist in the universe’s oldest light may be bigger than we thought",
-      "summary": "Scientists studying a mysterious effect called cosmic birefringence—a subtle twist in the polarization of the universe’s oldest light—have developed a new way to reduce uncertainty in how it’s measured. This faint rotation in the cosmic microwave background could point to entirely new physics, including hidden particles such as axions and clues about dark matter or dark energy.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260315225141.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20strange%20twist%20in%20the%20universe%E2%80%99s%20oldest%20light%20may%20be%20bigger%20than%20we%20thought",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover what really happens during sourdough fermentation",
-      "summary": "New research shows that sourdough fermentation does more than make bread rise—it transforms wheat fibers in unexpected ways. Scientists found that enzymes already present in wheat, activated by the sourdough’s acidic environment, break down key fibres called arabinoxylans. This process may influence the bread’s texture, digestibility, and flavor. Some microbes even create buttery or subtly sweet notes that give sourdough its distinctive taste.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260315225130.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20what%20really%20happens%20during%20sourdough%20fermentation",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Common pesticide may more than double Parkinson’s disease risk",
-      "summary": "A new UCLA Health study suggests that long-term exposure to the pesticide chlorpyrifos may dramatically raise the risk of Parkinson’s disease. Researchers found that people living in areas with sustained exposure had more than 2.5 times the likelihood of developing the disorder. Lab experiments reinforced the finding: animals exposed to the chemical developed movement problems, lost dopamine-producing neurons, and showed the same toxic protein buildup seen in Parkinson’s patients.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260315225125.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CCommon%20pesticide%20may%20more%20than%20double%20Parkinson%E2%80%99s%20disease%20risk",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists inject one tumor and watch cancer vanish across the body",
-      "summary": "A redesigned cancer immunotherapy is showing striking early results after decades of disappointment with similar drugs. Researchers engineered a more powerful CD40 agonist antibody and changed how it’s delivered—injecting it directly into tumors instead of into the bloodstream. In a small clinical trial of 12 patients with metastatic cancers, six saw their tumors shrink and two experienced complete remission.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260315225121.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20inject%20one%20tumor%20and%20watch%20cancer%20vanish%20across%20the%20body",
-      "wiki_url": "",
-      "category": "Health"
     },
     {
       "title": "Dearest Gentle Reader,",
