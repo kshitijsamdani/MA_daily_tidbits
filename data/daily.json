@@ -1,6 +1,22 @@
 {
-  "date": "2026-03-18 03:26 UTC",
+  "date": "2026-03-19 03:26 UTC",
   "items": [
+    {
+      "title": "These strange pink rocks just revealed a hidden giant beneath Antarctica",
+      "summary": "Pink granite boulders sitting mysteriously atop Antarctica’s Hudson Mountains have led scientists to a stunning discovery: a hidden granite mass buried beneath Pine Island Glacier, stretching nearly 100 km wide and 7 km thick. By dating the rocks to the Jurassic period and matching them with gravity signals detected from aircraft, researchers solved a decades-old puzzle about their origin.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260318033126.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThese%20strange%20pink%20rocks%20just%20revealed%20a%20hidden%20giant%20beneath%20Antarctica",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "These dinosaurs had wings but couldn’t fly",
+      "summary": "Some feathered dinosaurs may have briefly taken to the skies—only to give it up later. By studying rare fossils with preserved feathers, researchers uncovered a surprising clue hidden in molting patterns, revealing that Anchiornis likely couldn’t fly at all. Instead of the neat, symmetrical feather replacement seen in flying birds, these dinosaurs showed a messy, irregular molt—something only flightless animals exhibit.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260318033115.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThese%20dinosaurs%20had%20wings%20but%20couldn%E2%80%99t%20fly",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "JWST reveals a strange sulfur world unlike any planet we know",
       "summary": "Astronomers have identified a strange new kind of exoplanet that challenges how scientists classify worlds beyond our Solar System. The planet, L 98-59 d, appears to contain a vast ocean of molten rock beneath its surface that traps large amounts of sulfur deep inside. Observations from the James Webb Space Telescope revealed unusual sulfur-rich gases in its atmosphere and a surprisingly low density for its size.",
@@ -10,34 +26,18 @@
       "category": "AI"
     },
     {
-      "title": "This massive crater could expose the heart of a lost planet",
-      "summary": "A mysterious metal-rich asteroid called Psyche has been baffling scientists for over two centuries, and its true origin remains one of the biggest unanswered questions in planetary science. Is it the exposed core of a failed planet, or a chaotic mix of rock and metal forged through countless violent collisions? To find out, researchers simulated how a massive crater near Psyche’s north pole formed, revealing that the asteroid’s internal “porosity” — how much empty space it contains — may hold the key to its secrets.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260317064440.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20massive%20crater%20could%20expose%20the%20heart%20of%20a%20lost%20planet",
+      "title": "MIT scientists finally see hidden quantum “jiggling” inside superconductors",
+      "summary": "MIT physicists have built a powerful new microscope that uses terahertz light to uncover hidden quantum motions inside superconductors. By compressing this normally unwieldy light into a tiny region, they were able to observe electrons moving together in a frictionless, wave-like state for the first time. This discovery opens a new window into how superconductors really work. It could also help drive future breakthroughs in high-speed wireless communication.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260317064509.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CMIT%20scientists%20finally%20see%20hidden%20quantum%20%E2%80%9Cjiggling%E2%80%9D%20inside%20superconductors",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Physics"
     },
     {
-      "title": "Scientists just discovered bull sharks have friends",
-      "summary": "Bull sharks may have a reputation as lone hunters, but new research reveals they actually form social bonds and even have preferred “friends.” After six years of observing 184 sharks in Fiji, scientists discovered these animals don’t just mix randomly—they choose companions, swim together, and even follow one another in coordinated ways.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260317064436.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20just%20discovered%20bull%20sharks%20have%20friends",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "NASA’s Webb captures a bizarre brain-shaped nebula around a dying star",
-      "summary": "The James Webb Space Telescope has revealed new details in a bizarre nebula that looks like a brain floating in space. Formed by a dying star, the “Exposed Cranium” nebula shows layered gas and a dark central divide that creates its eerie shape. Webb’s infrared view suggests powerful jets may be shaping the structure. The images capture a brief and dramatic phase in a star’s final evolution.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260317015938.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Webb%20captures%20a%20bizarre%20brain-shaped%20nebula%20around%20a%20dying%20star",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "The smell of Egyptian mummies is revealing 2,000-year-old secrets",
-      "summary": "The distinctive smell of ancient mummies is helping scientists decode the secrets of Egyptian mummification. By analyzing tiny traces of chemicals in the air around mummy samples, researchers identified dozens of compounds linked to oils, resins, beeswax, and bitumen used during embalming. The chemical clues reveal that mummification grew increasingly complex over thousands of years.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260315225153.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20smell%20of%20Egyptian%20mummies%20is%20revealing%202%2C000-year-old%20secrets",
+      "title": "He survived 48 hours without lungs and lived",
+      "summary": "A critically ill 33-year-old man survived an almost unimaginable scenario—living for 48 hours without lungs—thanks to a groundbreaking surgical approach. After a severe flu-triggered infection destroyed his lungs and caused multiple organ failure, doctors removed both lungs entirely to stop the spread of infection. In their place, they used a specially engineered “artificial lung” system to oxygenate his blood and keep his body functioning while he stabilized.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260317064507.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHe%20survived%2048%20hours%20without%20lungs%20and%20lived",
       "wiki_url": "",
       "category": "AI"
     },
