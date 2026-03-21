@@ -1,6 +1,14 @@
 {
-  "date": "2026-03-20 03:16 UTC",
+  "date": "2026-03-21 03:08 UTC",
   "items": [
+    {
+      "title": "Closing your eyes to hear better might be a big mistake",
+      "summary": "Many people believe closing their eyes sharpens hearing, but that is not always true. In noisy settings, participants struggled more to hear faint sounds with their eyes closed, while matching visuals made it easier. Researchers found that shutting the eyes leads the brain to over-filter incoming sounds. Keeping your eyes open may actually improve how well you hear in noise.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260320073819.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CClosing%20your%20eyes%20to%20hear%20better%20might%20be%20a%20big%20mistake",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "The best strength training plan might be simpler than you think",
       "summary": "New strength training guidelines emphasize that doing any resistance training is what truly matters. Based on decades of research, experts say even simple routines can increase muscle, strength, and physical function. The key is not perfection but consistency. In fact, the best workout plan is the one you can maintain long term.",
@@ -10,36 +18,28 @@
       "category": "AI"
     },
     {
-      "title": "What happens after Ozempic shocked researchers",
-      "summary": "Stopping popular weight-loss injections like Ozempic or Mounjaro might not trigger the dramatic rebound many fear. A large real-world study of nearly 8,000 patients found that most people who discontinue these drugs manage to keep the weight off—or even continue losing—by restarting treatment, switching medications, or adopting lifestyle changes. While earlier clinical trials suggested rapid weight regain, this new evidence paints a more hopeful picture.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260319044648.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWhat%20happens%20after%20Ozempic%20shocked%20researchers",
+      "title": "Scientists solve 12,800-year-old climate mystery hidden in Greenland ice",
+      "summary": "A mysterious spike of platinum buried deep in Greenland’s ice has long fueled theories of a catastrophic comet or asteroid strike 12,800 years ago—possibly triggering a sudden return to icy conditions known as the Younger Dryas. But new research points to a far less dramatic, yet still powerful culprit: volcanic eruptions. Scientists found the platinum signal doesn’t match space debris and actually appeared decades after the cooling began, ruling out an impact as the trigger.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260319044714.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20solve%2012%2C800-year-old%20climate%20mystery%20hidden%20in%20Greenland%20ice",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Space"
     },
     {
-      "title": "Scientists thought ravens followed wolves. They were wrong",
-      "summary": "Ravens have long been thought to follow wolves to find food, but new research shows they’re far more strategic. By tracking both animals in Yellowstone, scientists discovered that ravens memorize areas where wolf kills are likely and fly directly to those spots—sometimes from great distances. Rather than trailing wolves, they rely on learned patterns in the landscape. It’s a clever system that highlights just how intelligent these birds really are.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260319044643.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20thought%20ravens%20followed%20wolves.%20They%20were%20wrong",
+      "title": "Men are losing a key chromosome with age and it may be deadly",
+      "summary": "Aging men often lose the Y chromosome in a growing number of their cells—and it may be far more dangerous than once believed. This loss has been linked to heart disease, cancer, Alzheimer’s, and shorter lifespans. Researchers suspect Y-less cells may grow faster and disrupt normal body functions. What seemed like a minor genetic quirk could actually be a major driver of age-related disease.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260319044711.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CMen%20are%20losing%20a%20key%20chromosome%20with%20age%20and%20it%20may%20be%20deadly",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Biology"
     },
     {
-      "title": "Physicists discover a heavy cousin of the proton at CERN’s Large Hadron Collider",
-      "summary": "A new subatomic particle known as the Ξcc⁺ has been discovered at CERN’s Large Hadron Collider. This heavy proton-like particle contains two charm quarks and was detected using the upgraded LHCb experiment. Scientists observed it through its decay into lighter particles in high-energy collisions. The finding confirms predictions and settles a decades-long question about its existence.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260319005106.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CPhysicists%20discover%20a%20heavy%20cousin%20of%20the%20proton%20at%20CERN%E2%80%99s%20Large%20Hadron%20Collider",
+      "title": "Scientists turn CO2 into fuel using breakthrough single-atom catalyst",
+      "summary": "Researchers have created a cutting-edge catalyst that turns CO2 into methanol more efficiently than ever before. Instead of using clumps of metal atoms, they engineered a system where each single indium atom actively drives the reaction. This dramatically reduces energy needs while making the process easier to study and optimize. The result could accelerate the shift toward cleaner fuels and sustainable chemical production.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260319044703.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20turn%20CO2%20into%20fuel%20using%20breakthrough%20single-atom%20catalyst",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Scientists recreated a dinosaur nest to solve a 70-million-year-old mystery",
-      "summary": "Scientists recreated a life-size oviraptor nest to understand how these dinosaurs hatched their eggs. Their experiments showed the parent likely couldn’t heat all the eggs directly, meaning sunlight played a key role. This uneven heating could cause eggs in the same nest to hatch at different times. The results suggest oviraptors used a hybrid incubation method unlike modern birds.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260319005102.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20recreated%20a%20dinosaur%20nest%20to%20solve%20a%2070-million-year-old%20mystery",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
