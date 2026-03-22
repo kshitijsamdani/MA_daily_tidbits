@@ -1,43 +1,43 @@
 {
-  "date": "2026-03-21 03:08 UTC",
+  "date": "2026-03-22 03:26 UTC",
   "items": [
     {
-      "title": "Closing your eyes to hear better might be a big mistake",
-      "summary": "Many people believe closing their eyes sharpens hearing, but that is not always true. In noisy settings, participants struggled more to hear faint sounds with their eyes closed, while matching visuals made it easier. Researchers found that shutting the eyes leads the brain to over-filter incoming sounds. Keeping your eyes open may actually improve how well you hear in noise.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260320073819.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CClosing%20your%20eyes%20to%20hear%20better%20might%20be%20a%20big%20mistake",
+      "title": "This crocodile ran like a greyhound across prehistoric Britain 200 million years ago",
+      "summary": "A newly discovered Triassic reptile from the UK looked more like a racing greyhound than a crocodile, built for speed on land. With long legs and a lightweight body, it hunted small animals in a dry, upland environment millions of years ago. Scientists identified it as a new species after spotting key differences in its fossils. It’s also a tribute to an inspiring teacher who helped spark a future scientist’s curiosity.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260321012715.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20crocodile%20ran%20like%20a%20greyhound%20across%20prehistoric%20Britain%20200%20million%20years%20ago",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "The best strength training plan might be simpler than you think",
-      "summary": "New strength training guidelines emphasize that doing any resistance training is what truly matters. Based on decades of research, experts say even simple routines can increase muscle, strength, and physical function. The key is not perfection but consistency. In fact, the best workout plan is the one you can maintain long term.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20best%20strength%20training%20plan%20might%20be%20simpler%20than%20you%20think",
+      "title": "New AI tool predicts cancer spread with surprising accuracy",
+      "summary": "Researchers have discovered that cancer spread isn’t random—it follows a kind of biological “program.” By studying colon tumor cells, they identified gene patterns that signal whether a cancer is likely to metastasize. Their AI model, MangroveGS, can predict this risk with about 80% accuracy and even works across multiple cancer types. This could transform how doctors decide who needs aggressive treatment and who doesn’t.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260321012709.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNew%20AI%20tool%20predicts%20cancer%20spread%20with%20surprising%20accuracy",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists solve 12,800-year-old climate mystery hidden in Greenland ice",
-      "summary": "A mysterious spike of platinum buried deep in Greenland’s ice has long fueled theories of a catastrophic comet or asteroid strike 12,800 years ago—possibly triggering a sudden return to icy conditions known as the Younger Dryas. But new research points to a far less dramatic, yet still powerful culprit: volcanic eruptions. Scientists found the platinum signal doesn’t match space debris and actually appeared decades after the cooling began, ruling out an impact as the trigger.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260319044714.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20solve%2012%2C800-year-old%20climate%20mystery%20hidden%20in%20Greenland%20ice",
+      "title": "Scientists just found a hidden 48-dimensional world in quantum light",
+      "summary": "A routine quantum optics technique just revealed an extraordinary secret: entangled light can carry incredibly complex topological structures. Researchers found these hidden patterns reach up to 48 dimensions, offering a vast new “alphabet” for encoding quantum information. Unlike previous assumptions, this topology can emerge from a single property of light—orbital angular momentum.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260321012705.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20just%20found%20a%20hidden%2048-dimensional%20world%20in%20quantum%20light",
       "wiki_url": "",
-      "category": "Space"
+      "category": "Physics"
     },
     {
-      "title": "Men are losing a key chromosome with age and it may be deadly",
-      "summary": "Aging men often lose the Y chromosome in a growing number of their cells—and it may be far more dangerous than once believed. This loss has been linked to heart disease, cancer, Alzheimer’s, and shorter lifespans. Researchers suspect Y-less cells may grow faster and disrupt normal body functions. What seemed like a minor genetic quirk could actually be a major driver of age-related disease.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260319044711.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CMen%20are%20losing%20a%20key%20chromosome%20with%20age%20and%20it%20may%20be%20deadly",
+      "title": "A massive freshwater reservoir is hiding under the Great Salt Lake",
+      "summary": "A hidden freshwater system deep beneath the Great Salt Lake has been revealed using airborne electromagnetic surveys. Scientists found that freshwater extends much farther under the lake than expected, reaching depths of up to 4 kilometers. The discovery began with mysterious reed-covered mounds formed by pressurized groundwater pushing upward. Researchers are now investigating whether this underground water could help control hazardous dust from the drying lakebed.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260321012640.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20massive%20freshwater%20reservoir%20is%20hiding%20under%20the%20Great%20Salt%20Lake",
       "wiki_url": "",
-      "category": "Biology"
+      "category": "AI"
     },
     {
-      "title": "Scientists turn CO2 into fuel using breakthrough single-atom catalyst",
-      "summary": "Researchers have created a cutting-edge catalyst that turns CO2 into methanol more efficiently than ever before. Instead of using clumps of metal atoms, they engineered a system where each single indium atom actively drives the reaction. This dramatically reduces energy needs while making the process easier to study and optimize. The result could accelerate the shift toward cleaner fuels and sustainable chemical production.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260319044703.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20turn%20CO2%20into%20fuel%20using%20breakthrough%20single-atom%20catalyst",
+      "title": "Hidden antibiotics in river fish spark new food safety fears",
+      "summary": "Antibiotics are accumulating in a major Brazilian river, especially during the dry season when pollution becomes more concentrated. Scientists even detected a banned drug inside fish sold for food, raising concerns about human exposure. A common aquatic plant showed promise in removing these chemicals from water—but it also altered how fish absorb them, creating unexpected risks.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260321012638.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20antibiotics%20in%20river%20fish%20spark%20new%20food%20safety%20fears",
       "wiki_url": "",
       "category": "AI"
     },
