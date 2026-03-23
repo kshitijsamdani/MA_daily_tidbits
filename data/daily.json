@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-22 03:26 UTC",
+  "date": "2026-03-23 03:33 UTC",
   "items": [
     {
-      "title": "This crocodile ran like a greyhound across prehistoric Britain 200 million years ago",
-      "summary": "A newly discovered Triassic reptile from the UK looked more like a racing greyhound than a crocodile, built for speed on land. With long legs and a lightweight body, it hunted small animals in a dry, upland environment millions of years ago. Scientists identified it as a new species after spotting key differences in its fossils. It’s also a tribute to an inspiring teacher who helped spark a future scientist’s curiosity.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260321012715.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20crocodile%20ran%20like%20a%20greyhound%20across%20prehistoric%20Britain%20200%20million%20years%20ago",
+      "title": "This 67,800-year-old handprint is the oldest art ever found",
+      "summary": "Researchers have uncovered the world’s oldest known cave art—a 67,800-year-old hand stencil in Indonesia. The unusual, claw-like design hints at early symbolic thinking and possibly spiritual beliefs. This discovery also strengthens the case that humans reached Australia at least 65,000 years ago. It offers rare insight into the creative lives of some of our earliest ancestors.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260322020300.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%2067%2C800-year-old%20handprint%20is%20the%20oldest%20art%20ever%20found",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "This floating time crystal breaks Newton’s third law of motion",
+      "summary": "Scientists have created a new kind of time crystal using sound waves to levitate tiny beads in mid-air. These particles interact in a one-sided, unbalanced way, breaking the usual rules of motion and creating a steady, repeating rhythm. The system is surprisingly simple yet reveals complex physics with big implications. It could help advance quantum computing and deepen our understanding of biological timing systems.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260322020258.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20floating%20time%20crystal%20breaks%20Newton%E2%80%99s%20third%20law%20of%20motion",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "New AI tool predicts cancer spread with surprising accuracy",
-      "summary": "Researchers have discovered that cancer spread isn’t random—it follows a kind of biological “program.” By studying colon tumor cells, they identified gene patterns that signal whether a cancer is likely to metastasize. Their AI model, MangroveGS, can predict this risk with about 80% accuracy and even works across multiple cancer types. This could transform how doctors decide who needs aggressive treatment and who doesn’t.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260321012709.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNew%20AI%20tool%20predicts%20cancer%20spread%20with%20surprising%20accuracy",
+      "title": "Webb Telescope spots “impossible” atmosphere on ancient super Earth",
+      "summary": "Astronomers have uncovered surprising evidence of a thick atmosphere surrounding TOI-561 b, a scorching, fast-orbiting rocky planet once thought too extreme to hold onto any gas. Using NASA’s James Webb Space Telescope, researchers found the planet is far cooler than expected for a bare rock, hinting at a heat-distributing atmosphere above a churning magma ocean. This strange world—where a year lasts just over 10 hours and one side is locked in eternal daylight—may even be rich in volatile materials, behaving like a “wet lava ball.”",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260322020255.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CWebb%20Telescope%20spots%20%E2%80%9Cimpossible%E2%80%9D%20atmosphere%20on%20ancient%20super%20Earth",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Space"
     },
     {
-      "title": "Scientists just found a hidden 48-dimensional world in quantum light",
-      "summary": "A routine quantum optics technique just revealed an extraordinary secret: entangled light can carry incredibly complex topological structures. Researchers found these hidden patterns reach up to 48 dimensions, offering a vast new “alphabet” for encoding quantum information. Unlike previous assumptions, this topology can emerge from a single property of light—orbital angular momentum.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260321012705.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20just%20found%20a%20hidden%2048-dimensional%20world%20in%20quantum%20light",
+      "title": "Why mosquitoes always find you and how they decide to attack",
+      "summary": "Scientists have finally cracked how mosquitoes decide where to fly—and it’s not by following each other. Instead, each insect independently reacts to visual cues and carbon dioxide, zeroing in on humans when both signals align. Dark colors and CO2 together create the strongest attraction, triggering swarming and biting behavior. This insight could reshape how we design traps and prevent mosquito-borne diseases.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260322020247.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CWhy%20mosquitoes%20always%20find%20you%20and%20how%20they%20decide%20to%20attack",
       "wiki_url": "",
-      "category": "Physics"
+      "category": "Health"
     },
     {
-      "title": "A massive freshwater reservoir is hiding under the Great Salt Lake",
-      "summary": "A hidden freshwater system deep beneath the Great Salt Lake has been revealed using airborne electromagnetic surveys. Scientists found that freshwater extends much farther under the lake than expected, reaching depths of up to 4 kilometers. The discovery began with mysterious reed-covered mounds formed by pressurized groundwater pushing upward. Researchers are now investigating whether this underground water could help control hazardous dust from the drying lakebed.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260321012640.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20massive%20freshwater%20reservoir%20is%20hiding%20under%20the%20Great%20Salt%20Lake",
+      "title": "Beavers are turning rivers into powerful carbon sinks",
+      "summary": "Beavers may be unlikely climate heroes, but new research suggests they could play a powerful role in fighting climate change. By building dams and transforming streams into wetlands, these industrious animals dramatically reshape how carbon moves and is stored in landscapes. Over just 13 years, a beaver-engineered wetland in Switzerland stored over a thousand tonnes of carbon—up to ten times more than similar areas without beavers.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260322020245.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CBeavers%20are%20turning%20rivers%20into%20powerful%20carbon%20sinks",
       "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Hidden antibiotics in river fish spark new food safety fears",
-      "summary": "Antibiotics are accumulating in a major Brazilian river, especially during the dry season when pollution becomes more concentrated. Scientists even detected a banned drug inside fish sold for food, raising concerns about human exposure. A common aquatic plant showed promise in removing these chemicals from water—but it also altered how fish absorb them, creating unexpected risks.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260321012638.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20antibiotics%20in%20river%20fish%20spark%20new%20food%20safety%20fears",
-      "wiki_url": "",
-      "category": "AI"
+      "category": "Environment"
     },
     {
       "title": "Dearest Gentle Reader,",
