@@ -1,6 +1,30 @@
 {
-  "date": "2026-03-23 03:33 UTC",
+  "date": "2026-03-24 03:19 UTC",
   "items": [
+    {
+      "title": "Women over 50 lost 35% more weight with this surprising combo",
+      "summary": "Postmenopausal women may have a powerful new edge in the battle against weight gain. A Mayo Clinic study found that those using menopausal hormone therapy while taking the obesity drug tirzepatide lost about 35% more weight than those on the drug alone. The findings hint at a surprising synergy between hormones and cutting-edge weight-loss medications, potentially opening the door to more effective, personalized treatments for millions of women facing increased cardiometabolic risks after menopause.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260323005543.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWomen%20over%2050%20lost%2035%25%20more%20weight%20with%20this%20surprising%20combo",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Most people get food’s environmental impact completely wrong, study finds",
+      "summary": "People often get the environmental impact of food wrong, according to new research. While many assume processed foods are the worst, they tend to overlook the surprisingly high impact of items like nuts and underestimate how damaging beef really is. These misunderstandings come from relying on simple categories like “animal vs. plant” rather than the full picture.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260323005528.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CMost%20people%20get%20food%E2%80%99s%20environmental%20impact%20completely%20wrong%2C%20study%20finds",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
+      "summary": "Scientists have uncovered a hidden “death switch” in the brain that may be driving Alzheimer’s disease—and even found a way to turn it off in mice. The culprit is a toxic pairing of two proteins that, when combined, triggers the destruction of brain cells and fuels memory loss. By using a new compound to break apart this deadly duo, researchers were able to slow disease progression, protect brain cells, and even reduce hallmark amyloid buildup.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260323005526.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20Alzheimer%E2%80%99s%20hidden%20%E2%80%9Cdeath%20switch%E2%80%9D%20in%20the%20brain",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "This 67,800-year-old handprint is the oldest art ever found",
       "summary": "Researchers have uncovered the world’s oldest known cave art—a 67,800-year-old hand stencil in Indonesia. The unusual, claw-like design hints at early symbolic thinking and possibly spiritual beliefs. This discovery also strengthens the case that humans reached Australia at least 65,000 years ago. It offers rare insight into the creative lives of some of our earliest ancestors.",
@@ -16,30 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20floating%20time%20crystal%20breaks%20Newton%E2%80%99s%20third%20law%20of%20motion",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Webb Telescope spots “impossible” atmosphere on ancient super Earth",
-      "summary": "Astronomers have uncovered surprising evidence of a thick atmosphere surrounding TOI-561 b, a scorching, fast-orbiting rocky planet once thought too extreme to hold onto any gas. Using NASA’s James Webb Space Telescope, researchers found the planet is far cooler than expected for a bare rock, hinting at a heat-distributing atmosphere above a churning magma ocean. This strange world—where a year lasts just over 10 hours and one side is locked in eternal daylight—may even be rich in volatile materials, behaving like a “wet lava ball.”",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260322020255.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CWebb%20Telescope%20spots%20%E2%80%9Cimpossible%E2%80%9D%20atmosphere%20on%20ancient%20super%20Earth",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Why mosquitoes always find you and how they decide to attack",
-      "summary": "Scientists have finally cracked how mosquitoes decide where to fly—and it’s not by following each other. Instead, each insect independently reacts to visual cues and carbon dioxide, zeroing in on humans when both signals align. Dark colors and CO2 together create the strongest attraction, triggering swarming and biting behavior. This insight could reshape how we design traps and prevent mosquito-borne diseases.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260322020247.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CWhy%20mosquitoes%20always%20find%20you%20and%20how%20they%20decide%20to%20attack",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Beavers are turning rivers into powerful carbon sinks",
-      "summary": "Beavers may be unlikely climate heroes, but new research suggests they could play a powerful role in fighting climate change. By building dams and transforming streams into wetlands, these industrious animals dramatically reshape how carbon moves and is stored in landscapes. Over just 13 years, a beaver-engineered wetland in Switzerland stored over a thousand tonnes of carbon—up to ten times more than similar areas without beavers.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260322020245.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CBeavers%20are%20turning%20rivers%20into%20powerful%20carbon%20sinks",
-      "wiki_url": "",
-      "category": "Environment"
     },
     {
       "title": "Dearest Gentle Reader,",
