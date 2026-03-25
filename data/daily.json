@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-24 03:19 UTC",
+  "date": "2026-03-25 03:24 UTC",
   "items": [
     {
-      "title": "Women over 50 lost 35% more weight with this surprising combo",
-      "summary": "Postmenopausal women may have a powerful new edge in the battle against weight gain. A Mayo Clinic study found that those using menopausal hormone therapy while taking the obesity drug tirzepatide lost about 35% more weight than those on the drug alone. The findings hint at a surprising synergy between hormones and cutting-edge weight-loss medications, potentially opening the door to more effective, personalized treatments for millions of women facing increased cardiometabolic risks after menopause.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260323005543.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWomen%20over%2050%20lost%2035%25%20more%20weight%20with%20this%20surprising%20combo",
+      "title": "Insulin pills may soon replace daily injections",
+      "summary": "For over a century, scientists have chased the dream of insulin pills, but the digestive system kept destroying the drug before it could work—forcing millions of patients to rely on daily injections. Now, researchers at Kumamoto University have developed a clever workaround using a tiny peptide that helps insulin slip through the intestinal wall.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260324024302.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CInsulin%20pills%20may%20soon%20replace%20daily%20injections",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Most people get food’s environmental impact completely wrong, study finds",
-      "summary": "People often get the environmental impact of food wrong, according to new research. While many assume processed foods are the worst, they tend to overlook the surprisingly high impact of items like nuts and underestimate how damaging beef really is. These misunderstandings come from relying on simple categories like “animal vs. plant” rather than the full picture.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260323005528.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CMost%20people%20get%20food%E2%80%99s%20environmental%20impact%20completely%20wrong%2C%20study%20finds",
-      "wiki_url": "",
-      "category": "Environment"
-    },
-    {
-      "title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
-      "summary": "Scientists have uncovered a hidden “death switch” in the brain that may be driving Alzheimer’s disease—and even found a way to turn it off in mice. The culprit is a toxic pairing of two proteins that, when combined, triggers the destruction of brain cells and fuels memory loss. By using a new compound to break apart this deadly duo, researchers were able to slow disease progression, protect brain cells, and even reduce hallmark amyloid buildup.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260323005526.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20Alzheimer%E2%80%99s%20hidden%20%E2%80%9Cdeath%20switch%E2%80%9D%20in%20the%20brain",
+      "title": "Supercomputers just solved a 50-year-old mystery about giant stars",
+      "summary": "Astronomers have finally cracked a decades-old mystery about red giant stars—how material from their deep interiors makes its way to the surface. Using cutting-edge supercomputer simulations, researchers discovered that stellar rotation plays a powerful role in mixing elements across a previously unexplained barrier inside the star.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260324024300.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CSupercomputers%20just%20solved%20a%2050-year-old%20mystery%20about%20giant%20stars",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "This 67,800-year-old handprint is the oldest art ever found",
-      "summary": "Researchers have uncovered the world’s oldest known cave art—a 67,800-year-old hand stencil in Indonesia. The unusual, claw-like design hints at early symbolic thinking and possibly spiritual beliefs. This discovery also strengthens the case that humans reached Australia at least 65,000 years ago. It offers rare insight into the creative lives of some of our earliest ancestors.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260322020300.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%2067%2C800-year-old%20handprint%20is%20the%20oldest%20art%20ever%20found",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "This floating time crystal breaks Newton’s third law of motion",
-      "summary": "Scientists have created a new kind of time crystal using sound waves to levitate tiny beads in mid-air. These particles interact in a one-sided, unbalanced way, breaking the usual rules of motion and creating a steady, repeating rhythm. The system is surprisingly simple yet reveals complex physics with big implications. It could help advance quantum computing and deepen our understanding of biological timing systems.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260322020258.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20floating%20time%20crystal%20breaks%20Newton%E2%80%99s%20third%20law%20of%20motion",
+      "title": "This tiny implant, smaller than a grain of salt, can read your brain",
+      "summary": "A new neural implant is so small it can rest on a grain of salt, yet it can track and wirelessly transmit brain activity for over a year. It’s powered by laser light that safely passes through tissue and communicates using tiny infrared signals. This ultra-miniature device could transform how scientists study the brain without invasive wiring.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20tiny%20implant%2C%20smaller%20than%20a%20grain%20of%20salt%2C%20can%20read%20your%20brain",
       "wiki_url": "",
       "category": "AI"
+    },
+    {
+      "title": "Scientists just solved a major mystery about how your brain stores memories",
+      "summary": "Scientists have found that your brain separates memories into “what” and “where/when” using two different groups of neurons. One set responds to specific objects or people, while another tracks the context or situation. When you remember something correctly, these groups briefly connect and reconstruct the full memory. This system may be the secret behind how we recognize the same things across totally different experiences.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260324024247.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20solved%20a%20major%20mystery%20about%20how%20your%20brain%20stores%20memories",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists found a rhino in the Arctic and it changes everything",
+      "summary": "Scientists have uncovered a new species of rhinoceros in the Canadian High Arctic, revealing that rhinos once lived far farther north than expected. The fossil, dating back 23 million years, is unusually complete and has helped reshape ideas about how these animals migrated between continents. Evidence suggests rhinos crossed from Europe to North America more recently than scientists once thought.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260324024245.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20found%20a%20rhino%20in%20the%20Arctic%20and%20it%20changes%20everything",
+      "wiki_url": "",
+      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
