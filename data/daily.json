@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-25 03:24 UTC",
+  "date": "2026-03-26 03:37 UTC",
   "items": [
     {
-      "title": "Insulin pills may soon replace daily injections",
-      "summary": "For over a century, scientists have chased the dream of insulin pills, but the digestive system kept destroying the drug before it could work—forcing millions of patients to rely on daily injections. Now, researchers at Kumamoto University have developed a clever workaround using a tiny peptide that helps insulin slip through the intestinal wall.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260324024302.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CInsulin%20pills%20may%20soon%20replace%20daily%20injections",
+      "title": "Metformin’s hidden brain pathway revealed after 60 years",
+      "summary": "A major discovery reveals that metformin works not just in the body, but in the brain. By switching off a key protein and activating specific neurons, the drug lowers blood sugar through a previously hidden pathway, opening new doors for diabetes treatment.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260325055441.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMetformin%E2%80%99s%20hidden%20brain%20pathway%20revealed%20after%2060%20years",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Supercomputers just solved a 50-year-old mystery about giant stars",
-      "summary": "Astronomers have finally cracked a decades-old mystery about red giant stars—how material from their deep interiors makes its way to the surface. Using cutting-edge supercomputer simulations, researchers discovered that stellar rotation plays a powerful role in mixing elements across a previously unexplained barrier inside the star.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260324024300.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CSupercomputers%20just%20solved%20a%2050-year-old%20mystery%20about%20giant%20stars",
+      "title": "Astronomers solve 50-year mystery of a naked-eye star’s extreme X-rays",
+      "summary": "A star you can see with the naked eye has kept astronomers guessing for decades with its unusually powerful X-rays. Now, thanks to highly precise observations from Japan’s XRISM space telescope, scientists have finally uncovered the source: a hidden white dwarf companion pulling in material and generating extreme heat. This discovery not only solves a 50-year-old mystery surrounding Gamma Cassiopeiae, but also confirms the existence of a long-predicted type of binary star system.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260325041723.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CAstronomers%20solve%2050-year%20mystery%20of%20a%20naked-eye%20star%E2%80%99s%20extreme%20X-rays",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Project Hail Mary meets reality: 45 planets could harbor alien life",
+      "summary": "Astronomers have narrowed down the cosmic search for life, identifying fewer than 50 rocky planets among thousands of known exoplanets that may have the right conditions to support life. Using new data from ESA’s Gaia mission and NASA archives, researchers pinpointed worlds in the “habitable zone,” where temperatures could allow liquid water to exist. Some of the most intriguing targets include nearby systems like TRAPPIST-1 and Proxima Centauri, offering tantalizing possibilities just dozens of light-years away.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260325005926.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CProject%20Hail%20Mary%20meets%20reality%3A%2045%20planets%20could%20harbor%20alien%20life",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "This tiny implant, smaller than a grain of salt, can read your brain",
-      "summary": "A new neural implant is so small it can rest on a grain of salt, yet it can track and wirelessly transmit brain activity for over a year. It’s powered by laser light that safely passes through tissue and communicates using tiny infrared signals. This ultra-miniature device could transform how scientists study the brain without invasive wiring.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20tiny%20implant%2C%20smaller%20than%20a%20grain%20of%20salt%2C%20can%20read%20your%20brain",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists just solved a major mystery about how your brain stores memories",
-      "summary": "Scientists have found that your brain separates memories into “what” and “where/when” using two different groups of neurons. One set responds to specific objects or people, while another tracks the context or situation. When you remember something correctly, these groups briefly connect and reconstruct the full memory. This system may be the secret behind how we recognize the same things across totally different experiences.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260324024247.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20solved%20a%20major%20mystery%20about%20how%20your%20brain%20stores%20memories",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists found a rhino in the Arctic and it changes everything",
-      "summary": "Scientists have uncovered a new species of rhinoceros in the Canadian High Arctic, revealing that rhinos once lived far farther north than expected. The fossil, dating back 23 million years, is unusually complete and has helped reshape ideas about how these animals migrated between continents. Evidence suggests rhinos crossed from Europe to North America more recently than scientists once thought.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260324024245.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20found%20a%20rhino%20in%20the%20Arctic%20and%20it%20changes%20everything",
+      "title": "24 new deep-sea species found including a rare new branch of life",
+      "summary": "In a remarkable deep-sea breakthrough, researchers have discovered 24 new species of amphipods in the Pacific’s Clarion-Clipperton Zone—including a rare, entirely new superfamily. The findings reveal previously unknown branches of life and push the boundaries of how deep these creatures are known to live.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260325005912.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2C24%20new%20deep-sea%20species%20found%20including%20a%20rare%20new%20branch%20of%20life",
       "wiki_url": "",
       "category": "Biology"
+    },
+    {
+      "title": "Scientists just discovered bees and hummingbirds are drinking alcohol",
+      "summary": "Flower nectar often contains small amounts of alcohol, meaning pollinators like hummingbirds are drinking it all day long. Despite consuming human-equivalent amounts, they show no signs of intoxication—suggesting a surprising evolutionary tolerance.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260325005908.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20discovered%20bees%20and%20hummingbirds%20are%20drinking%20alcohol",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
