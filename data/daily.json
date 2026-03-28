@@ -1,45 +1,45 @@
 {
-  "date": "2026-03-27 03:39 UTC",
+  "date": "2026-03-28 03:22 UTC",
   "items": [
     {
-      "title": "This cow uses tools like a primate—and scientists are stunned",
-      "summary": "A cow named Veronika has stunned scientists by using tools in a flexible and purposeful way. She chooses different ends of a brush depending on the part of her body and adjusts her movements accordingly. This level of tool use is incredibly rare and was previously seen mainly in primates. The finding hints that cows may be much smarter than we assume.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260326075611.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20cow%20uses%20tools%20like%20a%20primate%E2%80%94and%20scientists%20are%20stunned",
+      "title": "Scientists say we’ve been looking in the wrong place for human origins",
+      "summary": "A fossil ape discovered in northern Egypt is reshaping the story of human evolution. The species, Masripithecus, lived about 17 to 18 million years ago and may sit very close to the ancestor of all modern apes. This finding challenges the long-standing focus on East Africa. Instead, it points to northern Africa and nearby regions as a possible birthplace of apes.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260327230113.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20say%20we%E2%80%99ve%20been%20looking%20in%20the%20wrong%20place%20for%20human%20origins",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Watch the Earth split in real time: Stunning footage captures a 2.5-meter fault slip in seconds",
+      "summary": "A massive 7.7 magnitude earthquake struck Myanmar in March 2025, but what makes this event extraordinary is what happened next. For the first time, a nearby CCTV camera captured the fault rupture in real time, giving scientists a rare, direct look at how the Earth moves during a major quake. Researchers discovered that the ground shifted 2.5 meters in just 1.3 seconds, confirming a rapid, pulse-like rupture and revealing that the fault path was slightly curved.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260327211149.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CWatch%20the%20Earth%20split%20in%20real%20time%3A%20Stunning%20footage%20captures%20a%202.5-meter%20fault%20slip%20in%20seconds",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Scientists uncovered the nutrients bees were missing — Colonies surged 15-fold",
+      "summary": "Scientists have developed a breakthrough “superfood” for honeybees by engineering yeast to produce the essential nutrients normally found in pollen. In controlled trials, colonies fed this specially designed diet produced up to 15 times more young, showing a dramatic boost in reproduction and overall health. As climate change and modern agriculture reduce the availability of natural pollen, this innovation could offer a practical way to support struggling bee populations.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260327000518.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20uncovered%20the%20nutrients%20bees%20were%20missing%20%E2%80%94%20Colonies%20surged%2015-fold",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Vivid dreams may be the secret to deeper, more restful sleep",
-      "summary": "Vivid dreams might be doing more than just entertaining your mind at night. Researchers found that immersive dreaming can actually make sleep feel deeper and more refreshing, even when brain activity is high. Surprisingly, people reported their deepest sleep after intense dream experiences, not just during quiet, inactive periods. This suggests dreams may play a key role in helping us feel truly rested.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CVivid%20dreams%20may%20be%20the%20secret%20to%20deeper%2C%20more%20restful%20sleep",
+      "title": "Scientists discover “alien space weather stations” that could reveal habitable planets",
+      "summary": "Scientists have uncovered a surprising way to study the harsh space weather around young M dwarf stars. Mysterious dips in starlight turned out to be massive rings of plasma swirling in the stars’ magnetic fields. These structures act like built-in space weather monitors, revealing how energetic particles affect nearby planets. The findings could reshape how we think about whether planets around these common stars can survive—or even host life.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260326075618.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20discover%20%E2%80%9Calien%20space%20weather%20stations%E2%80%9D%20that%20could%20reveal%20habitable%20planets",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Physics"
     },
     {
-      "title": "Scientists found a bug that generates its own heat in freezing cold",
-      "summary": "Snow flies have an unexpected way of surviving freezing temperatures. They produce antifreeze proteins to block ice formation and can even generate their own heat. Scientists also found that their genes are unusually unique, and they feel less cold-related pain than other insects. These combined traits let them stay active in conditions that would freeze most species.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260326011455.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20found%20a%20bug%20that%20generates%20its%20own%20heat%20in%20freezing%20cold",
+      "title": "Scientists discover bizarre new states inside tiny magnetic whirlpools",
+      "summary": "Researchers have uncovered a new way to generate exotic oscillation states in tiny magnetic structures—using only minimal energy. By exciting magnetic waves, they triggered a delicate motion that produced a rich spectrum of signals never seen before in this system. The finding challenges existing assumptions and could help connect different types of technologies, from conventional electronics to quantum devices. It’s a small effect with potentially huge implications.",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260326075614.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20discover%20bizarre%20new%20states%20inside%20tiny%20magnetic%20whirlpools",
       "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Deepfake X-rays are so real even doctors can’t tell the difference",
-      "summary": "Deepfake X-rays created by AI are now convincing enough to fool both doctors and AI models. In tests, radiologists had limited success identifying fake images, especially when they didn’t know they were being shown. This opens the door to risks like fraudulent medical claims and tampered diagnoses. Experts say stronger safeguards and detection tools are critical as the technology advances.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260326011452.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CDeepfake%20X-rays%20are%20so%20real%20even%20doctors%20can%E2%80%99t%20tell%20the%20difference",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Metformin’s hidden brain pathway revealed after 60 years",
-      "summary": "A major discovery reveals that metformin works not just in the body, but in the brain. By switching off a key protein and activating specific neurons, the drug lowers blood sugar through a previously hidden pathway, opening new doors for diabetes treatment.",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260325055441.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMetformin%E2%80%99s%20hidden%20brain%20pathway%20revealed%20after%2060%20years",
-      "wiki_url": "",
-      "category": "AI"
+      "category": "Physics"
     },
     {
       "title": "Dearest Gentle Reader,",
