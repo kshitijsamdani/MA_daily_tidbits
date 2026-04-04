@@ -1,6 +1,38 @@
 {
-  "date": "2026-04-03 03:34 UTC",
+  "date": "2026-04-04 03:22 UTC",
   "items": [
+    {
+      "title": "Deafness reversed: One injection restores hearing in just weeks",
+      "summary": "A new gene therapy is giving people born deaf the chance to hear, often within just weeks. In a small but groundbreaking study, researchers delivered a working copy of a key hearing gene directly into the inner ear using a single injection. All ten patients, ranging from young children to adults, experienced improved hearing, with some showing rapid gains in just one month.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260403044651.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CDeafness%20reversed%3A%20One%20injection%20restores%20hearing%20in%20just%20weeks",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists discover why flu and COVID hit older adults so hard",
+      "summary": "A new study reveals that aging lungs may play a major role in why flu and COVID can become so dangerous for older adults. Researchers found that certain lung cells can trigger an exaggerated immune response, creating clusters of inflammatory cells that end up damaging lung tissue instead of protecting it. In experiments, activating this aging-related signal in young mice caused their lungs to behave like older ones, leading to severe illness.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260403002027.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20why%20flu%20and%20COVID%20hit%20older%20adults%20so%20hard",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "This tiny claw in a 500-million-year-old fossil just rewrote the origin of spiders",
+      "summary": "What started as routine fossil cleaning turned into a major scientific surprise when researchers uncovered a tiny claw in a 500-million-year-old specimen where no claw should exist. That detail revealed Megachelicerax cousteaui, the oldest known relative of spiders, pushing the origins of this group back by 20 million years. The fossil shows that key features of modern spiders and horseshoe crabs were already emerging during the Cambrian Explosion.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260403002023.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20tiny%20claw%20in%20a%20500-million-year-old%20fossil%20just%20rewrote%20the%20origin%20of%20spiders",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Strange “elephant skin” rocks reveal ancient life in the dark ocean",
+      "summary": "A puzzling wrinkled rock formation in Morocco has led scientists to rethink where ancient microbes could live. Instead of shallow, sunlit waters, these microbes may have thrived deep in the ocean, fueled by chemicals delivered by underwater landslides. The discovery suggests that dark, nutrient-rich environments hosted thriving ecosystems much earlier than expected. It also raises the possibility that many similar fossils have been overlooked or misinterpreted.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260402042807.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CStrange%20%E2%80%9Celephant%20skin%E2%80%9D%20rocks%20reveal%20ancient%20life%20in%20the%20dark%20ocean",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "New microwave frying technique could make french fries much healthier",
       "summary": "Scientists have discovered a way to make French fries less greasy without ruining their taste. By combining regular frying with microwave heating, they reduce the amount of oil absorbed during cooking. The key lies in pressure inside the food—microwaves help push oil out instead of letting it seep in. The result: faster cooking, lower fat, and fries that can still stay crispy.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Health%2CNew%20microwave%20frying%20technique%20could%20make%20french%20fries%20much%20healthier",
       "wiki_url": "",
       "category": "Health"
-    },
-    {
-      "title": "Ancient bone dice reveal 12,000-year history of gambling in America",
-      "summary": "More than 12,000 years ago, Native American hunter-gatherers were already making and using dice—thousands of years before similar tools appeared elsewhere. These bone “binary lots” acted like primitive coins, producing random outcomes for games of chance. A new study shows these weren’t accidental objects but carefully designed tools used across many regions and cultures.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260402042731.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CAncient%20bone%20dice%20reveal%2012%2C000-year%20history%20of%20gambling%20in%20America",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "NASA launches Artemis II for first crewed Moon flyby in 50 years",
-      "summary": "A new era of lunar exploration has begun as NASA launches four astronauts on Artemis II—the first crewed mission to fly around the Moon in over 50 years. Riding aboard the powerful SLS rocket, the Orion spacecraft is now on a 10-day journey that will test critical systems, push human spaceflight farther than it’s gone in decades, and set the stage for future Moon landings and eventual missions to Mars.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260402004721.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20launches%20Artemis%20II%20for%20first%20crewed%20Moon%20flyby%20in%2050%20years",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Scientists discover “molecular shredder” that helps deadly parasite evade the immune system",
-      "summary": "A deadly parasite responsible for sleeping sickness has been found using a surprisingly precise trick to stay hidden in the human bloodstream. Scientists discovered a protein called ESB2 that acts like a “molecular shredder,” cutting up specific genetic instructions as they are produced. This allows the parasite to flood its surface with protective proteins while suppressing other signals that might give it away.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260402000221.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20%E2%80%9Cmolecular%20shredder%E2%80%9D%20that%20helps%20deadly%20parasite%20evade%20the%20immune%20system",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Physicists just solved a strange fusion mystery that stumped experts",
-      "summary": "Fusion scientists have solved a long-standing mystery inside tokamaks, the donut-shaped machines designed to harness fusion energy. For years, experiments showed that escaping plasma particles hit one side of the exhaust system far more than the other, but simulations couldn’t explain why. Now, researchers have discovered that the rotation of the plasma itself plays a crucial role—working together with sideways particle drift to create the imbalance.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260401071957.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CPhysicists%20just%20solved%20a%20strange%20fusion%20mystery%20that%20stumped%20experts",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
