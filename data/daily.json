@@ -1,45 +1,45 @@
 {
-  "date": "2026-04-07 03:38 UTC",
+  "date": "2026-04-08 03:40 UTC",
   "items": [
     {
-      "title": "Scientists discover hidden brain switch that tells you to stop eating",
-      "summary": "Your brain’s “stop eating” signal may come from an unexpected source. Researchers found that astrocytes—once thought to just support neurons—actually play a key role in controlling appetite. After a meal, glucose triggers tanycytes, which send signals to astrocytes that then activate fullness neurons. This newly discovered pathway could lead to innovative treatments for obesity and eating disorders.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20hidden%20brain%20switch%20that%20tells%20you%20to%20stop%20eating",
+      "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
+      "summary": "Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. The method transforms brain mapping into a sequencing task, making it faster and more scalable than traditional approaches. In mice, it revealed surprising new connections between brain cells that were previously unknown. This could open the door to earlier detection and targeted treatment of neurological diseases.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20map%20the%20brain%E2%80%99s%20hidden%20wiring%20using%20RNA%20barcodes%20in%20major%20breakthrough",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "The brain might not create consciousness after all",
-      "summary": "Is consciousness something the brain produces, or is it woven into the fabric of reality itself? Renowned neuroscientist Christof Koch is challenging long-held scientific assumptions by confronting the “hard problem” of consciousness — why and how subjective experience exists at all. He highlights growing tensions between neuroscience, physics, and unexplained phenomena like near-death experiences and sudden moments of clarity before death.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260406192809.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20brain%20might%20not%20create%20consciousness%20after%20all",
+      "title": "Scientists discover reversible male birth control that stops sperm production",
+      "summary": "Scientists at Cornell University may be closing in on the long-sought “holy grail” of male contraception: a safe, reversible, nonhormonal method that completely halts sperm production. In a breakthrough mouse study, researchers used a compound called JQ1 to temporarily shut down meiosis—the critical process that produces sperm—without causing lasting harm. After treatment stopped, sperm production bounced back, fertility returned, and the animals produced healthy offspring.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407193844.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20reversible%20male%20birth%20control%20that%20stops%20sperm%20production",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists may have found a way to keep your bones strong for life",
-      "summary": "Scientists have identified a little-known receptor, GPR133, as a powerful regulator of bone strength. By activating it with a newly discovered compound called AP503, they were able to boost bone density in mice and counteract osteoporosis-like damage. The finding opens the door to a new kind of treatment that could not only prevent bone loss but also rebuild weakened bones, offering fresh hope for millions affected by osteoporosis, especially aging populations.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260406080131.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20may%20have%20found%20a%20way%20to%20keep%20your%20bones%20strong%20for%20life",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Scientists found a protein that drives brain aging — and how to stop it",
-      "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20found%20a%20protein%20that%20drives%20brain%20aging%20%E2%80%94%20and%20how%20to%20stop%20it",
+      "title": "Your vitamin D levels in midlife could shape your brain decades later",
+      "summary": "Vitamin D levels in midlife may play a bigger role in long-term brain health than previously thought. In a study following nearly 800 people over 16 years, those with higher vitamin D levels in their 30s and 40s had lower levels of tau protein later on, a key marker linked to dementia.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407073850.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20vitamin%20D%20levels%20in%20midlife%20could%20shape%20your%20brain%20decades%20later",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "These bizarre new tarantulas turn mating into a fight for survival",
-      "summary": "A newly discovered group of tarantulas is so bizarre that scientists had to invent a whole new genus—Satyrex—to describe them. With unusually long mating appendages and fierce, hissing defenses, these spiders are as strange as they are intimidating.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260405003946.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThese%20bizarre%20new%20tarantulas%20turn%20mating%20into%20a%20fight%20for%20survival",
+      "title": "Scientists solve 30-year mystery of a hidden nutrient that protects the brain and fights cancer",
+      "summary": "Scientists have finally uncovered the missing link in how our bodies absorb queuosine, a rare micronutrient crucial for brain health, memory, stress response, and cancer defense. For decades, researchers suspected a transporter had to exist, but it remained elusive—until now. By identifying the gene SLC35F2 as the gateway into cells, this breakthrough opens new possibilities for therapies and highlights how diet and gut microbes profoundly shape human health.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407004815.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20solve%2030-year%20mystery%20of%20a%20hidden%20nutrient%20that%20protects%20the%20brain%20and%20fights%20cancer",
       "wiki_url": "",
-      "category": "Science"
+      "category": "AI"
+    },
+    {
+      "title": "Scientists found a “lost world” of animals that shouldn’t exist yet",
+      "summary": "A remarkable fossil discovery in southwest China is rewriting the story of how complex animal life began, showing that many key animal groups appeared millions of years earlier than scientists once believed. Dating back over 540 million years, the fossils reveal a surprisingly diverse and advanced ecosystem from the late Ediacaran period—before the famous Cambrian explosion. Among the finds are early relatives of starfish, worm-like creatures, and even ancestors of animals with backbones, suggesting that the roots of modern life were already taking shape.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260406234153.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CScientists%20found%20a%20%E2%80%9Clost%20world%E2%80%9D%20of%20animals%20that%20shouldn%E2%80%99t%20exist%20yet",
+      "wiki_url": "",
+      "category": "Environment"
     },
     {
       "title": "Dearest Gentle Reader,",
