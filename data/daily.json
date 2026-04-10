@@ -1,45 +1,45 @@
 {
-  "date": "2026-04-09 03:35 UTC",
+  "date": "2026-04-10 03:48 UTC",
   "items": [
     {
-      "title": "Something just hit the Moon and left a bright new scar",
-      "summary": "For all its ancient, familiar features, the Moon is still changing—and sometimes in dramatic ways. Scientists recently identified a fresh 22-meter-wide crater by comparing orbital images taken years apart, revealing a relatively recent impact that no one actually saw happen. The collision blasted bright material outward in striking rays, making the new crater stand out sharply against the darker lunar surface.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260407193919.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CSomething%20just%20hit%20the%20Moon%20and%20left%20a%20bright%20new%20scar",
+      "title": "Scientists discover spice synergy that boosts anti-inflammation 100x",
+      "summary": "Chronic inflammation often works quietly in the background but can fuel serious diseases like diabetes, heart disease, and cancer. New research reveals that everyday plant compounds—like menthol from mint, cineole from eucalyptus, and capsaicin from chili peppers—can team up inside immune cells to dramatically boost their anti-inflammatory power. While individual compounds showed modest effects, certain combinations amplified results hundreds of times over by activating different cellular pathways at once.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260408225950.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20spice%20synergy%20that%20boosts%20anti-inflammation%20100x",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists just uncovered the secret behind nature’s “proton highway”",
-      "summary": "Scientists have zoomed in on how phosphoric acid moves electrical charges so efficiently in both biology and technology. By freezing a key molecular pair to extremely low temperatures, they found it forms just one stable structure—contrary to predictions. This structure relies on a specific hydrogen-bond network that may be universal in similar systems. The discovery helps explain how protons travel so quickly and could inspire better energy materials.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260407193915.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20uncovered%20the%20secret%20behind%20nature%E2%80%99s%20%E2%80%9Cproton%20highway%E2%80%9D",
+      "title": "The hidden tradeoff behind today’s most popular weight loss drugs",
+      "summary": "Weight loss drugs and bariatric surgery may work differently, but they lead to surprisingly similar results inside the body. Both significantly reduce fat while also causing a modest loss of muscle, reshaping overall body composition. Since muscle helps protect against early death, this balance matters more than the number on the scale. The study suggests these treatments improve health—but not without trade-offs.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260408225948.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20hidden%20tradeoff%20behind%20today%E2%80%99s%20most%20popular%20weight%20loss%20drugs",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists say we’ve been wrong about what makes sprinters fast",
-      "summary": "A new international study is shaking up how we think about elite sprinting, arguing there’s no single “perfect” running style behind the world’s fastest athletes. Instead, speed emerges from a complex mix of an individual’s body, coordination, strength, and training—meaning every top sprinter moves differently. Using examples like rising Australian star Gout Gout, researchers show that unique physical traits can produce world-class speed without copying anyone else’s technique.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260407193911.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20say%20we%E2%80%99ve%20been%20wrong%20about%20what%20makes%20sprinters%20fast",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Did a black hole just explode? This “impossible” particle may be the evidence",
-      "summary": "A bizarre, record-breaking neutrino detected in 2023 may have originated from an exploding primordial black hole—a relic from the early universe. Scientists suggest these black holes could carry a mysterious “dark charge,” causing rare but powerful bursts of energy that current detectors might occasionally catch. This could explain why only one experiment saw the event. The theory also opens the door to discovering entirely new particles and possibly uncovering the nature of dark matter.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260407193906.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CDid%20a%20black%20hole%20just%20explode%3F%20This%20%E2%80%9Cimpossible%E2%80%9D%20particle%20may%20be%20the%20evidence",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "The world’s “oldest octopus” was never an octopus",
-      "summary": "A famous “oldest octopus” fossil has been exposed as a case of mistaken identity. Advanced imaging revealed hidden teeth showing it was actually related to a nautilus, not an octopus. The confusion came from decay that altered its shape before fossilization. This discovery rewrites part of evolutionary history, pushing the true origin of octopuses much later in time.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260407193853.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CThe%20world%E2%80%99s%20%E2%80%9Coldest%20octopus%E2%80%9D%20was%20never%20an%20octopus",
+      "title": "Your DNA has a secret “second code” that decides which genes get silenced",
+      "summary": "Not all parts of our genetic code are equal, even when they appear to say the same thing. Scientists have discovered that cells can detect less efficient genetic instructions and selectively silence them. A protein called DHX29 plays a key role in this process by identifying and suppressing weaker messages. This finding reveals a hidden layer of control in how genes are used.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260408225946.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CYour%20DNA%20has%20a%20secret%20%E2%80%9Csecond%20code%E2%80%9D%20that%20decides%20which%20genes%20get%20silenced",
       "wiki_url": "",
       "category": "Biology"
+    },
+    {
+      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
+      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising, reducing these sugars improved brain health in experiments, hinting at new treatment possibilities.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20hidden%20gut%20trigger%20behind%20ALS%20and%20dementia",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Your brain can trick you into liking artificial sweeteners",
+      "summary": "Your brain might be quietly deciding what tastes good before you even take a sip. Researchers found that simply changing what people thought they were drinking—sugar or artificial sweetener—could dramatically shift how much they enjoyed it. When participants believed a drink had artificial sweeteners, real sugar tasted less enjoyable, but when they expected sugar, even artificially sweetened drinks became more pleasurable.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20brain%20can%20trick%20you%20into%20liking%20artificial%20sweeteners",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
