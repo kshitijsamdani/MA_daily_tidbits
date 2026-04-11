@@ -1,45 +1,45 @@
 {
-  "date": "2026-04-10 03:48 UTC",
+  "date": "2026-04-11 03:26 UTC",
   "items": [
     {
-      "title": "Scientists discover spice synergy that boosts anti-inflammation 100x",
-      "summary": "Chronic inflammation often works quietly in the background but can fuel serious diseases like diabetes, heart disease, and cancer. New research reveals that everyday plant compounds—like menthol from mint, cineole from eucalyptus, and capsaicin from chili peppers—can team up inside immune cells to dramatically boost their anti-inflammatory power. While individual compounds showed modest effects, certain combinations amplified results hundreds of times over by activating different cellular pathways at once.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260408225950.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20spice%20synergy%20that%20boosts%20anti-inflammation%20100x",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "The hidden tradeoff behind today’s most popular weight loss drugs",
-      "summary": "Weight loss drugs and bariatric surgery may work differently, but they lead to surprisingly similar results inside the body. Both significantly reduce fat while also causing a modest loss of muscle, reshaping overall body composition. Since muscle helps protect against early death, this balance matters more than the number on the scale. The study suggests these treatments improve health—but not without trade-offs.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260408225948.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20hidden%20tradeoff%20behind%20today%E2%80%99s%20most%20popular%20weight%20loss%20drugs",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Your DNA has a secret “second code” that decides which genes get silenced",
-      "summary": "Not all parts of our genetic code are equal, even when they appear to say the same thing. Scientists have discovered that cells can detect less efficient genetic instructions and selectively silence them. A protein called DHX29 plays a key role in this process by identifying and suppressing weaker messages. This finding reveals a hidden layer of control in how genes are used.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260408225946.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CYour%20DNA%20has%20a%20secret%20%E2%80%9Csecond%20code%E2%80%9D%20that%20decides%20which%20genes%20get%20silenced",
+      "title": "A common nutrient could supercharge cancer treatment",
+      "summary": "A common eye-health nutrient, zeaxanthin, may also help the body fight cancer more effectively. Scientists discovered it strengthens T cells and enhances the impact of immunotherapy treatments. Found in everyday vegetables and supplements, it’s safe, accessible, and shows strong potential as a cancer therapy booster. Human trials are the next step.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260410083114.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%20common%20nutrient%20could%20supercharge%20cancer%20treatment",
       "wiki_url": "",
       "category": "Biology"
     },
     {
-      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
-      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising, reducing these sugars improved brain health in experiments, hinting at new treatment possibilities.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20hidden%20gut%20trigger%20behind%20ALS%20and%20dementia",
+      "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
+      "summary": "A breakthrough in microbiome research could change how colorectal cancer is detected—no colonoscopy required. Scientists used AI to map gut bacteria at an unprecedented level of detail, revealing subtle microbial patterns linked to cancer. By analyzing simple stool samples, their method identified 90% of cases, rivaling one of medicine’s most trusted diagnostic tools.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CGoodbye%20colonoscopy%3F%20New%20stool%20test%20detects%2090%25%20of%20colorectal%20cancers",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Your brain can trick you into liking artificial sweeteners",
-      "summary": "Your brain might be quietly deciding what tastes good before you even take a sip. Researchers found that simply changing what people thought they were drinking—sugar or artificial sweetener—could dramatically shift how much they enjoyed it. When participants believed a drink had artificial sweeteners, real sugar tasted less enjoyable, but when they expected sugar, even artificially sweetened drinks became more pleasurable.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260408225943.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20brain%20can%20trick%20you%20into%20liking%20artificial%20sweeteners",
+      "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
+      "summary": "Alzheimer’s isn’t just one problem—it’s a tangled mix of biology, aging, and overall health. That’s why drugs targeting a single factor have fallen short, even as new treatments show modest benefits. Scientists are now pushing toward multi-pronged strategies, from gene editing to brain-cell rejuvenation and gut health interventions. The goal: stop treating Alzheimer’s as one disease and start tackling it as a complex system.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20say%20we%E2%80%99ve%20been%20treating%20Alzheimer%E2%80%99s%20all%20wrong",
       "wiki_url": "",
       "category": "AI"
+    },
+    {
+      "title": "Gravitational waves may be hidden in the light atoms emit",
+      "summary": "Scientists have proposed a surprising new way to detect gravitational waves—by observing how they change the light emitted by atoms. These waves can subtly shift photon frequencies in different directions, leaving behind a detectable signature. The effect doesn’t change how much light atoms emit, which is why it’s gone unnoticed until now. If confirmed, this approach could lead to ultra-compact detectors using cold-atom systems.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CGravitational%20waves%20may%20be%20hidden%20in%20the%20light%20atoms%20emit",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "This superconductivity dies then comes back to life",
+      "summary": "A strange new kind of superconductivity has been uncovered in uranium ditelluride (UTe2), where electricity flows with zero resistance—but only under extremely strong magnetic fields that should normally destroy it. Even more surprising, the superconductivity disappears at first and then dramatically reappears at even higher fields, earning it the nickname the “Lazarus phase.”",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260409101108.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20superconductivity%20dies%20then%20comes%20back%20to%20life",
+      "wiki_url": "",
+      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
