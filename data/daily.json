@@ -1,6 +1,38 @@
 {
-  "date": "2026-04-11 03:26 UTC",
+  "date": "2026-04-12 03:52 UTC",
   "items": [
+    {
+      "title": "Two simple eating habits linked to lower weight, study finds",
+      "summary": "A major study suggests that when you eat could play a key role in staying lean. People who fast longer overnight and start their day with an early breakfast were more likely to have a lower BMI years later. Scientists think this is because eating earlier aligns better with the body’s internal clock. But skipping breakfast as part of intermittent fasting didn’t offer the same advantage—and may even be tied to unhealthy habits.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CTwo%20simple%20eating%20habits%20linked%20to%20lower%20weight%2C%20study%20finds",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "Unusual airborne toxin detected in the U.S. for the first time",
+      "summary": "Scientists searching for air pollution clues stumbled onto something unexpected: toxic MCCPs drifting through the air for the first time in the Western Hemisphere. The likely source—fertilizer made from sewage sludge—points to a hidden route for contamination.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260411084441.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CUnusual%20airborne%20toxin%20detected%20in%20the%20U.S.%20for%20the%20first%20time",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
+      "summary": "Scientists have achieved the unthinkable by stabilizing a highly reactive molecule in water, confirming a decades-old theory about vitamin B1’s role in the body. The breakthrough not only solves a scientific mystery but could revolutionize greener chemical manufacturing.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%2067-year-old%20%E2%80%9Ccrazy%E2%80%9D%20theory%20about%20vitamin%20B1%20has%20finally%20been%20proven",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
+      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decline. The discovery could help identify at-risk patients sooner and improve treatment timing.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20nose%20could%20detect%20Alzheimer%E2%80%99s%20years%20before%20symptoms%20begin",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "A common nutrient could supercharge cancer treatment",
       "summary": "A common eye-health nutrient, zeaxanthin, may also help the body fight cancer more effectively. Scientists discovered it strengthens T cells and enhances the impact of immunotherapy treatments. Found in everyday vegetables and supplements, it’s safe, accessible, and shows strong potential as a cancer therapy booster. Human trials are the next step.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Biology%2CA%20common%20nutrient%20could%20supercharge%20cancer%20treatment",
       "wiki_url": "",
       "category": "Biology"
-    },
-    {
-      "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
-      "summary": "A breakthrough in microbiome research could change how colorectal cancer is detected—no colonoscopy required. Scientists used AI to map gut bacteria at an unprecedented level of detail, revealing subtle microbial patterns linked to cancer. By analyzing simple stool samples, their method identified 90% of cases, rivaling one of medicine’s most trusted diagnostic tools.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CGoodbye%20colonoscopy%3F%20New%20stool%20test%20detects%2090%25%20of%20colorectal%20cancers",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
-      "summary": "Alzheimer’s isn’t just one problem—it’s a tangled mix of biology, aging, and overall health. That’s why drugs targeting a single factor have fallen short, even as new treatments show modest benefits. Scientists are now pushing toward multi-pronged strategies, from gene editing to brain-cell rejuvenation and gut health interventions. The goal: stop treating Alzheimer’s as one disease and start tackling it as a complex system.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20say%20we%E2%80%99ve%20been%20treating%20Alzheimer%E2%80%99s%20all%20wrong",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Gravitational waves may be hidden in the light atoms emit",
-      "summary": "Scientists have proposed a surprising new way to detect gravitational waves—by observing how they change the light emitted by atoms. These waves can subtly shift photon frequencies in different directions, leaving behind a detectable signature. The effect doesn’t change how much light atoms emit, which is why it’s gone unnoticed until now. If confirmed, this approach could lead to ultra-compact detectors using cold-atom systems.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CGravitational%20waves%20may%20be%20hidden%20in%20the%20light%20atoms%20emit",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "This superconductivity dies then comes back to life",
-      "summary": "A strange new kind of superconductivity has been uncovered in uranium ditelluride (UTe2), where electricity flows with zero resistance—but only under extremely strong magnetic fields that should normally destroy it. Even more surprising, the superconductivity disappears at first and then dramatically reappears at even higher fields, earning it the nickname the “Lazarus phase.”",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260409101108.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20superconductivity%20dies%20then%20comes%20back%20to%20life",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
