@@ -1,6 +1,38 @@
 {
-  "date": "2026-04-13 03:59 UTC",
+  "date": "2026-04-14 03:50 UTC",
   "items": [
+    {
+      "title": "New toothpaste stops gum disease without killing good bacteria",
+      "summary": "Scientists have developed a new way to fight gum disease without wiping out the mouth’s helpful bacteria—a major shift from traditional treatments. Instead of killing everything, this targeted approach blocks only the harmful microbes that drive periodontitis, allowing beneficial bacteria to thrive and restore balance naturally.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CNew%20toothpaste%20stops%20gum%20disease%20without%20killing%20good%20bacteria",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Gray whales are entering San Francisco Bay and many aren’t surviving",
+      "summary": "Gray whales are beginning to break their long-established migration patterns, venturing into risky new territory like San Francisco Bay as climate change disrupts their Arctic food supply. But this unexpected detour is proving deadly: nearly one in five whales that enter the Bay don’t survive, with many struck by ships in the crowded, foggy waters.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260413043127.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CGray%20whales%20are%20entering%20San%20Francisco%20Bay%20and%20many%20aren%E2%80%99t%20surviving",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "Light makes plants stronger but also holds them back",
+      "summary": "Light doesn’t just help plants grow—it may also quietly hold them back. Researchers have uncovered a surprising mechanism where light strengthens the “glue” between a plant’s outer skin and its inner tissues. This tighter bond, driven by a compound called p-coumaric acid, reinforces cell walls but also restricts how much the plant can expand. The discovery reveals a hidden balancing act: light both fuels growth and subtly puts the brakes on it.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260413043123.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CLight%20makes%20plants%20stronger%20but%20also%20holds%20them%20back",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Stanford scientists discover “natural Ozempic” without side effects",
+      "summary": "A newly discovered molecule could reshape the future of weight loss treatments by mimicking the powerful appetite-suppressing effects of drugs like Ozempic — but without many of the unpleasant side effects. Identified using artificial intelligence, this tiny peptide, called BRP, appears to act directly on the brain’s appetite-control center, helping animals eat less and lose fat without nausea or muscle loss.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260412221946.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CStanford%20scientists%20discover%20%E2%80%9Cnatural%20Ozempic%E2%80%9D%20without%20side%20effects",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
       "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and behavioral innovations, such as formal burial practices and the symbolic use of ochre for decoration. The findings suggest that human connections, rather than isolation, were key drivers of technological and cultural advancements, highlighting the Levant as a crucial crossroads in early human history.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Entrepreneurship%2C110%2C000-year-old%20discovery%20rewrites%20human%20history%3A%20Neanderthals%20and%20Homo%20sapiens%20worked%20together",
       "wiki_url": "",
       "category": "Entrepreneurship"
-    },
-    {
-      "title": "Two simple eating habits linked to lower weight, study finds",
-      "summary": "A major study suggests that when you eat could play a key role in staying lean. People who fast longer overnight and start their day with an early breakfast were more likely to have a lower BMI years later. Scientists think this is because eating earlier aligns better with the body’s internal clock. But skipping breakfast as part of intermittent fasting didn’t offer the same advantage—and may even be tied to unhealthy habits.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CTwo%20simple%20eating%20habits%20linked%20to%20lower%20weight%2C%20study%20finds",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Unusual airborne toxin detected in the U.S. for the first time",
-      "summary": "Scientists searching for air pollution clues stumbled onto something unexpected: toxic MCCPs drifting through the air for the first time in the Western Hemisphere. The likely source—fertilizer made from sewage sludge—points to a hidden route for contamination.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260411084441.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CUnusual%20airborne%20toxin%20detected%20in%20the%20U.S.%20for%20the%20first%20time",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
-      "summary": "Scientists have achieved the unthinkable by stabilizing a highly reactive molecule in water, confirming a decades-old theory about vitamin B1’s role in the body. The breakthrough not only solves a scientific mystery but could revolutionize greener chemical manufacturing.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%2067-year-old%20%E2%80%9Ccrazy%E2%80%9D%20theory%20about%20vitamin%20B1%20has%20finally%20been%20proven",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
-      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decline. The discovery could help identify at-risk patients sooner and improve treatment timing.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20nose%20could%20detect%20Alzheimer%E2%80%99s%20years%20before%20symptoms%20begin",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
