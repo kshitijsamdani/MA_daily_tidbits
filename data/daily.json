@@ -1,45 +1,45 @@
 {
-  "date": "2026-04-14 03:50 UTC",
+  "date": "2026-04-15 03:49 UTC",
   "items": [
     {
-      "title": "New toothpaste stops gum disease without killing good bacteria",
-      "summary": "Scientists have developed a new way to fight gum disease without wiping out the mouth’s helpful bacteria—a major shift from traditional treatments. Instead of killing everything, this targeted approach blocks only the harmful microbes that drive periodontitis, allowing beneficial bacteria to thrive and restore balance naturally.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CNew%20toothpaste%20stops%20gum%20disease%20without%20killing%20good%20bacteria",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Gray whales are entering San Francisco Bay and many aren’t surviving",
-      "summary": "Gray whales are beginning to break their long-established migration patterns, venturing into risky new territory like San Francisco Bay as climate change disrupts their Arctic food supply. But this unexpected detour is proving deadly: nearly one in five whales that enter the Bay don’t survive, with many struck by ships in the crowded, foggy waters.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260413043127.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CGray%20whales%20are%20entering%20San%20Francisco%20Bay%20and%20many%20aren%E2%80%99t%20surviving",
-      "wiki_url": "",
-      "category": "Environment"
-    },
-    {
-      "title": "Light makes plants stronger but also holds them back",
-      "summary": "Light doesn’t just help plants grow—it may also quietly hold them back. Researchers have uncovered a surprising mechanism where light strengthens the “glue” between a plant’s outer skin and its inner tissues. This tighter bond, driven by a compound called p-coumaric acid, reinforces cell walls but also restricts how much the plant can expand. The discovery reveals a hidden balancing act: light both fuels growth and subtly puts the brakes on it.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260413043123.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CLight%20makes%20plants%20stronger%20but%20also%20holds%20them%20back",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Stanford scientists discover “natural Ozempic” without side effects",
-      "summary": "A newly discovered molecule could reshape the future of weight loss treatments by mimicking the powerful appetite-suppressing effects of drugs like Ozempic — but without many of the unpleasant side effects. Identified using artificial intelligence, this tiny peptide, called BRP, appears to act directly on the brain’s appetite-control center, helping animals eat less and lose fat without nausea or muscle loss.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260412221946.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CStanford%20scientists%20discover%20%E2%80%9Cnatural%20Ozempic%E2%80%9D%20without%20side%20effects",
+      "title": "Scientists just recreated a rare cosmic reaction never seen before",
+      "summary": "A breakthrough experiment has shed new light on one of astrophysics’ biggest mysteries: the origin of rare proton-rich elements. For the first time, scientists directly measured a key reaction that creates selenium-74 using a rare isotope beam. The results sharpen models of how these elements form in supernova explosions, cutting uncertainty in half. But the findings also reveal gaps in current theories, hinting that the story isn’t complete yet.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20recreated%20a%20rare%20cosmic%20reaction%20never%20seen%20before",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
-      "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and behavioral innovations, such as formal burial practices and the symbolic use of ochre for decoration. The findings suggest that human connections, rather than isolation, were key drivers of technological and cultural advancements, highlighting the Levant as a crucial crossroads in early human history.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
-      "image": "https://source.unsplash.com/1600x900/?Entrepreneurship%2C110%2C000-year-old%20discovery%20rewrites%20human%20history%3A%20Neanderthals%20and%20Homo%20sapiens%20worked%20together",
+      "title": "Scientists just debunked a 50-year myth about Hawaii’s birds",
+      "summary": "A new study from the University of Hawaiʻi at Mānoa is overturning a decades-old belief that Indigenous Hawaiians hunted native waterbirds to extinction. Instead, researchers found no scientific evidence supporting this claim and propose a more complex explanation involving climate change, invasive species, and shifts in land use—many occurring before Polynesian arrival or after traditional stewardship systems were disrupted.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260414075644.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20debunked%20a%2050-year%20myth%20about%20Hawaii%E2%80%99s%20birds",
       "wiki_url": "",
-      "category": "Entrepreneurship"
+      "category": "AI"
+    },
+    {
+      "title": "Mammal ancestors laid eggs, and this 250-million-year-old fossil finally proves it",
+      "summary": "In the aftermath of Earth’s most catastrophic extinction event, one unlikely survivor rose to dominate a shattered world: Lystrosaurus. Now, a stunning fossil discovery—an ancient egg containing a curled-up embryo—has finally answered a decades-old mystery about whether mammal ancestors laid eggs. Using advanced imaging technology, scientists confirmed that these resilient creatures did reproduce this way, likely producing large, soft-shelled eggs packed with nutrients.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260414075642.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMammal%20ancestors%20laid%20eggs%2C%20and%20this%20250-million-year-old%20fossil%20finally%20proves%20it",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists discover why bread can cause weight gain without extra calories",
+      "summary": "Bread and other carbohydrate staples may be doing more than just filling plates—they could be quietly reshaping metabolism. In a surprising twist, researchers found that mice strongly preferred carbs like bread, rice, and wheat, abandoning their regular diet entirely. Even without eating more calories, they gained weight and body fat, not because they overate, but because their bodies burned less energy.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260414075637.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20why%20bread%20can%20cause%20weight%20gain%20without%20extra%20calories",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists finally know where the Colorado River’s missing water is going",
+      "summary": "For years, water managers have been puzzled as the Colorado River kept delivering less water than expected—even when snowpack levels looked promising. New research reveals the missing piece: spring rain, or rather, the lack of it. Warmer, drier springs mean plants are soaking up more snowmelt before it can reach rivers, fueled by sunny skies that boost growth and evaporation. In fact, this shift explains nearly 70% of the shortfall, tying the mystery directly to the long-running Millennium drought.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260413232421.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20finally%20know%20where%20the%20Colorado%20River%E2%80%99s%20missing%20water%20is%20going",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
