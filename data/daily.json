@@ -1,6 +1,14 @@
 {
-  "date": "2026-04-16 03:56 UTC",
+  "date": "2026-04-17 03:52 UTC",
   "items": [
+    {
+      "title": "MIT scientists just found a hidden problem slowing the ozone comeback",
+      "summary": "The ozone layer has been on track to recover thanks to the Montreal Protocol—but a loophole may be holding it back. Chemicals still permitted for industrial use are leaking into the atmosphere at higher rates than expected. Scientists now estimate this could delay ozone recovery by up to seven years. Closing this gap could speed up healing and reduce harmful UV exposure worldwide.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260416071945.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CMIT%20scientists%20just%20found%20a%20hidden%20problem%20slowing%20the%20ozone%20comeback",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "The surprising reason you’re so productive one day and not the next",
       "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
@@ -18,28 +26,20 @@
       "category": "AI"
     },
     {
-      "title": "A crushed fossil revealed a dinosaur that shouldn’t have existed",
-      "summary": "A badly mangled dinosaur skull, once forgotten in a drawer, turned out to be a rare and important discovery. Reconstructed by a Virginia Tech student, it revealed a new species of early carnivorous dinosaur with unusual features never seen before. The fossil suggests some dinosaur groups were wiped out during the end-Triassic extinction, not just their rivals. It may represent one of the last survivors of an ancient dinosaur lineage.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260415043610.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%20crushed%20fossil%20revealed%20a%20dinosaur%20that%20shouldn%E2%80%99t%20have%20existed",
+      "title": "Scientists thought this was a young T. rex. They were wrong",
+      "summary": "A long-running dinosaur mystery may finally be solved: Nanotyrannus, once dismissed as just a teenage T. rex, appears to have been its own distinct species after all. Scientists analyzed a tiny throat bone from the original fossil and discovered growth patterns showing the animal was already mature, not a juvenile giant-in-the-making. This smaller predator—about half the size of a full-grown T. rex—likely roamed alongside its famous cousin, adding a new layer of complexity to prehistoric ecosystems.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260415043619.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20thought%20this%20was%20a%20young%20T.%20rex.%20They%20were%20wrong",
       "wiki_url": "",
       "category": "Biology"
     },
     {
-      "title": "Scientists think alien life might be hiding in patterns",
-      "summary": "A new study proposes detecting life in space by spotting patterns across many planets instead of focusing on one at a time. If life spreads and changes planetary environments, it could leave behind statistical clues linking planets together. These patterns may reveal life even when traditional biosignatures are unclear or misleading. The method could help scientists prioritize which planets are most likely to host life.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260415043607.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20think%20alien%20life%20might%20be%20hiding%20in%20patterns",
+      "title": "Scientists discover hidden ocean methane source that could worsen global warming",
+      "summary": "Scientists have discovered that methane in the open ocean is produced by microbes under nutrient-poor conditions, solving a long-standing mystery. As warming oceans reduce nutrient mixing, these methane-producing microbes may thrive. This could lead to increased methane emissions from the sea. The result is a potential feedback loop that could intensify climate change.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260415043615.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20hidden%20ocean%20methane%20source%20that%20could%20worsen%20global%20warming",
       "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Graphene just defied a fundamental law of physics",
-      "summary": "In a major breakthrough, scientists have observed electrons in graphene flowing like a nearly frictionless liquid, defying a core law of physics. This exotic quantum state not only reveals new fundamental behavior but could also unlock powerful future technologies.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260415042152.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CGraphene%20just%20defied%20a%20fundamental%20law%20of%20physics",
-      "wiki_url": "",
-      "category": "Physics"
+      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
