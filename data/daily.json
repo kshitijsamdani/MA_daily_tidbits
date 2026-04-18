@@ -1,6 +1,14 @@
 {
-  "date": "2026-04-17 03:52 UTC",
+  "date": "2026-04-18 03:37 UTC",
   "items": [
+    {
+      "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
+      "summary": "Scientists have uncovered a surprising twist in how bacteria share genes—including those that spread antibiotic resistance. Tiny virus-like particles called gene transfer agents (GTAs), once ancient viral invaders, have been repurposed by bacteria into delivery systems that shuttle DNA between neighboring cells. The study reveals a key control hub of three genes, dubbed LypABC, that triggers bacterial cells to burst open and release these DNA-packed couriers.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20discover%20bacteria%20can%20%E2%80%9Cexplode%E2%80%9D%20to%20spread%20antibiotic%20resistance",
+      "wiki_url": "",
+      "category": "Physics"
+    },
     {
       "title": "MIT scientists just found a hidden problem slowing the ozone comeback",
       "summary": "The ozone layer has been on track to recover thanks to the Montreal Protocol—but a loophole may be holding it back. Chemicals still permitted for industrial use are leaking into the atmosphere at higher rates than expected. Scientists now estimate this could delay ozone recovery by up to seven years. Closing this gap could speed up healing and reduce harmful UV exposure worldwide.",
@@ -30,14 +38,6 @@
       "summary": "A long-running dinosaur mystery may finally be solved: Nanotyrannus, once dismissed as just a teenage T. rex, appears to have been its own distinct species after all. Scientists analyzed a tiny throat bone from the original fossil and discovered growth patterns showing the animal was already mature, not a juvenile giant-in-the-making. This smaller predator—about half the size of a full-grown T. rex—likely roamed alongside its famous cousin, adding a new layer of complexity to prehistoric ecosystems.",
       "link": "https://www.sciencedaily.com/releases/2026/04/260415043619.htm",
       "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20thought%20this%20was%20a%20young%20T.%20rex.%20They%20were%20wrong",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Scientists discover hidden ocean methane source that could worsen global warming",
-      "summary": "Scientists have discovered that methane in the open ocean is produced by microbes under nutrient-poor conditions, solving a long-standing mystery. As warming oceans reduce nutrient mixing, these methane-producing microbes may thrive. This could lead to increased methane emissions from the sea. The result is a potential feedback loop that could intensify climate change.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260415043615.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20hidden%20ocean%20methane%20source%20that%20could%20worsen%20global%20warming",
       "wiki_url": "",
       "category": "Biology"
     },
