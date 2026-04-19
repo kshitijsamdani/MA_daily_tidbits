@@ -1,6 +1,30 @@
 {
-  "date": "2026-04-18 03:37 UTC",
+  "date": "2026-04-19 03:55 UTC",
   "items": [
+    {
+      "title": "What caffeine does to ants could change pest control",
+      "summary": "Caffeine doesn’t just perk up humans—it can sharpen ants’ minds too. Invasive Argentine ants given caffeinated sugar learned to find food much more efficiently, taking straighter paths and reducing travel time by up to 38%. They weren’t faster, just more focused, indicating improved learning. This unexpected effect could make pest control baits far more effective.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260418042817.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhat%20caffeine%20does%20to%20ants%20could%20change%20pest%20control",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CArtificial%20neurons%20successfully%20communicate%20with%20living%20brain%20cells",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Total solar eclipse led to seismic quiet for cities within its path",
+      "summary": "As the Moon swallowed the Sun during the April 8, 2024, total solar eclipse, something remarkable happened on the ground—cities went eerily quiet. Scientists analyzing seismic data found that human-generated vibrations, usually caused by traffic, construction, and daily activity, dropped sharply during totality. The effect was so pronounced that it created a clear “seismic hush” across urban areas directly in the eclipse’s path, before quickly rebounding afterward.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260417224457.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CTotal%20solar%20eclipse%20led%20to%20seismic%20quiet%20for%20cities%20within%20its%20path",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
       "summary": "Scientists have uncovered a surprising twist in how bacteria share genes—including those that spread antibiotic resistance. Tiny virus-like particles called gene transfer agents (GTAs), once ancient viral invaders, have been repurposed by bacteria into delivery systems that shuttle DNA between neighboring cells. The study reveals a key control hub of three genes, dubbed LypABC, that triggers bacterial cells to burst open and release these DNA-packed couriers.",
@@ -10,36 +34,12 @@
       "category": "Physics"
     },
     {
-      "title": "MIT scientists just found a hidden problem slowing the ozone comeback",
-      "summary": "The ozone layer has been on track to recover thanks to the Montreal Protocol—but a loophole may be holding it back. Chemicals still permitted for industrial use are leaking into the atmosphere at higher rates than expected. Scientists now estimate this could delay ozone recovery by up to seven years. Closing this gap could speed up healing and reduce harmful UV exposure worldwide.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260416071945.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CMIT%20scientists%20just%20found%20a%20hidden%20problem%20slowing%20the%20ozone%20comeback",
+      "title": "Black hole jets measured for first time and rival the power of 10,000 suns",
+      "summary": "Scientists have captured stunning new insights into one of the universe’s most powerful phenomena—black hole jets—by using a planet-sized network of radio telescopes. Focusing on Cygnus X-1, one of the first known black holes, they measured jets blasting out with the energy of 10,000 Suns and moving at half the speed of light. By watching these jets get pushed and bent by the fierce stellar winds of a nearby supergiant star, researchers could calculate their true power for the first time.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260416071949.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CBlack%20hole%20jets%20measured%20for%20first%20time%20and%20rival%20the%20power%20of%2010%2C000%20suns",
       "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "The surprising reason you’re so productive one day and not the next",
-      "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThe%20surprising%20reason%20you%E2%80%99re%20so%20productive%20one%20day%20and%20not%20the%20next",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "This 31-foot “terror croc” ate dinosaurs. Now it’s back",
-      "summary": "A massive, bus-sized “terror croc” that once preyed on dinosaurs has been brought back to life in stunning detail with the first scientifically accurate full skeleton of Deinosuchus schwimmeri. Stretching over 30 feet long, this ancient apex predator ruled the southeastern U.S. more than 75 million years ago—and now visitors can see it up close at the Tellus Science Museum, the only place in the world with this replica.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260415043623.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%2031-foot%20%E2%80%9Cterror%20croc%E2%80%9D%20ate%20dinosaurs.%20Now%20it%E2%80%99s%20back",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists thought this was a young T. rex. They were wrong",
-      "summary": "A long-running dinosaur mystery may finally be solved: Nanotyrannus, once dismissed as just a teenage T. rex, appears to have been its own distinct species after all. Scientists analyzed a tiny throat bone from the original fossil and discovered growth patterns showing the animal was already mature, not a juvenile giant-in-the-making. This smaller predator—about half the size of a full-grown T. rex—likely roamed alongside its famous cousin, adding a new layer of complexity to prehistoric ecosystems.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260415043619.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20thought%20this%20was%20a%20young%20T.%20rex.%20They%20were%20wrong",
-      "wiki_url": "",
-      "category": "Biology"
+      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
