@@ -1,6 +1,22 @@
 {
-  "date": "2026-04-19 03:55 UTC",
+  "date": "2026-04-20 03:59 UTC",
   "items": [
+    {
+      "title": "A new force of nature is reshaping the planet, study finds",
+      "summary": "Human societies didn’t just adapt to the planet—they learned to reshape it. From early fire use to today’s global supply chains, our cultural and social innovations have unlocked extraordinary power to transform Earth and improve human life. But that progress has come with serious costs, including climate change, pollution, and mass extinction. Instead of framing this era—the Anthropocene—as pure crisis, Erle Ellis argues it’s also proof of something hopeful: when people work together, they can drive massive positive change.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260419054825.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20new%20force%20of%20nature%20is%20reshaping%20the%20planet%2C%20study%20finds",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
+      "summary": "Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing batteries or solar panels. It works in both dry and wet conditions and even lasts longer than similar technologies. This could pave the way for sustainable, low-maintenance sensors in farming and environmental monitoring.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20develop%20dirt-powered%20fuel%20cell%20that%20could%20replace%20batteries",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "What caffeine does to ants could change pest control",
       "summary": "Caffeine doesn’t just perk up humans—it can sharpen ants’ minds too. Invasive Argentine ants given caffeinated sugar learned to find food much more efficiently, taking straighter paths and reducing travel time by up to 38%. They weren’t faster, just more focused, indicating improved learning. This unexpected effect could make pest control baits far more effective.",
@@ -18,28 +34,12 @@
       "category": "AI"
     },
     {
-      "title": "Total solar eclipse led to seismic quiet for cities within its path",
-      "summary": "As the Moon swallowed the Sun during the April 8, 2024, total solar eclipse, something remarkable happened on the ground—cities went eerily quiet. Scientists analyzing seismic data found that human-generated vibrations, usually caused by traffic, construction, and daily activity, dropped sharply during totality. The effect was so pronounced that it created a clear “seismic hush” across urban areas directly in the eclipse’s path, before quickly rebounding afterward.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260417224457.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CTotal%20solar%20eclipse%20led%20to%20seismic%20quiet%20for%20cities%20within%20its%20path",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
-      "summary": "Scientists have uncovered a surprising twist in how bacteria share genes—including those that spread antibiotic resistance. Tiny virus-like particles called gene transfer agents (GTAs), once ancient viral invaders, have been repurposed by bacteria into delivery systems that shuttle DNA between neighboring cells. The study reveals a key control hub of three genes, dubbed LypABC, that triggers bacterial cells to burst open and release these DNA-packed couriers.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20discover%20bacteria%20can%20%E2%80%9Cexplode%E2%80%9D%20to%20spread%20antibiotic%20resistance",
+      "title": "Why two-sun planets keep disappearing scientists blame Einstein",
+      "summary": "Astronomers have long been puzzled by a cosmic mystery: planets orbiting two stars—like Star Wars’ Tatooine—are surprisingly rare, even though they should be common. New research suggests the culprit is none other than Einstein’s theory of general relativity.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260417224507.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CWhy%20two-sun%20planets%20keep%20disappearing%20scientists%20blame%20Einstein",
       "wiki_url": "",
       "category": "Physics"
-    },
-    {
-      "title": "Black hole jets measured for first time and rival the power of 10,000 suns",
-      "summary": "Scientists have captured stunning new insights into one of the universe’s most powerful phenomena—black hole jets—by using a planet-sized network of radio telescopes. Focusing on Cygnus X-1, one of the first known black holes, they measured jets blasting out with the energy of 10,000 Suns and moving at half the speed of light. By watching these jets get pushed and bent by the fierce stellar winds of a nearby supergiant star, researchers could calculate their true power for the first time.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260416071949.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CBlack%20hole%20jets%20measured%20for%20first%20time%20and%20rival%20the%20power%20of%2010%2C000%20suns",
-      "wiki_url": "",
-      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
