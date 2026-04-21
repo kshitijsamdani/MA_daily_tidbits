@@ -1,6 +1,14 @@
 {
-  "date": "2026-04-20 03:59 UTC",
+  "date": "2026-04-21 03:53 UTC",
   "items": [
+    {
+      "title": "After 200 years scientists finally crack the “dolomite problem”",
+      "summary": "After two centuries of failed attempts, scientists have finally grown dolomite in the lab, cracking a long-standing geological puzzle. They discovered that the mineral’s growth stalls because of tiny defects—but in nature, those flaws get washed away over time. By mimicking this process with precise simulations and electron beam pulses, the team achieved record-breaking crystal growth. The finding could reshape how high-tech materials are made.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAfter%20200%20years%20scientists%20finally%20crack%20the%20%E2%80%9Cdolomite%20problem%E2%80%9D",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "A new force of nature is reshaping the planet, study finds",
       "summary": "Human societies didn’t just adapt to the planet—they learned to reshape it. From early fire use to today’s global supply chains, our cultural and social innovations have unlocked extraordinary power to transform Earth and improve human life. But that progress has come with serious costs, including climate change, pollution, and mass extinction. Instead of framing this era—the Anthropocene—as pure crisis, Erle Ellis argues it’s also proof of something hopeful: when people work together, they can drive massive positive change.",
@@ -32,14 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CArtificial%20neurons%20successfully%20communicate%20with%20living%20brain%20cells",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Why two-sun planets keep disappearing scientists blame Einstein",
-      "summary": "Astronomers have long been puzzled by a cosmic mystery: planets orbiting two stars—like Star Wars’ Tatooine—are surprisingly rare, even though they should be common. New research suggests the culprit is none other than Einstein’s theory of general relativity.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260417224507.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CWhy%20two-sun%20planets%20keep%20disappearing%20scientists%20blame%20Einstein",
-      "wiki_url": "",
-      "category": "Physics"
     },
     {
       "title": "Dearest Gentle Reader,",
