@@ -1,43 +1,43 @@
 {
-  "date": "2026-04-21 03:53 UTC",
+  "date": "2026-04-22 03:48 UTC",
   "items": [
+    {
+      "title": "A bizarre new state of matter may be hiding inside Uranus and Neptune",
+      "summary": "Deep inside planets like Uranus and Neptune, scientists may have uncovered a bizarre new state of matter where atoms behave in unexpected ways. Advanced simulations suggest that carbon and hydrogen, under crushing pressures and scorching temperatures, can form a strange hybrid phase—part solid, part fluid—where hydrogen atoms spiral through a rigid carbon framework. This unusual “superionic” structure could reshape how heat and electricity flow inside these distant worlds, potentially helping explain their mysterious magnetic fields.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260421042812.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20bizarre%20new%20state%20of%20matter%20may%20be%20hiding%20inside%20Uranus%20and%20Neptune",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "This new camera captures what happens in a trillionth of a second",
+      "summary": "Scientists have unveiled a breakthrough imaging method that can capture the hidden details of events unfolding in trillionths of a second. This new technique doesn’t just track how bright something is—it also reveals subtle structural changes that were previously invisible, all in a single shot. By effectively turning ultrafast phenomena into detailed “movies,” researchers can now watch plasma form, electrons move, and materials transform in real time.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260421042808.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20new%20camera%20captures%20what%20happens%20in%20a%20trillionth%20of%20a%20second",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists just captured trees glowing with electricity during storms",
+      "summary": "Scientists chasing thunderstorms in a retrofitted minivan finally captured something never seen before in nature: faint electrical glows shimmering from treetops during a storm. These “corona discharges,” long suspected but never observed outside a lab, appeared as tiny UV flashes at the tips of leaves. The discovery could reshape how we understand forests, since these bursts may help clean the air by breaking down pollutants.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260421042805.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20captured%20trees%20glowing%20with%20electricity%20during%20storms",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "95% success rate: This new trick lures termites straight to their death",
+      "summary": "Scientists at UC Riverside have found a clever new way to outsmart termites—by turning their own instincts against them. Using a natural pine scent called pinene, which smells like food to termites, researchers can lure the pests straight toward a targeted dose of insecticide hidden in wood. The result is dramatically higher kill rates—jumping from about 70% to over 95%—without the need for widespread toxic fumigation.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260420233930.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2C95%25%20success%20rate%3A%20This%20new%20trick%20lures%20termites%20straight%20to%20their%20death",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "After 200 years scientists finally crack the “dolomite problem”",
       "summary": "After two centuries of failed attempts, scientists have finally grown dolomite in the lab, cracking a long-standing geological puzzle. They discovered that the mineral’s growth stalls because of tiny defects—but in nature, those flaws get washed away over time. By mimicking this process with precise simulations and electron beam pulses, the team achieved record-breaking crystal growth. The finding could reshape how high-tech materials are made.",
       "link": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CAfter%20200%20years%20scientists%20finally%20crack%20the%20%E2%80%9Cdolomite%20problem%E2%80%9D",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A new force of nature is reshaping the planet, study finds",
-      "summary": "Human societies didn’t just adapt to the planet—they learned to reshape it. From early fire use to today’s global supply chains, our cultural and social innovations have unlocked extraordinary power to transform Earth and improve human life. But that progress has come with serious costs, including climate change, pollution, and mass extinction. Instead of framing this era—the Anthropocene—as pure crisis, Erle Ellis argues it’s also proof of something hopeful: when people work together, they can drive massive positive change.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260419054825.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20new%20force%20of%20nature%20is%20reshaping%20the%20planet%2C%20study%20finds",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
-      "summary": "Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing batteries or solar panels. It works in both dry and wet conditions and even lasts longer than similar technologies. This could pave the way for sustainable, low-maintenance sensors in farming and environmental monitoring.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20develop%20dirt-powered%20fuel%20cell%20that%20could%20replace%20batteries",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "What caffeine does to ants could change pest control",
-      "summary": "Caffeine doesn’t just perk up humans—it can sharpen ants’ minds too. Invasive Argentine ants given caffeinated sugar learned to find food much more efficiently, taking straighter paths and reducing travel time by up to 38%. They weren’t faster, just more focused, indicating improved learning. This unexpected effect could make pest control baits far more effective.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260418042817.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWhat%20caffeine%20does%20to%20ants%20could%20change%20pest%20control",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CArtificial%20neurons%20successfully%20communicate%20with%20living%20brain%20cells",
       "wiki_url": "",
       "category": "AI"
     },
