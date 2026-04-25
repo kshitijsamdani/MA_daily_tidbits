@@ -1,43 +1,43 @@
 {
-  "date": "2026-04-24 03:59 UTC",
+  "date": "2026-04-25 03:41 UTC",
   "items": [
     {
-      "title": "For the first time, scientists pinpoint the brain cells behind depression",
-      "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and stress, as well as in immune-related microglia cells. These differences point to disruptions in key brain systems and reinforce that depression is rooted in biology, not just emotions.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CFor%20the%20first%20time%2C%20scientists%20pinpoint%20the%20brain%20cells%20behind%20depression",
+      "title": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
+      "summary": "Nearly 100 million years ago, snakes weren’t the sleek, limbless creatures we know today—they still had hind legs and even a cheekbone that has almost vanished in modern species. A remarkably preserved fossil of Najash rionegrina from Argentina has reshaped how scientists think about snake origins, suggesting early snakes were large, wide-mouthed predators rather than tiny burrowers.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CThis%20100%20million-year-old%20snake%20had%20hind%20legs%20and%20a%20lost%20bone%20that%20changes%20evolution",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Stunning 132 million-year-old dinosaur tracks are rewriting history",
+      "summary": "A long-standing mystery in southern Africa’s fossil record is beginning to unravel. After massive lava flows 182 million years ago seemed to erase evidence of dinosaurs in the region, scientists have now uncovered surprising new clues along the Western Cape coast. Dozens of dinosaur tracks, about 132 million years old, have been discovered in a tiny stretch of rock near Knysna—making them the youngest ever found in southern Africa.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260423031547.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CStunning%20132%20million-year-old%20dinosaur%20tracks%20are%20rewriting%20history",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Ancient mass grave reveals how a pandemic wiped out a city 1,500 years ago",
+      "summary": "A newly confirmed mass grave in ancient Jordan offers chilling insight into one of history’s first pandemics. Hundreds of plague victims were buried within days, revealing how the Plague of Justinian devastated entire communities. The findings show that people who usually lived spread out across regions were suddenly concentrated in death. It’s a powerful reminder that pandemics don’t just spread disease—they reshape how societies live and collapse.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260423031540.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CAncient%20mass%20grave%20reveals%20how%20a%20pandemic%20wiped%20out%20a%20city%201%2C500%20years%20ago",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "Scientists find perfect fossils in rust beneath Australian farmland",
+      "summary": "Beneath the dry farmland of New South Wales lies a hidden window into a lost rainforest teeming with life from 11-16 million years ago. At McGraths Flat, scientists have uncovered fossils preserved in astonishing detail—not in typical rock like shale or sandstone, but in iron-rich sediment once thought incapable of such preservation. Tiny iron particles filled and captured entire cells, preserving everything from insect organs to fish eye pigments and delicate spider hairs.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260423031536.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20perfect%20fossils%20in%20rust%20beneath%20Australian%20farmland",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
-      "summary": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable to people decades younger, their brains either resist or withstand the damage typically linked to Alzheimer’s disease. Decades of research reveal that their social lifestyles and unique brain biology may hold the key to preserving cognitive function. Scientists believe these insights could pave the way for new strategies to delay or even prevent dementia.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThese%2080-year-olds%20have%20the%20memory%20of%2050-year-olds.%20Scientists%20now%20know%20why",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "This simple fatty acid could restore failing vision",
-      "summary": "Scientists at UC Irvine have found a way to potentially reverse age-related vision loss by targeting the ELOVL2 “aging gene” and restoring vital fatty acids in the retina. Their experiments in mice show that supplementing with specific polyunsaturated fatty acids—not just DHA—can restore visual function and even reverse cellular aging signs.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260422091043.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20simple%20fatty%20acid%20could%20restore%20failing%20vision",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "AI just discovered new physics in the fourth state of matter",
-      "summary": "Physicists have taken a major step toward using AI not just to analyze data, but to uncover entirely new laws of nature. By combining a specially designed neural network with precise 3D tracking of particles in a dusty plasma—a strange “fourth state of matter” found from space to wildfires—the team revealed hidden patterns in how particles interact. Their model captured complex, one-way (non-reciprocal) forces with over 99% accuracy and even overturned long-held assumptions about how these forces behave.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAI%20just%20discovered%20new%20physics%20in%20the%20fourth%20state%20of%20matter",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover hidden forces are warping Earth deep beneath the surface",
-      "summary": "Scientists have mapped how Earth’s deepest mantle is being deformed—and the results point to long-lost tectonic plates buried thousands of kilometers underground. Using a massive global dataset of seismic waves, they found that most deformation happens in regions where these ancient slabs are thought to reside. The findings confirm long-standing theories but, for the first time, show the pattern on a global scale. It’s a major step toward understanding how the planet’s interior slowly churns over time.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260422044632.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20discover%20hidden%20forces%20are%20warping%20Earth%20deep%20beneath%20the%20surface",
+      "title": "Astronomers may have found a strange new kind of cosmic explosion",
+      "summary": "A mysterious cosmic explosion has astronomers buzzing, as a strange event may hint at an entirely new kind of stellar cataclysm. After detecting ripples in space-time, scientists spotted a fast-fading red glow that initially looked like a rare kilonova—the kind of collision that forges gold and uranium. But just days later, the signal shifted, behaving more like a supernova, leaving researchers puzzled. Now, some think they may have witnessed something never seen before: a “superkilonova.”",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260423031532.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CAstronomers%20may%20have%20found%20a%20strange%20new%20kind%20of%20cosmic%20explosion",
       "wiki_url": "",
       "category": "Space"
     },
