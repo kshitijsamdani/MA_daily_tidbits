@@ -1,45 +1,45 @@
 {
-  "date": "2026-04-25 03:41 UTC",
+  "date": "2026-04-26 04:03 UTC",
   "items": [
     {
-      "title": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
-      "summary": "Nearly 100 million years ago, snakes weren’t the sleek, limbless creatures we know today—they still had hind legs and even a cheekbone that has almost vanished in modern species. A remarkably preserved fossil of Najash rionegrina from Argentina has reshaped how scientists think about snake origins, suggesting early snakes were large, wide-mouthed predators rather than tiny burrowers.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CThis%20100%20million-year-old%20snake%20had%20hind%20legs%20and%20a%20lost%20bone%20that%20changes%20evolution",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Stunning 132 million-year-old dinosaur tracks are rewriting history",
-      "summary": "A long-standing mystery in southern Africa’s fossil record is beginning to unravel. After massive lava flows 182 million years ago seemed to erase evidence of dinosaurs in the region, scientists have now uncovered surprising new clues along the Western Cape coast. Dozens of dinosaur tracks, about 132 million years old, have been discovered in a tiny stretch of rock near Knysna—making them the youngest ever found in southern Africa.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260423031547.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CStunning%20132%20million-year-old%20dinosaur%20tracks%20are%20rewriting%20history",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Ancient mass grave reveals how a pandemic wiped out a city 1,500 years ago",
-      "summary": "A newly confirmed mass grave in ancient Jordan offers chilling insight into one of history’s first pandemics. Hundreds of plague victims were buried within days, revealing how the Plague of Justinian devastated entire communities. The findings show that people who usually lived spread out across regions were suddenly concentrated in death. It’s a powerful reminder that pandemics don’t just spread disease—they reshape how societies live and collapse.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260423031540.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CAncient%20mass%20grave%20reveals%20how%20a%20pandemic%20wiped%20out%20a%20city%201%2C500%20years%20ago",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Scientists find perfect fossils in rust beneath Australian farmland",
-      "summary": "Beneath the dry farmland of New South Wales lies a hidden window into a lost rainforest teeming with life from 11-16 million years ago. At McGraths Flat, scientists have uncovered fossils preserved in astonishing detail—not in typical rock like shale or sandstone, but in iron-rich sediment once thought incapable of such preservation. Tiny iron particles filled and captured entire cells, preserving everything from insect organs to fish eye pigments and delicate spider hairs.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260423031536.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20perfect%20fossils%20in%20rust%20beneath%20Australian%20farmland",
+      "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
+      "summary": "A gut bacterium may be quietly fueling depression through an unexpected chemical twist. Researchers found that when Morganella morganii interacts with a common pollutant, it produces a molecule that triggers inflammation—something strongly linked to depression. This finding helps explain how gut microbes can influence brain health at a molecular level. It also raises the possibility of new treatments that target the immune system rather than just the brain.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260425091216.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHarvard%20scientists%20link%20gut%20bacteria%20to%20depression%20through%20hidden%20inflammation%20trigger",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Astronomers may have found a strange new kind of cosmic explosion",
-      "summary": "A mysterious cosmic explosion has astronomers buzzing, as a strange event may hint at an entirely new kind of stellar cataclysm. After detecting ripples in space-time, scientists spotted a fast-fading red glow that initially looked like a rare kilonova—the kind of collision that forges gold and uranium. But just days later, the signal shifted, behaving more like a supernova, leaving researchers puzzled. Now, some think they may have witnessed something never seen before: a “superkilonova.”",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260423031532.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CAstronomers%20may%20have%20found%20a%20strange%20new%20kind%20of%20cosmic%20explosion",
+      "title": "Gravitational waves may have created dark matter in the early universe",
+      "summary": "In the chaotic first moments after the Big Bang, ripples in spacetime may have done more than just echo through the cosmos—they could have helped create dark matter itself. New research suggests that faint, ancient gravitational waves might have transformed into particles that eventually became the invisible substance shaping galaxies today.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260424233217.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CGravitational%20waves%20may%20have%20created%20dark%20matter%20in%20the%20early%20universe",
       "wiki_url": "",
-      "category": "Space"
+      "category": "AI"
+    },
+    {
+      "title": "This exotic particle could finally explain why matter has mass",
+      "summary": "A major physics experiment has uncovered evidence for a strange new form of matter, where a fleeting particle gets trapped inside a nucleus. This exotic state may reveal how mass is generated, suggesting that particles can weigh less when surrounded by dense nuclear matter. The findings support long-standing theories about how the vacuum of space influences mass.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260424233214.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20exotic%20particle%20could%20finally%20explain%20why%20matter%20has%20mass",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Giant prehistoric insects didn’t need high oxygen after all, study finds",
+      "summary": "Ancient Earth once buzzed with enormous dragonfly-like insects, and scientists long thought high oxygen levels made their size possible. A new study overturns that idea, revealing insect flight muscles weren’t constrained by oxygen after all. Their breathing system has plenty of room to expand, meaning oxygen alone can’t explain their giant forms. Now, researchers are searching for new answers—like predators or physical limits of their bodies.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260424233208.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CGiant%20prehistoric%20insects%20didn%E2%80%99t%20need%20high%20oxygen%20after%20all%2C%20study%20finds",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Giant octopuses may have ruled the oceans 100 million years ago",
+      "summary": "Giant, fearsome octopuses may have once ruled the ancient seas, according to new research that flips the script on their evolutionary past. By uncovering exquisitely preserved fossil jaws hidden inside rock, scientists revealed that early octopuses from the age of dinosaurs weren’t shy, soft-bodied drifters—they were massive apex predators, possibly stretching up to 20 meters long and crushing prey with powerful bites.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260424233206.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CGiant%20octopuses%20may%20have%20ruled%20the%20oceans%20100%20million%20years%20ago",
+      "wiki_url": "",
+      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
