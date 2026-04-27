@@ -1,6 +1,38 @@
 {
-  "date": "2026-04-26 04:03 UTC",
+  "date": "2026-04-27 04:08 UTC",
   "items": [
+    {
+      "title": "Fish oil may be hurting your brain, new study finds",
+      "summary": "Fish oil has long been praised as brain-boosting, but new research suggests the story may be more complicated. Scientists found that in people with repeated mild head injuries, a key omega-3 fatty acid in fish oil—EPA—may actually interfere with the brain’s ability to repair itself. Instead of helping recovery, it appears to weaken blood vessel stability, disrupt healing signals, and even contribute to harmful protein buildup linked to cognitive decline.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CFish%20oil%20may%20be%20hurting%20your%20brain%2C%20new%20study%20finds",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Blood vessels found in T. rex bones are rewriting dinosaur science",
+      "summary": "Dinosaur DNA may still be out of reach, but scientists are uncovering something almost as exciting—ancient blood vessels hidden inside fossilized bones. In a massive Tyrannosaurus rex nicknamed Scotty, researchers discovered a network of preserved vessels within a rib that once fractured and began healing 66 million years ago. Using powerful synchrotron X-rays from particle accelerators, they were able to peer inside the dense fossil without damaging it, revealing intricate, iron-rich structures left behind by the healing process.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260426012259.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CBlood%20vessels%20found%20in%20T.%20rex%20bones%20are%20rewriting%20dinosaur%20science",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
+      "title": "DNA research just rewrote the origin of human species",
+      "summary": "Scientists have uncovered a surprising new picture of human origins that challenges the long-held idea of a single ancestral population in Africa. By analyzing genetic data from diverse modern African groups—especially the highly distinct Nama people—and comparing it with fossil evidence, researchers found that early humans likely evolved from multiple intermingling populations over hundreds of thousands of years. Rather than a clean split, these groups stayed connected, exchanging genes even after beginning to diverge around 120,000–135,000 years ago.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260426012255.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CDNA%20research%20just%20rewrote%20the%20origin%20of%20human%20species",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Mezcal worm in a bottle DNA test reveals a surprise",
+      "summary": "The famous mezcal “worm” has long puzzled scientists, but DNA testing has finally cracked the case. Researchers found that all sampled larvae were actually agave redworm moth caterpillars—not a mix of species as once believed. While the discovery clears up a long-standing mystery, it also raises concerns about sustainability. Growing demand for mezcal and edible larvae could put pressure on wild populations and the agave plants they depend on.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260426012250.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMezcal%20worm%20in%20a%20bottle%20DNA%20test%20reveals%20a%20surprise",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
       "summary": "A gut bacterium may be quietly fueling depression through an unexpected chemical twist. Researchers found that when Morganella morganii interacts with a common pollutant, it produces a molecule that triggers inflammation—something strongly linked to depression. This finding helps explain how gut microbes can influence brain health at a molecular level. It also raises the possibility of new treatments that target the immune system rather than just the brain.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CHarvard%20scientists%20link%20gut%20bacteria%20to%20depression%20through%20hidden%20inflammation%20trigger",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Gravitational waves may have created dark matter in the early universe",
-      "summary": "In the chaotic first moments after the Big Bang, ripples in spacetime may have done more than just echo through the cosmos—they could have helped create dark matter itself. New research suggests that faint, ancient gravitational waves might have transformed into particles that eventually became the invisible substance shaping galaxies today.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260424233217.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CGravitational%20waves%20may%20have%20created%20dark%20matter%20in%20the%20early%20universe",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "This exotic particle could finally explain why matter has mass",
-      "summary": "A major physics experiment has uncovered evidence for a strange new form of matter, where a fleeting particle gets trapped inside a nucleus. This exotic state may reveal how mass is generated, suggesting that particles can weigh less when surrounded by dense nuclear matter. The findings support long-standing theories about how the vacuum of space influences mass.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260424233214.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20exotic%20particle%20could%20finally%20explain%20why%20matter%20has%20mass",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Giant prehistoric insects didn’t need high oxygen after all, study finds",
-      "summary": "Ancient Earth once buzzed with enormous dragonfly-like insects, and scientists long thought high oxygen levels made their size possible. A new study overturns that idea, revealing insect flight muscles weren’t constrained by oxygen after all. Their breathing system has plenty of room to expand, meaning oxygen alone can’t explain their giant forms. Now, researchers are searching for new answers—like predators or physical limits of their bodies.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260424233208.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CGiant%20prehistoric%20insects%20didn%E2%80%99t%20need%20high%20oxygen%20after%20all%2C%20study%20finds",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Giant octopuses may have ruled the oceans 100 million years ago",
-      "summary": "Giant, fearsome octopuses may have once ruled the ancient seas, according to new research that flips the script on their evolutionary past. By uncovering exquisitely preserved fossil jaws hidden inside rock, scientists revealed that early octopuses from the age of dinosaurs weren’t shy, soft-bodied drifters—they were massive apex predators, possibly stretching up to 20 meters long and crushing prey with powerful bites.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260424233206.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CGiant%20octopuses%20may%20have%20ruled%20the%20oceans%20100%20million%20years%20ago",
-      "wiki_url": "",
-      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
