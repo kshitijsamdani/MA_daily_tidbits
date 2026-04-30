@@ -1,6 +1,14 @@
 {
-  "date": "2026-04-29 04:09 UTC",
+  "date": "2026-04-30 04:11 UTC",
   "items": [
+    {
+      "title": "50-foot ancient snake discovered in India may be one of the largest ever",
+      "summary": "A massive prehistoric snake discovered in India may rank among the largest ever to slither across Earth. Named Vasuki indicus, this ancient giant lived around 47 million years ago and is estimated to have stretched an astonishing 11 to 15 meters long—rivaling the legendary Titanoboa. Fossilized vertebrae unearthed from a lignite mine in Gujarat reveal a thick-bodied, powerful snake likely built for slow, stealthy ambush attacks, similar to modern anacondas.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260429043500.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2C50-foot%20ancient%20snake%20discovered%20in%20India%20may%20be%20one%20of%20the%20largest%20ever",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
       "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This breakthrough not only strengthens the weird reality of quantum mechanics but also opens the door to new experiments involving antimatter, including the possibility of testing how gravity affects it—something never directly measured before.",
@@ -10,36 +18,28 @@
       "category": "Physics"
     },
     {
-      "title": "NASA Curiosity rover finds mysterious life linked molecules on mars",
-      "summary": "Curiosity has detected a surprising variety of organic molecules on Mars, including compounds tied to the chemistry of life. Some of these molecules may be billions of years old, preserved in ancient clay-rich rocks that once held water. One standout find resembles building blocks of DNA, raising exciting questions about Mars’ past. Although not proof of life, the discovery suggests the Red Planet may have once been far more biologically promising than we thought.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260428045549.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%20Curiosity%20rover%20finds%20mysterious%20life%20linked%20molecules%20on%20mars",
+      "title": "A one-in-a-million supernova seen five times could reveal the Universe’s true speed",
+      "summary": "A spectacular cosmic event nicknamed “SN Winny” could help solve one of astronomy’s biggest mysteries: how fast the universe is expanding. This rare superluminous supernova, located 10 billion light-years away, appears five times in the sky thanks to gravitational lensing, creating a dazzling “cosmic fireworks” effect. By measuring the slight delays between each appearance—caused by light taking different paths around two foreground galaxies—scientists can directly calculate the universe’s expansion rate.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260428045603.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CA%20one-in-a-million%20supernova%20seen%20five%20times%20could%20reveal%20the%20Universe%E2%80%99s%20true%20speed",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Space"
     },
     {
-      "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
-      "summary": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method also lets researchers watch how drugs move into brain cells in real time. It could dramatically accelerate the development of treatments for neurological diseases.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMIT%20scientists%20turn%20chaotic%20laser%20light%20into%20powerful%20brain%20imaging%20tool",
+      "title": "Scientists just found a chilling way life may have begun",
+      "summary": "New experiments suggest that freezing and thawing on early Earth may have helped primitive cell-like structures grow and evolve. Tiny lipid bubbles behaved very differently depending on their membrane makeup—some fused into larger compartments and captured DNA more efficiently. These fusion events could have mixed key molecules, setting the stage for more complex chemistry.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260428045559.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20just%20found%20a%20chilling%20way%20life%20may%20have%20begun",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Biology"
     },
     {
-      "title": "Your dreams aren’t random. Here’s what’s really happening",
-      "summary": "Dreams are more structured than they seem, shaped by both personal traits and real-world experiences. Researchers found that the brain doesn’t just replay daily life—it reshapes it into imaginative, sometimes surreal scenarios. People who mind-wander more tend to have fragmented dreams, while those who value dreams experience richer ones. Even major events like the pandemic changed dream content, making it more emotional and restrictive.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260428045538.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20dreams%20aren%E2%80%99t%20random.%20Here%E2%80%99s%20what%E2%80%99s%20really%20happening",
+      "title": "Scientists just found the Milky Way’s edge and it’s closer than expected",
+      "summary": "Scientists have uncovered the true boundary of the Milky Way’s star-forming region using stellar “age mapping.” They found a telltale U-shaped pattern showing that star formation drops sharply around 35,000–40,000 light-years from the center. Beyond that, stars are mostly migrants, slowly drifting outward rather than forming in place. The discovery gives a long-sought answer to where our galaxy’s stellar nursery really ends.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260428045553.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20just%20found%20the%20Milky%20Way%E2%80%99s%20edge%20and%20it%E2%80%99s%20closer%20than%20expected",
       "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Vitamin D boosts breast cancer treatment success by 79%",
-      "summary": "A daily vitamin D supplement may quietly supercharge chemotherapy. In a small study, women who took low doses alongside treatment were far more likely to see their cancer vanish than those who didn’t. Since vitamin D also supports immune function—and many patients are deficient—it could be playing a bigger role than expected. Scientists say this affordable approach deserves much deeper investigation.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260428004119.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CVitamin%20D%20boosts%20breast%20cancer%20treatment%20success%20by%2079%25",
-      "wiki_url": "",
-      "category": "AI"
+      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
