@@ -1,43 +1,43 @@
 {
-  "date": "2026-05-01 04:36 UTC",
+  "date": "2026-05-02 04:00 UTC",
   "items": [
     {
-      "title": "Scientists reveal the best exercise for knee arthritis pain relief",
-      "summary": "A major review of 217 trials shows that aerobic exercise is the most effective option for managing knee osteoarthritis. Activities like walking, cycling, and swimming outperformed other exercise types in reducing pain and improving movement. While alternatives like strength training and mind-body exercises help, they are best used alongside aerobic workouts. The findings also confirm that exercise is a safe and essential part of treatment.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reveal%20the%20best%20exercise%20for%20knee%20arthritis%20pain%20relief",
+      "title": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
+      "summary": "Deep in a dried-up riverbed in Brazil, scientists uncovered a bizarre prehistoric mystery—twisted jawbones from a strange, long-lost animal unlike anything seen before. Dating back 275 million years, this creature, named Tanyka amnicola, belonged to an ancient lineage that should have already faded away, making it a kind of “living fossil” of its time.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260501052858.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20275-million-year-old%20animal%20had%20a%20twisted%20jaw%20like%20nothing%20alive%20today",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "This “Pink Floyd” spider hunts prey 6x its size and lives in walls",
+      "summary": "Scientists have uncovered a tiny wall-dwelling spider named Pikelinia floydmuraria, inspired by Pink Floyd. Despite its size, it’s a fierce predator that hunts ants much larger than itself and helps reduce common urban pests like mosquitoes and flies. Its clever strategy of building webs near lights makes it especially effective. The discovery also raises new questions about its mysterious link to similar spiders in the Galápagos.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260501052851.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20%E2%80%9CPink%20Floyd%E2%80%9D%20spider%20hunts%20prey%206x%20its%20size%20and%20lives%20in%20walls",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
-      "summary": "For the first time, scientists have watched a subduction zone literally fall apart beneath the ocean floor. Using advanced seismic imaging, they found the Juan de Fuca plate splitting into fragments as it sinks beneath North America. Rather than collapsing all at once, the plate is tearing piece by piece, like a train slowly derailing. The finding helps explain ancient plate fragments and could refine how scientists understand earthquake behavior.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260429232851.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CEarth%20is%20splitting%20open%20beneath%20the%20Pacific%20Northwest%2C%20scientists%20say",
+      "title": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics",
+      "summary": "Scientists have created a powerful new way to control quantum systems, achieving the first-ever demonstration of quadsqueezing—an elusive fourth-order quantum effect. By combining simple forces in a clever way, they made previously hidden quantum behaviors visible and usable, opening new frontiers for quantum technology.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2COxford%20physicists%20achieve%20first-ever%20%E2%80%9Cquadsqueezing%E2%80%9D%20breakthrough%20in%20quantum%20physics",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
+      "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
+      "summary": "Scientists have uncovered a surprising new layer of complexity in Cannabis, identifying dozens of previously unknown compounds—including the first-ever evidence of rare molecules called flavoalkaloids in its leaves. These compounds, prized for their potential health benefits, were hidden among a rich mix of plant chemicals that vary dramatically even between just a few strains.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260501002156.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CDon%E2%80%99t%20toss%20cannabis%20leaves%3A%20Scientists%20found%20rare%20compounds%20with%20medical%20potential",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20AI%20knew%20the%20answers%20but%20didn%E2%80%99t%20understand%20the%20questions",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A photon was teleported across 270 meters in stunning quantum breakthrough",
-      "summary": "Scientists have pulled off a first: teleporting a photon’s state between two separate quantum dots. This was done over a 270-meter open-air link, proving quantum information can travel between independent devices. The achievement marks a key step toward building quantum networks for ultra-secure communication. It also sets the stage for more advanced systems like quantum relays.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260429102030.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20photon%20was%20teleported%20across%20270%20meters%20in%20stunning%20quantum%20breakthrough",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A hidden map in your nose could explain how smell works",
-      "summary": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260429102025.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20hidden%20map%20in%20your%20nose%20could%20explain%20how%20smell%20works",
+      "title": "Surprising obesity discovery rewrites decades of fat metabolism science",
+      "summary": "A key protein involved in fat metabolism has been found to do more than scientists once thought. Instead of just releasing fat, it helps maintain healthy fat tissue and balance in the body. When it’s missing or disrupted, the results can be surprisingly harmful. This finding reshapes how researchers think about obesity and metabolic disease.",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260430213503.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CSurprising%20obesity%20discovery%20rewrites%20decades%20of%20fat%20metabolism%20science",
       "wiki_url": "",
       "category": "AI"
     },
