@@ -1,6 +1,30 @@
 {
-  "date": "2026-05-02 04:00 UTC",
+  "date": "2026-05-03 04:29 UTC",
   "items": [
+    {
+      "title": "18th-century mechanical volcano roars to life 250 years later",
+      "summary": "A centuries-old vision of a mechanical volcano has finally erupted into reality, as two University of Melbourne engineering students recreated a design first imagined in 1775 by volcanology enthusiast Sir William Hamilton. Drawing from an 18th-century watercolor and a preserved sketch, they used modern tools like LED lighting and electronic systems to simulate the glowing flows and explosive drama of Mount Vesuvius.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2C18th-century%20mechanical%20volcano%20roars%20to%20life%20250%20years%20later",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Boosting one protein helps the brain fight Alzheimer’s",
+      "summary": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260502013550.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CBoosting%20one%20protein%20helps%20the%20brain%20fight%20Alzheimer%E2%80%99s",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "The “big one” might not come alone: Double West Coast earthquake threat",
+      "summary": "Two of the most dangerous fault systems on the U.S. West Coast may be more connected than scientists once thought. New research suggests the Cascadia subduction zone and the San Andreas fault can “sync up,” triggering earthquakes within minutes or hours of each other. This rare “synchronization” could dramatically increase the scale of a major West Coast disaster. Instead of one massive quake, multiple regions could be hit at nearly the same time.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260502002153.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThe%20%E2%80%9Cbig%20one%E2%80%9D%20might%20not%20come%20alone%3A%20Double%20West%20Coast%20earthquake%20threat",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
       "summary": "Deep in a dried-up riverbed in Brazil, scientists uncovered a bizarre prehistoric mystery—twisted jawbones from a strange, long-lost animal unlike anything seen before. Dating back 275 million years, this creature, named Tanyka amnicola, belonged to an ancient lineage that should have already faded away, making it a kind of “living fossil” of its time.",
@@ -10,34 +34,10 @@
       "category": "Science"
     },
     {
-      "title": "This “Pink Floyd” spider hunts prey 6x its size and lives in walls",
-      "summary": "Scientists have uncovered a tiny wall-dwelling spider named Pikelinia floydmuraria, inspired by Pink Floyd. Despite its size, it’s a fierce predator that hunts ants much larger than itself and helps reduce common urban pests like mosquitoes and flies. Its clever strategy of building webs near lights makes it especially effective. The discovery also raises new questions about its mysterious link to similar spiders in the Galápagos.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260501052851.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20%E2%80%9CPink%20Floyd%E2%80%9D%20spider%20hunts%20prey%206x%20its%20size%20and%20lives%20in%20walls",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics",
-      "summary": "Scientists have created a powerful new way to control quantum systems, achieving the first-ever demonstration of quadsqueezing—an elusive fourth-order quantum effect. By combining simple forces in a clever way, they made previously hidden quantum behaviors visible and usable, opening new frontiers for quantum technology.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2COxford%20physicists%20achieve%20first-ever%20%E2%80%9Cquadsqueezing%E2%80%9D%20breakthrough%20in%20quantum%20physics",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
-      "summary": "Scientists have uncovered a surprising new layer of complexity in Cannabis, identifying dozens of previously unknown compounds—including the first-ever evidence of rare molecules called flavoalkaloids in its leaves. These compounds, prized for their potential health benefits, were hidden among a rich mix of plant chemicals that vary dramatically even between just a few strains.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260501002156.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CDon%E2%80%99t%20toss%20cannabis%20leaves%3A%20Scientists%20found%20rare%20compounds%20with%20medical%20potential",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Surprising obesity discovery rewrites decades of fat metabolism science",
-      "summary": "A key protein involved in fat metabolism has been found to do more than scientists once thought. Instead of just releasing fat, it helps maintain healthy fat tissue and balance in the body. When it’s missing or disrupted, the results can be surprisingly harmful. This finding reshapes how researchers think about obesity and metabolic disease.",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260430213503.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CSurprising%20obesity%20discovery%20rewrites%20decades%20of%20fat%20metabolism%20science",
+      "title": "Astronomers finally solve the gamma-Cas X-ray mystery after 50 years",
+      "summary": "A decades-old cosmic mystery has finally been cracked: the strange X-rays coming from the bright star gamma-Cas are caused by a hidden stellar companion feeding off it. Using cutting-edge observations from the XRISM space mission, astronomers discovered that an unseen white dwarf star is siphoning material from gamma-Cas, heating it to extreme temperatures and producing powerful X-ray emissions. This breakthrough resolves a puzzle that has baffled scientists since the 1970s and sheds new light on how these unusual stellar pairs form and evolve.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260501052856.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAstronomers%20finally%20solve%20the%20gamma-Cas%20X-ray%20mystery%20after%2050%20years",
       "wiki_url": "",
       "category": "AI"
     },
