@@ -1,6 +1,30 @@
 {
-  "date": "2026-05-05 03:57 UTC",
+  "date": "2026-05-06 04:22 UTC",
   "items": [
+    {
+      "title": "A 75-million-year-old fossil reveals a shocking tyrannosaur secret",
+      "summary": "Tyrannosaurs may be famous as fearsome apex predators, but new research reveals a more opportunistic—and slightly grim—side to their behavior. Using high-resolution 3D scans, a researcher identified precise bite marks on a massive tyrannosaur foot bone, showing that a smaller tyrannosaur had fed on the remains of a much larger relative over 75 million years ago.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504154023.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%2075-million-year-old%20fossil%20reveals%20a%20shocking%20tyrannosaur%20secret",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Oak trees are delaying spring to starve caterpillars",
+      "summary": "Oak trees have a surprising trick to fight back against hungry caterpillars: they simply wait. When trees are heavily attacked one year, they delay leaf growth by just three days the next spring—long enough to leave newly hatched caterpillars with nothing to eat. This small shift slashes insect survival and reduces leaf damage by more than half, proving even more efficient than costly chemical defenses.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504154019.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2COak%20trees%20are%20delaying%20spring%20to%20starve%20caterpillars",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "This tiny outer Solar System world has an atmosphere. It shouldn’t",
+      "summary": "Astronomers have spotted something surprising in the far outer Solar System—a faint, short-lived atmosphere clinging to a tiny icy world that shouldn’t be able to hold one at all. The object, called 2002 XV93, is far smaller than Pluto, yet observations during a rare stellar alignment revealed its presence through a subtle dimming of starlight. Even more puzzling, calculations suggest this atmosphere should vanish within about 1,000 years unless it’s constantly being replenished.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504154017.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20tiny%20outer%20Solar%20System%20world%20has%20an%20atmosphere.%20It%20shouldn%E2%80%99t",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
       "summary": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials with timed magnetic shifts, researchers created exotic quantum states that could be far more stable and resistant to errors—one of the biggest challenges in quantum computing. This breakthrough suggests that the future of quantum technology may depend not just on what materials are made of, but how they’re manipulated in time.",
@@ -10,34 +34,10 @@
       "category": "Physics"
     },
     {
-      "title": "This simple amino acid supplement greatly reduces Alzheimer’s damage",
-      "summary": "A new study suggests a surprisingly simple compound could help fight Alzheimer’s disease. Researchers found that arginine—an inexpensive amino acid already considered safe—can reduce the buildup of toxic amyloid proteins in the brain, a hallmark of the disease. In animal models, oral arginine not only lowered harmful protein deposits but also improved behavior and reduced brain inflammation.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504075512.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20simple%20amino%20acid%20supplement%20greatly%20reduces%20Alzheimer%E2%80%99s%20damage",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "The da Vinci bloodline is unlocking the genius’s genetic secrets",
-      "summary": "After centuries of mystery, scientists are edging closer to uncovering Leonardo da Vinci’s biological secrets. A massive 30-year effort has mapped his family across 21 generations, identified living male descendants, and even confirmed shared DNA markers that stretch back to the Renaissance. Meanwhile, excavations at a family tomb in Vinci could provide ancient remains for comparison, raising the possibility of reconstructing Leonardo’s genetic profile.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504074826.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20da%20Vinci%20bloodline%20is%20unlocking%20the%20genius%E2%80%99s%20genetic%20secrets",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists turn plastic waste into clean hydrogen fuel using sunlight",
-      "summary": "Scientists are using sunlight to turn plastic waste into clean fuels like hydrogen, offering a breakthrough solution to both pollution and energy challenges. While still in development, the approach could transform trash into a valuable resource for a low-carbon future.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504023841.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CScientists%20turn%20plastic%20waste%20into%20clean%20hydrogen%20fuel%20using%20sunlight",
-      "wiki_url": "",
-      "category": "Environment"
-    },
-    {
-      "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
-      "summary": "For decades, relaxor ferroelectrics have powered everything from medical ultrasounds to sonar systems, yet their inner atomic structure remained a mystery—until now. Researchers have finally mapped their three-dimensional structure in unprecedented detail, uncovering hidden patterns in how electric charges are arranged at the nanoscale. The breakthrough not only challenges long-standing assumptions about how these materials behave but also allows scientists to refine the models used to design them.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMIT%20scientists%20finally%20reveal%20the%20hidden%20structure%20of%20a%20mysterious%20high-tech%20material",
+      "title": "Webb space telescope reveals a scorching “super-Earth” that looks like Mercury",
+      "summary": "A scorching, airless world just 48 light-years away is offering scientists a rare glimpse into the geology of distant planets. Using the James Webb Space Telescope, researchers studied LHS 3844 b—a tidally locked “super-Earth” with a permanent dayside hot enough to melt metal—and discovered it’s a dark, barren rock with no atmosphere.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504154012.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWebb%20space%20telescope%20reveals%20a%20scorching%20%E2%80%9Csuper-Earth%E2%80%9D%20that%20looks%20like%20Mercury",
       "wiki_url": "",
       "category": "AI"
     },
