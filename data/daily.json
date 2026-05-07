@@ -1,43 +1,43 @@
 {
-  "date": "2026-05-06 04:22 UTC",
+  "date": "2026-05-07 04:23 UTC",
   "items": [
     {
-      "title": "A 75-million-year-old fossil reveals a shocking tyrannosaur secret",
-      "summary": "Tyrannosaurs may be famous as fearsome apex predators, but new research reveals a more opportunistic—and slightly grim—side to their behavior. Using high-resolution 3D scans, a researcher identified precise bite marks on a massive tyrannosaur foot bone, showing that a smaller tyrannosaur had fed on the remains of a much larger relative over 75 million years ago.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504154023.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%2075-million-year-old%20fossil%20reveals%20a%20shocking%20tyrannosaur%20secret",
+      "title": "This town found clean energy deep inside old coal mines",
+      "summary": "Cumberland, B.C. is reimagining its coal mining past as a clean energy opportunity. Water trapped in abandoned mine tunnels could be used in a geothermal system to heat and cool buildings efficiently and with minimal emissions. The project could lower energy costs, support new development, and attract businesses. It’s a striking example of turning industrial leftovers into a sustainable community asset.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260505234631.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20town%20found%20clean%20energy%20deep%20inside%20old%20coal%20mines",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Oak trees are delaying spring to starve caterpillars",
-      "summary": "Oak trees have a surprising trick to fight back against hungry caterpillars: they simply wait. When trees are heavily attacked one year, they delay leaf growth by just three days the next spring—long enough to leave newly hatched caterpillars with nothing to eat. This small shift slashes insect survival and reduces leaf damage by more than half, proving even more efficient than costly chemical defenses.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504154019.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2COak%20trees%20are%20delaying%20spring%20to%20starve%20caterpillars",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "This tiny outer Solar System world has an atmosphere. It shouldn’t",
-      "summary": "Astronomers have spotted something surprising in the far outer Solar System—a faint, short-lived atmosphere clinging to a tiny icy world that shouldn’t be able to hold one at all. The object, called 2002 XV93, is far smaller than Pluto, yet observations during a rare stellar alignment revealed its presence through a subtle dimming of starlight. Even more puzzling, calculations suggest this atmosphere should vanish within about 1,000 years unless it’s constantly being replenished.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504154017.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20tiny%20outer%20Solar%20System%20world%20has%20an%20atmosphere.%20It%20shouldn%E2%80%99t",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
-      "summary": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials with timed magnetic shifts, researchers created exotic quantum states that could be far more stable and resistant to errors—one of the biggest challenges in quantum computing. This breakthrough suggests that the future of quantum technology may depend not just on what materials are made of, but how they’re manipulated in time.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20just%20created%20exotic%20new%20forms%20of%20matter%20that%20shouldn%E2%80%99t%20exist",
+      "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
+      "summary": "In a major breakthrough, scientists have experimentally confirmed a universal growth law in two dimensions using a quantum system of fleeting light–matter particles. The finding strengthens the idea that wildly different processes—from crystals to living systems—may all follow the same hidden rules.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260505234622.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20finally%20solve%2040-year-old%20physics%20puzzle%20about%20how%20things%20grow",
       "wiki_url": "",
       "category": "Physics"
     },
     {
-      "title": "Webb space telescope reveals a scorching “super-Earth” that looks like Mercury",
-      "summary": "A scorching, airless world just 48 light-years away is offering scientists a rare glimpse into the geology of distant planets. Using the James Webb Space Telescope, researchers studied LHS 3844 b—a tidally locked “super-Earth” with a permanent dayside hot enough to melt metal—and discovered it’s a dark, barren rock with no atmosphere.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504154012.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWebb%20space%20telescope%20reveals%20a%20scorching%20%E2%80%9Csuper-Earth%E2%80%9D%20that%20looks%20like%20Mercury",
+      "title": "NASA just tested a powerful new thruster that could send humans to Mars",
+      "summary": "A powerful new electromagnetic thruster has taken a major step forward after a successful high-energy test at NASA’s Jet Propulsion Laboratory. Fueled by lithium vapor and driven by intense magnetic forces, the experimental engine reached record-breaking power levels—far beyond anything currently used in space. Glowing hotter than molten lava and firing inside a specialized vacuum chamber, the thruster hints at a future where spacecraft could travel farther and more efficiently than ever before.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20just%20tested%20a%20powerful%20new%20thruster%20that%20could%20send%20humans%20to%20Mars",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Blue Origin’s new moon lander just survived extreme space testing on Earth",
+      "summary": "A bold step toward returning humans to the Moon is underway with Blue Origin’s uncrewed MK1 “Endurance” lander, designed to test the technologies that future astronauts will rely on. Built in partnership with NASA, the mission will showcase precision landing, autonomous navigation, and advanced cryogenic propulsion—key capabilities for operating on the lunar surface. It will also carry cutting-edge NASA instruments to study how rocket plumes interact with the Moon and to improve navigation accuracy from orbit.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260505234608.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CBlue%20Origin%E2%80%99s%20new%20moon%20lander%20just%20survived%20extreme%20space%20testing%20on%20Earth",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "MIT scientists discover millions of “silent synapses” in the adult brain",
+      "summary": "MIT neuroscientists have uncovered a surprising secret hidden in the adult brain: millions of “silent synapses,” dormant connections that lie in wait until new learning calls them into action. Once thought to exist only in early development, these inactive links make up about 30% of synapses in the adult cortex and can be rapidly activated to form fresh memories.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504211848.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMIT%20scientists%20discover%20millions%20of%20%E2%80%9Csilent%20synapses%E2%80%9D%20in%20the%20adult%20brain",
       "wiki_url": "",
       "category": "AI"
     },
