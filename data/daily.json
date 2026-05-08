@@ -1,43 +1,43 @@
 {
-  "date": "2026-05-07 04:23 UTC",
+  "date": "2026-05-08 03:59 UTC",
   "items": [
     {
-      "title": "This town found clean energy deep inside old coal mines",
-      "summary": "Cumberland, B.C. is reimagining its coal mining past as a clean energy opportunity. Water trapped in abandoned mine tunnels could be used in a geothermal system to heat and cool buildings efficiently and with minimal emissions. The project could lower energy costs, support new development, and attract businesses. It’s a striking example of turning industrial leftovers into a sustainable community asset.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260505234631.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20town%20found%20clean%20energy%20deep%20inside%20old%20coal%20mines",
+      "title": "Scientists accidentally discover DNA that breaks the rules of life",
+      "summary": "A routine experiment with a new single-cell DNA sequencing method turned into a surprising scientific twist when researchers stumbled upon a bizarre genetic code in a microscopic pond organism. Instead of following the near-universal “rules” of life, this newly identified protist rewrites how genes signal their end. This unexpected discovery challenges long-held assumptions about how genetic translation works and hints that nature may be far more flexible—and mysterious—than scientists realized.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20accidentally%20discover%20DNA%20that%20breaks%20the%20rules%20of%20life",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "People once risked everything just to keep their hats on",
+      "summary": "Centuries ago in England, hats weren’t just accessories—they were statements of power and rebellion. Refusing to remove a hat could challenge authority, even in courtrooms and before kings. People valued their hats so deeply that robbery victims sometimes begged to keep them over money. In a world where going bareheaded signaled poverty or madness, hats shaped identity, respect, and even family discipline.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260506225231.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CPeople%20once%20risked%20everything%20just%20to%20keep%20their%20hats%20on",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Scientists find natural compounds that hit COVID-19 from every angle",
+      "summary": "A little-known tree from Brazil’s Atlantic Forest may hold a surprising weapon against COVID-19. Researchers discovered that compounds called galloylquinic acids, extracted from its leaves, can attack SARS-CoV-2 on multiple fronts—blocking the virus from entering cells, disrupting its replication, and even dampening harmful inflammation. Unlike many antivirals that target just one part of the virus, these natural compounds act in several ways at once, potentially making it harder for resistance to develop.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260506225217.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20natural%20compounds%20that%20hit%20COVID-19%20from%20every%20angle",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
-      "summary": "In a major breakthrough, scientists have experimentally confirmed a universal growth law in two dimensions using a quantum system of fleeting light–matter particles. The finding strengthens the idea that wildly different processes—from crystals to living systems—may all follow the same hidden rules.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260505234622.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20finally%20solve%2040-year-old%20physics%20puzzle%20about%20how%20things%20grow",
+      "title": "Eating eggs could cut Alzheimer’s risk by 27%",
+      "summary": "Eating eggs might do more than just start your day—it could help protect your brain. Researchers found that people 65 and older who eat eggs regularly have a significantly lower risk of developing Alzheimer’s disease, with daily or near-daily consumption linked to up to a 27% reduction. Even modest egg intake showed benefits, suggesting that small dietary changes could make a meaningful difference over time.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260506225214.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CEating%20eggs%20could%20cut%20Alzheimer%E2%80%99s%20risk%20by%2027%25",
       "wiki_url": "",
-      "category": "Physics"
+      "category": "AI"
     },
     {
-      "title": "NASA just tested a powerful new thruster that could send humans to Mars",
-      "summary": "A powerful new electromagnetic thruster has taken a major step forward after a successful high-energy test at NASA’s Jet Propulsion Laboratory. Fueled by lithium vapor and driven by intense magnetic forces, the experimental engine reached record-breaking power levels—far beyond anything currently used in space. Glowing hotter than molten lava and firing inside a specialized vacuum chamber, the thruster hints at a future where spacecraft could travel farther and more efficiently than ever before.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20just%20tested%20a%20powerful%20new%20thruster%20that%20could%20send%20humans%20to%20Mars",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Blue Origin’s new moon lander just survived extreme space testing on Earth",
-      "summary": "A bold step toward returning humans to the Moon is underway with Blue Origin’s uncrewed MK1 “Endurance” lander, designed to test the technologies that future astronauts will rely on. Built in partnership with NASA, the mission will showcase precision landing, autonomous navigation, and advanced cryogenic propulsion—key capabilities for operating on the lunar surface. It will also carry cutting-edge NASA instruments to study how rocket plumes interact with the Moon and to improve navigation accuracy from orbit.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260505234608.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CBlue%20Origin%E2%80%99s%20new%20moon%20lander%20just%20survived%20extreme%20space%20testing%20on%20Earth",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "MIT scientists discover millions of “silent synapses” in the adult brain",
-      "summary": "MIT neuroscientists have uncovered a surprising secret hidden in the adult brain: millions of “silent synapses,” dormant connections that lie in wait until new learning calls them into action. Once thought to exist only in early development, these inactive links make up about 30% of synapses in the adult cortex and can be rapidly activated to form fresh memories.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504211848.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMIT%20scientists%20discover%20millions%20of%20%E2%80%9Csilent%20synapses%E2%80%9D%20in%20the%20adult%20brain",
+      "title": "Webb space telescope finds a giant galaxy that doesn’t spin",
+      "summary": "Astronomers using the James Webb Space Telescope have spotted something that shouldn’t exist—at least not so early in the universe. A massive galaxy, formed less than 2 billion years after the Big Bang, appears to have no rotation at all, a trait usually seen only in much older, evolved galaxies. This challenges current theories that young galaxies should still be spinning from their formation.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260506225135.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWebb%20space%20telescope%20finds%20a%20giant%20galaxy%20that%20doesn%E2%80%99t%20spin",
       "wiki_url": "",
       "category": "AI"
     },
