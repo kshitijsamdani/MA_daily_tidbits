@@ -1,43 +1,43 @@
 {
-  "date": "2026-05-08 03:59 UTC",
+  "date": "2026-05-09 04:03 UTC",
   "items": [
     {
-      "title": "Scientists accidentally discover DNA that breaks the rules of life",
-      "summary": "A routine experiment with a new single-cell DNA sequencing method turned into a surprising scientific twist when researchers stumbled upon a bizarre genetic code in a microscopic pond organism. Instead of following the near-universal “rules” of life, this newly identified protist rewrites how genes signal their end. This unexpected discovery challenges long-held assumptions about how genetic translation works and hints that nature may be far more flexible—and mysterious—than scientists realized.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20accidentally%20discover%20DNA%20that%20breaks%20the%20rules%20of%20life",
+      "title": "New obesity discovery rewrites decades of fat science",
+      "summary": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored fat when the body needs energy, turns out to have a second job deep inside the nucleus of fat cells—helping keep those cells healthy and balanced. Even more surprising, people and mice missing this protein don’t become obese as expected; instead, they lose fat tissue in a dangerous condition called lipodystrophy.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CNew%20obesity%20discovery%20rewrites%20decades%20of%20fat%20science",
       "wiki_url": "",
       "category": "Biology"
     },
     {
-      "title": "People once risked everything just to keep their hats on",
-      "summary": "Centuries ago in England, hats weren’t just accessories—they were statements of power and rebellion. Refusing to remove a hat could challenge authority, even in courtrooms and before kings. People valued their hats so deeply that robbery victims sometimes begged to keep them over money. In a world where going bareheaded signaled poverty or madness, hats shaped identity, respect, and even family discipline.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260506225231.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CPeople%20once%20risked%20everything%20just%20to%20keep%20their%20hats%20on",
+      "title": "A common constipation drug shows surprising power to protect kidneys",
+      "summary": "A common constipation drug may have unexpectedly unlocked a new way to slow chronic kidney disease — a condition that affects millions and often leads to dialysis. In a clinical trial involving 150 patients, researchers found that lubiprostone, a medication normally used to treat constipation, helped preserve kidney function in people with moderate CKD. Scientists traced the effect to changes in gut bacteria that boosted production of spermidine, a compound linked to healthier mitochondria and reduced kidney damage.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CA%20common%20constipation%20drug%20shows%20surprising%20power%20to%20protect%20kidneys",
       "wiki_url": "",
-      "category": "Science"
+      "category": "Health"
     },
     {
-      "title": "Scientists find natural compounds that hit COVID-19 from every angle",
-      "summary": "A little-known tree from Brazil’s Atlantic Forest may hold a surprising weapon against COVID-19. Researchers discovered that compounds called galloylquinic acids, extracted from its leaves, can attack SARS-CoV-2 on multiple fronts—blocking the virus from entering cells, disrupting its replication, and even dampening harmful inflammation. Unlike many antivirals that target just one part of the virus, these natural compounds act in several ways at once, potentially making it harder for resistance to develop.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260506225217.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20natural%20compounds%20that%20hit%20COVID-19%20from%20every%20angle",
+      "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
+      "summary": "Scientists have uncovered a surprising way to influence the bacteria living in our mouths — not by killing them, but by interrupting how they “talk” to each other. Researchers found that dental plaque bacteria use chemical signals to coordinate growth, and by blocking those signals, they were able to encourage healthier bacteria while reducing disease-linked microbes tied to gum disease. Even more intriguing, the bacterial conversations changed depending on oxygen levels above and below the gums, revealing an entirely new layer of complexity inside the mouth.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260508024125.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20a%20new%20way%20to%20prevent%20gum%20disease%20without%20killing%20good%20bacteria",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Biology"
     },
     {
-      "title": "Eating eggs could cut Alzheimer’s risk by 27%",
-      "summary": "Eating eggs might do more than just start your day—it could help protect your brain. Researchers found that people 65 and older who eat eggs regularly have a significantly lower risk of developing Alzheimer’s disease, with daily or near-daily consumption linked to up to a 27% reduction. Even modest egg intake showed benefits, suggesting that small dietary changes could make a meaningful difference over time.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260506225214.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CEating%20eggs%20could%20cut%20Alzheimer%E2%80%99s%20risk%20by%2027%25",
+      "title": "Scientists make stunning discovery that could change our understanding of the Universe",
+      "summary": "Scientists may have uncovered a surprising secret behind why life exists at all. A new study suggests that the Universe’s fundamental constants — the deep physical rules that govern everything from atoms to stars — appear to sit within an incredibly narrow “sweet spot” that allows liquids to flow properly inside living cells. Even tiny shifts in these constants could make blood too thick, water too sticky, or cellular motion impossible, potentially wiping out life as we know it.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260508022653.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20make%20stunning%20discovery%20that%20could%20change%20our%20understanding%20of%20the%20Universe",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Biology"
     },
     {
-      "title": "Webb space telescope finds a giant galaxy that doesn’t spin",
-      "summary": "Astronomers using the James Webb Space Telescope have spotted something that shouldn’t exist—at least not so early in the universe. A massive galaxy, formed less than 2 billion years after the Big Bang, appears to have no rotation at all, a trait usually seen only in much older, evolved galaxies. This challenges current theories that young galaxies should still be spinning from their formation.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260506225135.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWebb%20space%20telescope%20finds%20a%20giant%20galaxy%20that%20doesn%E2%80%99t%20spin",
+      "title": "Interstellar comet 3I/ATLAS contains strange water never seen in our solar system",
+      "summary": "A mysterious comet from beyond our solar system is giving astronomers a rare glimpse into alien worlds — and it may have formed in a place far colder and stranger than anything around our Sun. The interstellar visitor, called 3I/ATLAS, contains an astonishingly high amount of “heavy water,” far exceeding anything seen in our own solar system.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260508003117.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CInterstellar%20comet%203I/ATLAS%20contains%20strange%20water%20never%20seen%20in%20our%20solar%20system",
       "wiki_url": "",
       "category": "AI"
     },
