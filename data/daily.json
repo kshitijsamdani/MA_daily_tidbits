@@ -1,6 +1,22 @@
 {
-  "date": "2026-05-09 04:03 UTC",
+  "date": "2026-05-10 04:33 UTC",
   "items": [
+    {
+      "title": "Scientists reversed liver aging with young gut bacteria in stunning study",
+      "summary": "Rebooting the gut microbiome with bacteria from youth may help stop aging-related liver damage and even prevent liver cancer, according to new research in mice. Older mice that received their own preserved youthful microbiome showed less inflammation, reduced DNA damage, and no signs of liver cancer. Researchers also found that the treatment suppressed a cancer-linked gene called MDM2, making older mice biologically resemble younger ones.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20reversed%20liver%20aging%20with%20young%20gut%20bacteria%20in%20stunning%20study",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "New chemical kills 95% of termites without harming humans",
+      "summary": "Scientists may have found a smarter, safer way to wipe out termites hiding inside homes. A chemical called bistrifluron prevents drywood termites from forming new exoskeletons during molting, killing entire colonies from within. In tests, it eliminated about 95% of termites while avoiding the toxic side effects of traditional fumigation. Researchers say the method could provide longer-lasting protection as termites spread into new areas.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260508211025.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CNew%20chemical%20kills%2095%25%20of%20termites%20without%20harming%20humans",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "New obesity discovery rewrites decades of fat science",
       "summary": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored fat when the body needs energy, turns out to have a second job deep inside the nucleus of fat cells—helping keep those cells healthy and balanced. Even more surprising, people and mice missing this protein don’t become obese as expected; instead, they lose fat tissue in a dangerous condition called lipodystrophy.",
@@ -24,22 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20a%20new%20way%20to%20prevent%20gum%20disease%20without%20killing%20good%20bacteria",
       "wiki_url": "",
       "category": "Biology"
-    },
-    {
-      "title": "Scientists make stunning discovery that could change our understanding of the Universe",
-      "summary": "Scientists may have uncovered a surprising secret behind why life exists at all. A new study suggests that the Universe’s fundamental constants — the deep physical rules that govern everything from atoms to stars — appear to sit within an incredibly narrow “sweet spot” that allows liquids to flow properly inside living cells. Even tiny shifts in these constants could make blood too thick, water too sticky, or cellular motion impossible, potentially wiping out life as we know it.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508022653.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20make%20stunning%20discovery%20that%20could%20change%20our%20understanding%20of%20the%20Universe",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Interstellar comet 3I/ATLAS contains strange water never seen in our solar system",
-      "summary": "A mysterious comet from beyond our solar system is giving astronomers a rare glimpse into alien worlds — and it may have formed in a place far colder and stranger than anything around our Sun. The interstellar visitor, called 3I/ATLAS, contains an astonishingly high amount of “heavy water,” far exceeding anything seen in our own solar system.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508003117.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CInterstellar%20comet%203I/ATLAS%20contains%20strange%20water%20never%20seen%20in%20our%20solar%20system",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
