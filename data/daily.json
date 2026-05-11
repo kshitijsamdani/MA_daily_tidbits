@@ -1,6 +1,38 @@
 {
-  "date": "2026-05-10 04:33 UTC",
+  "date": "2026-05-11 04:44 UTC",
   "items": [
+    {
+      "title": "“Cannot be explained” – New ultra stainless steel stuns researchers",
+      "summary": "A team at the University of Hong Kong has developed a new “super steel” that can survive the harsh conditions needed to make green hydrogen from seawater. The material uses an unexpected double-protection mechanism that resists corrosion far better than conventional stainless steel. Even more impressive, it could replace costly titanium parts used in today’s hydrogen systems.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2C%E2%80%9CCannot%20be%20explained%E2%80%9D%20%E2%80%93%20New%20ultra%20stainless%20steel%20stuns%20researchers",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists successfully transfer longevity gene and extend lifespan",
+      "summary": "Scientists at the University of Rochester pulled off a remarkable experiment: they transferred a longevity-related gene from the famously long-lived naked mole rat into mice, and the mice ended up healthier and lived longer. The special gene boosts production of a substance called high molecular weight hyaluronic acid, which appears to protect against cancer, reduce inflammation, and support healthier aging. The modified mice showed stronger resistance to tumors, healthier guts, and lower levels of age-related inflammation.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20successfully%20transfer%20longevity%20gene%20and%20extend%20lifespan",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Brain scans reveal a shocking difference between psychopaths and other people",
+      "summary": "Scientists have uncovered a striking brain difference linked to psychopathy: people with psychopathic traits were found to have a striatum — a brain region tied to reward, motivation, and decision-making — that was about 10% larger on average than those without such traits. Using MRI scans and psychological assessments on 120 participants, researchers connected this enlarged brain region to thrill-seeking, impulsive behavior, and a stronger drive for stimulation.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CBrain%20scans%20reveal%20a%20shocking%20difference%20between%20psychopaths%20and%20other%20people",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists discover the brain’s hidden “stop scratching” switch",
+      "summary": "Scientists have uncovered a hidden “stop-scratching” signal in the nervous system that tells your brain when enough scratching is enough. The discovery centers on a molecule called TRPV4, which acts like part of an internal braking system for itch relief. In experiments involving chronic itch similar to eczema, mice missing this signal scratched less often—but when they did scratch, they couldn’t stop.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20brain%E2%80%99s%20hidden%20%E2%80%9Cstop%20scratching%E2%80%9D%20switch",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Scientists reversed liver aging with young gut bacteria in stunning study",
       "summary": "Rebooting the gut microbiome with bacteria from youth may help stop aging-related liver damage and even prevent liver cancer, according to new research in mice. Older mice that received their own preserved youthful microbiome showed less inflammation, reduced DNA damage, and no signs of liver cancer. Researchers also found that the treatment suppressed a cancer-linked gene called MDM2, making older mice biologically resemble younger ones.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20reversed%20liver%20aging%20with%20young%20gut%20bacteria%20in%20stunning%20study",
       "wiki_url": "",
       "category": "Health"
-    },
-    {
-      "title": "New chemical kills 95% of termites without harming humans",
-      "summary": "Scientists may have found a smarter, safer way to wipe out termites hiding inside homes. A chemical called bistrifluron prevents drywood termites from forming new exoskeletons during molting, killing entire colonies from within. In tests, it eliminated about 95% of termites while avoiding the toxic side effects of traditional fumigation. Researchers say the method could provide longer-lasting protection as termites spread into new areas.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508211025.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CNew%20chemical%20kills%2095%25%20of%20termites%20without%20harming%20humans",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "New obesity discovery rewrites decades of fat science",
-      "summary": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored fat when the body needs energy, turns out to have a second job deep inside the nucleus of fat cells—helping keep those cells healthy and balanced. Even more surprising, people and mice missing this protein don’t become obese as expected; instead, they lose fat tissue in a dangerous condition called lipodystrophy.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CNew%20obesity%20discovery%20rewrites%20decades%20of%20fat%20science",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "A common constipation drug shows surprising power to protect kidneys",
-      "summary": "A common constipation drug may have unexpectedly unlocked a new way to slow chronic kidney disease — a condition that affects millions and often leads to dialysis. In a clinical trial involving 150 patients, researchers found that lubiprostone, a medication normally used to treat constipation, helped preserve kidney function in people with moderate CKD. Scientists traced the effect to changes in gut bacteria that boosted production of spermidine, a compound linked to healthier mitochondria and reduced kidney damage.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CA%20common%20constipation%20drug%20shows%20surprising%20power%20to%20protect%20kidneys",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
-      "summary": "Scientists have uncovered a surprising way to influence the bacteria living in our mouths — not by killing them, but by interrupting how they “talk” to each other. Researchers found that dental plaque bacteria use chemical signals to coordinate growth, and by blocking those signals, they were able to encourage healthier bacteria while reducing disease-linked microbes tied to gum disease. Even more intriguing, the bacterial conversations changed depending on oxygen levels above and below the gums, revealing an entirely new layer of complexity inside the mouth.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508024125.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20a%20new%20way%20to%20prevent%20gum%20disease%20without%20killing%20good%20bacteria",
-      "wiki_url": "",
-      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
