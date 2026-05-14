@@ -1,6 +1,14 @@
 {
-  "date": "2026-05-13 04:30 UTC",
+  "date": "2026-05-14 04:29 UTC",
   "items": [
+    {
+      "title": "Quantum breakthrough could revolutionize teleportation and computing",
+      "summary": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major milestone for quantum technology. The breakthrough could help unlock faster quantum communication, teleportation, and powerful new computing systems.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CQuantum%20breakthrough%20could%20revolutionize%20teleportation%20and%20computing",
+      "wiki_url": "",
+      "category": "Physics"
+    },
     {
       "title": "A rare cancer-fighting plant compound has been decoded",
       "summary": "Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure, solving a mystery that had puzzled researchers for years. Because mitraphylline appears only in tiny amounts in tropical plants like kratom and cat’s claw, the discovery could make it far easier to produce sustainably in the future.",
@@ -10,36 +18,28 @@
       "category": "AI"
     },
     {
-      "title": "Scientists discover a weak spot shared by polio and common cold viruses",
-      "summary": "Scientists at the University of Maryland, Baltimore County, have uncovered a crucial trick used by enteroviruses—the group behind diseases like polio, myocarditis, encephalitis, and even the common cold—to reproduce inside human cells. The team captured, in unprecedented detail, how viral RNA recruits both viral and human proteins to assemble the machinery needed for replication, acting almost like a molecular “on-off switch” that controls whether the virus copies itself or makes proteins.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260512202320.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20weak%20spot%20shared%20by%20polio%20and%20common%20cold%20viruses",
+      "title": "Cacti are evolving shockingly fast and scientists just learned why",
+      "summary": "Cacti may look like slow, stubborn desert survivors, but they’re actually evolving at lightning speed. Scientists studying more than 750 cactus species discovered that what really drives the explosion of new cactus species isn’t flower size or specialized pollinators, but how quickly cactus flowers change shape over time. The finding overturns a long-standing idea dating back to Darwin and reveals deserts as surprisingly dynamic ecosystems where evolution is happening fast.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202347.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CCacti%20are%20evolving%20shockingly%20fast%20and%20scientists%20just%20learned%20why",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Your “um” and pauses could reveal early dementia risk",
+      "summary": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function — the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20%E2%80%9Cum%E2%80%9D%20and%20pauses%20could%20reveal%20early%20dementia%20risk",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
-      "summary": "As blood stem cells age, their lysosomes become overactive and damaged, triggering inflammation and weakening the body’s ability to regenerate healthy blood and immune cells. By calming this cellular “overdrive,” researchers restored the stem cells’ youthful function, dramatically boosting their ability to regenerate and produce balanced blood cells.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20make%20old%20blood%20stem%20cells%20young%20again%20in%20major%20anti-aging%20breakthrough",
+      "title": "Halley’s comet may be named after the wrong person",
+      "summary": "A medieval monk may have beaten Edmond Halley to one of astronomy’s greatest discoveries by nearly 700 years. Researchers say Eilmer of Malmesbury recognized that the blazing comet seen in 1066 was the same one he had witnessed in 989. At the time, comets were viewed as terrifying omens tied to war and royal deaths, adding even more drama to the famous celestial event shown in the Bayeux Tapestry. The discovery is sparking debate over whether Halley’s Comet deserves a different name.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202329.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CHalley%E2%80%99s%20comet%20may%20be%20named%20after%20the%20wrong%20person",
       "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists say this algae could remove microplastics from drinking water",
-      "summary": "Researchers created a special kind of algae that can grab microscopic plastic pollution out of water almost like a magnet. The algae produce limonene, an orange-scented oil that helps them bind to water-repelling microplastics, forming easy-to-remove clumps. As a bonus, the algae also clean wastewater while growing.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260511213201.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CScientists%20say%20this%20algae%20could%20remove%20microplastics%20from%20drinking%20water",
-      "wiki_url": "",
-      "category": "Environment"
-    },
-    {
-      "title": "This strange giant dinosaur may change what we know about Jurassic titans",
-      "summary": "A bizarre new giant dinosaur discovered in Argentina is giving paleontologists a fresh look at how Jurassic titans evolved in the Southern Hemisphere. Bicharracosaurus dionidei stretched about 20 meters long and carried a strange mix of features seen in both Diplodocus and Brachiosaurus relatives. Scientists believe it could represent the first known Jurassic brachiosaurid from South America, helping fill a major gap in the dinosaur fossil record.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260511213154.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20strange%20giant%20dinosaur%20may%20change%20what%20we%20know%20about%20Jurassic%20titans",
-      "wiki_url": "",
-      "category": "Science"
+      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
