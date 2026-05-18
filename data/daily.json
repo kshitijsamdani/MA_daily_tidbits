@@ -1,11 +1,27 @@
 {
-  "date": "2026-05-17 04:39 UTC",
+  "date": "2026-05-18 04:51 UTC",
   "items": [
+    {
+      "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
+      "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s environment. In one striking experiment, elderly mice treated with the therapy later behaved like healthy younger mice.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reverse%20Alzheimer%E2%80%99s%20in%20mice%20with%20breakthrough%20nanotechnology",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
       "summary": "Astronomers have revealed the sharpest image ever captured of a filament in the cosmic web — the enormous hidden structure connecting galaxies across the Universe. The glowing strand stretches 3 million light-years and links two galaxies from nearly 12 billion years ago. By observing this faint intergalactic gas directly for the first time in such detail, scientists gained new insight into how galaxies are fueled and formed.",
       "link": "https://www.sciencedaily.com/releases/2026/05/260516034136.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CFirst-ever%20direct%20image%20of%20the%20cosmic%20web%20reveals%20the%20Universe%E2%80%99s%20hidden%20highways",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
+      "summary": "Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance in mouse models of dementia. The discovery hints that energy failure inside neurons could happen before brain cells die, potentially offering a new target for future Alzheimer’s treatments.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260515234803.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reversed%20memory%20loss%20by%20recharging%20the%20brain%E2%80%99s%20tiny%20engines",
       "wiki_url": "",
       "category": "AI"
     },
@@ -22,22 +38,6 @@
       "summary": "A stunning fossil discovery in Ethiopia shows that early Homo and a previously unknown Australopithecus species lived together around 2.6 to 2.8 million years ago. The find overturns the classic “ape-to-human” progression and paints human evolution as a crowded, branching tree with multiple species coexisting. Scientists dated the fossils using volcanic ash deposits and are now investigating what these ancient relatives ate and whether they competed for resources.",
       "link": "https://www.sciencedaily.com/releases/2026/05/260515234644.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CStunning%20fossil%20discovery%20in%20Ethiopia%20rewrites%20human%20origins",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover hidden “brakes” that stop massive earthquakes",
-      "summary": "A mysterious underwater fault near Ecuador has been producing nearly identical magnitude 6 earthquakes every five to six years, baffling scientists for decades. Researchers now believe the fault contains hidden “brake zones” where seawater and unusual rock structures work together to stop quakes from becoming even larger. The discovery came from ultra-detailed seafloor recordings that captured how the fault behaves before and after major earthquakes.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515233325.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20hidden%20%E2%80%9Cbrakes%E2%80%9D%20that%20stop%20massive%20earthquakes",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "The brain’s “feel good” chemical may be secretly fueling tinnitus",
-      "summary": "Scientists have uncovered evidence that serotonin — the same brain chemical boosted by many antidepressants — may actually worsen tinnitus. Using advanced light-based brain stimulation in mice, researchers identified a serotonin-driven circuit linked directly to tinnitus-like behavior. The findings may explain why some people experience louder ringing in their ears while taking SSRIs.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515002155.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20brain%E2%80%99s%20%E2%80%9Cfeel%20good%E2%80%9D%20chemical%20may%20be%20secretly%20fueling%20tinnitus",
       "wiki_url": "",
       "category": "AI"
     },
