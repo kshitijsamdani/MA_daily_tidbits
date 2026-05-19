@@ -1,43 +1,43 @@
 {
-  "date": "2026-05-18 04:51 UTC",
+  "date": "2026-05-19 04:43 UTC",
   "items": [
     {
-      "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
-      "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s environment. In one striking experiment, elderly mice treated with the therapy later behaved like healthy younger mice.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reverse%20Alzheimer%E2%80%99s%20in%20mice%20with%20breakthrough%20nanotechnology",
+      "title": "Plant believed extinct for 60 years suddenly reappears",
+      "summary": "A random photo snapped in the Australian outback has led to the rediscovery of a plant thought extinct for nearly 60 years — proving that ordinary people with smartphones are quietly transforming science. After bird bander Aaron Bean uploaded pictures of a strange shrub to iNaturalist, botanist Anthony Bean immediately recognized it as Ptilotus senarius, a rare species missing since 1967.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260517211447.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CPlant%20believed%20extinct%20for%2060%20years%20suddenly%20reappears",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Scientists opened a sealed envelope after 10 years and gravity still didn’t make sense",
+      "summary": "For more than 200 years, scientists have struggled to pin down the exact strength of gravity — and one physicist spent a decade chasing the answer while keeping his own results hidden from himself. Stephan Schlamminger and his team at NIST painstakingly recreated a landmark French experiment designed to measure “big G,” the universal gravitational constant that governs everything from falling apples to galaxies. When he finally opened a sealed envelope containing the secret number needed to decode the experiment, the results brought both relief and disappointment",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260517211443.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20opened%20a%20sealed%20envelope%20after%2010%20years%20and%20gravity%20still%20didn%E2%80%99t%20make%20sense",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
-      "summary": "Astronomers have revealed the sharpest image ever captured of a filament in the cosmic web — the enormous hidden structure connecting galaxies across the Universe. The glowing strand stretches 3 million light-years and links two galaxies from nearly 12 billion years ago. By observing this faint intergalactic gas directly for the first time in such detail, scientists gained new insight into how galaxies are fueled and formed.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260516034136.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CFirst-ever%20direct%20image%20of%20the%20cosmic%20web%20reveals%20the%20Universe%E2%80%99s%20hidden%20highways",
+      "title": "Schrödinger’s clock: Time could tick faster and slower at the same time",
+      "summary": "Time might be even stranger than Einstein imagined. Physicists are now exploring the possibility that a single clock could exist in a quantum superposition, ticking both faster and slower at the same time — almost like Schrödinger’s cat being both alive and dead simultaneously. Using incredibly precise atomic clocks and cutting-edge quantum technologies, researchers believe they may soon be able to test this bizarre prediction in the lab for the first time.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260517211440.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CSchr%C3%B6dinger%E2%80%99s%20clock%3A%20Time%20could%20tick%20faster%20and%20slower%20at%20the%20same%20time",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Physics"
     },
     {
-      "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
-      "summary": "Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance in mouse models of dementia. The discovery hints that energy failure inside neurons could happen before brain cells die, potentially offering a new target for future Alzheimer’s treatments.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515234803.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reversed%20memory%20loss%20by%20recharging%20the%20brain%E2%80%99s%20tiny%20engines",
+      "title": "Hidden sugar patterns on human cells could reveal cancer early",
+      "summary": "Scientists have uncovered a hidden “sugar code” on the surface of human cells that could transform how diseases are detected. Using an advanced imaging technique called Glycan Atlasing, researchers at the Max Planck Institute mapped the tiny sugar structures coating cells and discovered that these patterns shift depending on what the cell is doing. Immune cells changed their sugar layouts when activated, and cancerous tissues displayed distinct surface signatures compared to healthy tissue.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260517211431.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CHidden%20sugar%20patterns%20on%20human%20cells%20could%20reveal%20cancer%20early",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Biology"
     },
     {
-      "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
-      "summary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20hidden%20brain%20nutrient%20deficit%20that%20may%20fuel%20anxiety",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Stunning fossil discovery in Ethiopia rewrites human origins",
-      "summary": "A stunning fossil discovery in Ethiopia shows that early Homo and a previously unknown Australopithecus species lived together around 2.6 to 2.8 million years ago. The find overturns the classic “ape-to-human” progression and paints human evolution as a crowded, branching tree with multiple species coexisting. Scientists dated the fossils using volcanic ash deposits and are now investigating what these ancient relatives ate and whether they competed for resources.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515234644.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CStunning%20fossil%20discovery%20in%20Ethiopia%20rewrites%20human%20origins",
+      "title": "Scientists think they’ve cracked the mystery of human right-handedness",
+      "summary": "A new study suggests humans became overwhelmingly right-handed because of two major evolutionary shifts: walking on two legs and developing much larger brains. Researchers found that as human ancestors evolved, their right-hand preference steadily intensified — transforming a mild tendency into one of humanity’s most distinctive traits.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260517211429.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20think%20they%E2%80%99ve%20cracked%20the%20mystery%20of%20human%20right-handedness",
       "wiki_url": "",
       "category": "AI"
     },
