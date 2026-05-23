@@ -1,6 +1,30 @@
 {
-  "date": "2026-05-22 04:45 UTC",
+  "date": "2026-05-23 04:26 UTC",
   "items": [
+    {
+      "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
+      "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower thinking, delayed visual processing, and more damage to the brain’s white matter — the communication highways that help different brain regions work together.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20warn%20that%20current%20vitamin%20B12%20guidelines%20may%20be%20putting%20your%20brain%20at%20risk",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
+      "summary": "Scientists have identified potentially cancer-causing chemicals hiding in many everyday foods, especially those exposed to high heat cooking methods like grilling, roasting, smoking, and frying. The compounds, known as PAHs, can form during cooking or enter foods through contamination, raising concerns about long-term health risks.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20uncover%20cancer-causing%20chemicals%20hidden%20in%20everyday%20foods",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Einstein’s “wormhole” may actually reveal a hidden mirror of time",
+      "summary": "What if wormholes were never cosmic tunnels at all? New research suggests Einstein and Rosen’s famous “bridge” may actually reveal something even stranger: time itself could flow in two directions at once. Instead of connecting distant places in space, these bridges may connect mirror versions of time deep inside quantum physics, potentially solving the long-standing black hole information paradox and hinting that our universe existed before the Big Bang.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260522023129.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CEinstein%E2%80%99s%20%E2%80%9Cwormhole%E2%80%9D%20may%20actually%20reveal%20a%20hidden%20mirror%20of%20time",
+      "wiki_url": "",
+      "category": "Physics"
+    },
     {
       "title": "“Zombie cells” aren’t always bad and that could transform anti-aging medicine",
       "summary": "Scientists are uncovering a surprising truth about aging cells: some may damage the body, while others help protect it. The discovery is fueling a new wave of precision anti-aging therapies aimed at removing only the harmful “zombie” cells without disrupting the body’s natural repair systems.",
@@ -16,30 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20discover%20towering%20red%20auroras%20reaching%20deep%20into%20space%20above%20Japan",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "James Webb discovers a rare giant planet with surprisingly Earth-like temperatures",
-      "summary": "Astronomers using NASA’s James Webb Space Telescope have uncovered a rare world unlike anything in our solar system — a giant planet about the size of Saturn with surprisingly Earth-like temperatures and an atmosphere packed with methane. The planet, TOI-199b, sits more than 330 light-years away and is one of the first known “temperate” gas giants ever studied in detail.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260521072355.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CJames%20Webb%20discovers%20a%20rare%20giant%20planet%20with%20surprisingly%20Earth-like%20temperatures",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "MIT scientists discover amino acid that helps the gut heal itself",
-      "summary": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researchers say the discovery could eventually lead to new dietary therapies for cancer patients suffering from treatment-related gut damage.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMIT%20scientists%20discover%20amino%20acid%20that%20helps%20the%20gut%20heal%20itself",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover the nutrient that can supercharge cellular energy",
-      "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20the%20nutrient%20that%20can%20supercharge%20cellular%20energy",
-      "wiki_url": "",
-      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
