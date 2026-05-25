@@ -1,6 +1,38 @@
 {
-  "date": "2026-05-24 04:48 UTC",
+  "date": "2026-05-25 05:06 UTC",
   "items": [
+    {
+      "title": "Scientists discover the oldest wooden tools ever used by humans",
+      "summary": "Scientists have uncovered the oldest known hand-held wooden tools ever used by humans — and they’re an astonishing 430,000 years old. Buried for hundreds of thousands of years at an ancient lakeside site in Greece, the carefully carved wooden objects reveal that early humans were far more skilled and resourceful than once believed.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260523103939.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20the%20oldest%20wooden%20tools%20ever%20used%20by%20humans",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "AI scans 400,000 Reddit posts and finds hidden Ozempic side effects",
+      "summary": "By analyzing over 400,000 Reddit posts, researchers discovered that users of popular GLP-1 weight-loss drugs frequently discussed unexpected symptoms like menstrual irregularities, chills, and hot flashes. The findings suggest AI could turn social media into a powerful early-warning system for spotting side effects that clinical trials may miss.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260523103914.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAI%20scans%20400%2C000%20Reddit%20posts%20and%20finds%20hidden%20Ozempic%20side%20effects",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists may have found the source of the most powerful neutrino ever detected",
+      "summary": "A mysterious particle from deep space has scientists buzzing after the most energetic neutrino ever detected slammed through the Mediterranean Sea. Now, researchers think they may have identified the cosmic “culprits” behind it: blazars — supermassive black holes blasting jets of matter straight toward Earth.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260523103912.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20found%20the%20source%20of%20the%20most%20powerful%20neutrino%20ever%20detected",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists discover atoms suddenly spinning backward in quantum experiment",
+      "summary": "Scientists have directly watched angular momentum move through a crystal for the very first time — and discovered a bizarre twist along the way. Using ultra-powerful terahertz laser pulses, researchers triggered tiny atomic rotations inside a quantum material and found that the direction of rotation can unexpectedly flip as momentum is transferred. The strange reversal happens because of the crystal’s underlying symmetry, creating an almost impossible-sounding effect where two rotations combine into one spinning the opposite way.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260523103903.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20discover%20atoms%20suddenly%20spinning%20backward%20in%20quantum%20experiment",
+      "wiki_url": "",
+      "category": "Physics"
+    },
     {
       "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
       "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower thinking, delayed visual processing, and more damage to the brain’s white matter — the communication highways that help different brain regions work together.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20warn%20that%20current%20vitamin%20B12%20guidelines%20may%20be%20putting%20your%20brain%20at%20risk",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
-      "summary": "Scientists have identified potentially cancer-causing chemicals hiding in many everyday foods, especially those exposed to high heat cooking methods like grilling, roasting, smoking, and frying. The compounds, known as PAHs, can form during cooking or enter foods through contamination, raising concerns about long-term health risks.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20uncover%20cancer-causing%20chemicals%20hidden%20in%20everyday%20foods",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
-      "summary": "Scientists have created an AI-powered system that can scan and map an entire mouse body in extraordinary detail — and it just uncovered a surprising new effect of obesity. Beyond disrupting metabolism, obesity appears to damage facial sensory nerves linked to touch and sensation, while also triggering widespread inflammation across the body.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522023308.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNew%20AI%20body%20map%20reveals%20obesity%E2%80%99s%20hidden%20attack%20on%20facial%20nerves",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover the perfect temperature to keep mangoes fresh much longer",
-      "summary": "Scientists found that storing mangoes at 54°F dramatically slows ripening and keeps the fruit fresh far longer than typical tropical temperatures. The cooler conditions helped mangoes stay firm, retain moisture, and preserve important antioxidants while reducing cellular damage. Researchers also uncovered the internal defense systems that switch on during cold storage, protecting the fruit from stress and decay.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522023136.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20perfect%20temperature%20to%20keep%20mangoes%20fresh%20much%20longer",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Einstein’s “wormhole” may actually reveal a hidden mirror of time",
-      "summary": "What if wormholes were never cosmic tunnels at all? New research suggests Einstein and Rosen’s famous “bridge” may actually reveal something even stranger: time itself could flow in two directions at once. Instead of connecting distant places in space, these bridges may connect mirror versions of time deep inside quantum physics, potentially solving the long-standing black hole information paradox and hinting that our universe existed before the Big Bang.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522023129.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CEinstein%E2%80%99s%20%E2%80%9Cwormhole%E2%80%9D%20may%20actually%20reveal%20a%20hidden%20mirror%20of%20time",
-      "wiki_url": "",
-      "category": "Physics"
     },
     {
       "title": "Dearest Gentle Reader,",
