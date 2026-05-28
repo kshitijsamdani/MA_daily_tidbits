@@ -1,6 +1,22 @@
 {
-  "date": "2026-05-27 04:56 UTC",
+  "date": "2026-05-28 04:51 UTC",
   "items": [
+    {
+      "title": "NASA’s Webb telescope discovers a planet where rock clouds vanish every night",
+      "summary": "A giant planet nearly 700 light-years away has a bizarre daily weather cycle where mineral clouds appear every morning and vanish by nightfall. Using the James Webb Space Telescope, astronomers discovered that WASP-94A b’s mornings are filled with clouds made of rock-like minerals, while its evenings are surprisingly clear. The finding gave scientists their clearest look yet into the planet’s atmosphere and revealed it’s far more Jupiter-like than previously believed.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260527023212.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Webb%20telescope%20discovers%20a%20planet%20where%20rock%20clouds%20vanish%20every%20night",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "NASA’s Fermi telescope reveals the power source behind monster supernovae",
+      "summary": "NASA’s Fermi telescope has detected what may be the first confirmed gamma-ray signal from a superluminous supernova — one of the most extreme explosions in the universe. Scientists believe the blast was powered by a rapidly spinning magnetar, an exotic neutron star with unbelievably strong magnetic fields. The event, called SN 2017egm, erupted 440 million light-years away and may help explain why some supernovae become extraordinarily bright.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260527023210.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Fermi%20telescope%20reveals%20the%20power%20source%20behind%20monster%20supernovae",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
       "summary": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Parkinson’s are treated. By combining vitamin K with components related to vitamin A, the researchers developed compounds that were about three times more effective at turning neural stem cells into neurons than natural vitamin K alone.",
@@ -22,22 +38,6 @@
       "summary": "Scientists working at CERN’s Large Hadron Collider may be seeing the strongest hints yet of physics beyond the Standard Model — the decades-old theory that explains the fundamental particles and forces of the universe. By studying incredibly rare particle transformations called “penguin decays,” researchers found behavior that doesn’t fully match theoretical predictions, raising the possibility that unknown particles or forces are influencing the results.",
       "link": "https://www.sciencedaily.com/releases/2026/05/260526022012.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CLarge%20Hadron%20Collider%20detects%20strange%20particle%20behavior%20that%20could%20rewrite%20physics",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Queenless wasp colonies explode into chaos but hidden helpers save them",
-      "summary": "When a queen wasp suddenly disappears, her colony doesn’t calmly choose a successor — it erupts into chaos. Researchers found that female wasps immediately begin battling for power, shattering the colony’s social order in a frenzy of aggression. But while some fight for the throne, others quietly become the colony’s unsung heroes, stepping up to gather food and care for the young so the society doesn’t collapse.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260526021958.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CQueenless%20wasp%20colonies%20explode%20into%20chaos%20but%20hidden%20helpers%20save%20them",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Venomous Himalayan pit viper was actually 5 different species all along",
-      "summary": "Hidden deep in the towering mountains of the Himalayas, one of Asia’s most mysterious venomous snakes has been keeping a major secret for over 160 years. Scientists have now discovered that the so-called Himalayan pit viper is not just one species, but actually five separate species — including three completely unknown to science until now.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260526021953.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CVenomous%20Himalayan%20pit%20viper%20was%20actually%205%20different%20species%20all%20along",
       "wiki_url": "",
       "category": "AI"
     },
