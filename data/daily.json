@@ -1,45 +1,45 @@
 {
-  "date": "2026-05-28 04:51 UTC",
+  "date": "2026-05-29 04:54 UTC",
   "items": [
     {
-      "title": "NASA’s Webb telescope discovers a planet where rock clouds vanish every night",
-      "summary": "A giant planet nearly 700 light-years away has a bizarre daily weather cycle where mineral clouds appear every morning and vanish by nightfall. Using the James Webb Space Telescope, astronomers discovered that WASP-94A b’s mornings are filled with clouds made of rock-like minerals, while its evenings are surprisingly clear. The finding gave scientists their clearest look yet into the planet’s atmosphere and revealed it’s far more Jupiter-like than previously believed.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260527023212.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Webb%20telescope%20discovers%20a%20planet%20where%20rock%20clouds%20vanish%20every%20night",
+      "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
+      "summary": "Scientists have solved the mystery of the Seychelles’ vanished crocodiles using DNA from historic museum specimens. The reptiles were not a unique species after all, but an isolated population of saltwater crocodiles that likely drifted thousands of kilometers across the Indian Ocean.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260528082503.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CDNA%20solves%20250-year-old%20mystery%20of%20the%20Seychelles%E2%80%99%20lost%20crocodiles",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
+      "summary": "Cambridge researchers created miniature brain-and-spinal-cord systems in the lab that can send signals and even trigger tiny muscle contractions. They discovered that human neurons gradually lose their ability to regrow after damage during development — but that ability can potentially be switched back on. The team identified a gene network controlling this process and found that an existing hormone drug dramatically boosted nerve fiber regrowth.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260528082459.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHuman%20organoids%20reveal%20how%20to%20reverse%20%E2%80%9Cirreversible%E2%80%9D%20nerve%20damage",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "NASA’s Fermi telescope reveals the power source behind monster supernovae",
-      "summary": "NASA’s Fermi telescope has detected what may be the first confirmed gamma-ray signal from a superluminous supernova — one of the most extreme explosions in the universe. Scientists believe the blast was powered by a rapidly spinning magnetar, an exotic neutron star with unbelievably strong magnetic fields. The event, called SN 2017egm, erupted 440 million light-years away and may help explain why some supernovae become extraordinarily bright.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260527023210.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Fermi%20telescope%20reveals%20the%20power%20source%20behind%20monster%20supernovae",
+      "title": "Scottish wrens may be evolving into new species through island gigantism",
+      "summary": "Tiny birds on remote Scottish islands are undergoing a dramatic evolutionary transformation. Scientists studying four isolated populations of British Wrens discovered that some island birds have grown astonishingly large — with the biggest St Kilda Wrens weighing more than twice as much as the smallest mainland birds. The research suggests these wrens are evolving independently, developing unique songs, appearances, and genetics that may eventually turn them into entirely new species.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260528082453.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScottish%20wrens%20may%20be%20evolving%20into%20new%20species%20through%20island%20gigantism",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
-      "summary": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Parkinson’s are treated. By combining vitamin K with components related to vitamin A, the researchers developed compounds that were about three times more effective at turning neural stem cells into neurons than natural vitamin K alone.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20create%20supercharged%20vitamin%20K%20that%20helps%20the%20brain%20heal%20itself",
+      "title": "Forget LASIK: Safer, cheaper vision correction without lasers or surgery",
+      "summary": "Researchers are developing a futuristic alternative to LASIK that reshapes the eye without lasers or incisions. Using mild electrical pulses and platinum contact lenses, they temporarily soften the cornea so it can be molded into a new shape. Early tests on rabbit eyes successfully corrected nearsightedness in about a minute while preserving the eye’s structure.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260528074032.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CForget%20LASIK%3A%20Safer%2C%20cheaper%20vision%20correction%20without%20lasers%20or%20surgery",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Science"
     },
     {
-      "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
-      "summary": "Researchers at Texas A&amp;M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive function improved for months, raising hopes for future treatments targeting dementia and brain fog.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20say%20they%E2%80%99ve%20reversed%20brain%20aging%20with%20a%20simple%20nasal%20spray",
+      "title": "A 100-year-old piano mystery has finally been solved",
+      "summary": "For more than a century, pianists and music teachers have argued over whether a performer’s touch can actually change the tone color of a piano note — and now scientists say the answer is yes. Using a cutting-edge sensor system that tracked piano key movements at 1,000 frames per second, researchers discovered that elite pianists subtly manipulate keys in ways that listeners can genuinely hear, even if they’ve never played piano before.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260528073949.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20100-year-old%20piano%20mystery%20has%20finally%20been%20solved",
       "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Large Hadron Collider detects strange particle behavior that could rewrite physics",
-      "summary": "Scientists working at CERN’s Large Hadron Collider may be seeing the strongest hints yet of physics beyond the Standard Model — the decades-old theory that explains the fundamental particles and forces of the universe. By studying incredibly rare particle transformations called “penguin decays,” researchers found behavior that doesn’t fully match theoretical predictions, raising the possibility that unknown particles or forces are influencing the results.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260526022012.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CLarge%20Hadron%20Collider%20detects%20strange%20particle%20behavior%20that%20could%20rewrite%20physics",
-      "wiki_url": "",
-      "category": "AI"
+      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
