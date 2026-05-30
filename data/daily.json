@@ -1,45 +1,45 @@
 {
-  "date": "2026-05-29 04:54 UTC",
+  "date": "2026-05-30 04:35 UTC",
   "items": [
     {
-      "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
-      "summary": "Scientists have solved the mystery of the Seychelles’ vanished crocodiles using DNA from historic museum specimens. The reptiles were not a unique species after all, but an isolated population of saltwater crocodiles that likely drifted thousands of kilometers across the Indian Ocean.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528082503.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CDNA%20solves%20250-year-old%20mystery%20of%20the%20Seychelles%E2%80%99%20lost%20crocodiles",
+      "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
+      "summary": "A decades-old mystery about Saturn has finally been solved thanks to the James Webb Space Telescope. Scientists discovered that Saturn’s changing “rotation rate” was never caused by the planet speeding up or slowing down, but by powerful winds high in its atmosphere. Webb’s unprecedented observations revealed that Saturn’s northern lights actively heat the atmosphere, creating winds that generate electrical currents, which then power the aurora all over again in a self-sustaining cycle.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAstronomers%20finally%20solve%20Saturn%E2%80%99s%20decades-long%20spin%20mystery",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Hidden driving danger when edible cannabis and alcohol mix",
+      "summary": "Using cannabis edibles and alcohol together may make drivers far more impaired than either substance alone, according to new research from Johns Hopkins. Even more concerning, common field sobriety tests often failed to detect the cannabis-related impairment.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260529043656.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20driving%20danger%20when%20edible%20cannabis%20and%20alcohol%20mix",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
+      "summary": "Scientists have discovered Labrujasuchus expectatus, a bizarre crocodile relative that looked more like an ostrich-like dinosaur than anything resembling a modern crocodile. It walked on two legs, had tiny arms, and sported a toothless beak—an unexpected combination for a member of the crocodile lineage.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260529043641.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20bizarre%20crocodile%20relative%20from%20the%20Triassic%20looked%20like%20an%20ostrich%20dinosaur",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "This newly discovered raptor may have hunted like a giant heron",
+      "summary": "A newly discovered raptor-like dinosaur from Patagonia is changing how scientists think about ancient predators. Named Kank australis, the 70-million-year-old dinosaur appears to have hunted fish much like modern herons, using a long, flexible neck and specialized vertebrae adapted for swift, precise movements.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260529043636.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20newly%20discovered%20raptor%20may%20have%20hunted%20like%20a%20giant%20heron",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Scientists say evolution may work differently than we thought",
+      "summary": "A major research study is challenging one of evolution’s most influential ideas: that most genetic changes that become permanent are essentially neutral. Researchers at the University of Michigan found that beneficial mutations are actually far more common than scientists have long assumed. The puzzle is that these advantageous mutations rarely spread through entire populations. Their answer? Nature keeps changing the rules.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260529030329.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20say%20evolution%20may%20work%20differently%20than%20we%20thought",
       "wiki_url": "",
       "category": "Biology"
-    },
-    {
-      "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
-      "summary": "Cambridge researchers created miniature brain-and-spinal-cord systems in the lab that can send signals and even trigger tiny muscle contractions. They discovered that human neurons gradually lose their ability to regrow after damage during development — but that ability can potentially be switched back on. The team identified a gene network controlling this process and found that an existing hormone drug dramatically boosted nerve fiber regrowth.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528082459.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHuman%20organoids%20reveal%20how%20to%20reverse%20%E2%80%9Cirreversible%E2%80%9D%20nerve%20damage",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scottish wrens may be evolving into new species through island gigantism",
-      "summary": "Tiny birds on remote Scottish islands are undergoing a dramatic evolutionary transformation. Scientists studying four isolated populations of British Wrens discovered that some island birds have grown astonishingly large — with the biggest St Kilda Wrens weighing more than twice as much as the smallest mainland birds. The research suggests these wrens are evolving independently, developing unique songs, appearances, and genetics that may eventually turn them into entirely new species.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528082453.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScottish%20wrens%20may%20be%20evolving%20into%20new%20species%20through%20island%20gigantism",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Forget LASIK: Safer, cheaper vision correction without lasers or surgery",
-      "summary": "Researchers are developing a futuristic alternative to LASIK that reshapes the eye without lasers or incisions. Using mild electrical pulses and platinum contact lenses, they temporarily soften the cornea so it can be molded into a new shape. Early tests on rabbit eyes successfully corrected nearsightedness in about a minute while preserving the eye’s structure.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528074032.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CForget%20LASIK%3A%20Safer%2C%20cheaper%20vision%20correction%20without%20lasers%20or%20surgery",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "A 100-year-old piano mystery has finally been solved",
-      "summary": "For more than a century, pianists and music teachers have argued over whether a performer’s touch can actually change the tone color of a piano note — and now scientists say the answer is yes. Using a cutting-edge sensor system that tracked piano key movements at 1,000 frames per second, researchers discovered that elite pianists subtly manipulate keys in ways that listeners can genuinely hear, even if they’ve never played piano before.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528073949.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20100-year-old%20piano%20mystery%20has%20finally%20been%20solved",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
