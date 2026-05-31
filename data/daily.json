@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-30 04:35 UTC",
+  "date": "2026-05-31 05:05 UTC",
   "items": [
     {
       "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
@@ -18,28 +18,28 @@
       "category": "AI"
     },
     {
+      "title": "Caffeine reversed memory problems caused by sleep deprivation",
+      "summary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCaffeine%20reversed%20memory%20problems%20caused%20by%20sleep%20deprivation",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
+      "summary": "New DNA evidence shows that Europe’s hunter-gatherers and early farmers interacted far more closely than previously thought, with women likely playing a crucial role in spreading farming across northwestern Europe. Centuries later, the arrival of Bell Beaker migrants triggered another sweeping population transformation that extended all the way to Britain.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAncient%20DNA%20reveals%20how%20women%20helped%20transform%20prehistoric%20Europe",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
       "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
       "summary": "Scientists have discovered Labrujasuchus expectatus, a bizarre crocodile relative that looked more like an ostrich-like dinosaur than anything resembling a modern crocodile. It walked on two legs, had tiny arms, and sported a toothless beak—an unexpected combination for a member of the crocodile lineage.",
       "link": "https://www.sciencedaily.com/releases/2026/05/260529043641.htm",
       "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20bizarre%20crocodile%20relative%20from%20the%20Triassic%20looked%20like%20an%20ostrich%20dinosaur",
       "wiki_url": "",
       "category": "Science"
-    },
-    {
-      "title": "This newly discovered raptor may have hunted like a giant heron",
-      "summary": "A newly discovered raptor-like dinosaur from Patagonia is changing how scientists think about ancient predators. Named Kank australis, the 70-million-year-old dinosaur appears to have hunted fish much like modern herons, using a long, flexible neck and specialized vertebrae adapted for swift, precise movements.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260529043636.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20newly%20discovered%20raptor%20may%20have%20hunted%20like%20a%20giant%20heron",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Scientists say evolution may work differently than we thought",
-      "summary": "A major research study is challenging one of evolution’s most influential ideas: that most genetic changes that become permanent are essentially neutral. Researchers at the University of Michigan found that beneficial mutations are actually far more common than scientists have long assumed. The puzzle is that these advantageous mutations rarely spread through entire populations. Their answer? Nature keeps changing the rules.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260529030329.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20say%20evolution%20may%20work%20differently%20than%20we%20thought",
-      "wiki_url": "",
-      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
