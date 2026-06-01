@@ -1,6 +1,38 @@
 {
-  "date": "2026-05-31 05:05 UTC",
+  "date": "2026-06-01 05:26 UTC",
   "items": [
+    {
+      "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
+      "summary": "Great apes appear to build friendships much like humans do. By studying grooming behavior, researchers discovered that chimpanzees and bonobos form close inner circles along with wider networks of weaker social connections. Chimpanzees focus on a few trusted partners and become more selective with age, while bonobos maintain a more egalitarian social style.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CChimpanzees%20and%20bonobos%20have%20human-like%20friend%20circles%2C%20study%20finds",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "New solar desalination breakthrough makes fresh water without toxic brine",
+      "summary": "Scientists have developed a solar desalination system that turns seawater into drinking water without creating environmentally damaging brine. Special laser-textured metal panels use sunlight to evaporate water while automatically moving salt deposits away from the working surface, preventing clogging. The process was successfully tested with water from three oceans and can recover nearly all salts as solids. Those leftover materials could even become a source of valuable lithium for batteries.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CNew%20solar%20desalination%20breakthrough%20makes%20fresh%20water%20without%20toxic%20brine",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "The ocean's health may depend on a tiny microbe inside fish",
+      "summary": "A surprising new discovery suggests that tiny microbes living inside fish may be helping shape the chemistry of the world’s oceans. Scientists found evidence that bacteria in the guts of marine fish work alongside their hosts to produce calcium carbonate, a mineral that plays an important role in ocean health and carbon storage. For years, researchers believed fish handled this process on their own, but the new findings point to a hidden partnership between fish and microbes.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260530053414.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CThe%20ocean%27s%20health%20may%20depend%20on%20a%20tiny%20microbe%20inside%20fish",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Intermittent fasting triggers surprising changes in the brain",
+      "summary": "Losing weight may involve rewiring the gut and the brain at the same time. In a study of obese adults, an intermittent fasting-style diet led to significant weight loss, healthier metabolic markers, and notable shifts in gut bacteria. Brain scans also revealed changes in regions tied to appetite, cravings, and self-control. The results suggest the gut microbiome and brain may work together to influence weight-loss success.",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260530004622.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CIntermittent%20fasting%20triggers%20surprising%20changes%20in%20the%20brain",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
       "summary": "A decades-old mystery about Saturn has finally been solved thanks to the James Webb Space Telescope. Scientists discovered that Saturn’s changing “rotation rate” was never caused by the planet speeding up or slowing down, but by powerful winds high in its atmosphere. Webb’s unprecedented observations revealed that Saturn’s northern lights actively heat the atmosphere, creating winds that generate electrical currents, which then power the aurora all over again in a self-sustaining cycle.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CAstronomers%20finally%20solve%20Saturn%E2%80%99s%20decades-long%20spin%20mystery",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Hidden driving danger when edible cannabis and alcohol mix",
-      "summary": "Using cannabis edibles and alcohol together may make drivers far more impaired than either substance alone, according to new research from Johns Hopkins. Even more concerning, common field sobriety tests often failed to detect the cannabis-related impairment.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260529043656.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20driving%20danger%20when%20edible%20cannabis%20and%20alcohol%20mix",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Caffeine reversed memory problems caused by sleep deprivation",
-      "summary": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the memory deficits caused by lost sleep. The effect was remarkably targeted, helping the impaired circuit recover without overstimulating normal brain function.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CCaffeine%20reversed%20memory%20problems%20caused%20by%20sleep%20deprivation",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
-      "summary": "New DNA evidence shows that Europe’s hunter-gatherers and early farmers interacted far more closely than previously thought, with women likely playing a crucial role in spreading farming across northwestern Europe. Centuries later, the arrival of Bell Beaker migrants triggered another sweeping population transformation that extended all the way to Britain.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAncient%20DNA%20reveals%20how%20women%20helped%20transform%20prehistoric%20Europe",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
-      "summary": "Scientists have discovered Labrujasuchus expectatus, a bizarre crocodile relative that looked more like an ostrich-like dinosaur than anything resembling a modern crocodile. It walked on two legs, had tiny arms, and sported a toothless beak—an unexpected combination for a member of the crocodile lineage.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260529043641.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20bizarre%20crocodile%20relative%20from%20the%20Triassic%20looked%20like%20an%20ostrich%20dinosaur",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
