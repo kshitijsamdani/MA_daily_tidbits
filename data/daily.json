@@ -1,43 +1,43 @@
 {
-  "date": "2026-06-01 05:26 UTC",
+  "date": "2026-06-02 05:12 UTC",
   "items": [
+    {
+      "title": "Your kitchen sponge is releasing microplastics every time you wash dishes",
+      "summary": "Kitchen sponges release microplastics as they wear down during everyday use, with some sponge types shedding far more than others. Researchers estimated that millions of households could collectively release hundreds of tons of microplastics annually.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025356.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CYour%20kitchen%20sponge%20is%20releasing%20microplastics%20every%20time%20you%20wash%20dishes",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "The forgotten organ that could predict how long you live",
+      "summary": "A long-overlooked organ may hold surprising clues to healthy aging and cancer survival. Researchers at Mass General Brigham used AI to analyze CT scans from tens of thousands of adults and found that people with healthier thymuses—a small immune-system organ once thought to become largely irrelevant after childhood—lived longer and had substantially lower risks of heart disease, cancer, and death.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20forgotten%20organ%20that%20could%20predict%20how%20long%20you%20live",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "NASA’s Roman telescope could reveal 100,000 hidden worlds",
+      "summary": "NASA’s Roman Space Telescope could revolutionize the search for alien worlds by discovering around 100,000 exoplanets—far more than all previous missions combined. It will look deep into unexplored parts of the Milky Way, helping scientists compare planetary systems across very different galactic environments. The mission will also uncover rare Earth-sized planets, study thousands of exotic alien atmospheres, and provide a treasure trove of data that could reshape our understanding of how planets form.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025334.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Roman%20telescope%20could%20reveal%20100%2C000%20hidden%20worlds",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Hubble captures M88 on a perilous journey that could change it forever",
+      "summary": "A stunning spiral galaxy called Messier 88 is racing through the crowded Virgo Cluster on a journey that will dramatically reshape its future. At its heart lies a supermassive black hole about 100 million times the mass of the Sun, while its graceful spiral arms sparkle with young star clusters and dark clouds of dust. But as M88 plunges deeper into the cluster over the next few hundred million years, powerful forces will strip away much of the gas it needs to create new stars.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025329.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CHubble%20captures%20M88%20on%20a%20perilous%20journey%20that%20could%20change%20it%20forever",
+      "wiki_url": "",
+      "category": "Space"
+    },
     {
       "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
       "summary": "Great apes appear to build friendships much like humans do. By studying grooming behavior, researchers discovered that chimpanzees and bonobos form close inner circles along with wider networks of weaker social connections. Chimpanzees focus on a few trusted partners and become more selective with age, while bonobos maintain a more egalitarian social style.",
       "link": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CChimpanzees%20and%20bonobos%20have%20human-like%20friend%20circles%2C%20study%20finds",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "New solar desalination breakthrough makes fresh water without toxic brine",
-      "summary": "Scientists have developed a solar desalination system that turns seawater into drinking water without creating environmentally damaging brine. Special laser-textured metal panels use sunlight to evaporate water while automatically moving salt deposits away from the working surface, preventing clogging. The process was successfully tested with water from three oceans and can recover nearly all salts as solids. Those leftover materials could even become a source of valuable lithium for batteries.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CNew%20solar%20desalination%20breakthrough%20makes%20fresh%20water%20without%20toxic%20brine",
-      "wiki_url": "",
-      "category": "Environment"
-    },
-    {
-      "title": "The ocean's health may depend on a tiny microbe inside fish",
-      "summary": "A surprising new discovery suggests that tiny microbes living inside fish may be helping shape the chemistry of the world’s oceans. Scientists found evidence that bacteria in the guts of marine fish work alongside their hosts to produce calcium carbonate, a mineral that plays an important role in ocean health and carbon storage. For years, researchers believed fish handled this process on their own, but the new findings point to a hidden partnership between fish and microbes.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260530053414.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CThe%20ocean%27s%20health%20may%20depend%20on%20a%20tiny%20microbe%20inside%20fish",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Intermittent fasting triggers surprising changes in the brain",
-      "summary": "Losing weight may involve rewiring the gut and the brain at the same time. In a study of obese adults, an intermittent fasting-style diet led to significant weight loss, healthier metabolic markers, and notable shifts in gut bacteria. Brain scans also revealed changes in regions tied to appetite, cravings, and self-control. The results suggest the gut microbiome and brain may work together to influence weight-loss success.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260530004622.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CIntermittent%20fasting%20triggers%20surprising%20changes%20in%20the%20brain",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
-      "summary": "A decades-old mystery about Saturn has finally been solved thanks to the James Webb Space Telescope. Scientists discovered that Saturn’s changing “rotation rate” was never caused by the planet speeding up or slowing down, but by powerful winds high in its atmosphere. Webb’s unprecedented observations revealed that Saturn’s northern lights actively heat the atmosphere, creating winds that generate electrical currents, which then power the aurora all over again in a self-sustaining cycle.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAstronomers%20finally%20solve%20Saturn%E2%80%99s%20decades-long%20spin%20mystery",
       "wiki_url": "",
       "category": "AI"
     },
