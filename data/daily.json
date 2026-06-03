@@ -1,6 +1,38 @@
 {
-  "date": "2026-06-02 05:12 UTC",
+  "date": "2026-06-03 05:28 UTC",
   "items": [
+    {
+      "title": "A single protein may be holding back CAR T cancer therapy",
+      "summary": "A newly identified protein may be one of the biggest obstacles holding CAR T-cell therapy back. Researchers found that NFIL3 causes these engineered immune cells to become exhausted and lose their cancer-fighting power over time. When NFIL3 was disabled, the cells remained stronger for longer and controlled tumors more effectively in animal models.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260602021641.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20single%20protein%20may%20be%20holding%20back%20CAR%20T%20cancer%20therapy",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "This blood-feeding fly sacrifices its sight after finding a host",
+      "summary": "Deer keds rely on flight and vision to find a host, but everything changes once they land. After shedding their wings forever, these parasites reduce the activity of key vision-related genes by about half. Scientists believe they are effectively trading sharp eyesight for extra energy that can be used for feeding and reproduction.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260602021633.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20blood-feeding%20fly%20sacrifices%20its%20sight%20after%20finding%20a%20host",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "A stellar “Rosetta stone” reveals the source of mysterious cosmic signals",
+      "summary": "Astronomers have finally cracked the mystery behind a strange class of repeating cosmic signals that has baffled scientists for years. Using Australia’s ASKAP radio telescope, researchers traced the bursts to a rare stellar duo in which a dense white dwarf is relentlessly siphoning material from a nearby red dwarf companion. As the stolen matter spirals inward, the system unleashes powerful radio waves and X-rays every 1.4 hours.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260602021631.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20stellar%20%E2%80%9CRosetta%20stone%E2%80%9D%20reveals%20the%20source%20of%20mysterious%20cosmic%20signals",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Your brain starts making social decisions before you do",
+      "summary": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260602021629.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20brain%20starts%20making%20social%20decisions%20before%20you%20do",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Your kitchen sponge is releasing microplastics every time you wash dishes",
       "summary": "Kitchen sponges release microplastics as they wear down during everyday use, with some sponge types shedding far more than others. Researchers estimated that millions of households could collectively release hundreds of tons of microplastics annually.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Science%2CYour%20kitchen%20sponge%20is%20releasing%20microplastics%20every%20time%20you%20wash%20dishes",
       "wiki_url": "",
       "category": "Science"
-    },
-    {
-      "title": "The forgotten organ that could predict how long you live",
-      "summary": "A long-overlooked organ may hold surprising clues to healthy aging and cancer survival. Researchers at Mass General Brigham used AI to analyze CT scans from tens of thousands of adults and found that people with healthier thymuses—a small immune-system organ once thought to become largely irrelevant after childhood—lived longer and had substantially lower risks of heart disease, cancer, and death.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20forgotten%20organ%20that%20could%20predict%20how%20long%20you%20live",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "NASA’s Roman telescope could reveal 100,000 hidden worlds",
-      "summary": "NASA’s Roman Space Telescope could revolutionize the search for alien worlds by discovering around 100,000 exoplanets—far more than all previous missions combined. It will look deep into unexplored parts of the Milky Way, helping scientists compare planetary systems across very different galactic environments. The mission will also uncover rare Earth-sized planets, study thousands of exotic alien atmospheres, and provide a treasure trove of data that could reshape our understanding of how planets form.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260601025334.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Roman%20telescope%20could%20reveal%20100%2C000%20hidden%20worlds",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Hubble captures M88 on a perilous journey that could change it forever",
-      "summary": "A stunning spiral galaxy called Messier 88 is racing through the crowded Virgo Cluster on a journey that will dramatically reshape its future. At its heart lies a supermassive black hole about 100 million times the mass of the Sun, while its graceful spiral arms sparkle with young star clusters and dark clouds of dust. But as M88 plunges deeper into the cluster over the next few hundred million years, powerful forces will strip away much of the gas it needs to create new stars.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260601025329.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CHubble%20captures%20M88%20on%20a%20perilous%20journey%20that%20could%20change%20it%20forever",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
-      "summary": "Great apes appear to build friendships much like humans do. By studying grooming behavior, researchers discovered that chimpanzees and bonobos form close inner circles along with wider networks of weaker social connections. Chimpanzees focus on a few trusted partners and become more selective with age, while bonobos maintain a more egalitarian social style.",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CChimpanzees%20and%20bonobos%20have%20human-like%20friend%20circles%2C%20study%20finds",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
