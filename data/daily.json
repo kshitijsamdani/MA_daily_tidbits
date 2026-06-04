@@ -1,45 +1,45 @@
 {
-  "date": "2026-06-03 05:28 UTC",
+  "date": "2026-06-04 05:23 UTC",
   "items": [
     {
-      "title": "A single protein may be holding back CAR T cancer therapy",
-      "summary": "A newly identified protein may be one of the biggest obstacles holding CAR T-cell therapy back. Researchers found that NFIL3 causes these engineered immune cells to become exhausted and lose their cancer-fighting power over time. When NFIL3 was disabled, the cells remained stronger for longer and controlled tumors more effectively in animal models.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260602021641.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20single%20protein%20may%20be%20holding%20back%20CAR%20T%20cancer%20therapy",
+      "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
+      "summary": "An ancient mountain cave in the Pyrenees may have served as one of the earliest high-altitude mining camps ever discovered, with evidence of repeated visits spanning thousands of years. The find becomes even more intriguing with the discovery of a child’s remains and clues that deeper excavations could uncover prehistoric burials.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260603023914.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20child%27s%20tooth%20and%20strange%20green%20stones%20uncover%20a%205%2C500-year-old%20mystery",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "This blood-feeding fly sacrifices its sight after finding a host",
-      "summary": "Deer keds rely on flight and vision to find a host, but everything changes once they land. After shedding their wings forever, these parasites reduce the activity of key vision-related genes by about half. Scientists believe they are effectively trading sharp eyesight for extra energy that can be used for feeding and reproduction.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260602021633.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20blood-feeding%20fly%20sacrifices%20its%20sight%20after%20finding%20a%20host",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "A stellar “Rosetta stone” reveals the source of mysterious cosmic signals",
-      "summary": "Astronomers have finally cracked the mystery behind a strange class of repeating cosmic signals that has baffled scientists for years. Using Australia’s ASKAP radio telescope, researchers traced the bursts to a rare stellar duo in which a dense white dwarf is relentlessly siphoning material from a nearby red dwarf companion. As the stolen matter spirals inward, the system unleashes powerful radio waves and X-rays every 1.4 hours.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260602021631.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20stellar%20%E2%80%9CRosetta%20stone%E2%80%9D%20reveals%20the%20source%20of%20mysterious%20cosmic%20signals",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Your brain starts making social decisions before you do",
-      "summary": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fish with stronger neural signals were generally more social.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260602021629.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20brain%20starts%20making%20social%20decisions%20before%20you%20do",
+      "title": "Venus will disappear behind the Moon in a rare June sky event",
+      "summary": "June's night sky delivers several must-see events, starting with a close encounter between Venus and Jupiter after sunset. Mercury joins the pair to form a rare three-planet lineup, while the Moon puts on a special show by passing in front of Venus for viewers in parts of the Americas. The month also marks the start of astronomical summer and the return of spectacular deep-sky targets like the Ring Nebula and Veil Nebula.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260603023107.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CVenus%20will%20disappear%20behind%20the%20Moon%20in%20a%20rare%20June%20sky%20event",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Your kitchen sponge is releasing microplastics every time you wash dishes",
-      "summary": "Kitchen sponges release microplastics as they wear down during everyday use, with some sponge types shedding far more than others. Researchers estimated that millions of households could collectively release hundreds of tons of microplastics annually.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260601025356.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CYour%20kitchen%20sponge%20is%20releasing%20microplastics%20every%20time%20you%20wash%20dishes",
+      "title": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
+      "summary": "Scientists at Lawrence Livermore National Laboratory recreated part of the intense chaos inside a nuclear fireball to better understand how radioactive fallout forms. Their experiments revealed that the way vaporized materials cool can dramatically change the particles that eventually form, especially for volatile elements like cesium.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20simulated%20a%20nuclear%20fireball%20and%20found%20a%20surprise%20in%20the%20fallout",
       "wiki_url": "",
-      "category": "Science"
+      "category": "Physics"
+    },
+    {
+      "title": "This new diabetes pill burns fat without the downsides of Ozempic",
+      "summary": "Scientists have developed an experimental diabetes and obesity pill that works in a completely different way from drugs like Ozempic. Rather than reducing hunger, it activates metabolism in skeletal muscle, helping lower blood sugar and increase fat burning while preserving muscle mass. Early clinical results suggest the treatment is safe and well tolerated.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CThis%20new%20diabetes%20pill%20burns%20fat%20without%20the%20downsides%20of%20Ozempic",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
+      "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for future treatments.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reverse%20anxiety%20by%20fixing%20a%20tiny%20brain%20circuit",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
