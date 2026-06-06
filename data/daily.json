@@ -1,45 +1,45 @@
 {
-  "date": "2026-06-05 04:57 UTC",
+  "date": "2026-06-06 04:37 UTC",
   "items": [
     {
-      "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
-      "summary": "Scientists examining amber from Goethe’s personal collection discovered three hidden fossil insects, including an extinct ant preserved in extraordinary detail. Advanced 3D imaging allowed researchers to see not only the ant’s outer features but also structures inside its body. The findings offer new clues about the species’ biology and suggest it likely built large nests in trees.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CGoethe%20never%20knew%20this%2040-million-year-old%20ant%20was%20hidden%20in%20his%20collection",
+      "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
+      "summary": "Researchers have shown that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil, cut soot emissions by 40%, and could help prevent spills from reaching sensitive marine habitats.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CGiant%20fire%20tornadoes%20could%20clean%20up%20oil%20spills%20faster%20with%20less%20pollution",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "Hidden supermassive black hole pairs may finally have a visible signal",
+      "summary": "Scientists have proposed a new method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes’ gravity. The timing and brightness of these bursts could provide a unique fingerprint of black holes slowly spiraling toward a future collision.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20supermassive%20black%20hole%20pairs%20may%20finally%20have%20a%20visible%20signal",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
-      "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought couldn't be done. In a major clinical trial, the treatment nearly doubled survival for patients with advanced disease and reduced the risk of death by 60%.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20finally%20crack%20an%20%E2%80%9Cundruggable%E2%80%9D%20pancreatic%20cancer%20target%20and%20nearly%20double%20survival",
+      "title": "Octopuses use mirrors to find food they cannot see",
+      "summary": "Octopuses may be even smarter than we thought. Researchers at Dartmouth found that octopuses can learn to use mirrors to locate food hidden behind them—a skill previously seen only in vertebrates like mammals and birds. After training, the animals correctly identified the food’s location about 73% of the time, showing they could use a mirror as a tool rather than simply reacting to a reflection.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260605023402.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2COctopuses%20use%20mirrors%20to%20find%20food%20they%20cannot%20see",
       "wiki_url": "",
-      "category": "Health"
+      "category": "AI"
     },
     {
-      "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
-      "summary": "Researchers at EPFL have developed a chip-scale ultrafast laser that performs on par with traditional tabletop femtosecond lasers. The innovation could make advanced laser technologies far smaller, cheaper, and more accessible for applications ranging from medical diagnostics to atomic clocks.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260604044240.htm",
-      "image": "https://source.unsplash.com/1600x900/?Entrepreneurship%2CAfter%2020%20years%2C%20scientists%20finally%20shrink%20a%20powerful%20laser%20onto%20a%20chip",
+      "title": "AI-designed universal coronavirus vaccine passes first human trial",
+      "summary": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronaviruses, including SARS-CoV-2, SARS, and related bat viruses with pandemic potential. By targeting features shared across an entire virus family, it aims to provide protection even as viruses evolve.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAI-designed%20universal%20coronavirus%20vaccine%20passes%20first%20human%20trial",
       "wiki_url": "",
-      "category": "Entrepreneurship"
+      "category": "AI"
     },
     {
-      "title": "Scientists discover the master clock that controls biological growth and development",
-      "summary": "A newly discovered genetic clock acts as the master timekeeper for development, orchestrating crucial bursts of gene activity throughout a worm’s growth. When the clock is disrupted, development stops, offering fresh clues about how growth-related disorders may arise.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260604044236.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20the%20master%20clock%20that%20controls%20biological%20growth%20and%20development",
+      "title": "Magnetic fields may be the secret behind binary star formation",
+      "summary": "Scientists have uncovered a surprising force that may help explain how binary star systems form so quickly. New supercomputer simulations show that magnetic fields surrounding newborn stars can act like a cosmic brake, stripping away angular momentum and allowing two still-forming protostars to spiral closer together instead of drifting apart.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260605023355.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMagnetic%20fields%20may%20be%20the%20secret%20behind%20binary%20star%20formation",
       "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Beluga whales keep switching mates and it may be saving their species",
-      "summary": "Hidden beneath Arctic waters, beluga whales have long kept their family lives a mystery. By analyzing DNA from more than 600 belugas in Alaska’s Bristol Bay over 13 years, researchers uncovered a surprisingly flexible mating system: both males and females regularly have offspring with different partners over their lifetimes.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260603023921.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CBeluga%20whales%20keep%20switching%20mates%20and%20it%20may%20be%20saving%20their%20species",
-      "wiki_url": "",
-      "category": "Biology"
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
