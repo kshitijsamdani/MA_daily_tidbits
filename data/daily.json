@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-07 05:08 UTC",
+  "date": "2026-06-08 05:14 UTC",
   "items": [
     {
       "title": "Scientists found a surprisingly simple way to create powerful quantum states",
@@ -18,6 +18,14 @@
       "category": "AI"
     },
     {
+      "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
+      "summary": "Researchers have finally resolved a key problem in a 100-year-old theory of color, showing that the qualities we perceive in colors are intrinsic to the mathematics of color space itself. The discovery sharpens our understanding of human vision and could lead to more precise color technologies and visualizations.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20finally%20complete%20Schr%C3%B6dinger%E2%80%99s%20100-year-old%20color%20theory",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
       "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
       "summary": "Researchers have shown that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil, cut soot emissions by 40%, and could help prevent spills from reaching sensitive marine habitats.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
@@ -30,14 +38,6 @@
       "summary": "Scientists have proposed a new method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes’ gravity. The timing and brightness of these bursts could provide a unique fingerprint of black holes slowly spiraling toward a future collision.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20supermassive%20black%20hole%20pairs%20may%20finally%20have%20a%20visible%20signal",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Octopuses use mirrors to find food they cannot see",
-      "summary": "Octopuses may be even smarter than we thought. Researchers at Dartmouth found that octopuses can learn to use mirrors to locate food hidden behind them—a skill previously seen only in vertebrates like mammals and birds. After training, the animals correctly identified the food’s location about 73% of the time, showing they could use a mirror as a tool rather than simply reacting to a reflection.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260605023402.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2COctopuses%20use%20mirrors%20to%20find%20food%20they%20cannot%20see",
       "wiki_url": "",
       "category": "AI"
     },
