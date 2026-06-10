@@ -1,6 +1,14 @@
 {
-  "date": "2026-06-09 04:47 UTC",
+  "date": "2026-06-10 05:01 UTC",
   "items": [
+    {
+      "title": "Scientists think they solved the mystery of the Amaterasu particle",
+      "summary": "The mysterious Amaterasu particle may not be a proton at all. New research suggests that some of the most extreme cosmic rays could be ultraheavy atomic nuclei, heavier than iron, which are better able to retain their energy while traveling through space. This idea could help explain how these rare particles reach Earth and provide new clues about the powerful cosmic explosions that create them.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20think%20they%20solved%20the%20mystery%20of%20the%20Amaterasu%20particle",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
       "summary": "Astronomers have spent years searching for a possible hidden giant planet far beyond Neptune. Unusual orbits among distant Kuiper Belt objects have fueled the Planet Nine theory, but recent discoveries are challenging the idea by showing more stable motion than expected. If Planet Nine exists, it may be much farther away than originally thought.",
@@ -8,6 +16,14 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CPlanet%20nine%20mystery%20deepens%20as%20new%20discovery%20challenges%20hidden%20planet%20theory",
       "wiki_url": "",
       "category": "Space"
+    },
+    {
+      "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
+      "summary": "Scientists have uncovered new evidence that Stonehenge’s six-ton Altar Stone was deliberately transported hundreds of kilometers from Scotland by ancient people. The feat would have required extraordinary planning, teamwork, and determination, revealing a surprisingly sophisticated level of organization thousands of years ago.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CStonehenge%27s%20most%20mysterious%20stone%20traveled%20700%20kilometers%20across%20Britain",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
@@ -22,22 +38,6 @@
       "summary": "Scientists have uncovered a key brain signal that helps us break old habits and adapt when circumstances suddenly change. By watching mice navigate a virtual maze, researchers found that disappointment—when an expected reward failed to appear—triggered a surge of the neurotransmitter acetylcholine, making the animals more likely to try a new strategy. When acetylcholine was blocked, the mice became less flexible and were more likely to stick with outdated choices.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260606075901.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20brain%20chemical%20that%20helps%20you%20break%20bad%20habits",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "What is space-time? A mystery at the heart of reality",
-      "summary": "What if our biggest idea about reality is built on a hidden misunderstanding? A new philosophical look at space-time challenges the popular view that the past, present, and future all exist together in a timeless \"block universe.\" The argument suggests that physicists may be blurring the difference between things that exist and things that merely occur, creating deep confusion about what space-time actually is.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260606075858.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CWhat%20is%20space-time%3F%20A%20mystery%20at%20the%20heart%20of%20reality",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Scientists may have debunked one of humanity's oldest habits",
-      "summary": "Ancient grooves on human teeth, once hailed as evidence of tooth-picking, may simply be the result of natural wear, according to a new study of wild primates. The research also revealed that a common modern dental defect appears to be uniquely human, hinting that today's lifestyles may be reshaping our teeth in unexpected ways.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260606075855.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20debunked%20one%20of%20humanity%27s%20oldest%20habits",
       "wiki_url": "",
       "category": "AI"
     },
