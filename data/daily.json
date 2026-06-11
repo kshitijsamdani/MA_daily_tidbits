@@ -1,6 +1,30 @@
 {
-  "date": "2026-06-10 05:01 UTC",
+  "date": "2026-06-11 05:11 UTC",
   "items": [
+    {
+      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
+      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20mapped%20every%20neural%20connection%20in%20a%20fruit%20fly%20and%20found%20a%20surprise",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Popular joint supplement glucosamine linked to faster Alzheimer’s progression",
+      "summary": "A major study suggests glucosamine, a popular supplement for joint pain, could be linked to faster progression from mild cognitive impairment to Alzheimer’s disease. Researchers found a 25% higher likelihood of developing dementia among glucosamine users and uncovered biological clues that may explain why.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003044.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CPopular%20joint%20supplement%20glucosamine%20linked%20to%20faster%20Alzheimer%E2%80%99s%20progression",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Earth's first animals barely evolved until sex changed everything",
+      "summary": "Earth’s earliest animals may have held evolution back because they reproduced asexually, creating low-competition communities that changed very little over time. When environmental pressures pushed them toward sexual reproduction, biodiversity exploded and evolution accelerated dramatically.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003042.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CEarth%27s%20first%20animals%20barely%20evolved%20until%20sex%20changed%20everything",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "Scientists think they solved the mystery of the Amaterasu particle",
       "summary": "The mysterious Amaterasu particle may not be a proton at all. New research suggests that some of the most extreme cosmic rays could be ultraheavy atomic nuclei, heavier than iron, which are better able to retain their energy while traveling through space. This idea could help explain how these rare particles reach Earth and provide new clues about the powerful cosmic explosions that create them.",
@@ -16,30 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CPlanet%20nine%20mystery%20deepens%20as%20new%20discovery%20challenges%20hidden%20planet%20theory",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
-      "summary": "Scientists have uncovered new evidence that Stonehenge’s six-ton Altar Stone was deliberately transported hundreds of kilometers from Scotland by ancient people. The feat would have required extraordinary planning, teamwork, and determination, revealing a surprisingly sophisticated level of organization thousands of years ago.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CStonehenge%27s%20most%20mysterious%20stone%20traveled%20700%20kilometers%20across%20Britain",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
-      "summary": "Researchers have identified a new Alzheimer’s target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer’s-related changes, and even appeared to promote healthier aging.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608035959.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20found%20a%20new%20Alzheimer%E2%80%99s%20trigger%20and%20a%20drug%20that%20stops%20it",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover the brain chemical that helps you break bad habits",
-      "summary": "Scientists have uncovered a key brain signal that helps us break old habits and adapt when circumstances suddenly change. By watching mice navigate a virtual maze, researchers found that disappointment—when an expected reward failed to appear—triggered a surge of the neurotransmitter acetylcholine, making the animals more likely to try a new strategy. When acetylcholine was blocked, the mice became less flexible and were more likely to stick with outdated choices.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260606075901.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20brain%20chemical%20that%20helps%20you%20break%20bad%20habits",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
