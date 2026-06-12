@@ -1,45 +1,45 @@
 {
-  "date": "2026-06-11 05:11 UTC",
+  "date": "2026-06-12 05:16 UTC",
   "items": [
     {
-      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20mapped%20every%20neural%20connection%20in%20a%20fruit%20fly%20and%20found%20a%20surprise",
+      "title": "Scientists discover a strange property in rice and turn it into a smart material",
+      "summary": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new material that reacts differently to gentle movements and sudden impacts. The material can adapt its stiffness automatically, opening the door to safer soft robots and protective equipment that responds instantly to collisions.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20a%20strange%20property%20in%20rice%20and%20turn%20it%20into%20a%20smart%20material",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Science"
     },
     {
-      "title": "Popular joint supplement glucosamine linked to faster Alzheimer’s progression",
-      "summary": "A major study suggests glucosamine, a popular supplement for joint pain, could be linked to faster progression from mild cognitive impairment to Alzheimer’s disease. Researchers found a 25% higher likelihood of developing dementia among glucosamine users and uncovered biological clues that may explain why.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260610003044.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CPopular%20joint%20supplement%20glucosamine%20linked%20to%20faster%20Alzheimer%E2%80%99s%20progression",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Earth's first animals barely evolved until sex changed everything",
-      "summary": "Earth’s earliest animals may have held evolution back because they reproduced asexually, creating low-competition communities that changed very little over time. When environmental pressures pushed them toward sexual reproduction, biodiversity exploded and evolution accelerated dramatically.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260610003042.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CEarth%27s%20first%20animals%20barely%20evolved%20until%20sex%20changed%20everything",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Scientists think they solved the mystery of the Amaterasu particle",
-      "summary": "The mysterious Amaterasu particle may not be a proton at all. New research suggests that some of the most extreme cosmic rays could be ultraheavy atomic nuclei, heavier than iron, which are better able to retain their energy while traveling through space. This idea could help explain how these rare particles reach Earth and provide new clues about the powerful cosmic explosions that create them.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20think%20they%20solved%20the%20mystery%20of%20the%20Amaterasu%20particle",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
-      "summary": "Astronomers have spent years searching for a possible hidden giant planet far beyond Neptune. Unusual orbits among distant Kuiper Belt objects have fueled the Planet Nine theory, but recent discoveries are challenging the idea by showing more stable motion than expected. If Planet Nine exists, it may be much farther away than originally thought.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040009.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CPlanet%20nine%20mystery%20deepens%20as%20new%20discovery%20challenges%20hidden%20planet%20theory",
+      "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
+      "summary": "NASA has selected the Artemis III crew for a high-stakes 2027 mission designed to test the future of lunar exploration. Astronauts will launch aboard Orion and perform unprecedented docking operations with lunar landers being developed by both Blue Origin and SpaceX. The mission will require a remarkable sequence of heavy-lift rocket launches and complex in-space maneuvers, helping pave the way for future Moon landings and eventually crewed missions to Mars.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20reveals%20Artemis%20III%20crew%20for%20one%20of%20the%20most%20complex%20space%20missions%20ever",
       "wiki_url": "",
       "category": "Space"
+    },
+    {
+      "title": "Scientists built a battery-free device that turns sunlight into fuel",
+      "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically adapts to changing sunlight by altering its electrical properties as it heats up. This keeps solar fuel production more stable while reducing cost and complexity.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
+      "image": "https://source.unsplash.com/1600x900/?Entrepreneurship%2CScientists%20built%20a%20battery-free%20device%20that%20turns%20sunlight%20into%20fuel",
+      "wiki_url": "",
+      "category": "Entrepreneurship"
+    },
+    {
+      "title": "James Webb reveals two completely different twilights on an alien world",
+      "summary": "JWST has revealed dramatic differences between the dawn and dusk regions of the scorching exoplanet WASP-121 b. Fierce winds appear to carry heat from the planet’s permanent dayside, making the evening side hotter and more expanded. Scientists also found signs that water is being broken apart by extreme temperatures and that mysterious mineral clouds may be shaping the cooler side’s atmosphere.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CJames%20Webb%20reveals%20two%20completely%20different%20twilights%20on%20an%20alien%20world",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "AI could uncover new physics faster but there’s a surprising catch",
+      "summary": "Scientists found that transfer learning can make the search for new physics in the universe much faster, slashing the need for expensive simulations. Yet the approach can backfire when AI relies too heavily on familiar patterns, potentially missing evidence of something truly new.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAI%20could%20uncover%20new%20physics%20faster%20but%20there%E2%80%99s%20a%20surprising%20catch",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
