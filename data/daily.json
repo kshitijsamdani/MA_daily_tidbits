@@ -1,43 +1,43 @@
 {
-  "date": "2026-06-13 05:06 UTC",
+  "date": "2026-06-14 05:16 UTC",
   "items": [
+    {
+      "title": "Lucy’s hunter revealed: Giant crocodile terrorized early human ancestors",
+      "summary": "A newly identified crocodile species nicknamed “Lucy’s hunter” prowled Ethiopia’s rivers when Lucy’s species walked the Earth more than 3 million years ago. The giant predator was likely the most dangerous animal in the ecosystem and may have regularly hunted early human relatives.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613034229.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CLucy%E2%80%99s%20hunter%20revealed%3A%20Giant%20crocodile%20terrorized%20early%20human%20ancestors",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Alien planet spins revealed a hidden clue to how worlds form",
+      "summary": "Using the Keck Observatory, astronomers measured the spins of dozens of giant planets and brown dwarfs orbiting distant stars. They found that giant planets can spin faster than much more massive brown dwarfs, challenging simple assumptions about mass and rotation. The results suggest that magnetic fields and formation processes play a major role in determining how fast worlds end up spinning.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CAlien%20planet%20spins%20revealed%20a%20hidden%20clue%20to%20how%20worlds%20form",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Your brain can keep improving into your 90s, study finds",
+      "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20brain%20can%20keep%20improving%20into%20your%2090s%2C%20study%20finds",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Learning a musical instrument in your 70s could help protect memory",
+      "summary": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less age-related brain shrinkage than those who quit. The benefits were especially noticeable in brain regions tied to memory and learning.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CLearning%20a%20musical%20instrument%20in%20your%2070s%20could%20help%20protect%20memory",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "These tiny holes could change how the world cleans water",
       "summary": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles by reducing energy consumption, improving water reuse, and delivering separation performance far beyond current filters.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
       "image": "https://source.unsplash.com/1600x900/?Science%2CThese%20tiny%20holes%20could%20change%20how%20the%20world%20cleans%20water",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "The missing notebooks that solved a 55-million-year-old fossil mystery",
-      "summary": "A spectacular fossil fish discovered on a remote cliff in New Zealand nearly 30 years ago has finally revealed its full story thanks to an unexpected discovery: the original collector’s long-lost field notebooks. The 1.2-meter fossil, preserved in stunning three-dimensional detail, belonged to an ancient tarpon-like predator that cruised New Zealand waters about 55 million years ago.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260612032038.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20missing%20notebooks%20that%20solved%20a%2055-million-year-old%20fossil%20mystery",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
-      "summary": "Deep beneath the ground in China, the massive JUNO neutrino observatory has delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrinos change as they travel. Using just 59 days of data, researchers sharply improved measurements of key neutrino properties, boosting confidence that JUNO can tackle one of particle physics' biggest mysteries: determining the true mass hierarchy of neutrinos.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CGiant%20underground%20neutrino%20detector%20brings%20scientists%20closer%20to%20cracking%20the%20neutrino%20puzzle",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "A legendary golden fabric lost for 2,000 years has returned",
-      "summary": "Researchers in South Korea have recreated the legendary “sea silk” once prized by emperors, using fibers from a clam cultivated in Korean coastal waters. They discovered that its famous golden shine comes from tiny protein structures that reflect light rather than from pigments or dyes. Because the color is built into the fiber’s structure, it can remain vibrant for centuries.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260612021000.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20legendary%20golden%20fabric%20lost%20for%202%2C000%20years%20has%20returned",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover a strange property in rice and turn it into a smart material",
-      "summary": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new material that reacts differently to gentle movements and sudden impacts. The material can adapt its stiffness automatically, opening the door to safer soft robots and protective equipment that responds instantly to collisions.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20a%20strange%20property%20in%20rice%20and%20turn%20it%20into%20a%20smart%20material",
       "wiki_url": "",
       "category": "Science"
     },
