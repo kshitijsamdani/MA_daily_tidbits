@@ -1,45 +1,45 @@
 {
-  "date": "2026-06-14 05:16 UTC",
+  "date": "2026-06-15 05:39 UTC",
   "items": [
     {
-      "title": "Lucy’s hunter revealed: Giant crocodile terrorized early human ancestors",
-      "summary": "A newly identified crocodile species nicknamed “Lucy’s hunter” prowled Ethiopia’s rivers when Lucy’s species walked the Earth more than 3 million years ago. The giant predator was likely the most dangerous animal in the ecosystem and may have regularly hunted early human relatives.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613034229.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CLucy%E2%80%99s%20hunter%20revealed%3A%20Giant%20crocodile%20terrorized%20early%20human%20ancestors",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Alien planet spins revealed a hidden clue to how worlds form",
-      "summary": "Using the Keck Observatory, astronomers measured the spins of dozens of giant planets and brown dwarfs orbiting distant stars. They found that giant planets can spin faster than much more massive brown dwarfs, challenging simple assumptions about mass and rotation. The results suggest that magnetic fields and formation processes play a major role in determining how fast worlds end up spinning.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CAlien%20planet%20spins%20revealed%20a%20hidden%20clue%20to%20how%20worlds%20form",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Your brain can keep improving into your 90s, study finds",
-      "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20brain%20can%20keep%20improving%20into%20your%2090s%2C%20study%20finds",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Learning a musical instrument in your 70s could help protect memory",
-      "summary": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less age-related brain shrinkage than those who quit. The benefits were especially noticeable in brain regions tied to memory and learning.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CLearning%20a%20musical%20instrument%20in%20your%2070s%20could%20help%20protect%20memory",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "These tiny holes could change how the world cleans water",
-      "summary": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles by reducing energy consumption, improving water reuse, and delivering separation performance far beyond current filters.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThese%20tiny%20holes%20could%20change%20how%20the%20world%20cleans%20water",
+      "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
+      "summary": "Researchers tracked honey bees in the wild using a drone-based system and found that each bee follows its own highly consistent flight path. Some repeated their routes so precisely that they flew only centimeters from where they had flown before. Landmarks like trees helped keep them on track, while uniform areas such as cornfields led to more variation.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260614011857.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CHoney%20bees%20have%20their%20own%20personal%20flight%20paths%20and%20fly%20them%20with%20stunning%20precision",
       "wiki_url": "",
       "category": "Science"
+    },
+    {
+      "title": "A dying star could create a new universe instead of a black hole",
+      "summary": "What if some black holes aren’t black holes at all? A new theoretical study suggests that when a massive star collapses, it might not form a singularity hidden behind an event horizon. Instead, the collapse could trigger the birth of a tiny new universe inside the dying star. Driven by dark energy, this miniature cosmos would expand and push back against gravity, preventing complete collapse and creating an exotic object known as a gravastar.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20dying%20star%20could%20create%20a%20new%20universe%20instead%20of%20a%20black%20hole",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Beneath our feet lies a fungal superhighway stretching 68 quadrillion miles",
+      "summary": "Beneath our feet lies a vast hidden fungal superhighway that helps sustain much of life on Earth—and scientists have now mapped it for the first time. Researchers estimate that these underground networks stretch an astonishing 110 quadrillion kilometers, move about 4 billion tons of carbon dioxide into soils each year, and play a major role in supporting plants and regulating the climate.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260614011845.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CBeneath%20our%20feet%20lies%20a%20fungal%20superhighway%20stretching%2068%20quadrillion%20miles",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Yellowstone wolves may not have reshaped the national park after all",
+      "summary": "One of the most celebrated claims about Yellowstone’s wolves is facing a major challenge. Scientists say the study behind the famous trophic cascade story relied on flawed methods that overstated the ecological impact of wolf recovery. Their reanalysis found no evidence for a dramatic, park-wide surge in willow growth. Instead, the effects appear smaller and vary from place to place.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613215510.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CYellowstone%20wolves%20may%20not%20have%20reshaped%20the%20national%20park%20after%20all",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Why middle age is becoming a breaking point in the U.S.",
+      "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic stress may explain why the U.S. is falling behind other wealthy nations.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20middle%20age%20is%20becoming%20a%20breaking%20point%20in%20the%20U.S.",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
