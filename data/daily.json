@@ -1,6 +1,14 @@
 {
-  "date": "2026-06-15 05:39 UTC",
+  "date": "2026-06-16 06:09 UTC",
   "items": [
+    {
+      "title": "This strange material can become strong or fall apart in seconds",
+      "summary": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy structure or rapidly unraveled using vibrations. The unusual behavior could open the door to recyclable buildings, reconfigurable structures, and even futuristic robotic technologies.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CThis%20strange%20material%20can%20become%20strong%20or%20fall%20apart%20in%20seconds",
+      "wiki_url": "",
+      "category": "Physics"
+    },
     {
       "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
       "summary": "Researchers tracked honey bees in the wild using a drone-based system and found that each bee follows its own highly consistent flight path. Some repeated their routes so precisely that they flew only centimeters from where they had flown before. Landmarks like trees helped keep them on track, while uniform areas such as cornfields led to more variation.",
@@ -10,34 +18,26 @@
       "category": "Science"
     },
     {
+      "title": "Scientists turned red lettuce green and something surprising happened",
+      "summary": "Researchers used genome editing to block the production of red pigments in lettuce, causing other beneficial plant compounds to build up instead. The lettuce continued to grow normally, pointing toward a new way to create crops with customized nutritional profiles.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260614011854.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20turned%20red%20lettuce%20green%20and%20something%20surprising%20happened",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Oxford physicists just made Schrödinger’s cat even stranger",
+      "summary": "Oxford physicists have created an entirely new type of Schrödinger’s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for more resilient quantum computers and deeper insights into the strange rules that govern the quantum universe.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2COxford%20physicists%20just%20made%20Schr%C3%B6dinger%E2%80%99s%20cat%20even%20stranger",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
       "title": "A dying star could create a new universe instead of a black hole",
       "summary": "What if some black holes aren’t black holes at all? A new theoretical study suggests that when a massive star collapses, it might not form a singularity hidden behind an event horizon. Instead, the collapse could trigger the birth of a tiny new universe inside the dying star. Driven by dark energy, this miniature cosmos would expand and push back against gravity, preventing complete collapse and creating an exotic object known as a gravastar.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CA%20dying%20star%20could%20create%20a%20new%20universe%20instead%20of%20a%20black%20hole",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Beneath our feet lies a fungal superhighway stretching 68 quadrillion miles",
-      "summary": "Beneath our feet lies a vast hidden fungal superhighway that helps sustain much of life on Earth—and scientists have now mapped it for the first time. Researchers estimate that these underground networks stretch an astonishing 110 quadrillion kilometers, move about 4 billion tons of carbon dioxide into soils each year, and play a major role in supporting plants and regulating the climate.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260614011845.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CBeneath%20our%20feet%20lies%20a%20fungal%20superhighway%20stretching%2068%20quadrillion%20miles",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Yellowstone wolves may not have reshaped the national park after all",
-      "summary": "One of the most celebrated claims about Yellowstone’s wolves is facing a major challenge. Scientists say the study behind the famous trophic cascade story relied on flawed methods that overstated the ecological impact of wolf recovery. Their reanalysis found no evidence for a dramatic, park-wide surge in willow growth. Instead, the effects appear smaller and vary from place to place.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613215510.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYellowstone%20wolves%20may%20not%20have%20reshaped%20the%20national%20park%20after%20all",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Why middle age is becoming a breaking point in the U.S.",
-      "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic stress may explain why the U.S. is falling behind other wealthy nations.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20middle%20age%20is%20becoming%20a%20breaking%20point%20in%20the%20U.S.",
       "wiki_url": "",
       "category": "AI"
     },
