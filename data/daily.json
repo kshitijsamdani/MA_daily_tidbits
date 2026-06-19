@@ -1,6 +1,30 @@
 {
-  "date": "2026-06-18 05:19 UTC",
+  "date": "2026-06-19 05:34 UTC",
   "items": [
+    {
+      "title": "Major errors found in Al Gore-founded Climate TRACE database",
+      "summary": "A new study from Northern Arizona University is raising red flags about a widely used global emissions database from Climate TRACE, a consortium co-founded by Al Gore. Researchers found that the database may be dramatically undercounting carbon dioxide emissions from cars and trucks in cities—by an average of 70% across 260 U.S. cities, with some cities showing gaps of more than 90%.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041519.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMajor%20errors%20found%20in%20Al%20Gore-founded%20Climate%20TRACE%20database",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Black hole winds may be robbing giant galaxies of their future stars",
+      "summary": "Astronomers may be closing in on a long-standing cosmic mystery: why some of the universe’s biggest galaxies seem to have far fewer stars than expected. Using NASA- and JAXA-supported XRISM observations of a galaxy called NGC 4151, researchers found strong evidence that supermassive black holes can unleash powerful winds that blow away the raw material needed to make new stars.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CBlack%20hole%20winds%20may%20be%20robbing%20giant%20galaxies%20of%20their%20future%20stars",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
+      "summary": "Plague was already a deadly killer 5,500 years ago, long before cities, farming, or the rat-infested conditions usually linked to historic outbreaks. By analyzing ancient DNA from hunter-gatherer cemeteries in Siberia, researchers discovered early plague strains in nearly 40% of the individuals studied and found evidence of rapid family-based outbreaks that wiped out many children and young teenagers.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041450.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAncient%20DNA%20reveals%20plague%20was%20already%20killing%20humans%205%2C500%20years%20ago",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Humans may have hidden regenerative powers",
       "summary": "Scientists have taken a surprising step toward unlocking regeneration in mammals, showing that the ability to rebuild complex body parts may not be lost after all—it may simply be switched off. Using a two-stage treatment, researchers redirected the body’s normal healing response away from scar formation and toward regrowth, successfully restoring bone, joints, ligaments, and tendons after amputation in animal studies.",
@@ -16,30 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20spider%20that%20disguises%20itself%20as%20a%20parasitic%20fungus",
       "wiki_url": "",
       "category": "Biology"
-    },
-    {
-      "title": "On the brink of extinction, the vaquita gets a digital lifeline",
-      "summary": "Scientists have digitally preserved the world’s most endangered marine mammal by creating highly detailed 3D models of a vaquita skeleton using advanced imaging technology. The virtual archive provides an unprecedented look at the species and could help inspire conservation efforts before the tiny porpoise disappears forever.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260616102223.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2COn%20the%20brink%20of%20extinction%2C%20the%20vaquita%20gets%20a%20digital%20lifeline",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Alien messages may have reached Earth without us realizing it",
-      "summary": "A new SETI study suggests we may be overlooking alien signals not because they aren't there, but because their own stars are scrambling them before they escape into space. Turbulent plasma and powerful stellar storms can spread an ultra-narrow radio transmission across a wider range of frequencies, making it much harder for traditional searches to spot. The effect could be especially important around M-dwarf stars, the most common stars in the Milky Way.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260615033851.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CAlien%20messages%20may%20have%20reached%20Earth%20without%20us%20realizing%20it",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "This strange material can become strong or fall apart in seconds",
-      "summary": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy structure or rapidly unraveled using vibrations. The unusual behavior could open the door to recyclable buildings, reconfigurable structures, and even futuristic robotic technologies.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CThis%20strange%20material%20can%20become%20strong%20or%20fall%20apart%20in%20seconds",
-      "wiki_url": "",
-      "category": "Physics"
     },
     {
       "title": "Dearest Gentle Reader,",
