@@ -1,6 +1,38 @@
 {
-  "date": "2026-06-19 05:34 UTC",
+  "date": "2026-06-20 04:53 UTC",
   "items": [
+    {
+      "title": "Einstein’s “biggest blunder” may finally have an explanation",
+      "summary": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological constant from disruptive quantum effects.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CEinstein%E2%80%99s%20%E2%80%9Cbiggest%20blunder%E2%80%9D%20may%20finally%20have%20an%20explanation",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists expected a black hole but found a neutrino factory powered by stars",
+      "summary": "A distant galaxy nicknamed Shadow Blaster may have revealed a surprising source of cosmic neutrinos: extreme star formation instead of a supermassive black hole. The discovery suggests that hidden, dust-filled starburst galaxies could account for a significant fraction of the Universe’s high-energy neutrinos.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619020510.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20expected%20a%20black%20hole%20but%20found%20a%20neutrino%20factory%20powered%20by%20stars",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Researchers found a Wordle strategy that wins 99% of the time",
+      "summary": "Researchers developed a Wordle-solving strategy that succeeds 99% of the time by focusing on information gain rather than likely answers. The method uses Shannon entropy to identify guesses that reveal the most about the hidden word. Each guess is designed to slash uncertainty and narrow the possibilities faster. The result significantly outperformed more traditional Wordle tactics.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CResearchers%20found%20a%20Wordle%20strategy%20that%20wins%2099%25%20of%20the%20time",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists reprogram brain immune cells to fight Alzheimer’s",
+      "summary": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619020506.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reprogram%20brain%20immune%20cells%20to%20fight%20Alzheimer%E2%80%99s",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Major errors found in Al Gore-founded Climate TRACE database",
       "summary": "A new study from Northern Arizona University is raising red flags about a widely used global emissions database from Climate TRACE, a consortium co-founded by Al Gore. Researchers found that the database may be dramatically undercounting carbon dioxide emissions from cars and trucks in cities—by an average of 70% across 260 U.S. cities, with some cities showing gaps of more than 90%.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CMajor%20errors%20found%20in%20Al%20Gore-founded%20Climate%20TRACE%20database",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Black hole winds may be robbing giant galaxies of their future stars",
-      "summary": "Astronomers may be closing in on a long-standing cosmic mystery: why some of the universe’s biggest galaxies seem to have far fewer stars than expected. Using NASA- and JAXA-supported XRISM observations of a galaxy called NGC 4151, researchers found strong evidence that supermassive black holes can unleash powerful winds that blow away the raw material needed to make new stars.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CBlack%20hole%20winds%20may%20be%20robbing%20giant%20galaxies%20of%20their%20future%20stars",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
-      "summary": "Plague was already a deadly killer 5,500 years ago, long before cities, farming, or the rat-infested conditions usually linked to historic outbreaks. By analyzing ancient DNA from hunter-gatherer cemeteries in Siberia, researchers discovered early plague strains in nearly 40% of the individuals studied and found evidence of rapid family-based outbreaks that wiped out many children and young teenagers.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260618041450.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAncient%20DNA%20reveals%20plague%20was%20already%20killing%20humans%205%2C500%20years%20ago",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Humans may have hidden regenerative powers",
-      "summary": "Scientists have taken a surprising step toward unlocking regeneration in mammals, showing that the ability to rebuild complex body parts may not be lost after all—it may simply be switched off. Using a two-stage treatment, researchers redirected the body’s normal healing response away from scar formation and toward regrowth, successfully restoring bone, joints, ligaments, and tendons after amputation in animal studies.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CHumans%20may%20have%20hidden%20regenerative%20powers",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Scientists discover spider that disguises itself as a parasitic fungus",
-      "summary": "Scientists have discovered a new Amazonian spider with an astonishing disguise: it looks like a parasitic fungus. The species, Taczanowskia waska, mimics both the appearance and behavior of the fungus, helping it stay hidden from predators and potentially catch prey more easily.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260617032201.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20spider%20that%20disguises%20itself%20as%20a%20parasitic%20fungus",
-      "wiki_url": "",
-      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
