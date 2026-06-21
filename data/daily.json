@@ -1,6 +1,22 @@
 {
-  "date": "2026-06-20 04:53 UTC",
+  "date": "2026-06-21 05:26 UTC",
   "items": [
+    {
+      "title": "This DNA repair gene went rogue and exposed a cancer weakness",
+      "summary": "Scientists have discovered that a gene normally considered a DNA-protecting \"good guy\" can become dangerous when cells make too much of it. The gene, EXO1, acts like molecular scissors that help repair DNA, but when overproduced it starts cutting DNA it shouldn't, creating damage linked to cancer.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20DNA%20repair%20gene%20went%20rogue%20and%20exposed%20a%20cancer%20weakness",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "The secret language behind animal cooperation",
+      "summary": "Animals from different species often rely on surprisingly sophisticated communication to work together, whether finding food, cleaning parasites, or gaining protection. New research suggests these interspecies “conversations” are flexible, evolved, and far more important to life in nature than scientists once realized.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20secret%20language%20behind%20animal%20cooperation",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Einstein’s “biggest blunder” may finally have an explanation",
       "summary": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological constant from disruptive quantum effects.",
@@ -22,22 +38,6 @@
       "summary": "Researchers developed a Wordle-solving strategy that succeeds 99% of the time by focusing on information gain rather than likely answers. The method uses Shannon entropy to identify guesses that reveal the most about the hidden word. Each guess is designed to slash uncertainty and narrow the possibilities faster. The result significantly outperformed more traditional Wordle tactics.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CResearchers%20found%20a%20Wordle%20strategy%20that%20wins%2099%25%20of%20the%20time",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists reprogram brain immune cells to fight Alzheimer’s",
-      "summary": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260619020506.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reprogram%20brain%20immune%20cells%20to%20fight%20Alzheimer%E2%80%99s",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Major errors found in Al Gore-founded Climate TRACE database",
-      "summary": "A new study from Northern Arizona University is raising red flags about a widely used global emissions database from Climate TRACE, a consortium co-founded by Al Gore. Researchers found that the database may be dramatically undercounting carbon dioxide emissions from cars and trucks in cities—by an average of 70% across 260 U.S. cities, with some cities showing gaps of more than 90%.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260618041519.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMajor%20errors%20found%20in%20Al%20Gore-founded%20Climate%20TRACE%20database",
       "wiki_url": "",
       "category": "AI"
     },
