@@ -1,6 +1,30 @@
 {
-  "date": "2026-06-21 05:26 UTC",
+  "date": "2026-06-22 06:05 UTC",
   "items": [
+    {
+      "title": "T. rex took 40 years to reach full size, scientists find",
+      "summary": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of roughly eight tons, extending previous estimates by 15 years.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CT.%20rex%20took%2040%20years%20to%20reach%20full%20size%2C%20scientists%20find",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "As lakes turn brown, trout and bass decline while pike and walleye thrive",
+      "summary": "Freshwater lakes across North America and Europe are becoming noticeably browner, reducing underwater visibility and reshaping fish populations. Research found that several popular sport fish, including trout, bass, perch, and whitefish, tend to decline in darker waters. Meanwhile, walleye and northern pike often become more abundant because they are better adapted to low-visibility conditions. The shift could change both lake ecosystems and the fishing experience for millions of anglers.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621060322.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CAs%20lakes%20turn%20brown%2C%20trout%20and%20bass%20decline%20while%20pike%20and%20walleye%20thrive",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "Scientists discover neurons must break their DNA to build the brain",
+      "summary": "As newborn neurons make their way through the developing brain, they must squeeze through incredibly tight spaces to reach their final destinations. Researchers discovered that this physical journey routinely causes some of the most severe forms of DNA damage—double-strand breaks—yet the young brain has evolved an impressive ability to repair the damage almost immediately.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260620100422.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20neurons%20must%20break%20their%20DNA%20to%20build%20the%20brain",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "This DNA repair gene went rogue and exposed a cancer weakness",
       "summary": "Scientists have discovered that a gene normally considered a DNA-protecting \"good guy\" can become dangerous when cells make too much of it. The gene, EXO1, acts like molecular scissors that help repair DNA, but when overproduced it starts cutting DNA it shouldn't, creating damage linked to cancer.",
@@ -14,30 +38,6 @@
       "summary": "Animals from different species often rely on surprisingly sophisticated communication to work together, whether finding food, cleaning parasites, or gaining protection. New research suggests these interspecies “conversations” are flexible, evolved, and far more important to life in nature than scientists once realized.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20secret%20language%20behind%20animal%20cooperation",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Einstein’s “biggest blunder” may finally have an explanation",
-      "summary": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological constant from disruptive quantum effects.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CEinstein%E2%80%99s%20%E2%80%9Cbiggest%20blunder%E2%80%9D%20may%20finally%20have%20an%20explanation",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists expected a black hole but found a neutrino factory powered by stars",
-      "summary": "A distant galaxy nicknamed Shadow Blaster may have revealed a surprising source of cosmic neutrinos: extreme star formation instead of a supermassive black hole. The discovery suggests that hidden, dust-filled starburst galaxies could account for a significant fraction of the Universe’s high-energy neutrinos.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260619020510.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20expected%20a%20black%20hole%20but%20found%20a%20neutrino%20factory%20powered%20by%20stars",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Researchers found a Wordle strategy that wins 99% of the time",
-      "summary": "Researchers developed a Wordle-solving strategy that succeeds 99% of the time by focusing on information gain rather than likely answers. The method uses Shannon entropy to identify guesses that reveal the most about the hidden word. Each guess is designed to slash uncertainty and narrow the possibilities faster. The result significantly outperformed more traditional Wordle tactics.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CResearchers%20found%20a%20Wordle%20strategy%20that%20wins%2099%25%20of%20the%20time",
       "wiki_url": "",
       "category": "AI"
     },
