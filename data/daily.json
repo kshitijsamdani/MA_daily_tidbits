@@ -1,6 +1,22 @@
 {
-  "date": "2026-06-22 06:05 UTC",
+  "date": "2026-06-23 04:42 UTC",
   "items": [
+    {
+      "title": "Butterfly that barely ages could help unlock longevity secrets",
+      "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physical decline as they age. Their unusual pollen-feeding lifestyle may play a role, but the research suggests deeper evolutionary changes are also helping them stay healthy for longer.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CButterfly%20that%20barely%20ages%20could%20help%20unlock%20longevity%20secrets",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Future astronauts could walk across rocks from deep inside the Moon",
+      "summary": "A colossal ancient collision may have left some of the Moon’s deepest secrets surprisingly close to future Artemis landing sites. By recreating the impact that formed the giant South Pole-Aitken basin—the Moon’s largest and oldest crater—scientists found that a low-angle strike from a large, iron-cored object blasted material from deep inside the Moon, including mantle rocks.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622014258.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CFuture%20astronauts%20could%20walk%20across%20rocks%20from%20deep%20inside%20the%20Moon",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "T. rex took 40 years to reach full size, scientists find",
       "summary": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of roughly eight tons, extending previous estimates by 15 years.",
@@ -22,22 +38,6 @@
       "summary": "As newborn neurons make their way through the developing brain, they must squeeze through incredibly tight spaces to reach their final destinations. Researchers discovered that this physical journey routinely causes some of the most severe forms of DNA damage—double-strand breaks—yet the young brain has evolved an impressive ability to repair the damage almost immediately.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260620100422.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20neurons%20must%20break%20their%20DNA%20to%20build%20the%20brain",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "This DNA repair gene went rogue and exposed a cancer weakness",
-      "summary": "Scientists have discovered that a gene normally considered a DNA-protecting \"good guy\" can become dangerous when cells make too much of it. The gene, EXO1, acts like molecular scissors that help repair DNA, but when overproduced it starts cutting DNA it shouldn't, creating damage linked to cancer.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20DNA%20repair%20gene%20went%20rogue%20and%20exposed%20a%20cancer%20weakness",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "The secret language behind animal cooperation",
-      "summary": "Animals from different species often rely on surprisingly sophisticated communication to work together, whether finding food, cleaning parasites, or gaining protection. New research suggests these interspecies “conversations” are flexible, evolved, and far more important to life in nature than scientists once realized.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20secret%20language%20behind%20animal%20cooperation",
       "wiki_url": "",
       "category": "AI"
     },
