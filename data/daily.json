@@ -1,45 +1,45 @@
 {
-  "date": "2026-06-24 04:47 UTC",
+  "date": "2026-06-25 04:46 UTC",
   "items": [
     {
-      "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
-      "summary": "A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and climate upheaval were reshaping the country’s wildlife and driving extinctions long before humans arrived.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CScientists%20open%20a%20million-year-old%20time%20capsule%20hidden%20beneath%20New%20Zealand",
-      "wiki_url": "",
-      "category": "Environment"
-    },
-    {
-      "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
-      "summary": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock new discoveries about the universe while paving the way for powerful future technologies in space and on Earth.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CNASA%E2%80%99s%20Cold%20Atom%20Lab%20is%20creating%20one%20of%20the%20weirdest%20forms%20of%20matter%20in%20space",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Butterfly that barely ages could help unlock longevity secrets",
-      "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physical decline as they age. Their unusual pollen-feeding lifestyle may play a role, but the research suggests deeper evolutionary changes are also helping them stay healthy for longer.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CButterfly%20that%20barely%20ages%20could%20help%20unlock%20longevity%20secrets",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Future astronauts could walk across rocks from deep inside the Moon",
-      "summary": "A colossal ancient collision may have left some of the Moon’s deepest secrets surprisingly close to future Artemis landing sites. By recreating the impact that formed the giant South Pole-Aitken basin—the Moon’s largest and oldest crater—scientists found that a low-angle strike from a large, iron-cored object blasted material from deep inside the Moon, including mantle rocks.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622014258.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CFuture%20astronauts%20could%20walk%20across%20rocks%20from%20deep%20inside%20the%20Moon",
+      "title": "Scientists discover ancient brain cells that help block distractions",
+      "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20ancient%20brain%20cells%20that%20help%20block%20distractions",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "T. rex took 40 years to reach full size, scientists find",
-      "summary": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of roughly eight tons, extending previous estimates by 15 years.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CT.%20rex%20took%2040%20years%20to%20reach%20full%20size%2C%20scientists%20find",
+      "title": "The universe may be hiding conscious minds stranger than we can imagine",
+      "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20universe%20may%20be%20hiding%20conscious%20minds%20stranger%20than%20we%20can%20imagine",
       "wiki_url": "",
-      "category": "Science"
+      "category": "AI"
+    },
+    {
+      "title": "Early humans were bringing fire into caves 1.8 million years ago",
+      "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reached, indicating that fire was likely carried in and maintained by human ancestors. The discovery pushes back the timeline for fire use and reveals surprisingly sophisticated behavior long before humans could create fire on demand.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CEarly%20humans%20were%20bringing%20fire%20into%20caves%201.8%20million%20years%20ago",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Why South Africa’s leopards shrank to half their normal size",
+      "summary": "A hidden population of South African leopards has revealed a remarkable evolutionary story. Researchers analyzing entire leopard genomes discovered that the Cape Floristic Region’s leopards are not only much smaller than most African leopards, but also genetically distinct after being isolated for roughly 20,000 years. Surprisingly, despite their small population, they have retained much of their genetic diversity.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260623083113.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20South%20Africa%E2%80%99s%20leopards%20shrank%20to%20half%20their%20normal%20size",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists just discovered how queen bees are really made",
+      "summary": "For decades, scientists thought royal jelly was the secret ingredient that turned an ordinary honeybee larva into a queen. New research reveals the process is far more remarkable: young worker bees create special “royal cribs” made from customized wax, carefully regulate warmth and humidity, and dedicate entire teams of attendants to raising future queens.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260623083101.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20discovered%20how%20queen%20bees%20are%20really%20made",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
