@@ -1,6 +1,22 @@
 {
-  "date": "2026-06-25 04:46 UTC",
+  "date": "2026-06-26 04:51 UTC",
   "items": [
+    {
+      "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
+      "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeologists say the biggest breakthroughs don't happen in a single season—they emerge as decades of evidence slowly come together.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CAfter%2070%20years%20of%20excavation%2C%20ancient%20Sardis%20becomes%20a%20UNESCO%20World%20Heritage%20site",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "NASA’s Lucy finds a wobbling peanut-shaped asteroid with signs of ancient water",
+      "summary": "NASA’s Lucy spacecraft discovered that asteroid Donaldjohanson is a wobbling, peanut-shaped relic born from a violent collision and slowly reshaped by the subtle force of sunlight. It also carries traces of ancient water, making it an important clue to the solar system’s mysterious past.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025455.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Lucy%20finds%20a%20wobbling%20peanut-shaped%20asteroid%20with%20signs%20of%20ancient%20water",
+      "wiki_url": "",
+      "category": "Space"
+    },
     {
       "title": "Scientists discover ancient brain cells that help block distractions",
       "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
@@ -22,22 +38,6 @@
       "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reached, indicating that fire was likely carried in and maintained by human ancestors. The discovery pushes back the timeline for fire use and reveals surprisingly sophisticated behavior long before humans could create fire on demand.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CEarly%20humans%20were%20bringing%20fire%20into%20caves%201.8%20million%20years%20ago",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Why South Africa’s leopards shrank to half their normal size",
-      "summary": "A hidden population of South African leopards has revealed a remarkable evolutionary story. Researchers analyzing entire leopard genomes discovered that the Cape Floristic Region’s leopards are not only much smaller than most African leopards, but also genetically distinct after being isolated for roughly 20,000 years. Surprisingly, despite their small population, they have retained much of their genetic diversity.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623083113.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20South%20Africa%E2%80%99s%20leopards%20shrank%20to%20half%20their%20normal%20size",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists just discovered how queen bees are really made",
-      "summary": "For decades, scientists thought royal jelly was the secret ingredient that turned an ordinary honeybee larva into a queen. New research reveals the process is far more remarkable: young worker bees create special “royal cribs” made from customized wax, carefully regulate warmth and humidity, and dedicate entire teams of attendants to raising future queens.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623083101.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20discovered%20how%20queen%20bees%20are%20really%20made",
       "wiki_url": "",
       "category": "AI"
     },
