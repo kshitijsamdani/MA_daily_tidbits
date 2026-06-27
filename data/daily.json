@@ -1,6 +1,14 @@
 {
-  "date": "2026-06-26 04:51 UTC",
+  "date": "2026-06-27 04:35 UTC",
   "items": [
+    {
+      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
+      "summary": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Einstein Probe space telescope caught the explosion in its earliest moments, revealing an unusual sequence of intense X-ray flashes unlike anything seen in a typical gamma-ray burst.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CEinstein%20Probe%20may%20have%20caught%20a%20black%20hole%20tearing%20apart%20a%20white%20dwarf%20for%20the%20first%20time",
+      "wiki_url": "",
+      "category": "Space"
+    },
     {
       "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
       "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeologists say the biggest breakthroughs don't happen in a single season—they emerge as decades of evidence slowly come together.",
@@ -8,6 +16,14 @@
       "image": "https://source.unsplash.com/1600x900/?Science%2CAfter%2070%20years%20of%20excavation%2C%20ancient%20Sardis%20becomes%20a%20UNESCO%20World%20Heritage%20site",
       "wiki_url": "",
       "category": "Science"
+    },
+    {
+      "title": "Earth may have been seeding Venus with life for billions of years",
+      "summary": "A new study suggests Earth may have been sending tiny hitchhikers to Venus for billions of years. Researchers found that asteroid impacts could launch microbes into space, where some might survive the journey and end up suspended in Venus' clouds. If future missions detect life there, there's a surprising chance it didn't originate on Venus at all—it may have come from Earth.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CEarth%20may%20have%20been%20seeding%20Venus%20with%20life%20for%20billions%20of%20years",
+      "wiki_url": "",
+      "category": "Space"
     },
     {
       "title": "NASA’s Lucy finds a wobbling peanut-shaped asteroid with signs of ancient water",
@@ -22,22 +38,6 @@
       "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20ancient%20brain%20cells%20that%20help%20block%20distractions",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "The universe may be hiding conscious minds stranger than we can imagine",
-      "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20universe%20may%20be%20hiding%20conscious%20minds%20stranger%20than%20we%20can%20imagine",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Early humans were bringing fire into caves 1.8 million years ago",
-      "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reached, indicating that fire was likely carried in and maintained by human ancestors. The discovery pushes back the timeline for fire use and reveals surprisingly sophisticated behavior long before humans could create fire on demand.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CEarly%20humans%20were%20bringing%20fire%20into%20caves%201.8%20million%20years%20ago",
       "wiki_url": "",
       "category": "AI"
     },
