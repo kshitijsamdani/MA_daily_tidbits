@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-28 05:04 UTC",
+  "date": "2026-06-29 05:13 UTC",
   "items": [
     {
       "title": "Astronomers found two rare super puff planets lighter than cotton candy",
@@ -18,6 +18,14 @@
       "category": "Space"
     },
     {
+      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
+      "summary": "Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard pavement, with tire wear overwhelming any plastic signal from the recycled material. If future studies confirm the roads are durable, the technology could help tackle both marine pollution and overflowing landfills.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHawaii%20is%20turning%20ocean%20plastic%20and%20fishing%20nets%20into%20roads",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
       "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
       "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeologists say the biggest breakthroughs don't happen in a single season—they emerge as decades of evidence slowly come together.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
@@ -32,14 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CEarth%20may%20have%20been%20seeding%20Venus%20with%20life%20for%20billions%20of%20years",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "Scientists discover what triggers belly fat as we age",
-      "summary": "Aging may trigger the appearance of specialized stem cells that supercharge the body's ability to create new belly fat. The discovery reveals a potential biological driver of middle-age weight gain and a promising target for future anti-obesity treatments.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624115133.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20what%20triggers%20belly%20fat%20as%20we%20age",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
