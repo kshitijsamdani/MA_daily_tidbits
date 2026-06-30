@@ -1,6 +1,14 @@
 {
-  "date": "2026-06-29 05:13 UTC",
+  "date": "2026-06-30 04:46 UTC",
   "items": [
+    {
+      "title": "These tiny soil microbes could rescue crops from salty farmland",
+      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and field tests showed healthier plants and higher yields in salty conditions. The findings could lead to bio-based treatments that help farmers grow crops on land once considered too salty for agriculture.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CThese%20tiny%20soil%20microbes%20could%20rescue%20crops%20from%20salty%20farmland",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "Astronomers found two rare super puff planets lighter than cotton candy",
       "summary": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come to exist.",
@@ -32,14 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Science%2CAfter%2070%20years%20of%20excavation%2C%20ancient%20Sardis%20becomes%20a%20UNESCO%20World%20Heritage%20site",
       "wiki_url": "",
       "category": "Science"
-    },
-    {
-      "title": "Earth may have been seeding Venus with life for billions of years",
-      "summary": "A new study suggests Earth may have been sending tiny hitchhikers to Venus for billions of years. Researchers found that asteroid impacts could launch microbes into space, where some might survive the journey and end up suspended in Venus' clouds. If future missions detect life there, there's a surprising chance it didn't originate on Venus at all—it may have come from Earth.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CEarth%20may%20have%20been%20seeding%20Venus%20with%20life%20for%20billions%20of%20years",
-      "wiki_url": "",
-      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
