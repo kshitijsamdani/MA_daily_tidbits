@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-01 05:07 UTC",
+  "date": "2026-07-02 04:42 UTC",
   "items": [
+    {
+      "title": "Scientists discover a completely different way to fight viruses",
+      "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20a%20completely%20different%20way%20to%20fight%20viruses",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
       "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
@@ -30,14 +38,6 @@
       "summary": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come to exist.",
       "link": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
       "image": "https://source.unsplash.com/1600x900/?Space%2CAstronomers%20found%20two%20rare%20super%20puff%20planets%20lighter%20than%20cotton%20candy",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
-      "summary": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Einstein Probe space telescope caught the explosion in its earliest moments, revealing an unusual sequence of intense X-ray flashes unlike anything seen in a typical gamma-ray burst.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CEinstein%20Probe%20may%20have%20caught%20a%20black%20hole%20tearing%20apart%20a%20white%20dwarf%20for%20the%20first%20time",
       "wiki_url": "",
       "category": "Space"
     },
