@@ -1,43 +1,43 @@
 {
-  "date": "2026-07-05 04:41 UTC",
+  "date": "2026-07-06 04:53 UTC",
   "items": [
     {
-      "title": "Scientists discover a completely different way to fight viruses",
-      "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20a%20completely%20different%20way%20to%20fight%20viruses",
+      "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+      "summary": "NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nation's 250th anniversary. Hidden within the ancient cluster are clues to how exploding stars helped transform the young universe into one capable of forming planets and, eventually, life.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%27s%20Hubble%20spots%20a%20stellar%20sparkler%20for%20the%20Fourth%20of%20July",
       "wiki_url": "",
-      "category": "Biology"
+      "category": "Space"
     },
     {
-      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
-      "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20finally%20found%20how%20Alzheimer%27s%20spreads%20through%20the%20brain",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists say creatine may help fight depression",
-      "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20say%20creatine%20may%20help%20fight%20depression",
+      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+      "summary": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%27s%20Hubble%20captures%20a%20crimson%20stellar%20nursery%20sparkling%20with%20blue%20and%20white%20stars",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "A strange LIGO signal could reveal the missing link behind dark matter",
-      "summary": "An unusual gravitational wave signal has renewed hopes that primordial black holes, long considered purely theoretical, may finally be within reach of discovery. If confirmed, they could solve one of astronomy's greatest mysteries by explaining the nature of dark matter.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626125703.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20strange%20LIGO%20signal%20could%20reveal%20the%20missing%20link%20behind%20dark%20matter",
+      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
+      "summary": "Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping scientists unravel the Milky Way's past thanks to its rare stars and possible origins in a long ago cosmic merger.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%27s%20Hubble%20captures%20a%20star-spangled%20sea%20of%20500%2C000%20stars",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists reveal what really happens when water is trapped in tiny spaces",
-      "summary": "A decades-old puzzle about water has finally been unraveled. Researchers found that water trapped in tiny nanoscale spaces is not inherently more reactive. Instead, the intense pressures created inside these microscopic gaps explain most of the effect, while the surrounding material can further enhance water's chemistry if it interacts with the reaction products.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626124706.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reveal%20what%20really%20happens%20when%20water%20is%20trapped%20in%20tiny%20spaces",
+      "title": "NASA celebrates America's 250th birthday with incredible views of space",
+      "summary": "NASA is marking the United States' 250th birthday with four striking red, white, and blue images of deep space from the Chandra X-ray Observatory. The collection features an exploded star, a stellar nursery, a galaxy where stars are rapidly forming, and a galaxy cluster that provides evidence for dark matter.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260702230859.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20celebrates%20America%27s%20250th%20birthday%20with%20incredible%20views%20of%20space",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "New research reveals the hidden pollution left behind by fireworks",
+      "summary": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airborne chemicals may affect ecosystems and increase people's exposure to air pollution during major celebrations.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNew%20research%20reveals%20the%20hidden%20pollution%20left%20behind%20by%20fireworks",
       "wiki_url": "",
       "category": "AI"
     },
