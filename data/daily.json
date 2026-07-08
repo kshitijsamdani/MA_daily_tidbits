@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-07 04:33 UTC",
+  "date": "2026-07-08 03:55 UTC",
   "items": [
+    {
+      "title": "Incredible new material makes heat programmable",
+      "summary": "A newly developed material can control and \"program\" heat, allowing it to direct thermal radiation, switch modes, and remember its settings without continuous power. The innovation could lead to smarter infrared sensors, better energy technologies, and memory devices that use light and heat instead of electrical charges.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
+      "image": "https://source.unsplash.com/1600x900/?Entrepreneurship%2CIncredible%20new%20material%20makes%20heat%20programmable",
+      "wiki_url": "",
+      "category": "Entrepreneurship"
+    },
     {
       "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
       "summary": "NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nation's 250th anniversary. Hidden within the ancient cluster are clues to how exploding stars helped transform the young universe into one capable of forming planets and, eventually, life.",
@@ -32,14 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20celebrates%20America%27s%20250th%20birthday%20with%20incredible%20views%20of%20space",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "New research reveals the hidden pollution left behind by fireworks",
-      "summary": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airborne chemicals may affect ecosystems and increase people's exposure to air pollution during major celebrations.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNew%20research%20reveals%20the%20hidden%20pollution%20left%20behind%20by%20fireworks",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
