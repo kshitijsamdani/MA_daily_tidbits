@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-08 03:55 UTC",
+  "date": "2026-07-09 04:33 UTC",
   "items": [
     {
-      "title": "Incredible new material makes heat programmable",
-      "summary": "A newly developed material can control and \"program\" heat, allowing it to direct thermal radiation, switch modes, and remember its settings without continuous power. The innovation could lead to smarter infrared sensors, better energy technologies, and memory devices that use light and heat instead of electrical charges.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
-      "image": "https://source.unsplash.com/1600x900/?Entrepreneurship%2CIncredible%20new%20material%20makes%20heat%20programmable",
+      "title": "Rare goblin shark filmed alive for the first time in the deep sea",
+      "summary": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showing that this 125-million-year-old \"living fossil\" still has plenty of secrets left to reveal.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CRare%20goblin%20shark%20filmed%20alive%20for%20the%20first%20time%20in%20the%20deep%20sea",
       "wiki_url": "",
-      "category": "Entrepreneurship"
+      "category": "Environment"
     },
     {
-      "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
-      "summary": "NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nation's 250th anniversary. Hidden within the ancient cluster are clues to how exploding stars helped transform the young universe into one capable of forming planets and, eventually, life.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%27s%20Hubble%20spots%20a%20stellar%20sparkler%20for%20the%20Fourth%20of%20July",
+      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+      "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new chemistry will be needed to scale the technology further.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CHarvard%20scientists%20turn%20a%20silicon%20chip%20into%20a%20DNA%20writing%20machine",
       "wiki_url": "",
-      "category": "Space"
+      "category": "Science"
     },
     {
-      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-      "summary": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%27s%20Hubble%20captures%20a%20crimson%20stellar%20nursery%20sparkling%20with%20blue%20and%20white%20stars",
+      "title": "Heidelberg physicists just united two opposing quantum theories",
+      "summary": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold atoms, semiconductors, and other exotic forms of quantum matter.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CHeidelberg%20physicists%20just%20united%20two%20opposing%20quantum%20theories",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
+      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
+      "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift coincided with new social traditions and the disappearance of the communities that built Europe's giant stone monuments.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CAncient%20DNA%20reveals%20the%20mysterious%20collapse%20of%20Europe%27s%20megalith%20builders",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Scientists used AI to crack one of water's biggest mysteries",
+      "summary": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the University of Osaka used an AI model trained on computer simulations to evaluate 16 different structural descriptors. The system identified the most effective ways to distinguish between water’s two competing liquid states, providing a clearer framework for studying one of nature’s most mysterious substances.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20used%20AI%20to%20crack%20one%20of%20water%27s%20biggest%20mysteries",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
-      "summary": "Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping scientists unravel the Milky Way's past thanks to its rare stars and possible origins in a long ago cosmic merger.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%27s%20Hubble%20captures%20a%20star-spangled%20sea%20of%20500%2C000%20stars",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "NASA celebrates America's 250th birthday with incredible views of space",
-      "summary": "NASA is marking the United States' 250th birthday with four striking red, white, and blue images of deep space from the Chandra X-ray Observatory. The collection features an exploded star, a stellar nursery, a galaxy where stars are rapidly forming, and a galaxy cluster that provides evidence for dark matter.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260702230859.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20celebrates%20America%27s%20250th%20birthday%20with%20incredible%20views%20of%20space",
-      "wiki_url": "",
-      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
