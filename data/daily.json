@@ -1,43 +1,43 @@
 {
-  "date": "2026-07-09 04:33 UTC",
+  "date": "2026-07-10 04:34 UTC",
   "items": [
     {
-      "title": "Rare goblin shark filmed alive for the first time in the deep sea",
-      "summary": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showing that this 125-million-year-old \"living fossil\" still has plenty of secrets left to reveal.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CRare%20goblin%20shark%20filmed%20alive%20for%20the%20first%20time%20in%20the%20deep%20sea",
+      "title": "This alien planet never has sunrise or sunset. It may support life",
+      "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their laboratory model suggests these worlds may be more hospitable than previously thought, despite their extreme surface conditions.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20alien%20planet%20never%20has%20sunrise%20or%20sunset.%20It%20may%20support%20life",
       "wiki_url": "",
-      "category": "Environment"
+      "category": "AI"
     },
     {
-      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
-      "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new chemistry will be needed to scale the technology further.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CHarvard%20scientists%20turn%20a%20silicon%20chip%20into%20a%20DNA%20writing%20machine",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Heidelberg physicists just united two opposing quantum theories",
-      "summary": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold atoms, semiconductors, and other exotic forms of quantum matter.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CHeidelberg%20physicists%20just%20united%20two%20opposing%20quantum%20theories",
+      "title": "Physicists created a tiny universe where time emerged without a clock",
+      "summary": "What if time doesn't actually exist until something changes? Scientists at the University of Birmingham created a tiny \"mini universe\" using 24,000 ultracold atoms and showed that the flow of time can emerge naturally from changes inside a quantum system, without relying on any external clock.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CPhysicists%20created%20a%20tiny%20universe%20where%20time%20emerged%20without%20a%20clock",
       "wiki_url": "",
       "category": "Physics"
     },
     {
-      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
-      "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift coincided with new social traditions and the disappearance of the communities that built Europe's giant stone monuments.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CAncient%20DNA%20reveals%20the%20mysterious%20collapse%20of%20Europe%27s%20megalith%20builders",
+      "title": "Hawaii's famous “happy-face” spider has a surprising relative",
+      "summary": "A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii's iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color forms, and unexpected link to ginger plants have scientists eager to learn how the two distant species are connected.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHawaii%27s%20famous%20%E2%80%9Chappy-face%E2%80%9D%20spider%20has%20a%20surprising%20relative",
       "wiki_url": "",
-      "category": "Science"
+      "category": "AI"
     },
     {
-      "title": "Scientists used AI to crack one of water's biggest mysteries",
-      "summary": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the University of Osaka used an AI model trained on computer simulations to evaluate 16 different structural descriptors. The system identified the most effective ways to distinguish between water’s two competing liquid states, providing a clearer framework for studying one of nature’s most mysterious substances.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20used%20AI%20to%20crack%20one%20of%20water%27s%20biggest%20mysteries",
+      "title": "A vitamin A discovery is changing what scientists know about vision",
+      "summary": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyroid hormones. The findings could improve lab-grown retinal tissue and lay the groundwork for future cell therapies to restore vision lost to age-related eye diseases.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%20vitamin%20A%20discovery%20is%20changing%20what%20scientists%20know%20about%20vision",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
+      "summary": "Researchers found that mRNA cancer vaccines can recruit an unexpected immune cell to launch powerful tumor-fighting responses, overturning a long-held assumption about how the vaccines work. The discovery could lead to more effective cancer vaccines and help scientists tailor treatments for better patient outcomes.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20hidden%20immune%20backup%20system%20could%20supercharge%20mRNA%20cancer%20vaccines",
       "wiki_url": "",
       "category": "AI"
     },
