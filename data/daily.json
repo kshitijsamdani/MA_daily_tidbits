@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-10 04:34 UTC",
+  "date": "2026-07-11 03:53 UTC",
   "items": [
+    {
+      "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+      "summary": "Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the most promising stars to examine, since advanced civilizations could potentially build energy-harvesting swarms around them more easily. These objects would stand out by glowing in infrared light instead of visible light, lacking the dusty signatures of ordinary stars, and possibly flickering in unusual ways.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CThe%20galaxy%E2%80%99s%20coldest%20%E2%80%9Cstars%E2%80%9D%20may%20actually%20be%20alien%20megastructures",
+      "wiki_url": "",
+      "category": "Space"
+    },
     {
       "title": "This alien planet never has sunrise or sunset. It may support life",
       "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their laboratory model suggests these worlds may be more hospitable than previously thought, despite their extreme surface conditions.",
@@ -8,6 +16,14 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20alien%20planet%20never%20has%20sunrise%20or%20sunset.%20It%20may%20support%20life",
       "wiki_url": "",
       "category": "AI"
+    },
+    {
+      "title": "Europe's most active volcano may have a secret origin",
+      "summary": "Mount Etna has long puzzled geologists because it doesn't fit any of the three classic ways volcanoes are thought to form. A new study suggests it may instead be fueled by ancient pockets of magma that are pushed upward through cracks created by shifting tectonic plates. If confirmed, Etna could belong to a rare fourth category of volcano, revealing that much larger volcanoes can form through processes previously associated only with small submarine eruptions.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160653.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CEurope%27s%20most%20active%20volcano%20may%20have%20a%20secret%20origin",
+      "wiki_url": "",
+      "category": "Science"
     },
     {
       "title": "Physicists created a tiny universe where time emerged without a clock",
@@ -18,26 +34,10 @@
       "category": "Physics"
     },
     {
-      "title": "Hawaii's famous “happy-face” spider has a surprising relative",
-      "summary": "A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii's iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color forms, and unexpected link to ginger plants have scientists eager to learn how the two distant species are connected.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHawaii%27s%20famous%20%E2%80%9Chappy-face%E2%80%9D%20spider%20has%20a%20surprising%20relative",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A vitamin A discovery is changing what scientists know about vision",
-      "summary": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyroid hormones. The findings could improve lab-grown retinal tissue and lay the groundwork for future cell therapies to restore vision lost to age-related eye diseases.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%20vitamin%20A%20discovery%20is%20changing%20what%20scientists%20know%20about%20vision",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
-      "summary": "Researchers found that mRNA cancer vaccines can recruit an unexpected immune cell to launch powerful tumor-fighting responses, overturning a long-held assumption about how the vaccines work. The discovery could lead to more effective cancer vaccines and help scientists tailor treatments for better patient outcomes.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20hidden%20immune%20backup%20system%20could%20supercharge%20mRNA%20cancer%20vaccines",
+      "title": "This common pesticide may be quietly wiping out future bumblebees",
+      "summary": "A next-generation pesticide designed to kill crop pests may also be interfering with the reproductive health of bumblebees. Researchers discovered that low-dose exposure to sulfoxaflor changed gene activity, especially in tissues involved in reproduction, raising concerns about long-term impacts on bee populations. Because pollinators are essential for about one-third of the world's food production, finding ways to protect them while controlling pests has become increasingly important.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20common%20pesticide%20may%20be%20quietly%20wiping%20out%20future%20bumblebees",
       "wiki_url": "",
       "category": "AI"
     },
