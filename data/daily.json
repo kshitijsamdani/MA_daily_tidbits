@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-11 03:53 UTC",
+  "date": "2026-07-12 04:07 UTC",
   "items": [
+    {
+      "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
+      "summary": "Two striking Asian praying mantis species that have rapidly spread across Europe have now been officially classified as invasive, raising new concerns about their impact on native wildlife. Boosted by climate change and urban environments, these fast-breeding predators are expanding northward, where they prey on native insects, pollinators, and even small vertebrates while also reducing native mantis populations through deadly mating interactions.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20warn%20invasive%20Asian%20mantises%20are%20threatening%20Europe%27s%20wildlife",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
       "summary": "Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the most promising stars to examine, since advanced civilizations could potentially build energy-harvesting swarms around them more easily. These objects would stand out by glowing in infrared light instead of visible light, lacking the dusty signatures of ordinary stars, and possibly flickering in unusual ways.",
@@ -8,6 +16,14 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CThe%20galaxy%E2%80%99s%20coldest%20%E2%80%9Cstars%E2%80%9D%20may%20actually%20be%20alien%20megastructures",
       "wiki_url": "",
       "category": "Space"
+    },
+    {
+      "title": "Why gold never tarnishes has finally been explained",
+      "summary": "Gold may have a secret self-defense system that helps it resist tarnishing. Researchers discovered that atoms on gold surfaces reorganize themselves into patterns that block oxygen from reacting with the metal, suppressing oxidation by up to a trillion-fold. Beyond explaining why gold jewelry stays bright for generations, the finding could help scientists create more powerful gold-based catalysts for manufacturing and clean energy.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20gold%20never%20tarnishes%20has%20finally%20been%20explained",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "This alien planet never has sunrise or sunset. It may support life",
@@ -24,22 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Science%2CEurope%27s%20most%20active%20volcano%20may%20have%20a%20secret%20origin",
       "wiki_url": "",
       "category": "Science"
-    },
-    {
-      "title": "Physicists created a tiny universe where time emerged without a clock",
-      "summary": "What if time doesn't actually exist until something changes? Scientists at the University of Birmingham created a tiny \"mini universe\" using 24,000 ultracold atoms and showed that the flow of time can emerge naturally from changes inside a quantum system, without relying on any external clock.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CPhysicists%20created%20a%20tiny%20universe%20where%20time%20emerged%20without%20a%20clock",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "This common pesticide may be quietly wiping out future bumblebees",
-      "summary": "A next-generation pesticide designed to kill crop pests may also be interfering with the reproductive health of bumblebees. Researchers discovered that low-dose exposure to sulfoxaflor changed gene activity, especially in tissues involved in reproduction, raising concerns about long-term impacts on bee populations. Because pollinators are essential for about one-third of the world's food production, finding ways to protect them while controlling pests has become increasingly important.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20common%20pesticide%20may%20be%20quietly%20wiping%20out%20future%20bumblebees",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
