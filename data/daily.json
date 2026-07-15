@@ -1,6 +1,38 @@
 {
-  "date": "2026-07-14 03:44 UTC",
+  "date": "2026-07-15 03:45 UTC",
   "items": [
+    {
+      "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+      "summary": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before concluding that the medication can help people age more slowly.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CPopular%20weight-loss%20drugs%20Ozempic%20and%20Wegovy%20may%20slow%20biological%20aging",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "NASA's Perseverance just completed a marathon on Mars",
+      "summary": "NASA's Perseverance rover has reached an impressive new milestone on Mars, completing the equivalent of a full marathon by driving 26.2 miles (42.195 kilometers) across the Red Planet. It accomplished the feat in just five years and four months, reaching the distance on its 1,890th Martian day, less than half the time it took the previous record holder, NASA's Opportunity rover.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%27s%20Perseverance%20just%20completed%20a%20marathon%20on%20Mars",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "NASA selects four new Moon missions to build a permanent lunar base",
+      "summary": "NASA is ramping up its lunar ambitions by awarding nearly $600 million for four commercial Moon landings planned for late 2028. Each mission will carry the same trio of science instruments to improve lunar navigation, study dangerous dust kicked up during landings, and map the Moon's radiation environment. The agency also revealed plans for new rovers, communication satellites, and additional cargo missions as it lays the groundwork for a permanent Moon Base.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084853.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20selects%20four%20new%20Moon%20missions%20to%20build%20a%20permanent%20lunar%20base",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "This dinosaur fossil captures the final moments of a T. rex attack",
+      "summary": "A fossilized Edmontosaurus skull with a Tyrannosaurus tooth still embedded in its face has given scientists rare evidence of a dramatic predator-prey encounter. The discovery suggests the giant carnivore delivered an incredibly powerful face-to-face bite, offering new clues about how Tyrannosaurus hunted.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713000811.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20dinosaur%20fossil%20captures%20the%20final%20moments%20of%20a%20T.%20rex%20attack",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
       "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In the scientific journal Physical Review Letters, they show that this theory does not necessarily need to be formulated with imaginary numbers – real numbers can in fact also be used. The American Physical Society has also dedicated a “Highlight” to these findings in its Physics Magazine.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Physics%2CPhysicists%20say%20quantum%20mechanics%20may%20not%20need%20imaginary%20numbers%20after%20all",
       "wiki_url": "",
       "category": "Physics"
-    },
-    {
-      "title": "Stephen Hawking's black hole laws just got a major upgrade",
-      "summary": "Scientists have developed a new framework that could finally apply the laws of thermodynamics to real, ever-changing black holes instead of only perfectly stable ones. The advance may improve our understanding of black hole mergers, evaporation, and the powerful gravitational wave events detected by observatories like LIGO.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260713000757.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CStephen%20Hawking%27s%20black%20hole%20laws%20just%20got%20a%20major%20upgrade",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "A 200-year-old physics experiment could help build future computers",
-      "summary": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply shine a laser at a tiny circular disc, producing stable swirling patterns in light that researchers believe could one day help power advanced data storage, communications, and computing technologies.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20200-year-old%20physics%20experiment%20could%20help%20build%20future%20computers",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Scientists discover how the brain rewires itself to truly multitask",
-      "summary": "Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and run through specialized circuits instead. By freeing the brain's \"thinking\" center, people became better at performing another task at the same time, challenging the long-held idea that humans only switch rapidly between tasks rather than truly multitask.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20how%20the%20brain%20rewires%20itself%20to%20truly%20multitask",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discovered the brain doesn't make decisions the way we thought",
-      "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Researchers found that even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward. This more dynamic view of brain function could help engineers design future AI systems that think more like biological brains while using far less power.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discovered%20the%20brain%20doesn%27t%20make%20decisions%20the%20way%20we%20thought",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
