@@ -1,6 +1,30 @@
 {
-  "date": "2026-07-17 03:47 UTC",
+  "date": "2026-07-18 03:42 UTC",
   "items": [
+    {
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20built%20a%20camera%20that%20can%20track%20invisible%20particles%20in%203D",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
+      "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein directly into brain cancer cells. In mouse studies, the therapy increased median survival by 50% while shrinking tumors without noticeable damage to other organs.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20sugar-coated%20therapy%20boosted%20survival%20against%20deadly%20brain%20cancer%20by%2050%25%20in%20mice",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Sun-like star caught after eating one of its own planets",
+      "summary": "A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually high concentration of lithium, a strong sign that planetary material was mixed into the star. Careful comparisons with dozens of similar stars confirmed the signal is highly unusual, and scientists think a massive brown dwarf companion may have helped send the planet on its fatal plunge.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CSun-like%20star%20caught%20after%20eating%20one%20of%20its%20own%20planets",
+      "wiki_url": "",
+      "category": "Space"
+    },
     {
       "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
       "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists believe this could pave the way for advanced optical memory, quantum devices, and ultra-efficient photonic technologies.",
@@ -16,30 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CAre%20humans%20really%20the%20ultimate%20super-predator%3F",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "Astronomers just found four hidden white dwarf stars near Earth",
-      "summary": "Four nearby white dwarf stars have been discovered hiding in plain sight beside brighter red dwarf companions. Hubble's ultraviolet observations finally revealed the long-hidden stellar remnants, including one just 25 light-years away that took nearly three decades to confirm. The findings match long-standing predictions and suggest our corner of the galaxy may contain many more undiscovered white dwarf binaries.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260714225528.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAstronomers%20just%20found%20four%20hidden%20white%20dwarf%20stars%20near%20Earth",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "This pet gecko could help scientists unlock the secrets of cancer",
-      "summary": "An unusual leopard gecko that naturally develops aggressive tumors may become an important new model for cancer research. Scientists found its tumors share key genetic changes with human cancers, offering a rare opportunity to study the disease as it develops naturally.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260714225525.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CThis%20pet%20gecko%20could%20help%20scientists%20unlock%20the%20secrets%20of%20cancer",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "Scientists finally solved why some frogs survive a deadly fungus",
-      "summary": "A deadly fungus has wiped out amphibian populations around the globe, yet some mysteriously recover. Researchers discovered that survivors develop powerful immune defenses while they are still tadpoles, giving them a head start before the fungus can attack after metamorphosis. The study also uncovered a vast collection of previously unknown antimicrobial peptides that could someday inspire new drugs to fight infections.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260714225523.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20finally%20solved%20why%20some%20frogs%20survive%20a%20deadly%20fungus",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
