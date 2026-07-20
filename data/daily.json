@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-19 04:04 UTC",
+  "date": "2026-07-20 04:23 UTC",
   "items": [
+    {
+      "title": "The mysterious hum heard around the world may finally have an explanation",
+      "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20mysterious%20hum%20heard%20around%20the%20world%20may%20finally%20have%20an%20explanation",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Common antidepressant may ease long COVID’s crushing fatigue",
       "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.",
@@ -10,34 +18,26 @@
       "category": "Health"
     },
     {
+      "title": "A tiny universe in a bottle reveals clues to the origins of life",
+      "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared signals similar to real material found in space. By studying these laboratory samples, scientists can explore how organic chemistry unfolds around stars and how comets, asteroids and meteorites may have carried those ingredients to Earth.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20tiny%20universe%20in%20a%20bottle%20reveals%20clues%20to%20the%20origins%20of%20life",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
+      "summary": "The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system. Its unusual chemistry suggests that planet-cooling dust and debris, rather than sulfur inside the asteroid, may have delivered the deadliest blow.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20identify%20the%20rare%20meteorite%20that%20killed%20the%20dinosaurs%2066%20million%20years%20ago",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
       "title": "Your fingers may hold a secret of human brain evolution",
       "summary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20fingers%20may%20hold%20a%20secret%20of%20human%20brain%20evolution",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Popular sugar substitutes linked to faster brain aging",
-      "summary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CPopular%20sugar%20substitutes%20linked%20to%20faster%20brain%20aging",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
-      "summary": "Seismic waves have revealed that the oceanic plate beneath the Ontong Java Plateau was dramatically transformed by the colossal volcanic activity that created it more than 100 million years ago. Researchers found a complex structure of horizontal layers cut through by vast swarms of vertical magma channels, along with unusually slow seismic waves suggesting that deep-rising magma chemically altered the plate itself.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260716023618.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CEarth%E2%80%99s%20biggest%20volcanic%20event%20transformed%20an%20entire%20oceanic%20plate",
-      "wiki_url": "",
-      "category": "Environment"
-    },
-    {
-      "title": "Scientists built a camera that can track invisible particles in 3D",
-      "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20built%20a%20camera%20that%20can%20track%20invisible%20particles%20in%203D",
       "wiki_url": "",
       "category": "AI"
     },
