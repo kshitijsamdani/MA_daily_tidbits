@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-20 04:23 UTC",
+  "date": "2026-07-21 03:56 UTC",
   "items": [
+    {
+      "title": "Some dinosaurs could rise like giants until they grew too big",
+      "summary": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CSome%20dinosaurs%20could%20rise%20like%20giants%20until%20they%20grew%20too%20big",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "The mysterious hum heard around the world may finally have an explanation",
       "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
@@ -10,34 +18,26 @@
       "category": "AI"
     },
     {
-      "title": "Common antidepressant may ease long COVID’s crushing fatigue",
-      "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CCommon%20antidepressant%20may%20ease%20long%20COVID%E2%80%99s%20crushing%20fatigue",
+      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+      "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CAn%20ordinary%20laptop%20solved%20a%20problem%20thought%20to%20require%20a%20quantum%20computer",
       "wiki_url": "",
-      "category": "Health"
+      "category": "Physics"
     },
     {
-      "title": "A tiny universe in a bottle reveals clues to the origins of life",
-      "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared signals similar to real material found in space. By studying these laboratory samples, scientists can explore how organic chemistry unfolds around stars and how comets, asteroids and meteorites may have carried those ingredients to Earth.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20tiny%20universe%20in%20a%20bottle%20reveals%20clues%20to%20the%20origins%20of%20life",
+      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+      "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than two hours of sleep per day, even though the plaques remained unchanged.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAlzheimer%E2%80%99s%20breakthrough%3A%20Scientists%20restore%20two%20hours%20of%20sleep%20without%20clearing%20brain%20plaques",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
-      "summary": "The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system. Its unusual chemistry suggests that planet-cooling dust and debris, rather than sulfur inside the asteroid, may have delivered the deadliest blow.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CScientists%20identify%20the%20rare%20meteorite%20that%20killed%20the%20dinosaurs%2066%20million%20years%20ago",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Your fingers may hold a secret of human brain evolution",
-      "summary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20fingers%20may%20hold%20a%20secret%20of%20human%20brain%20evolution",
+      "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
+      "summary": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to use across a wider range of skin tones.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CUCLA%20scientists%20develop%20mineral%20sunscreen%20without%20the%20chalky%20white%20cast",
       "wiki_url": "",
       "category": "AI"
     },
