@@ -1,43 +1,43 @@
 {
-  "date": "2026-07-21 03:56 UTC",
+  "date": "2026-07-22 03:58 UTC",
   "items": [
     {
-      "title": "Some dinosaurs could rise like giants until they grew too big",
-      "summary": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CSome%20dinosaurs%20could%20rise%20like%20giants%20until%20they%20grew%20too%20big",
+      "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
+      "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were not confirmed as the cause of death.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CScientists%20found%20mystery%20bacteria%20inside%20one%20of%20the%20ocean%E2%80%99s%20most%20elusive%20whales",
       "wiki_url": "",
-      "category": "Biology"
+      "category": "Environment"
     },
     {
-      "title": "The mysterious hum heard around the world may finally have an explanation",
-      "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20mysterious%20hum%20heard%20around%20the%20world%20may%20finally%20have%20an%20explanation",
+      "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
+      "summary": "Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow River farming communities, but also had genetic ties to distant southern and steppe populations, pointing to extensive prehistoric contact.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CAncient%20DNA%20reveals%20a%20chilling%20secret%20at%20China%E2%80%99s%204%2C000-year-old%20Shimao%20city",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
+      "summary": "Astronomers have found the first confirmed atmosphere around a rocky planet in another star’s habitable zone. The planet, LHS 1140 b, revealed its atmosphere through helium slowly leaking into space. Located 48 light-years away, the world may have preserved its atmosphere for billions of years, making it a promising target in the search for potentially habitable planets.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CAstronomers%20find%20the%20first%20atmosphere%20on%20a%20rocky%20world%20in%20the%20habitable%20zone",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "A hidden “switch-off” signal could predict solar storms seven years early",
+      "summary": "A newly discovered turning point in the Sun’s 11-year cycle could allow scientists to predict future solar activity years earlier than before. At this “switch-off” point, the most violent space weather abruptly ends, and the remaining number of sunspots offers clues about the next cycle’s strength. Early projections suggest Solar Cycle 26 may be moderate, but a clearer forecast is expected in about two years.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000818.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20hidden%20%E2%80%9Cswitch-off%E2%80%9D%20signal%20could%20predict%20solar%20storms%20seven%20years%20early",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
-      "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CAn%20ordinary%20laptop%20solved%20a%20problem%20thought%20to%20require%20a%20quantum%20computer",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-      "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than two hours of sleep per day, even though the plaques remained unchanged.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAlzheimer%E2%80%99s%20breakthrough%3A%20Scientists%20restore%20two%20hours%20of%20sleep%20without%20clearing%20brain%20plaques",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
-      "summary": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to use across a wider range of skin tones.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CUCLA%20scientists%20develop%20mineral%20sunscreen%20without%20the%20chalky%20white%20cast",
+      "title": "New molecular map reveals how the flu virus hijacks human cells",
+      "summary": "Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular map could reveal new drug targets and help researchers study dangerous flu strains such as H5N1.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNew%20molecular%20map%20reveals%20how%20the%20flu%20virus%20hijacks%20human%20cells",
       "wiki_url": "",
       "category": "AI"
     },
