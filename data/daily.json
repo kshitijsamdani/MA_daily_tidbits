@@ -1,6 +1,30 @@
 {
-  "date": "2026-07-22 03:58 UTC",
+  "date": "2026-07-23 03:55 UTC",
   "items": [
+    {
+      "title": "A strange quantum effect dramatically boosts energy transfer",
+      "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20strange%20quantum%20effect%20dramatically%20boosts%20energy%20transfer",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
+      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
+      "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combination restored the antibiotic’s ability to kill drug-resistant E. faecium, raising hopes that similar chemical helpers could rescue other failing medicines.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20revive%20a%20powerful%20antibiotic%20that%20superbugs%20had%20defeated",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
+      "summary": "Ancient fern savannahs may have transformed parts of Europe into a wildfire-prone inferno during the end-Triassic mass extinction. New fossil evidence suggests the ferns repeatedly regrew after fires, creating fresh fuel that helped prolong the devastation.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CAncient%20ferns%20turned%20Triassic%20Europe%20into%20a%20wildfire%20inferno",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
       "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were not confirmed as the cause of death.",
@@ -10,34 +34,10 @@
       "category": "Environment"
     },
     {
-      "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
-      "summary": "Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow River farming communities, but also had genetic ties to distant southern and steppe populations, pointing to extensive prehistoric contact.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CAncient%20DNA%20reveals%20a%20chilling%20secret%20at%20China%E2%80%99s%204%2C000-year-old%20Shimao%20city",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
-      "summary": "Astronomers have found the first confirmed atmosphere around a rocky planet in another star’s habitable zone. The planet, LHS 1140 b, revealed its atmosphere through helium slowly leaking into space. Located 48 light-years away, the world may have preserved its atmosphere for billions of years, making it a promising target in the search for potentially habitable planets.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CAstronomers%20find%20the%20first%20atmosphere%20on%20a%20rocky%20world%20in%20the%20habitable%20zone",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "A hidden “switch-off” signal could predict solar storms seven years early",
-      "summary": "A newly discovered turning point in the Sun’s 11-year cycle could allow scientists to predict future solar activity years earlier than before. At this “switch-off” point, the most violent space weather abruptly ends, and the remaining number of sunspots offers clues about the next cycle’s strength. Early projections suggest Solar Cycle 26 may be moderate, but a clearer forecast is expected in about two years.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260721000818.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20hidden%20%E2%80%9Cswitch-off%E2%80%9D%20signal%20could%20predict%20solar%20storms%20seven%20years%20early",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "New molecular map reveals how the flu virus hijacks human cells",
-      "summary": "Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular map could reveal new drug targets and help researchers study dangerous flu strains such as H5N1.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNew%20molecular%20map%20reveals%20how%20the%20flu%20virus%20hijacks%20human%20cells",
+      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
+      "summary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CLab-grown%20mini%20brains%20may%20predict%20which%20Alzheimer%E2%80%99s%20treatments%20will%20work",
       "wiki_url": "",
       "category": "AI"
     },
