@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-23 03:55 UTC",
+  "date": "2026-07-24 03:54 UTC",
   "items": [
+    {
+      "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
+      "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, blasting the carcass into thousands of pieces.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2COrcas%20filmed%20smashing%20giant%20sunfish%20into%20thousands%20of%20pieces",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "A strange quantum effect dramatically boosts energy transfer",
       "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
@@ -10,36 +18,28 @@
       "category": "Physics"
     },
     {
-      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
-      "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combination restored the antibiotic’s ability to kill drug-resistant E. faecium, raising hopes that similar chemical helpers could rescue other failing medicines.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20revive%20a%20powerful%20antibiotic%20that%20superbugs%20had%20defeated",
+      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
+      "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guided by neural switches hidden inside each bee’s brain.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20hidden%20brain%20switch%20that%20assigns%20bees%20their%20jobs",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
-      "summary": "Ancient fern savannahs may have transformed parts of Europe into a wildfire-prone inferno during the end-Triassic mass extinction. New fossil evidence suggests the ferns repeatedly regrew after fires, creating fresh fuel that helped prolong the devastation.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CAncient%20ferns%20turned%20Triassic%20Europe%20into%20a%20wildfire%20inferno",
+      "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
+      "summary": "NASA is preparing for future astronaut landings on the Moon with an unusually ambitious orbital rehearsal. During Artemis III in 2027, Orion astronauts will rendezvous and dock separately with prototype lunar landers from Blue Origin and SpaceX, allowing crews and ground teams to test the complex maneuvers needed for later missions.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20will%20test%20SpaceX%20and%20Blue%20Origin%20Moon%20landers%20before%20the%20next%20lunar%20landing",
       "wiki_url": "",
-      "category": "Science"
+      "category": "Space"
     },
     {
-      "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
-      "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were not confirmed as the cause of death.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CScientists%20found%20mystery%20bacteria%20inside%20one%20of%20the%20ocean%E2%80%99s%20most%20elusive%20whales",
+      "title": "NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems",
+      "summary": "A giant planet had been hiding inside one of astronomy’s most closely studied planetary systems, concealed by a bright disk of cosmic dust. Webb revealed Beta Pictoris d through atmospheric traces of carbon monoxide, water vapor, and methane, showcasing a promising new method for finding elusive exoplanets.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Webb%20telescope%20discovers%20giant%20planet%20hiding%20in%20one%20of%20astronomy%E2%80%99s%20most%20famous%20systems",
       "wiki_url": "",
-      "category": "Environment"
-    },
-    {
-      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
-      "summary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CLab-grown%20mini%20brains%20may%20predict%20which%20Alzheimer%E2%80%99s%20treatments%20will%20work",
-      "wiki_url": "",
-      "category": "AI"
+      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
