@@ -1,6 +1,38 @@
 {
-  "date": "2026-07-24 03:54 UTC",
+  "date": "2026-07-25 03:49 UTC",
   "items": [
+    {
+      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
+      "summary": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAPOE2%20may%20protect%20the%20brain%20from%20Alzheimer%E2%80%99s%20and%20aging",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
+      "summary": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible birthplace and crossroads for the ape lineage that eventually produced gibbons, orangutans, gorillas, chimpanzees, and humans.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CAncient%20ape%20fossil%20in%20Egypt%20challenges%20the%20story%20of%20human%20origins",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
+      "summary": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, researchers are cataloging everything contained in Swedish mineral deposits. They will then develop magnets using those naturally available combinations, potentially reducing pollution, waste, and reliance on China.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CSweden%E2%80%99s%20hidden%20rare%20earth%20deposits%20could%20help%20break%20China%E2%80%99s%20grip",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
+      "summary": "China’s Tianwen-1 orbiter captured a faint but remarkable view of 3I/ATLAS as the interstellar comet raced past Mars. The images reveal its tail and glowing coma, offering scientists a glimpse of material born beyond our solar system.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CChina%E2%80%99s%20Tianwen-1%20captures%20interstellar%20comet%203I/ATLAS%20near%20Mars",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
       "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, blasting the carcass into thousands of pieces.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Science%2COrcas%20filmed%20smashing%20giant%20sunfish%20into%20thousands%20of%20pieces",
       "wiki_url": "",
       "category": "Science"
-    },
-    {
-      "title": "A strange quantum effect dramatically boosts energy transfer",
-      "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20strange%20quantum%20effect%20dramatically%20boosts%20energy%20transfer",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
-      "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guided by neural switches hidden inside each bee’s brain.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20hidden%20brain%20switch%20that%20assigns%20bees%20their%20jobs",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
-      "summary": "NASA is preparing for future astronaut landings on the Moon with an unusually ambitious orbital rehearsal. During Artemis III in 2027, Orion astronauts will rendezvous and dock separately with prototype lunar landers from Blue Origin and SpaceX, allowing crews and ground teams to test the complex maneuvers needed for later missions.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20will%20test%20SpaceX%20and%20Blue%20Origin%20Moon%20landers%20before%20the%20next%20lunar%20landing",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems",
-      "summary": "A giant planet had been hiding inside one of astronomy’s most closely studied planetary systems, concealed by a bright disk of cosmic dust. Webb revealed Beta Pictoris d through atmospheric traces of carbon monoxide, water vapor, and methane, showcasing a promising new method for finding elusive exoplanets.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Webb%20telescope%20discovers%20giant%20planet%20hiding%20in%20one%20of%20astronomy%E2%80%99s%20most%20famous%20systems",
-      "wiki_url": "",
-      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
