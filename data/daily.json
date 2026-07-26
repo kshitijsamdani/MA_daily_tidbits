@@ -1,6 +1,38 @@
 {
-  "date": "2026-07-25 03:49 UTC",
+  "date": "2026-07-26 04:07 UTC",
   "items": [
+    {
+      "title": "The Universe can outrun light without breaking Einstein’s rules",
+      "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CThe%20Universe%20can%20outrun%20light%20without%20breaking%20Einstein%E2%80%99s%20rules",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
+      "summary": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and potentially treating substance use disorder.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2COral%20GLP-1%20drugs%20may%20quiet%20the%20brain%E2%80%99s%20food%20craving%20circuit",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists put the “recycling is a distraction” claim to the test",
+      "summary": "Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20put%20the%20%E2%80%9Crecycling%20is%20a%20distraction%E2%80%9D%20claim%20to%20the%20test",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Venus may be tearing itself apart from within",
+      "summary": "Scientists have uncovered new evidence that Venus may still be tearing itself apart from within. Advanced 3D simulations indicate that some of the planet's giant rift valleys formed relatively recently and could still be expanding. The results suggest Venus has a far more active interior than researchers once believed, challenging the long-held view of a geologically dormant world.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CVenus%20may%20be%20tearing%20itself%20apart%20from%20within",
+      "wiki_url": "",
+      "category": "Space"
+    },
     {
       "title": "APOE2 may protect the brain from Alzheimer’s and aging",
       "summary": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CAPOE2%20may%20protect%20the%20brain%20from%20Alzheimer%E2%80%99s%20and%20aging",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
-      "summary": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible birthplace and crossroads for the ape lineage that eventually produced gibbons, orangutans, gorillas, chimpanzees, and humans.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CAncient%20ape%20fossil%20in%20Egypt%20challenges%20the%20story%20of%20human%20origins",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
-      "summary": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, researchers are cataloging everything contained in Swedish mineral deposits. They will then develop magnets using those naturally available combinations, potentially reducing pollution, waste, and reliance on China.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CSweden%E2%80%99s%20hidden%20rare%20earth%20deposits%20could%20help%20break%20China%E2%80%99s%20grip",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
-      "summary": "China’s Tianwen-1 orbiter captured a faint but remarkable view of 3I/ATLAS as the interstellar comet raced past Mars. The images reveal its tail and glowing coma, offering scientists a glimpse of material born beyond our solar system.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CChina%E2%80%99s%20Tianwen-1%20captures%20interstellar%20comet%203I/ATLAS%20near%20Mars",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
-      "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, blasting the carcass into thousands of pieces.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2COrcas%20filmed%20smashing%20giant%20sunfish%20into%20thousands%20of%20pieces",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
