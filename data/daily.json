@@ -1,6 +1,38 @@
 {
-  "date": "2026-07-26 04:07 UTC",
+  "date": "2026-07-27 04:23 UTC",
   "items": [
+    {
+      "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+      "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and explore it. Researchers suggest this popularity reflects a new kind of digital tourism, where people emotionally enter imaginary places filled with mystery, nostalgia and unease.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CInside%20the%20Backrooms%3A%20The%20internet%E2%80%99s%20creepiest%20place%20is%20becoming%20a%20tourist%20attraction",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "The best way to save giant sequoias may be more fire",
+      "summary": "Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias found that trees in areas treated with prescribed burns were nearly four times more likely to survive. Researchers estimate the controlled fires prevented about 1,900 deaths and could have saved thousands more if used across every grove.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThe%20best%20way%20to%20save%20giant%20sequoias%20may%20be%20more%20fire",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
+      "summary": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000 large genetic differences in brown tree snakes, many concentrated in genes tied to immunity and smell. This overlooked diversity may have helped a population founded by only a few snakes survive inbreeding, adapt to a new environment, and multiply to extraordinary densities.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CHidden%20genetic%20diversity%20helped%20inbred%20brown%20tree%20snakes%20conquer%20guam",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
+      "summary": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as the pineal gland, which helps synchronize our sleep with daylight.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20trace%20the%20shocking%20origin%20of%20human%20eyes%20to%20an%20ancient%20%E2%80%9Ccyclops%E2%80%9D",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "The Universe can outrun light without breaking Einstein’s rules",
       "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CThe%20Universe%20can%20outrun%20light%20without%20breaking%20Einstein%E2%80%99s%20rules",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
-      "summary": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and potentially treating substance use disorder.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2COral%20GLP-1%20drugs%20may%20quiet%20the%20brain%E2%80%99s%20food%20craving%20circuit",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists put the “recycling is a distraction” claim to the test",
-      "summary": "Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20put%20the%20%E2%80%9Crecycling%20is%20a%20distraction%E2%80%9D%20claim%20to%20the%20test",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Venus may be tearing itself apart from within",
-      "summary": "Scientists have uncovered new evidence that Venus may still be tearing itself apart from within. Advanced 3D simulations indicate that some of the planet's giant rift valleys formed relatively recently and could still be expanding. The results suggest Venus has a far more active interior than researchers once believed, challenging the long-held view of a geologically dormant world.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CVenus%20may%20be%20tearing%20itself%20apart%20from%20within",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
-      "summary": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAPOE2%20may%20protect%20the%20brain%20from%20Alzheimer%E2%80%99s%20and%20aging",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
