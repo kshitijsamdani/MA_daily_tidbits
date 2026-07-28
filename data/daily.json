@@ -1,6 +1,30 @@
 {
-  "date": "2026-07-27 04:23 UTC",
+  "date": "2026-07-28 03:47 UTC",
   "items": [
+    {
+      "title": "Why Jupiter has several giant moons but Saturn has only Titan",
+      "summary": "Young Jupiter’s powerful magnetic field may have created a safe zone where several large moons could survive. Saturn lacked this protection, possibly explaining why Titan stands almost alone among its largest moons.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727012143.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20Jupiter%20has%20several%20giant%20moons%20but%20Saturn%20has%20only%20Titan",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "After 241 days in orbit this NASA astronaut is finally home",
+      "summary": "NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and included 3,856 trips around the planet.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CAfter%20241%20days%20in%20orbit%20this%20NASA%20astronaut%20is%20finally%20home",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
+      "summary": "Early humans in England crafted a rare piece of elephant bone into a reusable hammer for sharpening stone tools nearly 500,000 years ago. The extraordinary find reveals that ancient toolmakers were resourceful, skilled, and capable of surprisingly advanced planning.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015301.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2C500%2C000-year-old%20elephant%20bone%20hammer%20shows%20ancient%20humans%20were%20master%20toolmakers",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
       "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and explore it. Researchers suggest this popularity reflects a new kind of digital tourism, where people emotionally enter imaginary places filled with mystery, nostalgia and unease.",
@@ -16,30 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Science%2CThe%20best%20way%20to%20save%20giant%20sequoias%20may%20be%20more%20fire",
       "wiki_url": "",
       "category": "Science"
-    },
-    {
-      "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
-      "summary": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000 large genetic differences in brown tree snakes, many concentrated in genes tied to immunity and smell. This overlooked diversity may have helped a population founded by only a few snakes survive inbreeding, adapt to a new environment, and multiply to extraordinary densities.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CHidden%20genetic%20diversity%20helped%20inbred%20brown%20tree%20snakes%20conquer%20guam",
-      "wiki_url": "",
-      "category": "Environment"
-    },
-    {
-      "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
-      "summary": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as the pineal gland, which helps synchronize our sleep with daylight.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20trace%20the%20shocking%20origin%20of%20human%20eyes%20to%20an%20ancient%20%E2%80%9Ccyclops%E2%80%9D",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "The Universe can outrun light without breaking Einstein’s rules",
-      "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CThe%20Universe%20can%20outrun%20light%20without%20breaking%20Einstein%E2%80%99s%20rules",
-      "wiki_url": "",
-      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
