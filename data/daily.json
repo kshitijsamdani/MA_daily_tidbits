@@ -1,6 +1,38 @@
 {
-  "date": "2026-07-29 03:50 UTC",
+  "date": "2026-07-30 03:41 UTC",
   "items": [
+    {
+      "title": "New microwave frying method could make french fries much healthier",
+      "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CNew%20microwave%20frying%20method%20could%20make%20french%20fries%20much%20healthier",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "Can’t sleep in the heat? These 8 tricks could save your night",
+      "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the hottest hours. Moving to a cooler room, choosing light bedding and using fans or ice packs safely can also make hot nights more manageable.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCan%E2%80%99t%20sleep%20in%20the%20heat%3F%20These%208%20tricks%20could%20save%20your%20night",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Your gut may help your brain decide what to remember",
+      "summary": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutritional value. Blocking the vagus nerve erased this effect and made it harder for the animals to remember where food had been located. Over time, diets high in fat and sugar also weakened this memory system.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20gut%20may%20help%20your%20brain%20decide%20what%20to%20remember",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
+      "summary": "Deep beneath submarine volcanoes, Earth may be running a natural “gold kitchen.” By analyzing volcanic glass from the Kermadec island arc north of New Zealand, researchers found that water-rich mantle repeatedly melts beneath subduction zones, gradually concentrating gold in rising magma. The process works because intense melting breaks down sulfur-rich minerals that normally trap gold, releasing the metal into the melt.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727214628.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CEarth%E2%80%99s%20hidden%20%E2%80%9Cgold%20kitchen%E2%80%9D%20lies%20beneath%20the%20seafloor",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "Hidden charcoal reveals the true age of ancient cave paintings",
       "summary": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing them to use radiocarbon dating. The results show that a bison was painted about 13,000 years ago, while sections of a mask-like figure were added during several widely separated periods.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20charcoal%20reveals%20the%20true%20age%20of%20ancient%20cave%20paintings",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Misfolded insulin may be quietly driving diabetes",
-      "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin. Strengthening this system could offer a new way to protect the pancreas as diabetes progresses.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CMisfolded%20insulin%20may%20be%20quietly%20driving%20diabetes",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
-      "summary": "NASA’s Psyche spacecraft aced its Mars flyby, using the planet’s gravity to speed toward its 2029 encounter with a metal-rich asteroid. The spacecraft tested its cameras, magnetometer, and particle-detecting instruments, capturing unusual views of Mars and measuring its magnetic environment. It also detected neutrons from the planet and spotted the tiny moons Phobos and Deimos.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CNASA%E2%80%99s%20Psyche%20spacecraft%20aces%20Mars%20flyby%20capturing%20stunning%20timelapse%20video",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
-      "summary": "NASA’s Swift Observatory observed a supermassive black hole ripping apart a star more than 30,000 light-years from the center of a distant galaxy. The extraordinary flare briefly outshone its entire host galaxy in ultraviolet light and revealed a black hole about a million times the Sun’s mass.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CBlazing%20like%2010%20billion%20suns%3A%20NASA%E2%80%99s%20Swift%20sees%20a%20wandering%20black%20hole%20devouring%20a%20star",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Twisted laser light can tell mirror-image molecules apart",
-      "summary": "Scientists have created twisted laser beams that interact differently with right-handed and left-handed molecules, revealing their identity through the fragments they produce. The approach could provide a faster, simpler, and more sensitive way to analyze important molecules used in chemistry and pharmaceuticals.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CTwisted%20laser%20light%20can%20tell%20mirror-image%20molecules%20apart",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
