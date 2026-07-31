@@ -1,6 +1,14 @@
 {
-  "date": "2026-07-30 03:41 UTC",
+  "date": "2026-07-31 04:01 UTC",
   "items": [
+    {
+      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+      "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated populations, suggesting new species may be forming right now.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20found%20evolution%20repeating%20itself%20in%20the%20Gal%C3%A1pagos%20Islands",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "New microwave frying method could make french fries much healthier",
       "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
@@ -10,34 +18,26 @@
       "category": "Health"
     },
     {
-      "title": "Can’t sleep in the heat? These 8 tricks could save your night",
-      "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the hottest hours. Moving to a cooler room, choosing light bedding and using fans or ice packs safely can also make hot nights more manageable.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CCan%E2%80%99t%20sleep%20in%20the%20heat%3F%20These%208%20tricks%20could%20save%20your%20night",
+      "title": "What if the brain does not create consciousness?",
+      "summary": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore puzzling phenomena such as near-death experiences and terminal lucidity. His work points toward the possibility that consciousness may be woven into reality itself.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhat%20if%20the%20brain%20does%20not%20create%20consciousness%3F",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Your gut may help your brain decide what to remember",
-      "summary": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutritional value. Blocking the vagus nerve erased this effect and made it harder for the animals to remember where food had been located. Over time, diets high in fat and sugar also weakened this memory system.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20gut%20may%20help%20your%20brain%20decide%20what%20to%20remember",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
-      "summary": "Deep beneath submarine volcanoes, Earth may be running a natural “gold kitchen.” By analyzing volcanic glass from the Kermadec island arc north of New Zealand, researchers found that water-rich mantle repeatedly melts beneath subduction zones, gradually concentrating gold in rising magma. The process works because intense melting breaks down sulfur-rich minerals that normally trap gold, releasing the metal into the melt.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214628.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CEarth%E2%80%99s%20hidden%20%E2%80%9Cgold%20kitchen%E2%80%9D%20lies%20beneath%20the%20seafloor",
+      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+      "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout built for tackling larger prey.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20forgotten%20fossil%20just%20revealed%20a%20new%20Triassic%20predator%20from%20210%20million%20years%20ago",
       "wiki_url": "",
       "category": "Science"
     },
     {
-      "title": "Hidden charcoal reveals the true age of ancient cave paintings",
-      "summary": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing them to use radiocarbon dating. The results show that a bison was painted about 13,000 years ago, while sections of a mask-like figure were added during several widely separated periods.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHidden%20charcoal%20reveals%20the%20true%20age%20of%20ancient%20cave%20paintings",
+      "title": "This 4,000-year-old city defied the rules of history",
+      "summary": "As Mohenjo-daro prospered, the gap between its richest and poorest households actually shrank. Its shared infrastructure, fair trade systems, and lack of powerful royal elites suggest that equality may have helped fuel the ancient city’s success.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%204%2C000-year-old%20city%20defied%20the%20rules%20of%20history",
       "wiki_url": "",
       "category": "AI"
     },
