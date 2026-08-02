@@ -1,43 +1,43 @@
 {
-  "date": "2026-08-01 04:01 UTC",
+  "date": "2026-08-02 04:04 UTC",
   "items": [
     {
-      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
-      "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated populations, suggesting new species may be forming right now.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20found%20evolution%20repeating%20itself%20in%20the%20Gal%C3%A1pagos%20Islands",
+      "title": "Superheated magma may power towering lava fountains",
+      "summary": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain fluid far longer as it rises.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CSuperheated%20magma%20may%20power%20towering%20lava%20fountains",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "New microwave frying method could make french fries much healthier",
-      "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CNew%20microwave%20frying%20method%20could%20make%20french%20fries%20much%20healthier",
+      "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
+      "summary": "NASA’s Curiosity rover has entered a Martian valley covered by an astonishing “sea” of tiny polygon-shaped fractures. The honeycomb patterns, each only a few inches wide, stretch across the landscape and even wrap around a nearby 20-foot-tall butte.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Curiosity%20rover%20finds%20a%20mysterious%20honeycomb%20landscape%20on%20Mars",
       "wiki_url": "",
-      "category": "Health"
+      "category": "Space"
     },
     {
-      "title": "What if the brain does not create consciousness?",
-      "summary": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore puzzling phenomena such as near-death experiences and terminal lucidity. His work points toward the possibility that consciousness may be woven into reality itself.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWhat%20if%20the%20brain%20does%20not%20create%20consciousness%3F",
+      "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
+      "summary": "Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing among many different human groups.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20found%20two%20mysterious%20%E2%80%98ghost%E2%80%99%20ancestors%20hiding%20in%20our%20DNA",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Biology"
     },
     {
-      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
-      "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout built for tackling larger prey.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20forgotten%20fossil%20just%20revealed%20a%20new%20Triassic%20predator%20from%20210%20million%20years%20ago",
+      "title": "Black holes may spit out nearly as much matter as they swallow",
+      "summary": "A black hole observed during a dramatic 2023 eruption did not simply devour gas from its nearby companion star. It also expelled large amounts of material through powerful jets and winds, even after the outburst had nearly faded. The results suggest black holes may continue reshaping their surroundings long after their brightest fireworks end.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CBlack%20holes%20may%20spit%20out%20nearly%20as%20much%20matter%20as%20they%20swallow",
       "wiki_url": "",
       "category": "Science"
     },
     {
-      "title": "This 4,000-year-old city defied the rules of history",
-      "summary": "As Mohenjo-daro prospered, the gap between its richest and poorest households actually shrank. Its shared infrastructure, fair trade systems, and lack of powerful royal elites suggest that equality may have helped fuel the ancient city’s success.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%204%2C000-year-old%20city%20defied%20the%20rules%20of%20history",
+      "title": "AI can tell if your brain is aging faster than you are",
+      "summary": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers used machine learning to analyze EEG recordings from about 7,000 adults and found that an older-than-expected “brain age” was tied to a sharply higher dementia risk. Every additional 10 years of brain aging raised that risk by nearly 40%.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAI%20can%20tell%20if%20your%20brain%20is%20aging%20faster%20than%20you%20are",
       "wiki_url": "",
       "category": "AI"
     },
