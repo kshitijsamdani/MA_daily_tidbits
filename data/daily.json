@@ -1,43 +1,43 @@
 {
-  "date": "2026-08-02 04:04 UTC",
+  "date": "2026-08-03 04:07 UTC",
   "items": [
+    {
+      "title": "Scientists detect a sharp acceleration in global warming",
+      "summary": "Global warming appears to have shifted into a faster gear. After removing the effects of El Niño, volcanic eruptions, and solar cycles, researchers found that the planet has warmed at roughly 0.35°C per decade over the past ten years, compared with just under 0.2°C per decade from 1970 to 2015. The acceleration, which becomes visible around 2013 to 2015, appeared across five major global temperature datasets with more than 98% statistical certainty.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20detect%20a%20sharp%20acceleration%20in%20global%20warming",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Dark matter’s secret force does the opposite of what scientists expected",
+      "summary": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the Universe expands. That weakens its gravitational impact and usually slows the growth of cosmic structure rather than accelerating it.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CDark%20matter%E2%80%99s%20secret%20force%20does%20the%20opposite%20of%20what%20scientists%20expected",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
+      "title": "Mathematicians prove perfectly fair elections are impossible",
+      "summary": "Mathematicians have shown that no electoral system can perfectly balance local representation, proportional national results, and a fixed-size parliament once enough parties compete. A newly proposed voting method could soften these unavoidable trade-offs and produce outcomes that are much closer to fair.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMathematicians%20prove%20perfectly%20fair%20elections%20are%20impossible",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Cancer may be breaking its own DNA to keep growing",
+      "summary": "Cancer cells rely on powerful genetic switches to keep growth genes running at full speed, but that intense activity can damage their own DNA. The resulting breaks are repeatedly repaired, sometimes with small mistakes that allow new mutations to accumulate. Researchers believe this self-inflicted damage may help tumors evolve while also creating a potential target for new treatments.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCancer%20may%20be%20breaking%20its%20own%20DNA%20to%20keep%20growing",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Superheated magma may power towering lava fountains",
       "summary": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain fluid far longer as it rises.",
       "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CSuperheated%20magma%20may%20power%20towering%20lava%20fountains",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
-      "summary": "NASA’s Curiosity rover has entered a Martian valley covered by an astonishing “sea” of tiny polygon-shaped fractures. The honeycomb patterns, each only a few inches wide, stretch across the landscape and even wrap around a nearby 20-foot-tall butte.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Curiosity%20rover%20finds%20a%20mysterious%20honeycomb%20landscape%20on%20Mars",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
-      "summary": "Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing among many different human groups.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20found%20two%20mysterious%20%E2%80%98ghost%E2%80%99%20ancestors%20hiding%20in%20our%20DNA",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Black holes may spit out nearly as much matter as they swallow",
-      "summary": "A black hole observed during a dramatic 2023 eruption did not simply devour gas from its nearby companion star. It also expelled large amounts of material through powerful jets and winds, even after the outburst had nearly faded. The results suggest black holes may continue reshaping their surroundings long after their brightest fireworks end.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CBlack%20holes%20may%20spit%20out%20nearly%20as%20much%20matter%20as%20they%20swallow",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "AI can tell if your brain is aging faster than you are",
-      "summary": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers used machine learning to analyze EEG recordings from about 7,000 adults and found that an older-than-expected “brain age” was tied to a sharply higher dementia risk. Every additional 10 years of brain aging raised that risk by nearly 40%.",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAI%20can%20tell%20if%20your%20brain%20is%20aging%20faster%20than%20you%20are",
       "wiki_url": "",
       "category": "AI"
     },
