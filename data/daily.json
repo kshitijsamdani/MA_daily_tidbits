@@ -1,6 +1,30 @@
 {
-  "date": "2026-08-04 03:49 UTC",
+  "date": "2026-08-05 03:45 UTC",
   "items": [
+    {
+      "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
+      "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more affordable therapy.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCancer-fighting%20chewing%20gum%20cuts%20HPV%20levels%20by%20up%20to%2093%25",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "518-million-year-old creature reveals the origins of spider fangs",
+      "summary": "A tiny 518-million-year-old sea creature has revealed the earliest known evidence of the structures that eventually became spiders’ fangs. Hidden inside the fossil were pincerlike limbs and preserved soft tissues that help explain how the ancestors of spiders and scorpions evolved into formidable hunters.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2C518-million-year-old%20creature%20reveals%20the%20origins%20of%20spider%20fangs",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
+      "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by making extremely weak measurements of the atoms. Surprisingly, the atoms confirmed the same negative dwell time. The finding does not break standard physics, but it reveals that one of quantum mechanics’ strangest effects is physically measurable.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CStrange%20quantum%20experiment%20shows%20%E2%80%9Cnegative%20time%E2%80%9D%20is%20more%20than%20an%20illusion",
+      "wiki_url": "",
+      "category": "Physics"
+    },
     {
       "title": "Your brain may be wired to regain lost weight",
       "summary": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, and lower energy use after weight loss. This biological “memory” helps explain why many people regain weight after dieting and why medications such as Wegovy and Mounjaro can help by reducing appetite signals, although their effects may fade when treatment ends.",
@@ -10,36 +34,12 @@
       "category": "AI"
     },
     {
-      "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
-      "summary": "Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activates the entire TAOK protein family, offering scientists an unexpected new research tool. Together, the compounds could reveal hidden disease mechanisms and point toward new treatment strategies.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CTwo%20new%20compounds%20could%20reveal%20hidden%20drivers%20of%20Alzheimer%E2%80%99s%20disease",
+      "title": "DNA on the Shroud of Turin reveals centuries of hidden history",
+      "summary": "DNA traces in the Shroud of Turin reveal a remarkable mixture of human lineages, microbes, plants, animals, and coral accumulated through centuries of handling and travel. The findings do not prove its age or authenticity, but they expose a hidden biological history preserved in the famous cloth.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CDNA%20on%20the%20Shroud%20of%20Turin%20reveals%20centuries%20of%20hidden%20history",
       "wiki_url": "",
       "category": "Biology"
-    },
-    {
-      "title": "Scientists may have found aging’s hidden trigger for brain disease",
-      "summary": "Scientists have identified a molecular switch that may help explain why aging makes the brain more vulnerable to diseases such as ALS and Huntington’s. In worms, the protein EPS8 builds up with age and triggers signaling that encourages toxic proteins to clump together, damaging neurons and shortening lifespan. Reducing EPS8 activity prevented these harmful aggregates and preserved nerve function.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20found%20aging%E2%80%99s%20hidden%20trigger%20for%20brain%20disease",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
-      "summary": "Taiwan’s steep, remote mountains have sheltered extraordinary forests containing hundreds of giant Taiwania firs. After years of difficult expeditions, LiDAR mapping, and citizen-science detective work, researchers discovered an 84.1-meter (276-foot) tree, the tallest known in East Asia. They also found dense “temples of giants” where dozens of enormous trees grow together. These ancient forests rank among the world’s most carbon-rich ecosystems.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20went%20looking%20for%20giant%20trees%20in%20Taiwan%20and%20found%20a%20lost%20world",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "These bizarre new beetles look so stretchy scientists named them Luffy",
-      "summary": "Scientists have named a newly discovered beetle genus Luffy, inspired by the stretchy hero of the manga and anime One Piece. The insects have unusually long, slender mandibles, antennae, and mouthparts that resemble Luffy’s rubber-like ability to extend his body.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223430.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThese%20bizarre%20new%20beetles%20look%20so%20stretchy%20scientists%20named%20them%20Luffy",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
