@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-05 03:45 UTC",
+  "date": "2026-08-06 03:50 UTC",
   "items": [
     {
-      "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
-      "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more affordable therapy.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CCancer-fighting%20chewing%20gum%20cuts%20HPV%20levels%20by%20up%20to%2093%25",
+      "title": "A colossal magma system has been hiding beneath Tuscany",
+      "summary": "A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrations recorded by dozens of seismic sensors. It poses no immediate danger, but the discovery reveals how enormous volcanic systems can remain hidden and could transform the search for geothermal energy and critical minerals.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20colossal%20magma%20system%20has%20been%20hiding%20beneath%20Tuscany",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "518-million-year-old creature reveals the origins of spider fangs",
-      "summary": "A tiny 518-million-year-old sea creature has revealed the earliest known evidence of the structures that eventually became spiders’ fangs. Hidden inside the fossil were pincerlike limbs and preserved soft tissues that help explain how the ancestors of spiders and scorpions evolved into formidable hunters.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2C518-million-year-old%20creature%20reveals%20the%20origins%20of%20spider%20fangs",
+      "title": "567-million-year-old fossils rewrite the dawn of animal life",
+      "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discovery pushes key evolutionary milestones back by up to 10 million years and suggests complex animal life may have first flourished in the deep ocean.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2C567-million-year-old%20fossils%20rewrite%20the%20dawn%20of%20animal%20life",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
-      "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by making extremely weak measurements of the atoms. Surprisingly, the atoms confirmed the same negative dwell time. The finding does not break standard physics, but it reveals that one of quantum mechanics’ strangest effects is physically measurable.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CStrange%20quantum%20experiment%20shows%20%E2%80%9Cnegative%20time%E2%80%9D%20is%20more%20than%20an%20illusion",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Your brain may be wired to regain lost weight",
-      "summary": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, and lower energy use after weight loss. This biological “memory” helps explain why many people regain weight after dieting and why medications such as Wegovy and Mounjaro can help by reducing appetite signals, although their effects may fade when treatment ends.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20brain%20may%20be%20wired%20to%20regain%20lost%20weight",
+      "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
+      "summary": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a century. The result shows that the conjecture is false in three dimensions and above, although the original two-dimensional version remains unsolved.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CClaude%20Fable%205%20AI%20finds%20a%20tiny%20formula%20that%20topples%20an%2087-year-old%20math%20conjecture",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "DNA on the Shroud of Turin reveals centuries of hidden history",
-      "summary": "DNA traces in the Shroud of Turin reveal a remarkable mixture of human lineages, microbes, plants, animals, and coral accumulated through centuries of handling and travel. The findings do not prove its age or authenticity, but they expose a hidden biological history preserved in the famous cloth.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CDNA%20on%20the%20Shroud%20of%20Turin%20reveals%20centuries%20of%20hidden%20history",
+      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
+      "summary": "August brings four major celestial events, including a solar eclipse and the peak of the Perseid meteor shower. Dark New Moon skies could make the Perseids especially impressive, while Venus will blaze in the west after sunset. A deep partial lunar eclipse closes the month, darkening most of the Moon.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CA%20solar%20eclipse%20and%20the%20Perseid%20meteor%20shower%20arrive%20on%20the%20same%20day",
       "wiki_url": "",
-      "category": "Biology"
+      "category": "Space"
+    },
+    {
+      "title": "Scientists discover the brain cells that keep you motivated",
+      "summary": "A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a possible new target for understanding why people sometimes struggle to sustain goal-directed behavior.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20brain%20cells%20that%20keep%20you%20motivated",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
