@@ -1,6 +1,30 @@
 {
-  "date": "2026-08-06 03:50 UTC",
+  "date": "2026-08-07 03:31 UTC",
   "items": [
+    {
+      "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+      "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug and by targeting fat metabolism. The discovery points to several exciting possibilities for future back pain treatments.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20drug%20already%20used%20for%20osteoporosis%20blocked%20spinal%20damage%20in%20a%20new%20study",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "A star’s violent death exposed a hidden supermassive black hole",
+      "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a passing star and producing a brief, brilliant flare. Astronomers think it may be the remnant of a devoured galaxy or a black hole flung outward during a chaotic cosmic encounter.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CA%20star%E2%80%99s%20violent%20death%20exposed%20a%20hidden%20supermassive%20black%20hole",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Forget the sperm race: Fertilization may depend on teamwork",
+      "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged and vanished over hundreds of millions of years. The discovery challenges the classic “fastest sperm wins” story and could influence future fertility research and pest-control strategies.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CForget%20the%20sperm%20race%3A%20Fertilization%20may%20depend%20on%20teamwork",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "A colossal magma system has been hiding beneath Tuscany",
       "summary": "A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrations recorded by dozens of seismic sensors. It poses no immediate danger, but the discovery reveals how enormous volcanic systems can remain hidden and could transform the search for geothermal energy and critical minerals.",
@@ -14,30 +38,6 @@
       "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discovery pushes key evolutionary milestones back by up to 10 million years and suggests complex animal life may have first flourished in the deep ocean.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2C567-million-year-old%20fossils%20rewrite%20the%20dawn%20of%20animal%20life",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
-      "summary": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a century. The result shows that the conjecture is false in three dimensions and above, although the original two-dimensional version remains unsolved.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CClaude%20Fable%205%20AI%20finds%20a%20tiny%20formula%20that%20topples%20an%2087-year-old%20math%20conjecture",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
-      "summary": "August brings four major celestial events, including a solar eclipse and the peak of the Perseid meteor shower. Dark New Moon skies could make the Perseids especially impressive, while Venus will blaze in the west after sunset. A deep partial lunar eclipse closes the month, darkening most of the Moon.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CA%20solar%20eclipse%20and%20the%20Perseid%20meteor%20shower%20arrive%20on%20the%20same%20day",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Scientists discover the brain cells that keep you motivated",
-      "summary": "A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a possible new target for understanding why people sometimes struggle to sustain goal-directed behavior.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20the%20brain%20cells%20that%20keep%20you%20motivated",
       "wiki_url": "",
       "category": "AI"
     },
