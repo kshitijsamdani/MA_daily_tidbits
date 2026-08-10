@@ -1,6 +1,38 @@
 {
-  "date": "2026-08-09 02:35 UTC",
+  "date": "2026-08-10 02:41 UTC",
   "items": [
+    {
+      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
+      "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed deliberate rules rather than being improvised. The engravers may even have planned entire patterns in their minds before carving them.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2C60%2C000-year-old%20ostrich%20eggshell%20engravings%20reveal%20a%20surprisingly%20sophisticated%20human%20mind",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
+      "summary": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress, made people significantly worse at navigating a virtual environment and disrupted the precise activity of grid cells, specialized brain cells that help us understand where we are in space. When landmarks were missing, this navigation system nearly stopped functioning, while another brain region appeared to step in and compensate.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CStress%20can%20scramble%20your%20brain%E2%80%99s%20internal%20GPS%2C%20MRI%20study%20finds",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
+      "summary": "Deep underground, bacteria may be capable of doing something remarkable: trapping toxic uranium before it spreads. When researchers fed microbes in uranium-contaminated mine water with glycerol, about 95% of the dissolved uranium disappeared within 130 days. The bacteria helped convert it into an unusually stable uranium compound that had rarely been observed before.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20bacteria%20that%20lock%20toxic%20uranium%20into%20a%20stable%20form",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Chemists set electrons free and break a decades-old chemistry barrier",
+      "summary": "Chemists have developed a catalyst that breaks a long-standing rule governing which molecules receive electrons during chemical reactions. By releasing electrons directly into solution, the technique could unlock reactions—and potentially useful new molecules—that were previously out of reach.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CChemists%20set%20electrons%20free%20and%20break%20a%20decades-old%20chemistry%20barrier",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
       "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CMeteorite%20that%20smashed%20through%20a%20New%20Jersey%20roof%20reveals%20clues%20to%20life%E2%80%99s%20origins",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "The sun is covered in tiny whirlpools we’ve never seen before",
-      "summary": "Scientists have discovered incredibly tiny plasma whirlpools swirling across the Sun’s surface, some just 20 kilometers wide. These previously invisible vortices may twist magnetic fields and help build up the energy released in small solar eruptions called nanoflares. They may also help magnetic fields spread through the Sun’s atmosphere far faster than current models can explain.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20sun%20is%20covered%20in%20tiny%20whirlpools%20we%E2%80%99ve%20never%20seen%20before",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Sunlight creates quantum entanglement once thought to require lasers",
-      "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled photons with about 94% similarity to an ideal state. The result could pave the way for simpler quantum satellites, secure communications, and more energy-efficient quantum computing.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CSunlight%20creates%20quantum%20entanglement%20once%20thought%20to%20require%20lasers",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
-      "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug and by targeting fat metabolism. The discovery points to several exciting possibilities for future back pain treatments.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20drug%20already%20used%20for%20osteoporosis%20blocked%20spinal%20damage%20in%20a%20new%20study",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Teen cannabis use linked to slower memory and thinking growth",
-      "summary": "Teens who start using cannabis may experience slower growth in memory, attention, language, and processing speed. Their abilities often developed normally at first, then began leveling off while nonusers continued improving. THC appeared to be the most likely driver, especially for worsening memory.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CTeen%20cannabis%20use%20linked%20to%20slower%20memory%20and%20thinking%20growth",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
