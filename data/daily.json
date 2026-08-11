@@ -1,6 +1,30 @@
 {
-  "date": "2026-08-10 02:41 UTC",
+  "date": "2026-08-11 02:35 UTC",
   "items": [
+    {
+      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
+      "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst designs that boost clean power generation while making green hydrogen more energy-efficient.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20a%20hidden%20switch%20inside%20silver%20nanocatalysts",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
+      "summary": "A total solar eclipse will plunge parts of Europe into darkness on August 12, 2026, with Spain offering some of the best views. ESA will livestream the spectacle from the Javalambre Observatory, combining telescope feeds, drone footage, and expert commentary. At 20:31 CEST, the observatory will experience 1 minute and 21 seconds of totality, revealing the Sun’s normally hidden outer atmosphere.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20sun%20will%20vanish%20over%20Europe%20in%20a%20rare%20total%20solar%20eclipse%3A%20Watch%20live",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "For 15,000 years, humans and dogs have been changing each other",
+      "summary": "Dogs have been shaping—and being shaped by—humans for about 15,000 years, evolving from early partners of hunter-gatherers into an astonishing range of specialized companions. Across the globe, they adapted alongside people to wildly different environments and needs, from powerful Arctic sled dogs and agile rainforest hunters to high-altitude dogs with genetic traits for surviving thin air. Some were even bred for wool, while others played important spiritual or ceremonial roles.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CFor%2015%2C000%20years%2C%20humans%20and%20dogs%20have%20been%20changing%20each%20other",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
       "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed deliberate rules rather than being improvised. The engravers may even have planned entire patterns in their minds before carving them.",
@@ -10,34 +34,10 @@
       "category": "Science"
     },
     {
-      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
-      "summary": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress, made people significantly worse at navigating a virtual environment and disrupted the precise activity of grid cells, specialized brain cells that help us understand where we are in space. When landmarks were missing, this navigation system nearly stopped functioning, while another brain region appeared to step in and compensate.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CStress%20can%20scramble%20your%20brain%E2%80%99s%20internal%20GPS%2C%20MRI%20study%20finds",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
-      "summary": "Deep underground, bacteria may be capable of doing something remarkable: trapping toxic uranium before it spreads. When researchers fed microbes in uranium-contaminated mine water with glycerol, about 95% of the dissolved uranium disappeared within 130 days. The bacteria helped convert it into an unusually stable uranium compound that had rarely been observed before.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20bacteria%20that%20lock%20toxic%20uranium%20into%20a%20stable%20form",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Chemists set electrons free and break a decades-old chemistry barrier",
-      "summary": "Chemists have developed a catalyst that breaks a long-standing rule governing which molecules receive electrons during chemical reactions. By releasing electrons directly into solution, the technique could unlock reactions—and potentially useful new molecules—that were previously out of reach.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CChemists%20set%20electrons%20free%20and%20break%20a%20decades-old%20chemistry%20barrier",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
-      "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMeteorite%20that%20smashed%20through%20a%20New%20Jersey%20roof%20reveals%20clues%20to%20life%E2%80%99s%20origins",
+      "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
+      "summary": "The rise of the potato in the Andes appears to have left a lasting mark on human DNA. Indigenous Peruvians carry exceptionally high numbers of a starch-digestion gene, likely because people with more copies gained an evolutionary advantage once potatoes became a staple food. The change began thousands of years before European contact, providing unusually strong evidence that diet can shape human evolution.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CPotatoes%20may%20have%20given%20Indigenous%20Andeans%20a%20digestive%20superpower",
       "wiki_url": "",
       "category": "AI"
     },
