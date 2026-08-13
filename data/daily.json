@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-12 03:04 UTC",
+  "date": "2026-08-13 03:09 UTC",
   "items": [
     {
-      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
-      "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst designs that boost clean power generation while making green hydrogen more energy-efficient.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20a%20hidden%20switch%20inside%20silver%20nanocatalysts",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
-      "summary": "A total solar eclipse will plunge parts of Europe into darkness on August 12, 2026, with Spain offering some of the best views. ESA will livestream the spectacle from the Javalambre Observatory, combining telescope feeds, drone footage, and expert commentary. At 20:31 CEST, the observatory will experience 1 minute and 21 seconds of totality, revealing the Sun’s normally hidden outer atmosphere.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20sun%20will%20vanish%20over%20Europe%20in%20a%20rare%20total%20solar%20eclipse%3A%20Watch%20live",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "For 15,000 years, humans and dogs have been changing each other",
-      "summary": "Dogs have been shaping—and being shaped by—humans for about 15,000 years, evolving from early partners of hunter-gatherers into an astonishing range of specialized companions. Across the globe, they adapted alongside people to wildly different environments and needs, from powerful Arctic sled dogs and agile rainforest hunters to high-altitude dogs with genetic traits for surviving thin air. Some were even bred for wool, while others played important spiritual or ceremonial roles.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CFor%2015%2C000%20years%2C%20humans%20and%20dogs%20have%20been%20changing%20each%20other",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
-      "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed deliberate rules rather than being improvised. The engravers may even have planned entire patterns in their minds before carving them.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2C60%2C000-year-old%20ostrich%20eggshell%20engravings%20reveal%20a%20surprisingly%20sophisticated%20human%20mind",
+      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+      "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmospheric density about 500 kilometers above Earth. The approach could sharpen satellite tracking and help reduce the growing risk of collisions in increasingly crowded orbits.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20turn%20Starlink%20into%20a%20giant%20scanner%20for%20Earth%E2%80%99s%20upper%20atmosphere",
       "wiki_url": "",
       "category": "Science"
     },
     {
-      "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
-      "summary": "The rise of the potato in the Andes appears to have left a lasting mark on human DNA. Indigenous Peruvians carry exceptionally high numbers of a starch-digestion gene, likely because people with more copies gained an evolutionary advantage once potatoes became a staple food. The change began thousands of years before European contact, providing unusually strong evidence that diet can shape human evolution.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CPotatoes%20may%20have%20given%20Indigenous%20Andeans%20a%20digestive%20superpower",
+      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+      "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20turn%20sheep%E2%80%99s%20wool%20into%20a%20material%20that%20helps%20regrow%20bone",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "James Webb captures a cosmic lion sculpted by a dying star",
+      "summary": "James Webb has captured a striking new infrared view of NGC 2392, the Lion Nebula, revealing the dramatic aftermath of a dying Sun-like star. At its center, a scorching white dwarf is blasting radiation into surrounding gas and dust, carving out the nebula’s lion-like face while illuminating a sprawling “mane” of surviving dusty clumps.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CJames%20Webb%20captures%20a%20cosmic%20lion%20sculpted%20by%20a%20dying%20star",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "The adult brain can repair itself better than scientists thought",
+      "summary": "The adult brain may be far better at repairing itself than scientists once believed. In mice, researchers discovered a special group of support cells called astrocytes that respond to damaged brain tissue by rebuilding lost cellular networks. Rather than simply moving into the injured area, these cells perform a remarkable maneuver: they create new nuclei and send them traveling through long cellular extensions to repopulate damaged regions.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20adult%20brain%20can%20repair%20itself%20better%20than%20scientists%20thought",
       "wiki_url": "",
       "category": "AI"
+    },
+    {
+      "title": "A strange crystal made of electrons just revealed its hidden motion",
+      "summary": "Physicists have found a new way to peer inside one of matter’s most elusive quantum states: the Wigner crystal, where electrons stop behaving like independent particles and organize into a crystal-like pattern. By shining light on an atomically thin material cooled close to absolute zero, researchers uncovered optical signals that reveal not just where the electrons are, but how they move together.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20strange%20crystal%20made%20of%20electrons%20just%20revealed%20its%20hidden%20motion",
+      "wiki_url": "",
+      "category": "Physics"
     },
     {
       "title": "Dearest Gentle Reader,",
