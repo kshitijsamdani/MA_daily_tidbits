@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-14 03:07 UTC",
+  "date": "2026-08-15 01:57 UTC",
   "items": [
     {
-      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
-      "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmospheric density about 500 kilometers above Earth. The approach could sharpen satellite tracking and help reduce the growing risk of collisions in increasingly crowded orbits.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20turn%20Starlink%20into%20a%20giant%20scanner%20for%20Earth%E2%80%99s%20upper%20atmosphere",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
-      "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20turn%20sheep%E2%80%99s%20wool%20into%20a%20material%20that%20helps%20regrow%20bone",
-      "wiki_url": "",
-      "category": "Health"
-    },
-    {
-      "title": "James Webb captures a cosmic lion sculpted by a dying star",
-      "summary": "James Webb has captured a striking new infrared view of NGC 2392, the Lion Nebula, revealing the dramatic aftermath of a dying Sun-like star. At its center, a scorching white dwarf is blasting radiation into surrounding gas and dust, carving out the nebula’s lion-like face while illuminating a sprawling “mane” of surviving dusty clumps.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CJames%20Webb%20captures%20a%20cosmic%20lion%20sculpted%20by%20a%20dying%20star",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "The adult brain can repair itself better than scientists thought",
-      "summary": "The adult brain may be far better at repairing itself than scientists once believed. In mice, researchers discovered a special group of support cells called astrocytes that respond to damaged brain tissue by rebuilding lost cellular networks. Rather than simply moving into the injured area, these cells perform a remarkable maneuver: they create new nuclei and send them traveling through long cellular extensions to repopulate damaged regions.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20adult%20brain%20can%20repair%20itself%20better%20than%20scientists%20thought",
+      "title": "A stress hormone may help the brain repair itself",
+      "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20stress%20hormone%20may%20help%20the%20brain%20repair%20itself",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "A strange crystal made of electrons just revealed its hidden motion",
-      "summary": "Physicists have found a new way to peer inside one of matter’s most elusive quantum states: the Wigner crystal, where electrons stop behaving like independent particles and organize into a crystal-like pattern. By shining light on an atomically thin material cooled close to absolute zero, researchers uncovered optical signals that reveal not just where the electrons are, but how they move together.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20strange%20crystal%20made%20of%20electrons%20just%20revealed%20its%20hidden%20motion",
+      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+      "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The breakthrough suggests antineutrino detectors could eventually monitor reactors even when they are offline.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20detect%20a%20nuclear%20reactor%E2%80%99s%20ghostly%20afterglow%20for%20the%20first%20time",
       "wiki_url": "",
-      "category": "Physics"
+      "category": "AI"
+    },
+    {
+      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CImmune%20cells%20flood%20into%20the%20aging%20brain%2C%20Stanford%20scientists%20discover",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
+      "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use was linked to 39% lower odds of a dementia diagnosis and 35% lower odds of Alzheimer’s-related brain changes at autopsy, including amyloid plaques and tau tangles. Biomarker tests also suggested less amyloid buildup among hormone therapy users.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWomen%20taking%20estrogen%20had%20fewer%20signs%20of%20Alzheimer%E2%80%99s%20in%20their%20brains",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
+      "summary": "JWST has uncovered surprising clues that Neptune’s strange inner moons may be the wreckage of an ancient cosmic catastrophe. Researchers detected clay-like minerals on Larissa, Galatea, and Neptune’s rings that form in the presence of liquid water—yet the moons themselves show no obvious water ice. The material likely came from deep inside much larger icy moons that were shattered when Triton was captured by Neptune, destroying much of the planet’s original satellite system.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNeptune%E2%80%99s%20tiny%20moons%20may%20be%20the%20wreckage%20of%20shattered%20ancient%20worlds",
+      "wiki_url": "",
+      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
