@@ -1,11 +1,19 @@
 {
-  "date": "2026-08-15 01:57 UTC",
+  "date": "2026-08-16 02:07 UTC",
   "items": [
     {
       "title": "A stress hormone may help the brain repair itself",
       "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CA%20stress%20hormone%20may%20help%20the%20brain%20repair%20itself",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+      "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very different obesity drugs can achieve similar results and suggests that carefully combining GIP-targeting treatments with GLP-1 drugs like those related to Wegovy and Ozempic could produce stronger effects.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20solve%20the%20mystery%20of%20a%20brain%20%E2%80%9Cswitch%E2%80%9D%20that%20can%20trigger%20weight%20loss%20in%20opposite%20ways",
       "wiki_url": "",
       "category": "AI"
     },
@@ -32,14 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CWomen%20taking%20estrogen%20had%20fewer%20signs%20of%20Alzheimer%E2%80%99s%20in%20their%20brains",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
-      "summary": "JWST has uncovered surprising clues that Neptune’s strange inner moons may be the wreckage of an ancient cosmic catastrophe. Researchers detected clay-like minerals on Larissa, Galatea, and Neptune’s rings that form in the presence of liquid water—yet the moons themselves show no obvious water ice. The material likely came from deep inside much larger icy moons that were shattered when Triton was captured by Neptune, destroying much of the planet’s original satellite system.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNeptune%E2%80%99s%20tiny%20moons%20may%20be%20the%20wreckage%20of%20shattered%20ancient%20worlds",
-      "wiki_url": "",
-      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
