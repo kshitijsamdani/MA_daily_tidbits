@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-17 02:04 UTC",
+  "date": "2026-08-18 01:59 UTC",
   "items": [
     {
       "title": "Scientists reveal why walking gets so much harder with age",
@@ -10,6 +10,22 @@
       "category": "Science"
     },
     {
+      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
+      "summary": "Scientists are searching some of Earth’s oldest rocks for tiny fossils that could reveal how simple microbial life made the extraordinary leap toward plants, animals, and other complex organisms. Solving that ancient mystery may also help determine whether complex life could emerge on worlds beyond Earth.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064811.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CTiny%201.7-billion-year-old%20fossils%20could%20reveal%20how%20complex%20life%20began",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Webb’s mysterious little red dots may be hiding entire galaxies",
+      "summary": "Astronomers may finally have a clue to what happens to the mysterious “little red dots” that crowded the early universe. By studying a spiral galaxy nicknamed the “Saguaro,” researchers found a compact, bright red center that closely resembles these distant objects—but with something Webb usually can’t see around them: a full galaxy. When the team simulated what the Saguaro would look like much farther away, its spiral structure essentially vanished, leaving only the bright red core.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064808.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CWebb%E2%80%99s%20mysterious%20little%20red%20dots%20may%20be%20hiding%20entire%20galaxies",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
       "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
       "summary": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-shaped junction of the gluons connecting them. The finding challenges a decades-old textbook picture and could deepen our understanding of why protons—and ultimately matter itself—remain stable.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
@@ -18,28 +34,12 @@
       "category": "AI"
     },
     {
-      "title": "A black hole shredded a “super sun” — but something strange may have survived",
-      "summary": "Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The event, nicknamed “the Whippet,” briefly released about 400 billion times the Sun’s energy and sent a shock wave racing outward at one-fifth the speed of light. Months later, scientists spotted unexpectedly fast-moving helium, suggesting that some structure may have survived the destruction.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20black%20hole%20shredded%20a%20%E2%80%9Csuper%20sun%E2%80%9D%20%E2%80%94%20but%20something%20strange%20may%20have%20survived",
+      "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
+      "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active thinking.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20tracked%20kids%20for%208%20years%20%E2%80%94%20the%20screen%20time%20result%20was%20unexpected",
       "wiki_url": "",
       "category": "Science"
-    },
-    {
-      "title": "A little movement in midlife could pay off for your brain years later",
-      "summary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factors may differ across populations.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20little%20movement%20in%20midlife%20could%20pay%20off%20for%20your%20brain%20years%20later",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
-      "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other extinct Pleistocene amphibian has ever been identified in North America. Its bones had been sitting in collections since the 1950s before a researcher noticed features that set it apart from known species.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%20new%20Ice%20Age%20species%20was%20hiding%20in%20la%20brea%20tar%20pits%20fossils%20for%20decades",
-      "wiki_url": "",
-      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
