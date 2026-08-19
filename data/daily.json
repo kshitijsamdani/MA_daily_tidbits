@@ -1,6 +1,22 @@
 {
-  "date": "2026-08-18 01:59 UTC",
+  "date": "2026-08-19 02:03 UTC",
   "items": [
+    {
+      "title": "The bacteria that make cheese taste so good may also benefit your gut",
+      "summary": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed their aromas and textures while potentially producing compounds linked to reduced inflammation, cholesterol regulation, and appetite control.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CThe%20bacteria%20that%20make%20cheese%20taste%20so%20good%20may%20also%20benefit%20your%20gut",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
+      "summary": "Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological model—a model that works extraordinarily well, yet may still be wrong.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CEinstein%E2%80%99s%20biggest%20%E2%80%9Cmistake%E2%80%9D%20came%20back%20%E2%80%94%20and%20changed%20cosmology%20forever",
+      "wiki_url": "",
+      "category": "Health"
+    },
     {
       "title": "Scientists reveal why walking gets so much harder with age",
       "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while producing less forward motion. This leads to shorter strides, slower walking, and faster fatigue. Exercises targeting balance, coordination, and lower-leg strength could help preserve mobility.",
@@ -10,36 +26,20 @@
       "category": "Science"
     },
     {
-      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
-      "summary": "Scientists are searching some of Earth’s oldest rocks for tiny fossils that could reveal how simple microbial life made the extraordinary leap toward plants, animals, and other complex organisms. Solving that ancient mystery may also help determine whether complex life could emerge on worlds beyond Earth.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064811.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CTiny%201.7-billion-year-old%20fossils%20could%20reveal%20how%20complex%20life%20began",
+      "title": "Scientists may have finally proved that “empty” space isn’t really empty",
+      "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window into the strange physics of the quantum vacuum.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20may%20have%20finally%20proved%20that%20%E2%80%9Cempty%E2%80%9D%20space%20isn%E2%80%99t%20really%20empty",
       "wiki_url": "",
-      "category": "Science"
+      "category": "Physics"
     },
     {
-      "title": "Webb’s mysterious little red dots may be hiding entire galaxies",
-      "summary": "Astronomers may finally have a clue to what happens to the mysterious “little red dots” that crowded the early universe. By studying a spiral galaxy nicknamed the “Saguaro,” researchers found a compact, bright red center that closely resembles these distant objects—but with something Webb usually can’t see around them: a full galaxy. When the team simulated what the Saguaro would look like much farther away, its spiral structure essentially vanished, leaving only the bright red core.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064808.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CWebb%E2%80%99s%20mysterious%20little%20red%20dots%20may%20be%20hiding%20entire%20galaxies",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
-      "summary": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-shaped junction of the gluons connecting them. The finding challenges a decades-old textbook picture and could deepen our understanding of why protons—and ultimately matter itself—remain stable.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CPhysicists%20discover%20a%20hidden%20gluon%20structure%20inside%20protons%20that%20could%20rewrite%20textbooks",
+      "title": "A therapy that “rewrites” childhood memories can ease fear of failure",
+      "summary": "Childhood criticism can leave people carrying a fear of failure long into adulthood, but new research suggests those emotional patterns may be surprisingly flexible. Young adults who revisited painful memories through imagery-based therapy showed lasting reductions in fear, guilt, sadness, and stress.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064833.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20therapy%20that%20%E2%80%9Crewrites%E2%80%9D%20childhood%20memories%20can%20ease%20fear%20of%20failure",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
-      "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active thinking.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20tracked%20kids%20for%208%20years%20%E2%80%94%20the%20screen%20time%20result%20was%20unexpected",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
