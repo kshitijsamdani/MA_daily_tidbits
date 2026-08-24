@@ -1,6 +1,30 @@
 {
-  "date": "2026-08-23 02:09 UTC",
+  "date": "2026-08-24 02:08 UTC",
   "items": [
+    {
+      "title": "Experimental compound helps burn fat without muscle loss",
+      "summary": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved blood sugar, triglycerides, and fatty liver disease. It also produced stronger results when combined with GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CExperimental%20compound%20helps%20burn%20fat%20without%20muscle%20loss",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "A hidden “on switch” in human DNA has finally been decoded",
+      "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventually contribute to decoding the broader genetic instructions that control gene activity throughout the body.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20hidden%20%E2%80%9Con%20switch%E2%80%9D%20in%20human%20DNA%20has%20finally%20been%20decoded",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
+      "summary": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ultra-hot matter believed to have filled the cosmos shortly after the Big Bang. Even more intriguingly, the particles left behind reveal the shape of the nuclei that created them, offering a new way to probe both nuclear physics and the Universe’s earliest moments.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CPhysicists%20create%20a%20tiny%20%E2%80%9CBig%20Bang%E2%80%9D%20with%20surprisingly%20small%20atomic%20nuclei",
+      "wiki_url": "",
+      "category": "Physics"
+    },
     {
       "title": "JWST finds early galaxies may be 4 times more massive than thought",
       "summary": "Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more massive than previous estimates. The finding makes it even harder to explain how enormous, mature galaxies formed so soon after the Big Bang. It could also suggest that planets around low-mass stars were more common in the early universe than scientists realized.",
@@ -10,34 +34,10 @@
       "category": "AI"
     },
     {
-      "title": "This yeast supplement may boost cancer-fighting immunity",
-      "summary": "A simple yeast-based food supplement may help restore the immune system’s ability to fight cancer, according to new research in mice. Scientists found that yeast beta-glucan reprogrammed early immune cells in the bone marrow, leading to stronger, longer-lasting cancer-fighting responses against colorectal, skin, and breast cancer cells.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20yeast%20supplement%20may%20boost%20cancer-fighting%20immunity",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Multilingual people may have brains up to 13 years younger",
-      "summary": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also linked to a stronger effect.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMultilingual%20people%20may%20have%20brains%20up%20to%2013%20years%20younger",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Queen bees have a disturbing way to survive pesticides",
-      "summary": "Honeybee queens exposed to pesticides can shift some of the contamination into their eggs, revealing a previously unknown survival strategy. The process may protect the queen while putting developing offspring, and potentially the entire colony, at risk.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012224.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CQueen%20bees%20have%20a%20disturbing%20way%20to%20survive%20pesticides",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
-      "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic fingerprint, revealing the landscapes surrounding the ship when repairs were made.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2C2%2C200-year-old%20Roman%20shipwreck%20reveals%20ancient%20waterproofing%20secrets",
+      "title": "This common vitamin was linked to 13% better cognitive scores",
+      "summary": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest vitamin D could be worth studying as a potentially modifiable factor during an early window of cognitive decline.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20common%20vitamin%20was%20linked%20to%2013%25%20better%20cognitive%20scores",
       "wiki_url": "",
       "category": "AI"
     },
