@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-24 02:08 UTC",
+  "date": "2026-08-25 02:03 UTC",
   "items": [
     {
-      "title": "Experimental compound helps burn fat without muscle loss",
-      "summary": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved blood sugar, triglycerides, and fatty liver disease. It also produced stronger results when combined with GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CExperimental%20compound%20helps%20burn%20fat%20without%20muscle%20loss",
+      "title": "Common medications may change your gut for years",
+      "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable years later, suggesting past medication use may strongly influence the gut bacteria people carry today.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CCommon%20medications%20may%20change%20your%20gut%20for%20years",
       "wiki_url": "",
-      "category": "Health"
+      "category": "Science"
     },
     {
-      "title": "A hidden “on switch” in human DNA has finally been decoded",
-      "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventually contribute to decoding the broader genetic instructions that control gene activity throughout the body.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20hidden%20%E2%80%9Con%20switch%E2%80%9D%20in%20human%20DNA%20has%20finally%20been%20decoded",
+      "title": "Bird flu is spreading. Your backyard feeder could make it worse",
+      "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CBird%20flu%20is%20spreading.%20Your%20backyard%20feeder%20could%20make%20it%20worse",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Too much or too little sleep may make your body age faster",
+      "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, metabolism, and digestive system.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CToo%20much%20or%20too%20little%20sleep%20may%20make%20your%20body%20age%20faster",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
-      "summary": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ultra-hot matter believed to have filled the cosmos shortly after the Big Bang. Even more intriguingly, the particles left behind reveal the shape of the nuclei that created them, offering a new way to probe both nuclear physics and the Universe’s earliest moments.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CPhysicists%20create%20a%20tiny%20%E2%80%9CBig%20Bang%E2%80%9D%20with%20surprisingly%20small%20atomic%20nuclei",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "JWST finds early galaxies may be 4 times more massive than thought",
-      "summary": "Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more massive than previous estimates. The finding makes it even harder to explain how enormous, mature galaxies formed so soon after the Big Bang. It could also suggest that planets around low-mass stars were more common in the early universe than scientists realized.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CJWST%20finds%20early%20galaxies%20may%20be%204%20times%20more%20massive%20than%20thought",
+      "title": "Screen time at ages 1 and 6 may matter more than parents realize",
+      "summary": "More screen time during infancy and around the start of school was linked to poorer academic performance and weaker working memory years later. The findings suggest that early childhood may contain particularly sensitive windows when screen habits can have longer-lasting effects.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScreen%20time%20at%20ages%201%20and%206%20may%20matter%20more%20than%20parents%20realize",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "This common vitamin was linked to 13% better cognitive scores",
-      "summary": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest vitamin D could be worth studying as a potentially modifiable factor during an early window of cognitive decline.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20common%20vitamin%20was%20linked%20to%2013%25%20better%20cognitive%20scores",
+      "title": "NASA is about to launch a powerful new eye on the universe",
+      "summary": "NASA’s Roman Space Telescope has been cleared for final launch preparations ahead of a targeted August 30 liftoff aboard SpaceX’s Falcon Heavy. The powerful new observatory will probe cosmic expansion, the history of the universe, and distant exoplanets.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823094140.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20is%20about%20to%20launch%20a%20powerful%20new%20eye%20on%20the%20universe",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
