@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-25 02:03 UTC",
+  "date": "2026-08-26 02:09 UTC",
   "items": [
     {
       "title": "Common medications may change your gut for years",
@@ -10,6 +10,22 @@
       "category": "Science"
     },
     {
+      "title": "Atomic catalyst unlocks the hidden value of plant waste",
+      "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable building blocks for fuels, plastics, and other materials.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CAtomic%20catalyst%20unlocks%20the%20hidden%20value%20of%20plant%20waste",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Three forgotten kings could rewrite the history of ancient Assyria",
+      "summary": "Three forgotten Assyrian kings may have been hiding in plain sight for more than 2,700 years. By piecing together clues from tablets, inscriptions, and an ancient statue, researchers argue that these rulers were omitted from the famous Assyrian King List.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065549.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThree%20forgotten%20kings%20could%20rewrite%20the%20history%20of%20ancient%20Assyria",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
       "title": "Bird flu is spreading. Your backyard feeder could make it worse",
       "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
@@ -18,28 +34,12 @@
       "category": "Biology"
     },
     {
-      "title": "Too much or too little sleep may make your body age faster",
-      "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, metabolism, and digestive system.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CToo%20much%20or%20too%20little%20sleep%20may%20make%20your%20body%20age%20faster",
+      "title": "Scientists find hidden “highways” guiding animal evolution",
+      "summary": "A sweeping analysis of thousands of animal genomes suggests that chromosomes do not evolve randomly but instead follow a limited number of irreversible “evolutionary highways.” These one-way genetic changes preserve clues to more than 600 million years of animal history and could even help researchers explore where evolution may head next.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20find%20hidden%20%E2%80%9Chighways%E2%80%9D%20guiding%20animal%20evolution",
       "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Screen time at ages 1 and 6 may matter more than parents realize",
-      "summary": "More screen time during infancy and around the start of school was linked to poorer academic performance and weaker working memory years later. The findings suggest that early childhood may contain particularly sensitive windows when screen habits can have longer-lasting effects.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScreen%20time%20at%20ages%201%20and%206%20may%20matter%20more%20than%20parents%20realize",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "NASA is about to launch a powerful new eye on the universe",
-      "summary": "NASA’s Roman Space Telescope has been cleared for final launch preparations ahead of a targeted August 30 liftoff aboard SpaceX’s Falcon Heavy. The powerful new observatory will probe cosmic expansion, the history of the universe, and distant exoplanets.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094140.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20is%20about%20to%20launch%20a%20powerful%20new%20eye%20on%20the%20universe",
-      "wiki_url": "",
-      "category": "Space"
+      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
