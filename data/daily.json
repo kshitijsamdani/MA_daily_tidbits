@@ -1,6 +1,38 @@
 {
-  "date": "2026-08-26 02:09 UTC",
+  "date": "2026-08-27 10:10 UTC",
   "items": [
+    {
+      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+      "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20found%20a%20shortcut%20to%20calorie%20restriction%E2%80%99s%20anti-aging%20benefits",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
+      "summary": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon detach, potentially removing about 22 percent of the remaining ice tongue.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CManhattan-sized%20ice%20island%20breaks%20off%20Greenland%E2%80%99s%20Petermann%20Glacier",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "190-year-old DNA reveals a hidden pangolin species",
+      "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions being targeted by poachers.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2C190-year-old%20DNA%20reveals%20a%20hidden%20pangolin%20species",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
+      "summary": "NASA’s Roman Space Telescope is now enclosed inside its Falcon Heavy fairing and nearly ready for launch. Its mission could uncover thousands of exoplanets while helping scientists investigate dark matter, dark energy, and the accelerating expansion of the universe.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Roman%20Space%20Telescope%20is%20ready%20to%20hunt%20thousands%20of%20alien%20worlds",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Common medications may change your gut for years",
       "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable years later, suggesting past medication use may strongly influence the gut bacteria people carry today.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Science%2CCommon%20medications%20may%20change%20your%20gut%20for%20years",
       "wiki_url": "",
       "category": "Science"
-    },
-    {
-      "title": "Atomic catalyst unlocks the hidden value of plant waste",
-      "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable building blocks for fuels, plastics, and other materials.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CAtomic%20catalyst%20unlocks%20the%20hidden%20value%20of%20plant%20waste",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Three forgotten kings could rewrite the history of ancient Assyria",
-      "summary": "Three forgotten Assyrian kings may have been hiding in plain sight for more than 2,700 years. By piecing together clues from tablets, inscriptions, and an ancient statue, researchers argue that these rulers were omitted from the famous Assyrian King List.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065549.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThree%20forgotten%20kings%20could%20rewrite%20the%20history%20of%20ancient%20Assyria",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Bird flu is spreading. Your backyard feeder could make it worse",
-      "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CBird%20flu%20is%20spreading.%20Your%20backyard%20feeder%20could%20make%20it%20worse",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Scientists find hidden “highways” guiding animal evolution",
-      "summary": "A sweeping analysis of thousands of animal genomes suggests that chromosomes do not evolve randomly but instead follow a limited number of irreversible “evolutionary highways.” These one-way genetic changes preserve clues to more than 600 million years of animal history and could even help researchers explore where evolution may head next.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20find%20hidden%20%E2%80%9Chighways%E2%80%9D%20guiding%20animal%20evolution",
-      "wiki_url": "",
-      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
