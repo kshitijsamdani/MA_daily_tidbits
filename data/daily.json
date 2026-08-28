@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-27 10:10 UTC",
+  "date": "2026-08-28 12:03 UTC",
   "items": [
     {
-      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
-      "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20found%20a%20shortcut%20to%20calorie%20restriction%E2%80%99s%20anti-aging%20benefits",
+      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
+      "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could lead to potentially concerning cumulative exposure over time.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20tested%20212%20plant-based%20meat%20alternatives.%20Every%20one%20contained%20fungal%20toxins",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
-      "summary": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon detach, potentially removing about 22 percent of the remaining ice tongue.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CManhattan-sized%20ice%20island%20breaks%20off%20Greenland%E2%80%99s%20Petermann%20Glacier",
+      "title": "Scientists tracked 4,500 animals and found a surprising human effect",
+      "summary": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development. Because different species reacted in very different ways, conservation efforts may need to become much more targeted.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010517.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20tracked%204%2C500%20animals%20and%20found%20a%20surprising%20human%20effect",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Your dislike of eating bugs may be 9,000 years old",
+      "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed them much more regularly. Populations near the tropics also retained genes that make insect exoskeletons easier to digest.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20dislike%20of%20eating%20bugs%20may%20be%209%2C000%20years%20old",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "190-year-old DNA reveals a hidden pangolin species",
-      "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions being targeted by poachers.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2C190-year-old%20DNA%20reveals%20a%20hidden%20pangolin%20species",
+      "title": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
+      "summary": "Astronomers have captured their clearest image yet of Betelgeuse’s long-suspected companion, potentially ending a search that lasted about 100 years. The surprisingly massive hidden star could help explain Betelgeuse’s changing brightness and may influence its future supernova.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2C%E2%80%9CI%20jumped%20from%20my%20chair%E2%80%9D%20%E2%80%93%20Astronomers%20spot%20Betelgeuse%E2%80%99s%20hidden%20companion",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
-      "summary": "NASA’s Roman Space Telescope is now enclosed inside its Falcon Heavy fairing and nearly ready for launch. Its mission could uncover thousands of exoplanets while helping scientists investigate dark matter, dark energy, and the accelerating expansion of the universe.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Roman%20Space%20Telescope%20is%20ready%20to%20hunt%20thousands%20of%20alien%20worlds",
+      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+      "summary": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one that worked at a record-low 500 watts. That could allow GRCop-42, currently difficult and expensive to print, to be made with much more widely available equipment.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAI%20searched%20100%20million%20possibilities%20and%20found%20a%20cheaper%20way%20to%203D-print%20a%20NASA%20rocket%20alloy",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Common medications may change your gut for years",
-      "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable years later, suggesting past medication use may strongly influence the gut bacteria people carry today.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CCommon%20medications%20may%20change%20your%20gut%20for%20years",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
