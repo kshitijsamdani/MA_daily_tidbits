@@ -1,6 +1,22 @@
 {
-  "date": "2026-08-28 12:03 UTC",
+  "date": "2026-08-29 07:17 UTC",
   "items": [
+    {
+      "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+      "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map billions of cosmic objects, and help scientists unravel the mysteries of dark matter and dark energy.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Roman%20telescope%20will%20see%20100%20times%20more%20sky%20than%20Hubble",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Experimental eye drops help blind mice see again",
+      "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising compounds worked when administered as eye drops, pointing toward a potentially simple new approach to restoring vision.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CExperimental%20eye%20drops%20help%20blind%20mice%20see%20again",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
       "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could lead to potentially concerning cumulative exposure over time.",
@@ -22,22 +38,6 @@
       "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed them much more regularly. Populations near the tropics also retained genes that make insect exoskeletons easier to digest.",
       "link": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20dislike%20of%20eating%20bugs%20may%20be%209%2C000%20years%20old",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
-      "summary": "Astronomers have captured their clearest image yet of Betelgeuse’s long-suspected companion, potentially ending a search that lasted about 100 years. The surprisingly massive hidden star could help explain Betelgeuse’s changing brightness and may influence its future supernova.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2C%E2%80%9CI%20jumped%20from%20my%20chair%E2%80%9D%20%E2%80%93%20Astronomers%20spot%20Betelgeuse%E2%80%99s%20hidden%20companion",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
-      "summary": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one that worked at a record-low 500 watts. That could allow GRCop-42, currently difficult and expensive to print, to be made with much more widely available equipment.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAI%20searched%20100%20million%20possibilities%20and%20found%20a%20cheaper%20way%20to%203D-print%20a%20NASA%20rocket%20alloy",
       "wiki_url": "",
       "category": "AI"
     },
