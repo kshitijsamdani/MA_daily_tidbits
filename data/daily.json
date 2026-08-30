@@ -1,6 +1,30 @@
 {
-  "date": "2026-08-29 07:17 UTC",
+  "date": "2026-08-30 05:41 UTC",
   "items": [
+    {
+      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+      "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions about the safety of taking the popular sleep supplement for extended periods.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CLong-term%20melatonin%20use%20linked%20to%2090%25%20higher%20heart%20failure%20risk",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Australia’s red soil may be hiding a massive clean energy source",
+      "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations beneath the Pilbara could become a major new source of low-emission energy for Australia and potentially the world.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CAustralia%E2%80%99s%20red%20soil%20may%20be%20hiding%20a%20massive%20clean%20energy%20source",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Dogs may hold surprising clues to human longevity",
+      "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifespans in remarkably similar ways to those seen in people. These metabolic “fingerprints” could offer clues about the biological processes that drive aging, including metabolism, inflammation, and cellular stress.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CDogs%20may%20hold%20surprising%20clues%20to%20human%20longevity",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
       "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map billions of cosmic objects, and help scientists unravel the mysteries of dark matter and dark energy.",
@@ -10,34 +34,10 @@
       "category": "AI"
     },
     {
-      "title": "Experimental eye drops help blind mice see again",
-      "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising compounds worked when administered as eye drops, pointing toward a potentially simple new approach to restoring vision.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CExperimental%20eye%20drops%20help%20blind%20mice%20see%20again",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
-      "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could lead to potentially concerning cumulative exposure over time.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20tested%20212%20plant-based%20meat%20alternatives.%20Every%20one%20contained%20fungal%20toxins",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists tracked 4,500 animals and found a surprising human effect",
-      "summary": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development. Because different species reacted in very different ways, conservation efforts may need to become much more targeted.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010517.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20tracked%204%2C500%20animals%20and%20found%20a%20surprising%20human%20effect",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Your dislike of eating bugs may be 9,000 years old",
-      "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed them much more regularly. Populations near the tropics also retained genes that make insect exoskeletons easier to digest.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20dislike%20of%20eating%20bugs%20may%20be%209%2C000%20years%20old",
+      "title": "The universe is still speeding up, but nobody knows why",
+      "summary": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while leaving scientists with the enduring mystery of what this strange cosmic force actually is.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20universe%20is%20still%20speeding%20up%2C%20but%20nobody%20knows%20why",
       "wiki_url": "",
       "category": "AI"
     },
