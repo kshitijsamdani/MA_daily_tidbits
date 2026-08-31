@@ -1,6 +1,22 @@
 {
-  "date": "2026-08-30 05:41 UTC",
+  "date": "2026-08-31 05:58 UTC",
   "items": [
+    {
+      "title": "HEPA air purifiers may boost brain function after just one month",
+      "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help protect the brain from the effects of traffic-related pollution.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHEPA%20air%20purifiers%20may%20boost%20brain%20function%20after%20just%20one%20month",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
+      "summary": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when huge icebergs break off, capsize, and collide with the glacier. The surge in activity coincided with a period when Thwaites was flowing faster toward the ocean, hinting that changing ocean conditions may be destabilizing the ice.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHundreds%20of%20hidden%20earthquakes%20found%20at%20Antarctica%E2%80%99s%20Doomsday%20Glacier",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Long-term melatonin use linked to 90% higher heart failure risk",
       "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions about the safety of taking the popular sleep supplement for extended periods.",
@@ -10,36 +26,20 @@
       "category": "AI"
     },
     {
-      "title": "Australia’s red soil may be hiding a massive clean energy source",
-      "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations beneath the Pilbara could become a major new source of low-emission energy for Australia and potentially the world.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CAustralia%E2%80%99s%20red%20soil%20may%20be%20hiding%20a%20massive%20clean%20energy%20source",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Dogs may hold surprising clues to human longevity",
-      "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifespans in remarkably similar ways to those seen in people. These metabolic “fingerprints” could offer clues about the biological processes that drive aging, including metabolism, inflammation, and cellular stress.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CDogs%20may%20hold%20surprising%20clues%20to%20human%20longevity",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-      "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map billions of cosmic objects, and help scientists unravel the mysteries of dark matter and dark energy.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Roman%20telescope%20will%20see%20100%20times%20more%20sky%20than%20Hubble",
+      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
+      "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina, which mainly contains a form of B12 the human body cannot use. The carbon-neutral system could provide a more sustainable source of the essential vitamin.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CResearchers%20unveil%20sustainable%20spirulina%20solution%20to%20vitamin%20B12%20deficiency",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "The universe is still speeding up, but nobody knows why",
-      "summary": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while leaving scientists with the enduring mystery of what this strange cosmic force actually is.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20universe%20is%20still%20speeding%20up%2C%20but%20nobody%20knows%20why",
+      "title": "This strange “spacetime crystal” can suddenly become a black hole",
+      "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, potentially giving researchers a new tool for studying primordial and microscopic black holes.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CThis%20strange%20%E2%80%9Cspacetime%20crystal%E2%80%9D%20can%20suddenly%20become%20a%20black%20hole",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
