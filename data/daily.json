@@ -1,6 +1,22 @@
 {
-  "date": "2026-08-31 05:58 UTC",
+  "date": "2026-09-01 05:31 UTC",
   "items": [
+    {
+      "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
+      "summary": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 times faster than Hubble and a torrent of 1.4 terabytes of data per day, Roman could uncover cosmic surprises astronomers have never seen before.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Roman%20Space%20Telescope%20launches%20to%20reveal%20the%20Universe%E2%80%99s%20darkest%20secrets",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Popular sweeteners may leave effects that last for generations",
+      "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes involved in metabolism and inflammation. Some of those changes were also detected in later generations that had never consumed the sweeteners themselves.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CPopular%20sweeteners%20may%20leave%20effects%20that%20last%20for%20generations",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "HEPA air purifiers may boost brain function after just one month",
       "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help protect the brain from the effects of traffic-related pollution.",
@@ -10,36 +26,20 @@
       "category": "AI"
     },
     {
-      "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
-      "summary": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when huge icebergs break off, capsize, and collide with the glacier. The surge in activity coincided with a period when Thwaites was flowing faster toward the ocean, hinting that changing ocean conditions may be destabilizing the ice.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHundreds%20of%20hidden%20earthquakes%20found%20at%20Antarctica%E2%80%99s%20Doomsday%20Glacier",
+      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
+      "summary": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading. Researchers found that evolution instead appears to balance two competing styles of brain wiring, expanding one while shrinking the other depending on what an animal needs to survive.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20challenge%20a%2070-year-old%20%E2%80%9Clizard%20brain%E2%80%9D%20myth",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
-      "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions about the safety of taking the popular sleep supplement for extended periods.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CLong-term%20melatonin%20use%20linked%20to%2090%25%20higher%20heart%20failure%20risk",
+      "title": "Fossil feet may be misleading scientists about human evolution",
+      "summary": "Wild monkeys in West Africa can climb vertical tree trunks using foot flexibility scientists did not realize they possessed. The discovery challenges a key assumption about what the last common ancestor of humans and chimpanzees looked like and how it moved.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CFossil%20feet%20may%20be%20misleading%20scientists%20about%20human%20evolution",
       "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-      "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina, which mainly contains a form of B12 the human body cannot use. The carbon-neutral system could provide a more sustainable source of the essential vitamin.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CResearchers%20unveil%20sustainable%20spirulina%20solution%20to%20vitamin%20B12%20deficiency",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "This strange “spacetime crystal” can suddenly become a black hole",
-      "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, potentially giving researchers a new tool for studying primordial and microscopic black holes.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CThis%20strange%20%E2%80%9Cspacetime%20crystal%E2%80%9D%20can%20suddenly%20become%20a%20black%20hole",
-      "wiki_url": "",
-      "category": "Space"
+      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
