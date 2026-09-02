@@ -1,6 +1,38 @@
 {
-  "date": "2026-09-01 05:31 UTC",
+  "date": "2026-09-02 04:57 UTC",
   "items": [
+    {
+      "title": "Scientists discover why snake embryos twist into spirals",
+      "summary": "Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening embryo to buckle and twist inside the egg. Researchers reached the conclusion after studying more than 900 embryos and using CT scans to reveal the hidden anatomy behind the coils.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20why%20snake%20embryos%20twist%20into%20spirals",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Mindfulness may lower blood pressure in just 8 weeks",
+      "summary": "Mindfulness, gratitude, and optimism training may improve blood pressure, inflammation, and other heart-health measures within just eight to 12 weeks. The strongest programs paired daily practice with regular reinforcement, suggesting that improving psychological well-being could become another tool for protecting cardiovascular health.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMindfulness%20may%20lower%20blood%20pressure%20in%20just%208%20weeks",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
+      "summary": "NASA and SpaceX have delayed Crew-13 after finding an oxidizer leak in the Dragon spacecraft’s propulsion system during prelaunch preparations. Engineers are investigating the problem before the four-person crew can begin its journey to the International Space Station.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20delays%20Crew-13%20launch%20after%20leak%20found%20on%20SpaceX%20Dragon",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "NASA’s Swift telescope is back, but time is running out",
+      "summary": "NASA has brought two of Swift’s telescopes back online after technical problems derailed a commercial mission intended to rescue the aging observatory by raising its orbit. With atmospheric drag pulling the spacecraft downward faster than expected, scientists may have only another month or two before Swift falls below a critical operating altitude.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Swift%20telescope%20is%20back%2C%20but%20time%20is%20running%20out",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
       "summary": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 times faster than Hubble and a torrent of 1.4 terabytes of data per day, Roman could uncover cosmic surprises astronomers have never seen before.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Roman%20Space%20Telescope%20launches%20to%20reveal%20the%20Universe%E2%80%99s%20darkest%20secrets",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "Popular sweeteners may leave effects that last for generations",
-      "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes involved in metabolism and inflammation. Some of those changes were also detected in later generations that had never consumed the sweeteners themselves.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CPopular%20sweeteners%20may%20leave%20effects%20that%20last%20for%20generations",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "HEPA air purifiers may boost brain function after just one month",
-      "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help protect the brain from the effects of traffic-related pollution.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHEPA%20air%20purifiers%20may%20boost%20brain%20function%20after%20just%20one%20month",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
-      "summary": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading. Researchers found that evolution instead appears to balance two competing styles of brain wiring, expanding one while shrinking the other depending on what an animal needs to survive.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20challenge%20a%2070-year-old%20%E2%80%9Clizard%20brain%E2%80%9D%20myth",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Fossil feet may be misleading scientists about human evolution",
-      "summary": "Wild monkeys in West Africa can climb vertical tree trunks using foot flexibility scientists did not realize they possessed. The discovery challenges a key assumption about what the last common ancestor of humans and chimpanzees looked like and how it moved.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CFossil%20feet%20may%20be%20misleading%20scientists%20about%20human%20evolution",
-      "wiki_url": "",
-      "category": "Biology"
     },
     {
       "title": "Dearest Gentle Reader,",
