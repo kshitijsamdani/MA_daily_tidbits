@@ -1,6 +1,30 @@
 {
-  "date": "2026-09-04 04:58 UTC",
+  "date": "2026-09-05 04:51 UTC",
   "items": [
+    {
+      "title": "A longer exhale may push your brain toward bolder decisions",
+      "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20longer%20exhale%20may%20push%20your%20brain%20toward%20bolder%20decisions",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
+      "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint of a long-sought dark matter particle.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CDark%20matter%20detector%20finds%20a%20strange%20signal%20scientists%20can%E2%80%99t%20yet%20explain",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists reveal the hidden instructions that build the human brain",
+      "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reveal%20the%20hidden%20instructions%20that%20build%20the%20human%20brain",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
       "summary": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observations will reveal why it suddenly formed and whether it could persist for decades.",
@@ -10,36 +34,12 @@
       "category": "Space"
     },
     {
-      "title": "Ancient “living fossils” may reveal how complex life began",
-      "summary": "A newly discovered microbe living inside ancient stromatolite communities may offer a rare look at how complex life first emerged. Researchers captured the first direct images of an Asgard archaeon physically connected to a bacterium, with the two microbes appearing to exchange nutrients and other compounds. Scientists think similar partnerships billions of years ago may have helped produce the first complex cells.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CAncient%20%E2%80%9Cliving%20fossils%E2%80%9D%20may%20reveal%20how%20complex%20life%20began",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "September brings a dazzling Venus and a glowing Harvest Moon",
-      "summary": "September’s sky features brilliant Venus, the Milky Way’s hazy center, and the seasonal turning point of the equinox. The month ends with a glowing Harvest Moon rising near Saturn and faint Neptune.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CSeptember%20brings%20a%20dazzling%20Venus%20and%20a%20glowing%20Harvest%20Moon",
+      "title": "Scientists discover a bizarre “devil flower” hidden in Thailand",
+      "summary": "Scientists have discovered a strange black “devil flower” in Thailand that lives mostly underground, steals nutrients from fungi, and looks strikingly unlike a typical plant. The newly named Thismia daemona is known from fewer than 50 individuals and may already be critically endangered.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20bizarre%20%E2%80%9Cdevil%20flower%E2%80%9D%20hidden%20in%20Thailand",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
-      "summary": "Star formation across the universe has fallen dramatically over the past 4.5 billion years, but astronomers have uncovered a surprising twist: the supply of neutral hydrogen, a key ingredient for making stars, has barely declined. Using China’s FAST radio telescope and data from roughly 2.5 million galaxies observed by DESI, researchers found that star formation was about 2.5 times higher 4.5 billion years ago, while neutral hydrogen levels were only about 1.4 times higher.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThe%20universe%20has%20plenty%20of%20hydrogen.%20So%20why%20is%20star%20formation%20collapsing%3F",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Too much coffee may weaken bones, study finds",
-      "summary": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five cups a day was linked to lower bone density. The findings suggest tea may offer a small bone-health boost, while excessive coffee could carry some drawbacks.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
-      "image": "https://source.unsplash.com/1600x900/?Health%2CToo%20much%20coffee%20may%20weaken%20bones%2C%20study%20finds",
-      "wiki_url": "",
-      "category": "Health"
     },
     {
       "title": "Dearest Gentle Reader,",
