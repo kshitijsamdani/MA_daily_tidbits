@@ -1,6 +1,14 @@
 {
-  "date": "2026-09-06 04:59 UTC",
+  "date": "2026-09-07 05:06 UTC",
   "items": [
+    {
+      "title": "Popular brain supplement linked to shorter lifespan in men",
+      "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CPopular%20brain%20supplement%20linked%20to%20shorter%20lifespan%20in%20men",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "A mysterious signal around Earth could be dark matter",
       "summary": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and uncovered several intriguing dark photon signals that still need to be explained.",
@@ -18,26 +26,18 @@
       "category": "AI"
     },
     {
+      "title": "Indonesia’s most dangerous fires are burning underground",
+      "summary": "Indonesia’s dangerous peat fires are surging early in the 2026 fire season as a strengthening El Niño and severe drought dry out wetlands that can burn underground for months. These slow smoldering fires are especially destructive because they release far more fine particles and several pollutants than typical tropical forest fires, while thick smoke can make them difficult for satellites to detect.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CIndonesia%E2%80%99s%20most%20dangerous%20fires%20are%20burning%20underground",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
       "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
       "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint of a long-sought dark matter particle.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CDark%20matter%20detector%20finds%20a%20strange%20signal%20scientists%20can%E2%80%99t%20yet%20explain",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Life uses 4 DNA letters. Scientists just made 8 work",
-      "summary": "Researchers at UC San Diego have demonstrated that a key cellular enzyme can accurately read an eight-letter genetic alphabet, doubling the four letters used by all known life on Earth. Detailed imaging revealed that RNA polymerase handles synthetic DNA letters in surprisingly similar ways to natural ones. The finding brings scientists closer to building expanded genetic systems that could perform entirely new biological functions.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CLife%20uses%204%20DNA%20letters.%20Scientists%20just%20made%208%20work",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists reveal the hidden instructions that build the human brain",
-      "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20reveal%20the%20hidden%20instructions%20that%20build%20the%20human%20brain",
       "wiki_url": "",
       "category": "AI"
     },
