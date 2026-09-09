@@ -1,43 +1,43 @@
 {
-  "date": "2026-09-08 05:04 UTC",
+  "date": "2026-09-09 05:03 UTC",
   "items": [
     {
-      "title": "Popular brain supplement linked to shorter lifespan in men",
-      "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CPopular%20brain%20supplement%20linked%20to%20shorter%20lifespan%20in%20men",
+      "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+      "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspired snakebite treatments.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20a%20powerful%20new%20antivenom%20hidden%20in%20rattlesnake%20blood",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Giant new dinosaur discovered beneath construction site in Brazil",
+      "summary": "Scientists have identified a giant new dinosaur from Brazil that reached about 20 meters long and lived 120 million years ago. Its surprising evolutionary ties to a Spanish dinosaur suggest its ancestors crossed ancient land connections between Europe, Africa, and South America.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CGiant%20new%20dinosaur%20discovered%20beneath%20construction%20site%20in%20Brazil",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
+      "summary": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related biological pathways could help stabilize mood, though other GLP-1 drugs did not show the same association.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2COzempic%20and%20Wegovy%20may%20have%20an%20unexpected%20mental%20health%20benefit",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "A mysterious signal around Earth could be dark matter",
-      "summary": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and uncovered several intriguing dark photon signals that still need to be explained.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20mysterious%20signal%20around%20Earth%20could%20be%20dark%20matter",
+      "title": "The American “cheetah” wasn’t a cheetah at all",
+      "summary": "The extinct “American cheetah” was not really a cheetah at all, but a puma relative with an unexpectedly flexible lifestyle. Fossils from the Yukon suggest northern populations survived partly by eating fish, possibly including salmon, while southern cats hunted on land.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201558.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThe%20American%20%E2%80%9Ccheetah%E2%80%9D%20wasn%E2%80%99t%20a%20cheetah%20at%20all",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Science"
     },
     {
-      "title": "A longer exhale may push your brain toward bolder decisions",
-      "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20longer%20exhale%20may%20push%20your%20brain%20toward%20bolder%20decisions",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Indonesia’s most dangerous fires are burning underground",
-      "summary": "Indonesia’s dangerous peat fires are surging early in the 2026 fire season as a strengthening El Niño and severe drought dry out wetlands that can burn underground for months. These slow smoldering fires are especially destructive because they release far more fine particles and several pollutants than typical tropical forest fires, while thick smoke can make them difficult for satellites to detect.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CIndonesia%E2%80%99s%20most%20dangerous%20fires%20are%20burning%20underground",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
-      "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint of a long-sought dark matter particle.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CDark%20matter%20detector%20finds%20a%20strange%20signal%20scientists%20can%E2%80%99t%20yet%20explain",
+      "title": "Your personality may be more genetic than scientists realized",
+      "summary": "More than 1,200 genetic variants have been linked to the Big Five personality traits, and many of the same variants are also associated with health, longevity, careers, income, and everyday habits. The findings reveal a surprisingly wide genetic connection between personality and life outcomes while showing that environment still plays a powerful role.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201554.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20personality%20may%20be%20more%20genetic%20than%20scientists%20realized",
       "wiki_url": "",
       "category": "AI"
     },
