@@ -1,43 +1,43 @@
 {
-  "date": "2026-09-09 05:03 UTC",
+  "date": "2026-09-10 05:06 UTC",
   "items": [
     {
-      "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-      "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspired snakebite treatments.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20discover%20a%20powerful%20new%20antivenom%20hidden%20in%20rattlesnake%20blood",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Giant new dinosaur discovered beneath construction site in Brazil",
-      "summary": "Scientists have identified a giant new dinosaur from Brazil that reached about 20 meters long and lived 120 million years ago. Its surprising evolutionary ties to a Spanish dinosaur suggest its ancestors crossed ancient land connections between Europe, Africa, and South America.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CGiant%20new%20dinosaur%20discovered%20beneath%20construction%20site%20in%20Brazil",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
-      "summary": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related biological pathways could help stabilize mood, though other GLP-1 drugs did not show the same association.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2COzempic%20and%20Wegovy%20may%20have%20an%20unexpected%20mental%20health%20benefit",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "The American “cheetah” wasn’t a cheetah at all",
-      "summary": "The extinct “American cheetah” was not really a cheetah at all, but a puma relative with an unexpectedly flexible lifestyle. Fossils from the Yukon suggest northern populations survived partly by eating fish, possibly including salmon, while southern cats hunted on land.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201558.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThe%20American%20%E2%80%9Ccheetah%E2%80%9D%20wasn%E2%80%99t%20a%20cheetah%20at%20all",
+      "title": "Scientists find a bone-building switch that could fight osteoporosis",
+      "summary": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also been linked to stronger muscles, researchers see intriguing potential for combating age-related decline and osteoporosis.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20find%20a%20bone-building%20switch%20that%20could%20fight%20osteoporosis",
       "wiki_url": "",
       "category": "Science"
     },
     {
-      "title": "Your personality may be more genetic than scientists realized",
-      "summary": "More than 1,200 genetic variants have been linked to the Big Five personality traits, and many of the same variants are also associated with health, longevity, careers, income, and everyday habits. The findings reveal a surprisingly wide genetic connection between personality and life outcomes while showing that environment still plays a powerful role.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201554.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CYour%20personality%20may%20be%20more%20genetic%20than%20scientists%20realized",
+      "title": "Interstellar comet 3I/ATLAS is bursting with methanol",
+      "summary": "Interstellar comet 3I/ATLAS contains exceptionally high levels of methanol, suggesting it formed under conditions very different from those that shaped most comets in our solar system. ALMA also revealed that tiny icy grains around the comet are releasing methanol like miniature comets, giving astronomers an unusually detailed look at an object from another star system.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CInterstellar%20comet%203I/ATLAS%20is%20bursting%20with%20methanol",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Have we found alien life? Hundreds of scientists weigh in",
+      "summary": "Two major alien-life announcements in 2025 generated enormous excitement, but most astrobiologists remained unconvinced. Only 6.6% of surveyed experts thought possible biological molecules on K2-18b probably represented extraterrestrial life, while 15.1% said the same about intriguing mineral patterns in a Martian rock.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CHave%20we%20found%20alien%20life%3F%20Hundreds%20of%20scientists%20weigh%20in",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
+      "summary": "Semaglutide, the drug found in Ozempic and Wegovy, was linked to nearly 40% fewer asthma attacks in a large real-world study. It was also associated with about 20% fewer COPD flare-ups. Researchers say GLP-1 drugs may offer respiratory benefits in addition to their effects on diabetes and obesity, but clinical trials are needed to confirm the findings.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2COzempic%20and%20Wegovy%20linked%20to%20nearly%2040%25%20fewer%20asthma%20attacks",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
+      "summary": "Britain’s towering Devil’s Arrows were built from 25-tonne stones hauled at least 18 kilometers from Brimham Rocks around 4,000 years ago. The discovery reveals an astonishing feat of prehistoric engineering and suggests the stones’ distant source may have been chosen for cultural or spiritual reasons.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CDevil%E2%80%99s%20Arrows%3A%20Ancient%20builders%20hauled%2055%2C000-pound%20stones%2011%20miles%20for%20Britain%E2%80%99s%20tallest%20stone%20row",
       "wiki_url": "",
       "category": "AI"
     },
