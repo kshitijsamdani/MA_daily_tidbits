@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-12 04:54 UTC",
+  "date": "2026-09-13 05:15 UTC",
   "items": [
     {
-      "title": "Wasps are disappearing this summer, and scientists are worried",
-      "summary": "Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear unusually small, potentially offering a glimpse of how extreme heat could reshape insect populations.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWasps%20are%20disappearing%20this%20summer%2C%20and%20scientists%20are%20worried",
+      "title": "Venus’s pale yellow clouds may hide something surprisingly dark",
+      "summary": "A century-old mystery in Venus’s clouds just became more intriguing, as scientists calculated how strongly the unidentified material behind its dark ultraviolet patterns must absorb light. The results sharply narrow the possibilities and could help future spacecraft determine whether the mysterious substance is organic, inorganic, or something unexpected.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220022.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CVenus%E2%80%99s%20pale%20yellow%20clouds%20may%20hide%20something%20surprisingly%20dark",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Scientists discover a hidden switch that shuts down inflammation",
+      "summary": "Scientists have uncovered a natural braking system that helps the immune system switch off inflammation and prevent harmful immune cells from building up. Boosting this pathway in people reduced inflammation-related immune changes and sped up pain relief, pointing toward potential new treatments for chronic inflammatory diseases.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214306.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20hidden%20switch%20that%20shuts%20down%20inflammation",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "The secret to longer life may be hidden in bat DNA",
-      "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CThe%20secret%20to%20longer%20life%20may%20be%20hidden%20in%20bat%20DNA",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
-      "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers, suggesting superior plumage may have helped the ancestors of living birds endure the deadly impact winter.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2C66-million-year-old%20feather%20in%20dinosaur%20poop%20may%20reveal%20why%20birds%20survived%20the%20asteroid",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Physicists just found a tiny glitch in time itself",
-      "summary": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CPhysicists%20just%20found%20a%20tiny%20glitch%20in%20time%20itself",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
-      "summary": "The Mediterranean may seem far removed from the world’s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis could reach shore in under 10 minutes, while past events have produced waves around two meters high, powerful currents, damage, and deaths.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260910022149.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CUNESCO%20warns%20there%E2%80%99s%20close%20to%20a%20100%25%20chance%20of%20a%20Mediterranean%20tsunami",
+      "title": "Scientists find water was fueling volcanoes 3 billion years ago",
+      "summary": "Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose that water-rich pieces of crust periodically sank into the mantle through a process they call “dripduction.” The buried water then helped produce magma and volcanic eruptions.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214305.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20find%20water%20was%20fueling%20volcanoes%203%20billion%20years%20ago",
       "wiki_url": "",
       "category": "Science"
+    },
+    {
+      "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
+      "summary": "Physicists at CERN have found a new way to peer deep inside atomic nuclei and distinguish between two competing explanations for how gluons behave. Using the ALICE experiment at the Large Hadron Collider, researchers measured particle production at unprecedented spatial resolution, revealing structures as small as about one-quarter the size of a proton. At the smallest scales, they saw a surprising drop in J/ψ production that conventional “nuclear shadowing” struggles to explain.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCERN%20finds%20gluons%20behaving%20strangely%20deep%20inside%20atomic%20nuclei",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists find Ozempic may slow aging itself",
+      "summary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway linked to longevity.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20Ozempic%20may%20slow%20aging%20itself",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
