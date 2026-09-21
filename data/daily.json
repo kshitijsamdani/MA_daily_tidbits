@@ -1,6 +1,14 @@
 {
-  "date": "2026-09-20 05:16 UTC",
+  "date": "2026-09-21 05:19 UTC",
   "items": [
+    {
+      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
+      "summary": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature’s most fundamental constants, it is large enough to keep scientists wondering whether hidden experimental errors or something more surprising is involved.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20opened%20a%20sealed%20envelope%20after%2010%20years.%20Gravity%20still%20didn%E2%80%99t%20make%20sense",
+      "wiki_url": "",
+      "category": "Physics"
+    },
     {
       "title": "A giant crater may reveal the origin of Mars’ doomed moon",
       "summary": "A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars. Japan’s upcoming MMX sample return mission could provide the measurements and physical evidence needed to solve the mystery.",
@@ -18,26 +26,18 @@
       "category": "AI"
     },
     {
-      "title": "Scientists find that “perfect” systems may be surprisingly fragile",
-      "summary": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosystems, neurons, and materials more stable. Even random differences sometimes improved stability compared with completely uniform systems. The discovery could help researchers design more resilient technologies and explain why natural systems are so rarely perfectly uniform.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20that%20%E2%80%9Cperfect%E2%80%9D%20systems%20may%20be%20surprisingly%20fragile",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "New chemical wipes out 95% of termites without harming humans",
-      "summary": "A chemical that stops drywood termites from building new exoskeletons killed about 95% of colonies in testing, offering a potentially safer alternative to traditional fumigation. Because termites eventually have no choice but to molt, the treatment turns a normal stage of their life cycle into a fatal weakness.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919025248.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CNew%20chemical%20wipes%20out%2095%25%20of%20termites%20without%20harming%20humans",
+      "title": "Scientists may have solved a 2,000-year-old Dead Sea Scrolls mystery",
+      "summary": "Researchers may have solved a long-running mystery surrounding the Dead Sea Scrolls by proposing that the Qumran sect really did use its distinctive 364-day calendar. Its perfectly ordered 52-week system kept holidays on the same weekdays, but it slowly drifted out of sync with the seasons because it was shorter than the true solar year.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031035.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20may%20have%20solved%20a%202%2C000-year-old%20Dead%20Sea%20Scrolls%20mystery",
       "wiki_url": "",
       "category": "Science"
     },
     {
-      "title": "Scientists solve a 50-year mystery and discover a new human blood group",
-      "summary": "Scientists have identified the genetic cause behind the mysterious AnWj blood group antigen, solving a puzzle that began in 1972 and establishing a new blood group system called MAL. The discovery could make it much easier to find extremely rare AnWj-negative patients and donors and protect them from potentially dangerous transfusion reactions.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20solve%20a%2050-year%20mystery%20and%20discover%20a%20new%20human%20blood%20group",
+      "title": "Scientists discover a hidden “ID card” in cat urine",
+      "summary": "Cats may identify one another through a surprisingly durable chemical “calling card” made from 13 unusual fatty acids in their urine. The compounds appear linked to mysterious fat droplets in the kidneys and may represent a scent-recognition system shared across the cat family.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20a%20hidden%20%E2%80%9CID%20card%E2%80%9D%20in%20cat%20urine",
       "wiki_url": "",
       "category": "Science"
     },
