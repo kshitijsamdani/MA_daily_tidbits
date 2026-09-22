@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-21 05:19 UTC",
+  "date": "2026-09-22 05:17 UTC",
   "items": [
     {
-      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
-      "summary": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature’s most fundamental constants, it is large enough to keep scientists wondering whether hidden experimental errors or something more surprising is involved.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20opened%20a%20sealed%20envelope%20after%2010%20years.%20Gravity%20still%20didn%E2%80%99t%20make%20sense",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "A giant crater may reveal the origin of Mars’ doomed moon",
-      "summary": "A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars. Japan’s upcoming MMX sample return mission could provide the measurements and physical evidence needed to solve the mystery.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CA%20giant%20crater%20may%20reveal%20the%20origin%20of%20Mars%E2%80%99%20doomed%20moon",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
-      "summary": "Nearly three decades of Hurricane Hunter data reveal four features that can help a tilted tropical cyclone straighten its circulation and become capable of intensifying. The findings could give forecasters an earlier warning that a seemingly disorganized storm is becoming primed to strengthen.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CHurricane%20Hunters%20reveal%204%20warning%20signs%20that%20a%20storm%20is%20about%20to%20strengthen",
+      "title": "Stem cells reverse stroke damage and restore movement in mice",
+      "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human brain after stroke.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CStem%20cells%20reverse%20stroke%20damage%20and%20restore%20movement%20in%20mice",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists may have solved a 2,000-year-old Dead Sea Scrolls mystery",
-      "summary": "Researchers may have solved a long-running mystery surrounding the Dead Sea Scrolls by proposing that the Qumran sect really did use its distinctive 364-day calendar. Its perfectly ordered 52-week system kept holidays on the same weekdays, but it slowly drifted out of sync with the seasons because it was shorter than the true solar year.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031035.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20may%20have%20solved%20a%202%2C000-year-old%20Dead%20Sea%20Scrolls%20mystery",
+      "title": "NASA just powered up Roman’s massive 300-megapixel camera",
+      "summary": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagraph is also working as expected, putting Roman another major step closer to beginning science operations in 2027.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20just%20powered%20up%20Roman%E2%80%99s%20massive%20300-megapixel%20camera",
       "wiki_url": "",
-      "category": "Science"
+      "category": "Space"
     },
     {
-      "title": "Scientists discover a hidden “ID card” in cat urine",
-      "summary": "Cats may identify one another through a surprisingly durable chemical “calling card” made from 13 unusual fatty acids in their urine. The compounds appear linked to mysterious fat droplets in the kidneys and may represent a scent-recognition system shared across the cat family.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20a%20hidden%20%E2%80%9CID%20card%E2%80%9D%20in%20cat%20urine",
+      "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
+      "summary": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber. Successful tests in mice suggest it could give scientists a more precise, less invasive way to study the brain and may eventually help treat neurological disorders such as epilepsy.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20create%20a%20needle-thin%20brain%20implant%20that%20can%20do%20three%20jobs%20at%20once",
       "wiki_url": "",
-      "category": "Science"
+      "category": "AI"
+    },
+    {
+      "title": "Stopping Ozempic may raise heart attack and stroke risk",
+      "summary": "A large study suggests the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can disappear surprisingly quickly when treatment stops. After two years off the medications, patients had a 22% higher risk of heart attack, stroke, and death compared with those who stayed on them.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CStopping%20Ozempic%20may%20raise%20heart%20attack%20and%20stroke%20risk",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
+      "summary": "Researchers have found evidence that long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties. The discovery could lead to new treatments that target the brain's dopamine system.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CBrain%20scans%20reveal%20a%20possible%20cause%20of%20long%20COVID%20fatigue%20and%20brain%20fog",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
