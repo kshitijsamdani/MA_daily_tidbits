@@ -1,6 +1,30 @@
 {
-  "date": "2026-09-22 05:17 UTC",
+  "date": "2026-09-23 05:02 UTC",
   "items": [
+    {
+      "title": "One of America’s largest reservoirs just hit a record low",
+      "summary": "Lake Powell has fallen to its lowest level on record after an exceptionally dry and warm winter left the Colorado River Basin with little mountain snow to melt. Lake Mead also reached record lows, raising concerns for a river system that supplies water and power to more than 40 million people. Federal officials have taken emergency steps to stabilize Lake Powell, including sending in water from another reservoir and reducing releases downstream.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2COne%20of%20America%E2%80%99s%20largest%20reservoirs%20just%20hit%20a%20record%20low",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
+      "summary": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic gases. In a worst-case scenario, those signals could culminate in a VEI 8 eruption that blasts ash tens of kilometers into the atmosphere, unleashes deadly pyroclastic flows, buries parts of the western United States in ash, and cripples transportation, electricity, water systems, agriculture, and communications across much of North America.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CThe%20end%20of%20humanity%3F%20What%20would%20happen%20if%20the%20Yellowstone%20supervolcano%20erupted%20now",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "The LHC just ruled out another hiding place for quantum black holes",
+      "summary": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hiding. These hypothetical black holes could form if extra spatial dimensions make gravity much stronger at extremely tiny scales, potentially offering clues toward the long-sought theory of quantum gravity.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CThe%20LHC%20just%20ruled%20out%20another%20hiding%20place%20for%20quantum%20black%20holes",
+      "wiki_url": "",
+      "category": "Physics"
+    },
     {
       "title": "Stem cells reverse stroke damage and restore movement in mice",
       "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human brain after stroke.",
@@ -10,34 +34,10 @@
       "category": "AI"
     },
     {
-      "title": "NASA just powered up Roman’s massive 300-megapixel camera",
-      "summary": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagraph is also working as expected, putting Roman another major step closer to beginning science operations in 2027.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20just%20powered%20up%20Roman%E2%80%99s%20massive%20300-megapixel%20camera",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
-      "summary": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber. Successful tests in mice suggest it could give scientists a more precise, less invasive way to study the brain and may eventually help treat neurological disorders such as epilepsy.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20create%20a%20needle-thin%20brain%20implant%20that%20can%20do%20three%20jobs%20at%20once",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Stopping Ozempic may raise heart attack and stroke risk",
-      "summary": "A large study suggests the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can disappear surprisingly quickly when treatment stops. After two years off the medications, patients had a 22% higher risk of heart attack, stroke, and death compared with those who stayed on them.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CStopping%20Ozempic%20may%20raise%20heart%20attack%20and%20stroke%20risk",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
-      "summary": "Researchers have found evidence that long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties. The discovery could lead to new treatments that target the brain's dopamine system.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CBrain%20scans%20reveal%20a%20possible%20cause%20of%20long%20COVID%20fatigue%20and%20brain%20fog",
+      "title": "This new concrete is stronger and pulls CO2 from the air",
+      "summary": "Researchers have created a concrete mixture that is both stronger and capable of absorbing carbon dioxide. The best formula, combining zeolite with bamboo biochar, boosted compressive strength by 7.48% and tensile strength by 15% compared with conventional concrete. It also captured about 1.2 grams of CO₂ per day in laboratory testing.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20new%20concrete%20is%20stronger%20and%20pulls%20CO2%20from%20the%20air",
       "wiki_url": "",
       "category": "AI"
     },
