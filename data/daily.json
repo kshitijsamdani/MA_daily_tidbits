@@ -1,6 +1,30 @@
 {
-  "date": "2026-09-25 05:15 UTC",
+  "date": "2026-09-26 05:20 UTC",
   "items": [
+    {
+      "title": "CERN has begun disconnecting the Large Hadron Collider",
+      "summary": "CERN has started replacing some of the Large Hadron Collider’s most important magnets as part of its High-Luminosity upgrade. The new superconducting magnets will produce fields about 40% stronger, allowing particle beams to be squeezed more tightly before they collide. That should create far more collisions for the ATLAS and CMS experiments to analyze, giving physicists a much larger window into the fundamental workings of the universe.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CCERN%20has%20begun%20disconnecting%20the%20Large%20Hadron%20Collider",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
+      "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
+      "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites, and researchers say many more undiscovered sea spiders may still be hiding in the region.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discovered%20two%20bizarre%20new%20sea%20spiders%20that%20are%20%E2%80%9Cnightmare%20fuel%E2%80%9D",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Earth is tearing apart beneath the Pacific Northwest",
+      "summary": "Scientists have captured a subduction zone off Vancouver Island in the process of tearing itself apart, revealing that these massive tectonic systems may die piece by piece rather than all at once. The discovery could help explain ancient plate fragments, volcanic activity, and how hidden breaks beneath Cascadia may influence future earthquakes.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CEarth%20is%20tearing%20apart%20beneath%20the%20Pacific%20Northwest",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
       "summary": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
@@ -10,34 +34,10 @@
       "category": "AI"
     },
     {
-      "title": "Scientists gave worms magnetic bacteria. They lived 43% longer",
-      "summary": "A magnet-producing bacterium extended the average lifespan of C. elegans worms by more than 43% while helping protect their neurological and intestinal health. Researchers traced much of the effect to suppression of ferroptosis, a damaging form of cell death linked to iron buildup and oxidative stress.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020357.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20gave%20worms%20magnetic%20bacteria.%20They%20lived%2043%25%20longer",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
-      "summary": "Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked alongside gravity to help transform a vast cloud of gas and dust into the sun and planetary disk.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAncient%20meteorites%20reveal%20a%20powerful%20force%20that%20helped%20build%20the%20Solar%20System",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
-      "summary": "A large Danish study found that children diagnosed with ADHD or autism today more closely resemble their peers in the general population than those diagnosed 10 years ago. The shift suggests that rising diagnosis rates may partly reflect broader identification and changing diagnostic patterns, rather than only an increase in the underlying conditions.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CADHD%20and%20autism%20diagnoses%20have%20surged.%20A%20massive%20study%20may%20help%20explain%20why",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "“We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean",
-      "summary": "Ariel, one of Uranus’ moons, may once have contained a subsurface ocean more than 100 miles deep beneath its fractured icy shell. The finding, combined with similar evidence from Miranda, suggests the distant Uranian system could harbor multiple hidden ocean worlds.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260923035951.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2C%E2%80%9CWe%20just%20need%20to%20go%20back%E2%80%9D%20%E2%80%93%20Uranus%E2%80%99%20moon%20Ariel%20may%20have%20hidden%20a%20100-mile-deep%20ocean",
+      "title": "This “rare” autism-linked genetic disorder may be far more common than scientists thought",
+      "summary": "A major analysis suggests Phelan-McDermid syndrome, a genetic disorder closely linked to autism, may affect about 1 in 7,300 people and more than 45,000 Americans. Researchers warn that thousands of cases may remain hidden because genetic testing is often not performed, even as targeted treatments move into clinical trials.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20%E2%80%9Crare%E2%80%9D%20autism-linked%20genetic%20disorder%20may%20be%20far%20more%20common%20than%20scientists%20thought",
       "wiki_url": "",
       "category": "AI"
     },
