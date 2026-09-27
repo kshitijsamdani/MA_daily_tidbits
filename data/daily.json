@@ -1,6 +1,30 @@
 {
-  "date": "2026-09-26 05:20 UTC",
+  "date": "2026-09-27 05:37 UTC",
   "items": [
+    {
+      "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+      "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obesity and diabetes.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CZepbound%20and%20Mounjaro%20may%20turn%20on%20the%20body%E2%80%99s%20calorie-burning%20brown%20fat",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
+      "summary": "Scientists discovered a surprising energy paradox in the brain during REM sleep, the stage most closely associated with dreaming. Blood supply to the brain begins increasing even before REM starts, but neurons’ immediately available energy, measured as ATP, then drops. The finding suggests that dreaming may require such intense internal processing that neurons consume energy faster than it can be replenished.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CREM%20sleep%20paradox%3A%20Dreaming%20may%20drain%20the%20brain%E2%80%99s%20energy%20even%20as%20fuel%20supply%20rises",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
+      "summary": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-eating microbes. The discovery raises new questions about what was really happening as oxygen transformed the young planet.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20misread%20a%202-billion-year-old%20clue%20about%20Earth",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "CERN has begun disconnecting the Large Hadron Collider",
       "summary": "CERN has started replacing some of the Large Hadron Collider’s most important magnets as part of its High-Luminosity upgrade. The new superconducting magnets will produce fields about 40% stronger, allowing particle beams to be squeezed more tightly before they collide. That should create far more collisions for the ATLAS and CMS experiments to analyze, giving physicists a much larger window into the fundamental workings of the universe.",
@@ -10,34 +34,10 @@
       "category": "Physics"
     },
     {
-      "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
-      "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites, and researchers say many more undiscovered sea spiders may still be hiding in the region.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discovered%20two%20bizarre%20new%20sea%20spiders%20that%20are%20%E2%80%9Cnightmare%20fuel%E2%80%9D",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Earth is tearing apart beneath the Pacific Northwest",
-      "summary": "Scientists have captured a subduction zone off Vancouver Island in the process of tearing itself apart, revealing that these massive tectonic systems may die piece by piece rather than all at once. The discovery could help explain ancient plate fragments, volcanic activity, and how hidden breaks beneath Cascadia may influence future earthquakes.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CEarth%20is%20tearing%20apart%20beneath%20the%20Pacific%20Northwest",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
-      "summary": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2C%E2%80%9CWe%20found%20something%20never%20seen%20before%E2%80%9D%20%E2%80%93%20A%20dead%20star%20is%20producing%20a%20shock%20wave%20that%20shouldn%E2%80%99t%20exist",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "This “rare” autism-linked genetic disorder may be far more common than scientists thought",
-      "summary": "A major analysis suggests Phelan-McDermid syndrome, a genetic disorder closely linked to autism, may affect about 1 in 7,300 people and more than 45,000 Americans. Researchers warn that thousands of cases may remain hidden because genetic testing is often not performed, even as targeted treatments move into clinical trials.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20%E2%80%9Crare%E2%80%9D%20autism-linked%20genetic%20disorder%20may%20be%20far%20more%20common%20than%20scientists%20thought",
+      "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
+      "summary": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year. The pair will continue advising and mentoring NASA teams as preparations accelerate for Artemis III and future lunar missions. Their experience with Orion and deep-space operations could prove especially valuable as NASA works toward returning astronauts to the lunar surface.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CTwo%20astronauts%20who%20flew%20farther%20than%20anyone%20before%20are%20taking%20new%20NASA%20roles",
       "wiki_url": "",
       "category": "AI"
     },
