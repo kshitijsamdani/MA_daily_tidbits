@@ -1,11 +1,27 @@
 {
-  "date": "2026-09-27 05:37 UTC",
+  "date": "2026-09-28 05:44 UTC",
   "items": [
+    {
+      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+      "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical trials are needed to determine whether it actually causes harm.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CGlucosamine%2C%20a%20popular%20joint%20supplement%2C%20linked%20to%20faster%20Alzheimer%E2%80%99s%20progression",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
       "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obesity and diabetes.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CZepbound%20and%20Mounjaro%20may%20turn%20on%20the%20body%E2%80%99s%20calorie-burning%20brown%20fat",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
+      "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more personalized treatment.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20rheumatoid%20arthritis%20pain%20may%20persist%20even%20when%20inflammation%20is%20under%20control",
       "wiki_url": "",
       "category": "AI"
     },
@@ -22,22 +38,6 @@
       "summary": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-eating microbes. The discovery raises new questions about what was really happening as oxygen transformed the young planet.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20misread%20a%202-billion-year-old%20clue%20about%20Earth",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "CERN has begun disconnecting the Large Hadron Collider",
-      "summary": "CERN has started replacing some of the Large Hadron Collider’s most important magnets as part of its High-Luminosity upgrade. The new superconducting magnets will produce fields about 40% stronger, allowing particle beams to be squeezed more tightly before they collide. That should create far more collisions for the ATLAS and CMS experiments to analyze, giving physicists a much larger window into the fundamental workings of the universe.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CCERN%20has%20begun%20disconnecting%20the%20Large%20Hadron%20Collider",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
-      "summary": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year. The pair will continue advising and mentoring NASA teams as preparations accelerate for Artemis III and future lunar missions. Their experience with Orion and deep-space operations could prove especially valuable as NASA works toward returning astronauts to the lunar surface.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CTwo%20astronauts%20who%20flew%20farther%20than%20anyone%20before%20are%20taking%20new%20NASA%20roles",
       "wiki_url": "",
       "category": "AI"
     },
