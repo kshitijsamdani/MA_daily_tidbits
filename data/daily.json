@@ -1,6 +1,30 @@
 {
-  "date": "2026-09-28 05:44 UTC",
+  "date": "2026-09-29 06:02 UTC",
   "items": [
+    {
+      "title": "Is the universe infinite? The answer gets weird fast",
+      "summary": "Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite, because the observable cosmos could be only a small patch of a much larger curved universe. Space could even be flat while wrapping around on itself in exotic ways.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CIs%20the%20universe%20infinite%3F%20The%20answer%20gets%20weird%20fast",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Blood tests reveal why astronauts get constipated in space",
+      "summary": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an important concern for future missions to Mars.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CBlood%20tests%20reveal%20why%20astronauts%20get%20constipated%20in%20space",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists just discovered what coffee really does to your gut and brain",
+      "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated with better learning and memory, while caffeinated coffee appeared to reduce anxiety and improve attention.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20discovered%20what%20coffee%20really%20does%20to%20your%20gut%20and%20brain",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
       "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical trials are needed to determine whether it actually causes harm.",
@@ -14,30 +38,6 @@
       "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obesity and diabetes.",
       "link": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CZepbound%20and%20Mounjaro%20may%20turn%20on%20the%20body%E2%80%99s%20calorie-burning%20brown%20fat",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
-      "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more personalized treatment.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20rheumatoid%20arthritis%20pain%20may%20persist%20even%20when%20inflammation%20is%20under%20control",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
-      "summary": "Scientists discovered a surprising energy paradox in the brain during REM sleep, the stage most closely associated with dreaming. Blood supply to the brain begins increasing even before REM starts, but neurons’ immediately available energy, measured as ATP, then drops. The finding suggests that dreaming may require such intense internal processing that neurons consume energy faster than it can be replenished.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CREM%20sleep%20paradox%3A%20Dreaming%20may%20drain%20the%20brain%E2%80%99s%20energy%20even%20as%20fuel%20supply%20rises",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
-      "summary": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-eating microbes. The discovery raises new questions about what was really happening as oxygen transformed the young planet.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20misread%20a%202-billion-year-old%20clue%20about%20Earth",
       "wiki_url": "",
       "category": "AI"
     },
