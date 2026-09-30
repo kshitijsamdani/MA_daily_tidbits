@@ -1,6 +1,30 @@
 {
-  "date": "2026-09-29 06:02 UTC",
+  "date": "2026-09-30 05:51 UTC",
   "items": [
+    {
+      "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+      "summary": "Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain chemistry while giving future spacecraft a powerful advantage in searching for organic compounds and clues to life.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20ice%20blasting%20from%20Saturn%27s%20moon%20Enceladus%20is%20stranger%20than%20scientists%20realized",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
+      "summary": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world thousands of kilometers beneath our feet.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CEarth%E2%80%99s%20day%20isn%E2%80%99t%20exactly%2024%20hours.%20The%20reason%20may%20lie%20deep%20inside%20the%20planet",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "NASA’s Crew-13 could go from Florida to the ISS in under 9 hours",
+      "summary": "NASA and SpaceX could launch four astronauts to the International Space Station on October 1, with the Dragon spacecraft reaching orbiting outpost less than nine hours after liftoff. Crew-13 will join Expedition 75 after teams complete a final round of intensive launch-readiness checks.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260928100534.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Crew-13%20could%20go%20from%20Florida%20to%20the%20ISS%20in%20under%209%20hours",
+      "wiki_url": "",
+      "category": "Space"
+    },
     {
       "title": "Is the universe infinite? The answer gets weird fast",
       "summary": "Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite, because the observable cosmos could be only a small patch of a much larger curved universe. Space could even be flat while wrapping around on itself in exotic ways.",
@@ -10,34 +34,10 @@
       "category": "Space"
     },
     {
-      "title": "Blood tests reveal why astronauts get constipated in space",
-      "summary": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an important concern for future missions to Mars.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CBlood%20tests%20reveal%20why%20astronauts%20get%20constipated%20in%20space",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists just discovered what coffee really does to your gut and brain",
-      "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated with better learning and memory, while caffeinated coffee appeared to reduce anxiety and improve attention.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20discovered%20what%20coffee%20really%20does%20to%20your%20gut%20and%20brain",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-      "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical trials are needed to determine whether it actually causes harm.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CGlucosamine%2C%20a%20popular%20joint%20supplement%2C%20linked%20to%20faster%20Alzheimer%E2%80%99s%20progression",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
-      "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obesity and diabetes.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CZepbound%20and%20Mounjaro%20may%20turn%20on%20the%20body%E2%80%99s%20calorie-burning%20brown%20fat",
+      "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
+      "summary": "CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic dark ages ended and how dark matter helped build the first galaxies.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20suitcase-sized%20spacecraft%20could%20hear%20the%20universe%20before%20stars%20existed",
       "wiki_url": "",
       "category": "AI"
     },
