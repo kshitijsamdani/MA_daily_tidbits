@@ -1,6 +1,38 @@
 {
-  "date": "2026-10-01 06:24 UTC",
+  "date": "2026-10-02 06:03 UTC",
   "items": [
+    {
+      "title": "This diet may slow brain aging by 2.5 years",
+      "summary": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes, while sweets and fried fast foods were associated with greater tissue loss.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20diet%20may%20slow%20brain%20aging%20by%202.5%20years",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
+      "summary": "The Alzheimer’s risk gene APOE4 may actively damage brain blood vessels and sabotage the cellular systems that remove harmful proteins. Researchers were able to reverse some of these effects in experiments, revealing promising new targets for Alzheimer’s, Parkinson’s, and other neurodegenerative diseases.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAlzheimer%E2%80%99s%20risk%20gene%20APOE4%20may%20have%20a%20reversible%20weakness",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Could quitting ultra-processed food boost your mental health?",
+      "summary": "People with depression who dramatically cut ultra-processed foods experienced notable improvements in their symptoms in a small preliminary study. Researchers suspect healthier eating may benefit the brain partly by reducing gut damage and chronic inflammation.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCould%20quitting%20ultra-processed%20food%20boost%20your%20mental%20health%3F",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "This giant stick insect fooled scientists for decades",
+      "summary": "Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group. The discovery also revealed that a familiar stick insect had been misidentified for decades, showing how much biodiversity may still be hiding in plain sight.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20giant%20stick%20insect%20fooled%20scientists%20for%20decades",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
       "summary": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest U.S. spacecraft journey to the ISS in history.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CWatch%20Live%3A%20NASA%E2%80%99s%20Crew-13%20could%20make%20the%20fastest%20U.S.%20trip%20to%20the%20ISS%20ever",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "Cannabis users were twice as likely to commit violence, review finds",
-      "summary": "A review of more than 265,000 people found that cannabis use was associated with higher rates of both committing violence and becoming a victim of it. The researchers say the link is significant but does not prove cannabis itself is the cause.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CCannabis%20users%20were%20twice%20as%20likely%20to%20commit%20violence%2C%20review%20finds",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
-      "summary": "Astronomers have found strong evidence that some mysterious, minutes-long X-ray flashes are produced when two neutron stars collide and create a magnetar. One record-setting event glowed in X-rays for nearly 10 minutes, potentially opening a new way to find these extreme cosmic mergers.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20record-breaking%20X-ray%20flash%20may%20reveal%20the%20birth%20of%20a%20magnetar",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
-      "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much easier to measure, opening new possibilities for quantum teleportation, communication, and computing.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CQuantum%20teleportation%20breakthrough%3A%20Scientists%20crack%20a%2025-year%20entanglement%20challenge",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Sharks can hear nearly 250 feet away and pinpoint the source",
-      "summary": "Wild blacktip sharks can detect low-frequency sounds from nearly 250 feet away, according to experiments conducted off the Florida coast. The sharks not only heard the sounds but sharply changed direction away from them, suggesting they could pinpoint where they were coming from.",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260929053536.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CSharks%20can%20hear%20nearly%20250%20feet%20away%20and%20pinpoint%20the%20source",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
