@@ -1,6 +1,22 @@
 {
-  "date": "2026-10-04 06:13 UTC",
+  "date": "2026-10-05 06:05 UTC",
   "items": [
+    {
+      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+      "summary": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave background and the expansion rate inferred from it.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20a%20surprising%20clue%20to%20why%20the%20universe%E2%80%99s%20expansion%20doesn%E2%80%99t%20add%20up",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "The “glue” holding your cells together has a surprising second job",
+      "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf cellular debris while keeping their upper surfaces stable, allowing protective barriers to remain sealed.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20%E2%80%9Cglue%E2%80%9D%20holding%20your%20cells%20together%20has%20a%20surprising%20second%20job",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "This protective enzyme could help stop fatty liver disease from getting worse",
       "summary": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear away damaged mitochondria and break down fat, potentially preventing the inflammation, scarring, and cell damage associated with the more dangerous condition MASH.",
@@ -10,36 +26,20 @@
       "category": "AI"
     },
     {
-      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
-      "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased its speed by 3.5 km/s, while also giving scientists a rare chance to test its instruments on Earth and the Moon.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CESA%E2%80%99s%20Juice%20just%20used%20Earth%20as%20a%20slingshot%20to%20Jupiter",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "NASA’s Roman telescope just opened its planet-hunting eye",
-      "summary": "NASA’s Roman Space Telescope has demonstrated remarkable pointing stability and given its powerful planet-imaging coronagraph its first look at the cosmos. The telescope can already stay locked on a target with precision comparable to aiming a laser at a dime from about 150 miles away. Its coronagraph also captured stars in the Large Magellanic Cloud, confirming that the instrument can produce focused images.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Roman%20telescope%20just%20opened%20its%20planet-hunting%20eye",
+      "title": "Diet drinks work as well as water for weight loss, major trial finds",
+      "summary": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drinking beverages sweetened with aspartame, acesulfame-K, or sucralose lost a similar amount of weight to those drinking water, while both groups also saw improvements in waist size, body composition, and several metabolic measures.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CDiet%20drinks%20work%20as%20well%20as%20water%20for%20weight%20loss%2C%20major%20trial%20finds",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
-      "summary": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron can preserve a stable magnetic signal, potentially acting like a microscopic fossil of the Moon’s long-lost magnetic field.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CChang%E2%80%99e-6%20lunar%20soil%20contains%20a%20surprising%20magnetic%20time%20capsule",
+      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+      "summary": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part of the mysterious Ordovician bombardment once linked to a possible ring of debris around Earth. Instead, the impact coincided closely with a major mass extinction that devastated marine life.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20meteor%20hit%20Oklahoma%20100%20million%20years%20later%20than%20scientists%20thought",
       "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Powerful simulations reveal how the first stars changed the universe",
-      "summary": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations of the earliest galaxies with chemical clues preserved in ancient stars today.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CPowerful%20simulations%20reveal%20how%20the%20first%20stars%20changed%20the%20universe",
-      "wiki_url": "",
-      "category": "AI"
+      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
