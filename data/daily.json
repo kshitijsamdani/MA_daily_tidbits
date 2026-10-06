@@ -1,6 +1,30 @@
 {
-  "date": "2026-10-05 06:05 UTC",
+  "date": "2026-10-06 06:45 UTC",
   "items": [
+    {
+      "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
+      "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the best viewing should come before dawn after the Moon sets.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CDon%27t%20miss%3A%20Watch%20Saturn%20shine%20and%20Halley%E2%80%99s%20Comet%20debris%20streak%20across%20the%20sky",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "This mysterious hole on the Moon may open into a giant cave",
+      "summary": "NASA has selected the GIMLI project to investigate whether the Marius Hill Pit opens into a vast underground cave or lava tube. Using radar, seismic sensors, gravity measurements, and cameras, researchers will search beneath the lunar surface and estimate the size of any hidden void. Such caves could preserve clues to the Moon’s volcanic history and potentially provide protected shelters for future astronauts.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CThis%20mysterious%20hole%20on%20the%20Moon%20may%20open%20into%20a%20giant%20cave",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
+      "title": "Vagus Nerve Stimulation Could Help New Skills Stick",
+      "summary": "Stimulating the vagus nerve after practice helped mice develop stronger long-term motor learning, revealing a potentially important window when the brain is still locking in a new skill. The effect was linked to rhythmic changes in brain blood vessels, hinting that body-to-brain signals may help prepare the brain for lasting change.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CVagus%20Nerve%20Stimulation%20Could%20Help%20New%20Skills%20Stick",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
       "summary": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave background and the expansion rate inferred from it.",
@@ -16,30 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20%E2%80%9Cglue%E2%80%9D%20holding%20your%20cells%20together%20has%20a%20surprising%20second%20job",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "This protective enzyme could help stop fatty liver disease from getting worse",
-      "summary": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear away damaged mitochondria and break down fat, potentially preventing the inflammation, scarring, and cell damage associated with the more dangerous condition MASH.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20protective%20enzyme%20could%20help%20stop%20fatty%20liver%20disease%20from%20getting%20worse",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Diet drinks work as well as water for weight loss, major trial finds",
-      "summary": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drinking beverages sweetened with aspartame, acesulfame-K, or sucralose lost a similar amount of weight to those drinking water, while both groups also saw improvements in waist size, body composition, and several metabolic measures.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CDiet%20drinks%20work%20as%20well%20as%20water%20for%20weight%20loss%2C%20major%20trial%20finds",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
-      "summary": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part of the mysterious Ordovician bombardment once linked to a possible ring of debris around Earth. Instead, the impact coincided closely with a major mass extinction that devastated marine life.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20meteor%20hit%20Oklahoma%20100%20million%20years%20later%20than%20scientists%20thought",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
