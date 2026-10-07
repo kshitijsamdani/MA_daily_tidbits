@@ -1,6 +1,14 @@
 {
-  "date": "2026-10-06 06:45 UTC",
+  "date": "2026-10-07 06:20 UTC",
   "items": [
+    {
+      "title": "Humans may not be as hardwired for violence as we thought",
+      "summary": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild aggression are not necessarily more likely to kill rivals, while extreme acts such as infanticide and lethal attacks appear to follow their own evolutionary patterns.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CHumans%20may%20not%20be%20as%20hardwired%20for%20violence%20as%20we%20thought",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
       "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the best viewing should come before dawn after the Moon sets.",
@@ -10,36 +18,28 @@
       "category": "Space"
     },
     {
-      "title": "This mysterious hole on the Moon may open into a giant cave",
-      "summary": "NASA has selected the GIMLI project to investigate whether the Marius Hill Pit opens into a vast underground cave or lava tube. Using radar, seismic sensors, gravity measurements, and cameras, researchers will search beneath the lunar surface and estimate the size of any hidden void. Such caves could preserve clues to the Moon’s volcanic history and potentially provide protected shelters for future astronauts.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CThis%20mysterious%20hole%20on%20the%20Moon%20may%20open%20into%20a%20giant%20cave",
+      "title": "A new way to fight gum disease without wiping out good bacteria",
+      "summary": "Scientists discovered that disrupting the chemical messages bacteria use to communicate can push dental plaque toward a healthier microbial balance. The approach could lead to new treatments for gum disease that control harmful bacteria without destroying beneficial species.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%20new%20way%20to%20fight%20gum%20disease%20without%20wiping%20out%20good%20bacteria",
       "wiki_url": "",
-      "category": "Physics"
+      "category": "Biology"
     },
     {
-      "title": "Vagus Nerve Stimulation Could Help New Skills Stick",
-      "summary": "Stimulating the vagus nerve after practice helped mice develop stronger long-term motor learning, revealing a potentially important window when the brain is still locking in a new skill. The effect was linked to rhythmic changes in brain blood vessels, hinting that body-to-brain signals may help prepare the brain for lasting change.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CVagus%20Nerve%20Stimulation%20Could%20Help%20New%20Skills%20Stick",
+      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries, while human cartilage taken from knee replacement patients began producing new, functional joint cartilage after exposure to the same inhibitor.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CGoodbye%20joint%20replacements%3F%20Stanford%20scientists%20found%20a%20way%20to%20regrow%20cartilage%20and%20stop%20arthritis",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Biology"
     },
     {
-      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
-      "summary": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave background and the expansion rate inferred from it.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20a%20surprising%20clue%20to%20why%20the%20universe%E2%80%99s%20expansion%20doesn%E2%80%99t%20add%20up",
+      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
+      "summary": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual quarks as they blasted through the plasma, researchers saw them leave behind ripples, splashes, and swirling wakes much like a duck moving through water. The finding suggests this primordial “soup” is so dense that it can slow speeding quarks and respond collectively as a fluid.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CPhysicists%20just%20saw%20quarks%20make%20waves%20in%20the%20Big%20Bang%E2%80%99s%20primordial%20soup",
       "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "The “glue” holding your cells together has a surprising second job",
-      "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf cellular debris while keeping their upper surfaces stable, allowing protective barriers to remain sealed.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20%E2%80%9Cglue%E2%80%9D%20holding%20your%20cells%20together%20has%20a%20surprising%20second%20job",
-      "wiki_url": "",
-      "category": "AI"
+      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
