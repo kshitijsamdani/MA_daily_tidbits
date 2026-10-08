@@ -1,6 +1,30 @@
 {
-  "date": "2026-10-07 06:20 UTC",
+  "date": "2026-10-08 06:32 UTC",
   "items": [
+    {
+      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+      "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Webb%20finds%20signs%20of%20Mars-sized%20worlds%20smashing%20together",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Scientists changed how zoo lions eat. Their wild side came out",
+      "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested more heavily after meals. Their activity then increased gradually during the fasting period, closely resembling the rhythm seen in wild lions.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20changed%20how%20zoo%20lions%20eat.%20Their%20wild%20side%20came%20out",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Stanford scientists turn a cancer driver into a kill switch",
+      "summary": "A Stanford-designed molecule turns a major lymphoma-promoting protein against cancer cells, activating their own self-destruct machinery instead of simply blocking tumor growth. In mice, the treatment completely eliminated aggressive human lymphoma tumors within 11 days, although much more testing is needed before it could reach patients.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CStanford%20scientists%20turn%20a%20cancer%20driver%20into%20a%20kill%20switch",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Humans may not be as hardwired for violence as we thought",
       "summary": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild aggression are not necessarily more likely to kill rivals, while extreme acts such as infanticide and lethal attacks appear to follow their own evolutionary patterns.",
@@ -10,36 +34,12 @@
       "category": "Biology"
     },
     {
-      "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
-      "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the best viewing should come before dawn after the Moon sets.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CDon%27t%20miss%3A%20Watch%20Saturn%20shine%20and%20Halley%E2%80%99s%20Comet%20debris%20streak%20across%20the%20sky",
+      "title": "Webb finds a surprising atmosphere on a scorching lava world",
+      "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth may once have looked like.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWebb%20finds%20a%20surprising%20atmosphere%20on%20a%20scorching%20lava%20world",
       "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "A new way to fight gum disease without wiping out good bacteria",
-      "summary": "Scientists discovered that disrupting the chemical messages bacteria use to communicate can push dental plaque toward a healthier microbial balance. The approach could lead to new treatments for gum disease that control harmful bacteria without destroying beneficial species.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%20new%20way%20to%20fight%20gum%20disease%20without%20wiping%20out%20good%20bacteria",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries, while human cartilage taken from knee replacement patients began producing new, functional joint cartilage after exposure to the same inhibitor.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CGoodbye%20joint%20replacements%3F%20Stanford%20scientists%20found%20a%20way%20to%20regrow%20cartilage%20and%20stop%20arthritis",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
-      "summary": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual quarks as they blasted through the plasma, researchers saw them leave behind ripples, splashes, and swirling wakes much like a duck moving through water. The finding suggests this primordial “soup” is so dense that it can slow speeding quarks and respond collectively as a fluid.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CPhysicists%20just%20saw%20quarks%20make%20waves%20in%20the%20Big%20Bang%E2%80%99s%20primordial%20soup",
-      "wiki_url": "",
-      "category": "Science"
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
