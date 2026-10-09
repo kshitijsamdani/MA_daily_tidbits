@@ -1,6 +1,38 @@
 {
-  "date": "2026-10-08 06:32 UTC",
+  "date": "2026-10-09 06:33 UTC",
   "items": [
+    {
+      "title": "NASA is searching for hidden caves to build its first Moon base",
+      "summary": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for future journeys to Mars.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20is%20searching%20for%20hidden%20caves%20to%20build%20its%20first%20Moon%20base",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+      "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise, the organism uses two genetic signals that normally mark the end of a gene to encode two entirely different amino acids instead. These signals were previously thought to evolve together, making the discovery particularly remarkable.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20accidentally%20discover%20a%20genetic%20code%20that%20breaks%20the%20rules%20of%20life",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "This “golden tree” coral was too strange for any known family",
+      "summary": "A brilliant yellow coral discovered off Costa Rica proved so unusual that scientists had to create an entirely new family to classify it. The meter-tall colonies rise from seafloors covered in brittle stars, inspiring the Tolkien-inspired name Laurinque elenya, or “golden tree of the stars.” Advanced genetic analysis revealed that the coral belongs to a previously unknown evolutionary lineage.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CThis%20%E2%80%9Cgolden%20tree%E2%80%9D%20coral%20was%20too%20strange%20for%20any%20known%20family",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
+      "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million years ago, supporting evidence that the species appeared in southern Africa roughly 200,000 years earlier than long thought. The finds also reveal that Paranthropus robustus, which lived alongside Homo erectus, was gradually evolving even larger teeth and stronger chewing muscles as the climate changed.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20found%20Homo%20erectus%20200%2C000%20years%20earlier%20than%20expected",
+      "wiki_url": "",
+      "category": "Biology"
+    },
     {
       "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
       "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Webb%20finds%20signs%20of%20Mars-sized%20worlds%20smashing%20together",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "Scientists changed how zoo lions eat. Their wild side came out",
-      "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested more heavily after meals. Their activity then increased gradually during the fasting period, closely resembling the rhythm seen in wild lions.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20changed%20how%20zoo%20lions%20eat.%20Their%20wild%20side%20came%20out",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Stanford scientists turn a cancer driver into a kill switch",
-      "summary": "A Stanford-designed molecule turns a major lymphoma-promoting protein against cancer cells, activating their own self-destruct machinery instead of simply blocking tumor growth. In mice, the treatment completely eliminated aggressive human lymphoma tumors within 11 days, although much more testing is needed before it could reach patients.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CStanford%20scientists%20turn%20a%20cancer%20driver%20into%20a%20kill%20switch",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Humans may not be as hardwired for violence as we thought",
-      "summary": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild aggression are not necessarily more likely to kill rivals, while extreme acts such as infanticide and lethal attacks appear to follow their own evolutionary patterns.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CHumans%20may%20not%20be%20as%20hardwired%20for%20violence%20as%20we%20thought",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Webb finds a surprising atmosphere on a scorching lava world",
-      "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth may once have looked like.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWebb%20finds%20a%20surprising%20atmosphere%20on%20a%20scorching%20lava%20world",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
