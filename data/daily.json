@@ -1,6 +1,22 @@
 {
-  "date": "2026-10-09 06:33 UTC",
+  "date": "2026-10-10 06:16 UTC",
   "items": [
+    {
+      "title": "NASA astronauts splash down after 100 million miles in space",
+      "summary": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments that could transform medicine both in space and on Earth.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20astronauts%20splash%20down%20after%20100%20million%20miles%20in%20space",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "October’s night sky is full of cosmic tricks and treats",
+      "summary": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2COctober%E2%80%99s%20night%20sky%20is%20full%20of%20cosmic%20tricks%20and%20treats",
+      "wiki_url": "",
+      "category": "Space"
+    },
     {
       "title": "NASA is searching for hidden caves to build its first Moon base",
       "summary": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for future journeys to Mars.",
@@ -18,28 +34,12 @@
       "category": "Science"
     },
     {
-      "title": "This “golden tree” coral was too strange for any known family",
-      "summary": "A brilliant yellow coral discovered off Costa Rica proved so unusual that scientists had to create an entirely new family to classify it. The meter-tall colonies rise from seafloors covered in brittle stars, inspiring the Tolkien-inspired name Laurinque elenya, or “golden tree of the stars.” Advanced genetic analysis revealed that the coral belongs to a previously unknown evolutionary lineage.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CThis%20%E2%80%9Cgolden%20tree%E2%80%9D%20coral%20was%20too%20strange%20for%20any%20known%20family",
+      "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+      "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a material widely studied for using sunlight to help produce clean hydrogen. The new version has a different atomic structure and interacts with light in a strikingly different way, potentially opening new possibilities for solar fuels, catalysts, and electronics.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20find%20hidden%20materials%20that%20could%20improve%20batteries%20and%20solar%20fuels",
       "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
-      "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million years ago, supporting evidence that the species appeared in southern Africa roughly 200,000 years earlier than long thought. The finds also reveal that Paranthropus robustus, which lived alongside Homo erectus, was gradually evolving even larger teeth and stronger chewing muscles as the climate changed.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CScientists%20found%20Homo%20erectus%20200%2C000%20years%20earlier%20than%20expected",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-      "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Webb%20finds%20signs%20of%20Mars-sized%20worlds%20smashing%20together",
-      "wiki_url": "",
-      "category": "Space"
+      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
