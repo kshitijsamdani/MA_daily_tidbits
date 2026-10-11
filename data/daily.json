@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10 06:16 UTC",
+  "date": "2026-10-11 06:16 UTC",
   "items": [
     {
       "title": "NASA astronauts splash down after 100 million miles in space",
@@ -18,28 +18,28 @@
       "category": "Space"
     },
     {
-      "title": "NASA is searching for hidden caves to build its first Moon base",
-      "summary": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for future journeys to Mars.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20is%20searching%20for%20hidden%20caves%20to%20build%20its%20first%20Moon%20base",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-      "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise, the organism uses two genetic signals that normally mark the end of a gene to encode two entirely different amino acids instead. These signals were previously thought to evolve together, making the discovery particularly remarkable.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20accidentally%20discover%20a%20genetic%20code%20that%20breaks%20the%20rules%20of%20life",
+      "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+      "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium atoms, which are far less sensitive to outside disturbances.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20build%20a%20nuclear%20clock%20that%20could%20make%20atomic%20clocks%20obsolete",
       "wiki_url": "",
       "category": "Science"
     },
     {
-      "title": "Scientists find hidden materials that could improve batteries and solar fuels",
-      "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a material widely studied for using sunlight to help produce clean hydrogen. The new version has a different atomic structure and interacts with light in a strikingly different way, potentially opening new possibilities for solar fuels, catalysts, and electronics.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20find%20hidden%20materials%20that%20could%20improve%20batteries%20and%20solar%20fuels",
+      "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+      "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infections. Previously known mainly as a prehistoric glue, birch tar may have doubled as a surprisingly effective natural medicine.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNeanderthals%20may%20have%20used%20prehistoric%20glue%20as%20an%20ancient%20antibiotic",
       "wiki_url": "",
-      "category": "Science"
+      "category": "AI"
+    },
+    {
+      "title": "The eye has a hidden cleanup system scientists never knew existed",
+      "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20eye%20has%20a%20hidden%20cleanup%20system%20scientists%20never%20knew%20existed",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
