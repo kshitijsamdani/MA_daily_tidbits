@@ -1,6 +1,22 @@
 {
-  "date": "2026-10-12 06:22 UTC",
+  "date": "2026-10-13 07:00 UTC",
   "items": [
+    {
+      "title": "Scientists discover vanilla’s hidden healing potential",
+      "summary": "Scientists have discovered that vanillin, the compound that gives vanilla its distinctive flavor, has powerful properties that could help fight infections, reduce inflammation, and promote wound healing. The inexpensive, widely available ingredient could one day become an important component of advanced wound treatments and regenerative medicine.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20vanilla%E2%80%99s%20hidden%20healing%20potential",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists make stunning discovery that could help explain why life exists",
+      "summary": "Scientists have discovered that the universe's fundamental physical constants may be finely balanced to make life possible. Even tiny changes to these constants could make liquids too thick or too thin for essential biological processes, potentially preventing life as we know it. Surprisingly, these life-friendly conditions existed billions of years before living cells appeared. The findings raise intriguing questions about why the laws of physics seem so well suited to life.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20make%20stunning%20discovery%20that%20could%20help%20explain%20why%20life%20exists",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "NASA astronauts splash down after 100 million miles in space",
       "summary": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments that could transform medicine both in space and on Earth.",
@@ -10,34 +26,18 @@
       "category": "Space"
     },
     {
-      "title": "October’s night sky is full of cosmic tricks and treats",
-      "summary": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2COctober%E2%80%99s%20night%20sky%20is%20full%20of%20cosmic%20tricks%20and%20treats",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
-      "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium atoms, which are far less sensitive to outside disturbances.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20build%20a%20nuclear%20clock%20that%20could%20make%20atomic%20clocks%20obsolete",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
-      "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infections. Previously known mainly as a prehistoric glue, birch tar may have doubled as a surprisingly effective natural medicine.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNeanderthals%20may%20have%20used%20prehistoric%20glue%20as%20an%20ancient%20antibiotic",
+      "title": "Just 10 minutes of daily exercise could unlock deeper sleep",
+      "summary": "Getting better sleep might be as simple as moving a little more every day. Researchers at The University of Texas at Austin found that people who exercised more frequently experienced more deep, restorative sleep, which is essential for brain recovery, memory, and emotional well-being. Surprisingly, just 10 minutes of moderate to vigorous exercise per day was associated with measurable benefits, while even light activities like walking and standing breaks were linked to better sleep and mood.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CJust%2010%20minutes%20of%20daily%20exercise%20could%20unlock%20deeper%20sleep",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "The eye has a hidden cleanup system scientists never knew existed",
-      "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20eye%20has%20a%20hidden%20cleanup%20system%20scientists%20never%20knew%20existed",
+      "title": "Scientists discover why a 100-year-old mushroom disease won't go away",
+      "summary": "Scientists have uncovered a surprising secret behind a mushroom disease that has frustrated growers for more than a century: It involves more than 17 species of harmful bacteria, not just one. The discovery could explain why treatments have struggled to stop the disease and open the door to more effective, eco-friendly solutions.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102716.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20why%20a%20100-year-old%20mushroom%20disease%20won%27t%20go%20away",
       "wiki_url": "",
       "category": "AI"
     },
