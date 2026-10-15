@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-14 05:15 UTC",
+  "date": "2026-10-15 05:02 UTC",
   "items": [
     {
-      "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
-      "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a surprising connection between scattered starlight and invisible dark matter that could transform how astronomers study the early cosmos.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CJames%20Webb%20reveals%20a%20massive%20cosmic%20structure%20that%20challenges%20our%20understanding%20of%20the%20Universe",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
-      "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of measurements from mouse brains, researchers identified 539 distinct chemical zones, revealing patterns and boundaries that traditional brain maps have missed. Surprisingly, even white matter, once thought to be relatively uniform, contains a complex patchwork of chemically distinct regions.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20uncover%20a%20hidden%20map%20of%20the%20brain%20with%20539%20distinct%20regions",
+      "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+      "summary": "A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also provides the first evidence of megaraptorans in Europe, helping explain how these mysterious dinosaurs eventually became gigantic hunters.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20forgotten%20fossil%20reveals%20a%20fearsome%20dinosaur%20with%20giant%20claws",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Scientists just gave the powerhouses of our cells a high-tech upgrade",
-      "summary": "Scientists have created a new coating for mitochondria that preserves their ability to produce energy, potentially opening the door to new treatments for diseases involving these tiny cellular powerhouses. The technology could one day help transfer healthy mitochondria into damaged cells, although its effectiveness in transplantation remains unproven.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20just%20gave%20the%20powerhouses%20of%20our%20cells%20a%20high-tech%20upgrade",
+      "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+      "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the legendary Titanoboa. Scientists believe its enormous body made it a slow-moving ambush predator, similar to a modern anaconda.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CGigantic%20prehistoric%20snake%20discovered%20in%20India%20may%20have%20been%20one%20of%20the%20largest%20ever",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+      "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 that could also play a role in the disease. Previously believed to be harmless, P3 can form harmful-looking protein clumps even faster than amyloid beta and may also damage brain cells.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20overlooked%20a%20hidden%20Alzheimer%27s%20culprit%20for%20decades",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "This tiny jurassic predator helped pave the way for the human brain",
-      "summary": "A 165-million-year-old fossil has revealed an extraordinary Jurassic predator that may help explain how mammals developed one of their most important evolutionary advantages. Although only 20 inches long, Megacauda sungei was a heavyweight among early mammal relatives, swimming through ancient waterways and hunting prey with specialized teeth. Its advanced swallowing anatomy reveals an early step toward the ability to safely nurse on milk, a key development in mammalian evolution.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20tiny%20jurassic%20predator%20helped%20pave%20the%20way%20for%20the%20human%20brain",
+      "title": "The secret to easier exercise as an adult may start in childhood",
+      "summary": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood. In a study involving guinea fowl, researchers discovered that birds accustomed to carrying weights while growing up could carry those weights as adults without using extra energy, while untrained birds burned 23% more.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20secret%20to%20easier%20exercise%20as%20an%20adult%20may%20start%20in%20childhood",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Physicists discover “astonishing” property of light that defies expectations",
-      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left- and right-handed patterns, challenging long-standing assumptions about how light behaves. By carefully arranging a beam’s structure, scientists can control where and how these spinning patterns emerge, unlocking a new way to manipulate light.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CPhysicists%20discover%20%E2%80%9Castonishing%E2%80%9D%20property%20of%20light%20that%20defies%20expectations",
+      "title": "Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years",
+      "summary": "A groundbreaking study suggests that 2.22 million Indigenous Australians lived on the continent before European colonization, far more than previously believed. Researchers estimate that 93% of this population was lost within 73 years, revealing a demographic catastrophe on a scale that dramatically changes our understanding of Australian history.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261013015807.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20reveal%2093%25%20of%20Australia%27s%20Indigenous%20population%20was%20lost%20in%20just%2073%20years",
       "wiki_url": "",
-      "category": "Space"
+      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
