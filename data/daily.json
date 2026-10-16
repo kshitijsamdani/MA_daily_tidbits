@@ -1,6 +1,30 @@
 {
-  "date": "2026-10-15 05:02 UTC",
+  "date": "2026-10-16 04:52 UTC",
   "items": [
+    {
+      "title": "Arctic sea ice hits another troubling low in 2026",
+      "summary": "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting. Despite a recent slowdown in summer losses, scientists warn that the Arctic could experience a nearly ice-free summer before 2050.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CArctic%20sea%20ice%20hits%20another%20troubling%20low%20in%202026",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+      "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain is far more capable than scientists previously realized.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMysterious%20brain%20activity%20under%20anesthesia%20challenges%20what%20we%20know%20about%20consciousness",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+      "summary": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses capable of recognizing multiple fungal threats at once. The breakthrough could eventually lead to crops with powerful, long-lasting disease resistance, helping protect a global food supply increasingly threatened by spreading infections and climate change.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20fungus%20is%20threatening%20the%20world%E2%80%99s%20food%20supply.%20Scientists%20just%20found%20a%20new%20defense",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
       "summary": "A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also provides the first evidence of megaraptorans in Europe, helping explain how these mysterious dinosaurs eventually became gigantic hunters.",
@@ -14,30 +38,6 @@
       "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the legendary Titanoboa. Scientists believe its enormous body made it a slow-moving ambush predator, similar to a modern anaconda.",
       "link": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
       "image": "https://source.unsplash.com/1600x900/?Science%2CGigantic%20prehistoric%20snake%20discovered%20in%20India%20may%20have%20been%20one%20of%20the%20largest%20ever",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
-      "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 that could also play a role in the disease. Previously believed to be harmless, P3 can form harmful-looking protein clumps even faster than amyloid beta and may also damage brain cells.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20may%20have%20overlooked%20a%20hidden%20Alzheimer%27s%20culprit%20for%20decades",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "The secret to easier exercise as an adult may start in childhood",
-      "summary": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood. In a study involving guinea fowl, researchers discovered that birds accustomed to carrying weights while growing up could carry those weights as adults without using extra energy, while untrained birds burned 23% more.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20secret%20to%20easier%20exercise%20as%20an%20adult%20may%20start%20in%20childhood",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years",
-      "summary": "A groundbreaking study suggests that 2.22 million Indigenous Australians lived on the continent before European colonization, far more than previously believed. Researchers estimate that 93% of this population was lost within 73 years, revealing a demographic catastrophe on a scale that dramatically changes our understanding of Australian history.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015807.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20reveal%2093%25%20of%20Australia%27s%20Indigenous%20population%20was%20lost%20in%20just%2073%20years",
       "wiki_url": "",
       "category": "Science"
     },
