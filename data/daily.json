@@ -1,6 +1,22 @@
 {
-  "date": "2026-10-16 04:52 UTC",
+  "date": "2026-10-17 04:53 UTC",
   "items": [
+    {
+      "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
+      "summary": "A nationwide search for giant crayfish uncovered a record-breaking Tennessee specimen and a surprising mystery about how big these freshwater creatures can grow. Scientists found that North American crayfish seem to hit a biological size limit, possibly because of their muscles or protective shells.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2C%E2%80%9CCrawzilla%E2%80%9D%20was%20huge.%20Then%20scientists%20found%20an%20even%20bigger%20crayfish",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
+      "summary": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes and wartime documents reveals that Germany lacked the enormous quantities of uranium and heavy water needed to make its reactor operational.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20uranium%20cubes%20that%20exposed%20Nazi%20Germany%E2%80%99s%20nuclear%20failure",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Arctic sea ice hits another troubling low in 2026",
       "summary": "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting. Despite a recent slowdown in summer losses, scientists warn that the Arctic could experience a nearly ice-free summer before 2050.",
@@ -10,36 +26,20 @@
       "category": "AI"
     },
     {
-      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
-      "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain is far more capable than scientists previously realized.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CMysterious%20brain%20activity%20under%20anesthesia%20challenges%20what%20we%20know%20about%20consciousness",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
-      "summary": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses capable of recognizing multiple fungal threats at once. The breakthrough could eventually lead to crops with powerful, long-lasting disease resistance, helping protect a global food supply increasingly threatened by spreading infections and climate change.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20fungus%20is%20threatening%20the%20world%E2%80%99s%20food%20supply.%20Scientists%20just%20found%20a%20new%20defense",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
-      "summary": "A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also provides the first evidence of megaraptorans in Europe, helping explain how these mysterious dinosaurs eventually became gigantic hunters.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20forgotten%20fossil%20reveals%20a%20fearsome%20dinosaur%20with%20giant%20claws",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
-      "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the legendary Titanoboa. Scientists believe its enormous body made it a slow-moving ambush predator, similar to a modern anaconda.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CGigantic%20prehistoric%20snake%20discovered%20in%20India%20may%20have%20been%20one%20of%20the%20largest%20ever",
+      "title": "Antarctica’s sea ice has undergone a stunning reversal",
+      "summary": "Antarctic sea ice reached its third-lowest winter maximum in 2026, extending a remarkable decline that began after years of record-breaking growth. Scientists are investigating whether the dramatic reversal signals a long-term shift in Antarctica's frozen landscape.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073210.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CAntarctica%E2%80%99s%20sea%20ice%20has%20undergone%20a%20stunning%20reversal",
       "wiki_url": "",
       "category": "Science"
+    },
+    {
+      "title": "NASA captures strange waves high above Hurricane Simon",
+      "summary": "As Hurricane Simon unleashed destructive winds and flooding along Mexico’s coast, NASA satellites captured an extraordinary sight: massive atmospheric waves rippling high above the storm. The rare images reveal how powerful hurricanes can disturb the upper atmosphere, creating patterns that are usually invisible from space.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20captures%20strange%20waves%20high%20above%20Hurricane%20Simon",
+      "wiki_url": "",
+      "category": "Space"
     },
     {
       "title": "Dearest Gentle Reader,",
