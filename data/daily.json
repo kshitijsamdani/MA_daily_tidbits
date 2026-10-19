@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-18 05:00 UTC",
+  "date": "2026-10-19 05:08 UTC",
   "items": [
     {
-      "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
-      "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatments for sleep and neurological disorders.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20how%20deep%20sleep%20builds%20muscle%2C%20burns%20fat%2C%20and%20boosts%20the%20brain",
+      "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+      "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and hints at exotic quasiparticles that scientists have dubbed potential \"super-Fermions.\"",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CPhysicists%20create%20a%20bizarre%20new%20quantum%20state%20called%20a%20fractional%20fermi%20sea",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Physics"
     },
     {
-      "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
-      "summary": "In 1960, scientists predicted that runaway population growth would bring humanity to the brink of destruction on November 13, 2026, and their mathematical forecasts remained surprisingly accurate for decades. But as birth rates declined and population growth slowed, the terrifying prediction unraveled, revealing how even convincing scientific models can fail when human behavior changes.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20predicted%20doomsday%20for%20November%2013%2C%202026.%20Should%20we%20be%20worried%3F",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair, the team helped bring its powerful instruments into near-perfect alignment. Roman’s Wide Field Instrument now produces image quality nearly 30% better than predicted, promising exceptionally sharp cosmic surveys.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Roman%20Space%20Telescope%20exceeds%20expectations%20by%20nearly%2030%25",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "SpaceX just delivered some very strange cargo to the International Space Station",
-      "summary": "SpaceX just delivered some surprisingly strange cargo to the International Space Station, including tiny brain models, 3D heart tissue, and technology for making artificial retinas in space. Scientists hope these experiments could unlock new ways to treat devastating brain diseases, restore eyesight, and test future medicines. The shipment also includes materials for creating unusual glass in near weightlessness and the station’s final upgraded solar arrays.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CSpaceX%20just%20delivered%20some%20very%20strange%20cargo%20to%20the%20International%20Space%20Station",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "This bird flies thousands of miles, but its wings have a catch",
-      "summary": "Scientists have uncovered an unexpected trade-off in the wings of the European nightjar, a bird that migrates thousands of kilometers but sacrifices high-speed flight efficiency to hunt insects with remarkable agility. Even more surprisingly, it generates thrust on the upward wingbeat, a technique that could inspire new flying technologies.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20bird%20flies%20thousands%20of%20miles%2C%20but%20its%20wings%20have%20a%20catch",
+      "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
+      "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The findings suggest psilocybin may selectively calm escalating aggression rather than simply suppressing all behavior.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CMagic%20mushroom%20ingredient%20takes%20the%20fight%20out%20of%20aggressive%20fish",
       "wiki_url": "",
       "category": "Science"
+    },
+    {
+      "title": "Scientists who discovered a third form of magnetism win major physics prize",
+      "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20who%20discovered%20a%20third%20form%20of%20magnetism%20win%20major%20physics%20prize",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
+      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+      "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, better memory, and improved social interactions compared with mice consuming excess salt alone.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20natural%20compound%20that%20could%20protect%20the%20brain%20from%20too%20much%20salt",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Eating blueberries every day may have a surprising effect on your mood",
+      "summary": "Eating blueberries every day could have surprising effects on mood, according to a small study that found greater reductions in depressive symptoms among older adults who consumed the fruit for three months. Researchers also detected changes in gut microbial enzymes, suggesting a possible gut-brain connection, although the mood benefits were not statistically significant compared with a placebo.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CEating%20blueberries%20every%20day%20may%20have%20a%20surprising%20effect%20on%20your%20mood",
+      "wiki_url": "",
+      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
