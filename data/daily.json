@@ -1,43 +1,43 @@
 {
-  "date": "2026-10-19 05:08 UTC",
+  "date": "2026-10-20 05:09 UTC",
   "items": [
     {
-      "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-      "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and hints at exotic quasiparticles that scientists have dubbed potential \"super-Fermions.\"",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CPhysicists%20create%20a%20bizarre%20new%20quantum%20state%20called%20a%20fractional%20fermi%20sea",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
-      "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The findings suggest psilocybin may selectively calm escalating aggression rather than simply suppressing all behavior.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CMagic%20mushroom%20ingredient%20takes%20the%20fight%20out%20of%20aggressive%20fish",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Scientists who discovered a third form of magnetism win major physics prize",
-      "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20who%20discovered%20a%20third%20form%20of%20magnetism%20win%20major%20physics%20prize",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-      "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, better memory, and improved social interactions compared with mice consuming excess salt alone.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20natural%20compound%20that%20could%20protect%20the%20brain%20from%20too%20much%20salt",
+      "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+      "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and functional decline, even in people already showing early signs of the disease. The strongest benefits appeared at 5,000 to 7,500 daily steps, suggesting that the popular 10,000-step goal may not be necessary.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CJust%203%2C000%20steps%20a%20day%20may%20help%20slow%20Alzheimer%27s%2C%20scientists%20find",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Eating blueberries every day may have a surprising effect on your mood",
-      "summary": "Eating blueberries every day could have surprising effects on mood, according to a small study that found greater reductions in depressive symptoms among older adults who consumed the fruit for three months. Researchers also detected changes in gut microbial enzymes, suggesting a possible gut-brain connection, although the mood benefits were not statistically significant compared with a placebo.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CEating%20blueberries%20every%20day%20may%20have%20a%20surprising%20effect%20on%20your%20mood",
+      "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
+      "summary": "A massive landslide in Alaska triggered the second-highest tsunami ever recorded, sending water and debris 1,580 feet up a mountainside just hours after tourists visited the area. Scientists discovered that the disaster was preceded by several warning signs, including rapid glacier retreat, heavy rainfall, and thousands of tiny seismic tremors. As glaciers retreat, similar disasters could become a growing danger in mountainous coastal regions.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAlaska%E2%80%99s%20monster%20tsunami%20sent%20water%201%2C580%20feet%20up%20a%20mountain",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
+      "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for treatments that mimic this natural defense.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20some%20people%20escape%20Alzheimer%E2%80%99s%20despite%20carrying%20a%20high-risk%20gene",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Something strange is happening beneath a volcano near 2 million people",
+      "summary": "Scientists have discovered evidence of two hidden magma sources beneath Nicaragua’s Masaya volcano, where satellite observations revealed mysterious ground movements suggesting magma is shifting deep underground. The findings could improve eruption forecasting for the active volcano, which sits near 2 million people and attracts tourists to its spectacular lava lake.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CSomething%20strange%20is%20happening%20beneath%20a%20volcano%20near%202%20million%20people",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+      "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibilities for restoring vision and treating brain disorders.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20win%202026%20Nobel%20Prize%20for%20controlling%20brain%20cells%20with%20light",
       "wiki_url": "",
       "category": "AI"
     },
