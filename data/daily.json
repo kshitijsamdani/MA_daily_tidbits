@@ -1,43 +1,43 @@
 {
-  "date": "2026-10-22 05:14 UTC",
+  "date": "2026-10-23 05:13 UTC",
   "items": [
     {
-      "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
-      "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The violent collision blasted a towering curtain of rock and water 1.5 kilometers into the air and triggered a tsunami more than 100 meters high.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20massive%20asteroid%20slammed%20into%20the%20North%20Sea%20and%20unleashed%20a%20330-foot%20tsunami",
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose, alcohol, and other health markers without invasive procedures.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CCambridge%20scientists%20create%20a%20%2410%20chip%20that%20could%20put%20a%20medical%20lab%20on%20your%20wrist",
+      "wiki_url": "",
+      "category": "Health"
+    },
+    {
+      "title": "Birds are more afraid of women than men. Scientists have no idea why",
+      "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, raising intriguing questions about how birds recognize and respond to humans.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CBirds%20are%20more%20afraid%20of%20women%20than%20men.%20Scientists%20have%20no%20idea%20why",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Too much RNA can starve cells of energy, scientists discover",
-      "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune system. The discovery could help explain how viral infections and certain aging-related diseases damage cells.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CToo%20much%20RNA%20can%20starve%20cells%20of%20energy%2C%20scientists%20discover",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A train was delayed by a solar storm. But something didn't add up.",
-      "summary": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, and communication systems.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20train%20was%20delayed%20by%20a%20solar%20storm.%20But%20something%20didn%27t%20add%20up.",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Astronauts’ hearts just passed a surprising test for Mars",
-      "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without major problems, offering new hope for future missions to the Red Planet.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CAstronauts%E2%80%99%20hearts%20just%20passed%20a%20surprising%20test%20for%20Mars",
+      "title": "Oxford scientists discover how viruses build themselves without a blueprint",
+      "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to new ways to disrupt viruses and develop vaccines.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2COxford%20scientists%20discover%20how%20viruses%20build%20themselves%20without%20a%20blueprint",
       "wiki_url": "",
       "category": "Physics"
     },
     {
-      "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
-      "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better understand age-related diseases such as Alzheimer's.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CRejuvenation%20breakthrough%3A%20Scientists%20reverse%2060%20years%20of%20aging%20in%20human%20cells",
+      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+      "summary": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CNearly%203%2C000%20exploding%20stars%20challenge%20our%20understanding%20of%20the%20Universe",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
+      "summary": "Forty years after the Chornobyl disaster, tiny radioactive particles still linger in the soil, carrying a dangerous legacy. Using powerful X-rays, scientists discovered that some of these particles have remained surprisingly stable, trapping radioactive substances inside instead of releasing them into the environment.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2C40%20years%20later%2C%20Chernobyl%27s%20nuclear%20fallout%20is%20not%20what%20scientists%20expected",
       "wiki_url": "",
       "category": "AI"
     },
