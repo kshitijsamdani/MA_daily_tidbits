@@ -1,6 +1,22 @@
 {
-  "date": "2026-10-23 05:13 UTC",
+  "date": "2026-10-24 04:55 UTC",
   "items": [
+    {
+      "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+      "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient catastrophe. The discovery could help explain how supervolcanoes like Yellowstone and Toba rebuild their magma supplies.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2COne%20of%20Earth%E2%80%99s%20most%20powerful%20supervolcanoes%20is%20refilling%20with%20fresh%20magma",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Dental implants can hijack your immune system, scientists discover",
+      "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate jawbone loss.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CDental%20implants%20can%20hijack%20your%20immune%20system%2C%20scientists%20discover",
+      "wiki_url": "",
+      "category": "Physics"
+    },
     {
       "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
       "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose, alcohol, and other health markers without invasive procedures.",
@@ -10,36 +26,20 @@
       "category": "Health"
     },
     {
-      "title": "Birds are more afraid of women than men. Scientists have no idea why",
-      "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, raising intriguing questions about how birds recognize and respond to humans.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CBirds%20are%20more%20afraid%20of%20women%20than%20men.%20Scientists%20have%20no%20idea%20why",
+      "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+      "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for other mental health conditions.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CBreakthrough%20PTSD%20treatment%20achieves%2068%25%20remission%20rate%20in%20clinical%20trial",
       "wiki_url": "",
       "category": "AI"
     },
     {
-      "title": "Oxford scientists discover how viruses build themselves without a blueprint",
-      "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to new ways to disrupt viruses and develop vaccines.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2COxford%20scientists%20discover%20how%20viruses%20build%20themselves%20without%20a%20blueprint",
+      "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+      "summary": "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities. Those exercising more than eight hours per week showed almost no average cognitive decline, suggesting that staying active may offer important benefits as the disease progresses.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
+      "image": "https://source.unsplash.com/1600x900/?Health%2CScientists%20discover%20a%20surprising%20double%20benefit%20of%20exercise%20for%20Parkinson%E2%80%99s",
       "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
-      "summary": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CNearly%203%2C000%20exploding%20stars%20challenge%20our%20understanding%20of%20the%20Universe",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
-      "summary": "Forty years after the Chornobyl disaster, tiny radioactive particles still linger in the soil, carrying a dangerous legacy. Using powerful X-rays, scientists discovered that some of these particles have remained surprisingly stable, trapping radioactive substances inside instead of releasing them into the environment.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2C40%20years%20later%2C%20Chernobyl%27s%20nuclear%20fallout%20is%20not%20what%20scientists%20expected",
-      "wiki_url": "",
-      "category": "AI"
+      "category": "Health"
     },
     {
       "title": "Dearest Gentle Reader,",
