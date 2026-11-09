@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-08 06:33 UTC",
+  "date": "2026-11-09 07:03 UTC",
   "items": [
     {
-      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
-      "summary": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first spacecraft to reach a distance of one light-day from Earth.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CDon%27t%20miss%3A%20Meteor%20showers%2C%20fireballs%2C%20and%20a%20supermoon%20light%20up%20November%27s%20night%20sky",
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20hidden%20limit%20of%20space%20and%20time%20could%20unlock%20electronics%20100%2C000%20times%20faster",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Physics"
     },
     {
-      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
-      "summary": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterious cosmic outbursts.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20Swift%20telescope%20falls%20to%20Earth%20after%20nearly%2022%20years%20in%20space",
+      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer ones emerged. They call this previously unrecognized pattern a \"Biotic Inflection,\" suggesting that major transformations in life can occur without mass extinctions.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CAn%20ancient%20ocean%20full%20of%20giant%20predators%20reveals%20a%20surprising%20twist%20in%20evolution",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+      "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection effectiveness varying nearly fivefold depending on the angle.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20nuclear%20blast%20could%20save%20Earth%20from%20an%20asteroid%2C%20but%20there%27s%20a%20catch",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+      "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the oldest directly dated archaeological evidence of psychoactive cannabis use.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CAncient%20Siberian%20tomb%20reveals%20surprising%20secrets%20of%20cannabis%20use%202%2C800%20years%20ago",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+      "summary": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet’s surface.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CMysterious%20gas%20leaks%20suggest%20Mars%20may%20still%20be%20volcanically%20alive",
       "wiki_url": "",
       "category": "Space"
-    },
-    {
-      "title": "Scientists just found dinosaur blood that survived 115 million years",
-      "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clues about dinosaur physiology and even help scientists search for ancient life elsewhere in the universe.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20just%20found%20dinosaur%20blood%20that%20survived%20115%20million%20years",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-      "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits. Because declining blood flow can occur years before Alzheimer's symptoms appear, the discovery raises hopes for preventing or delaying the disease before memory loss begins.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAn%20anti-aging%20drug%20may%20help%20protect%20the%20brain%20before%20Alzheimer%27s%20symptoms%20begin",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
-      "summary": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery challenges modern reforestation strategies, suggesting that planting thick forests could actually harm the biodiversity conservationists hope to protect.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20Europe%27s%20ancient%20forests%20were%20nothing%20like%20we%20imagined",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
