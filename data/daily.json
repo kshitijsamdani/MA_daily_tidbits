@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-09 07:03 UTC",
+  "date": "2026-11-10 07:39 UTC",
   "items": [
     {
-      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20hidden%20limit%20of%20space%20and%20time%20could%20unlock%20electronics%20100%2C000%20times%20faster",
+      "title": "Alzheimer’s may have early warning signs outside the brain",
+      "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAlzheimer%E2%80%99s%20may%20have%20early%20warning%20signs%20outside%20the%20brain",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists finally discover why we learn to love bitter coffee",
+      "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20finally%20discover%20why%20we%20learn%20to%20love%20bitter%20coffee",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+      "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesuits, and redesigned missions could help pave the way for a permanent lunar presence and future human exploration of Mars.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20reveals%20bold%20new%20plan%20to%20return%20astronauts%20to%20the%20Moon%20in%202028",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+      "summary": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CAfter%2040%20years%2C%20CERN%20finds%20evidence%20of%20a%20one-in-10-billion%20particle%20decay",
       "wiki_url": "",
       "category": "Physics"
     },
     {
-      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-      "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer ones emerged. They call this previously unrecognized pattern a \"Biotic Inflection,\" suggesting that major transformations in life can occur without mass extinctions.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CAn%20ancient%20ocean%20full%20of%20giant%20predators%20reveals%20a%20surprising%20twist%20in%20evolution",
+      "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
+      "summary": "The Shroud of Turin, one of history's most mysterious religious artifacts, is yielding surprising new clues through DNA analysis. Scientists have uncovered a complex mixture of biological traces that may reveal more about the cloth's past and the environments it encountered. The findings offer a fresh scientific perspective on a centuries-old mystery that continues to spark fascination and debate.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CDNA%20on%20the%20Shroud%20of%20Turin%20reveals%20centuries%20of%20hidden%20secrets",
       "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-      "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection effectiveness varying nearly fivefold depending on the angle.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CA%20nuclear%20blast%20could%20save%20Earth%20from%20an%20asteroid%2C%20but%20there%27s%20a%20catch",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-      "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the oldest directly dated archaeological evidence of psychoactive cannabis use.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CAncient%20Siberian%20tomb%20reveals%20surprising%20secrets%20of%20cannabis%20use%202%2C800%20years%20ago",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
-      "summary": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet’s surface.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CMysterious%20gas%20leaks%20suggest%20Mars%20may%20still%20be%20volcanically%20alive",
-      "wiki_url": "",
-      "category": "Space"
+      "category": "Environment"
     },
     {
       "title": "Dearest Gentle Reader,",
