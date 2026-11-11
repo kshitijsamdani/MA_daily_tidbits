@@ -1,6 +1,38 @@
 {
-  "date": "2026-11-10 07:39 UTC",
+  "date": "2026-11-11 06:58 UTC",
   "items": [
+    {
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20giant%2066-pound%20rodent%20that%20lived%2034%20million%20years%20ago",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Why heart attacks can still happen even when bad cholesterol is low",
+      "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond cholesterol buildup.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20heart%20attacks%20can%20still%20happen%20even%20when%20bad%20cholesterol%20is%20low",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+      "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2C237-million-year-old%20fossils%20reveal%20a%20bizarre%20armored%20sea%20amphibian",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+      "summary": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's future on the Moon and Mars.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%E2%80%99s%20CHAPEA%20Mars%20crew%20finally%20emerges%20after%20more%20than%20a%20year%20in%20isolation",
+      "wiki_url": "",
+      "category": "Space"
+    },
     {
       "title": "Alzheimer’s may have early warning signs outside the brain",
       "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
@@ -8,38 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?AI%2CAlzheimer%E2%80%99s%20may%20have%20early%20warning%20signs%20outside%20the%20brain",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Scientists finally discover why we learn to love bitter coffee",
-      "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20finally%20discover%20why%20we%20learn%20to%20love%20bitter%20coffee",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
-      "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesuits, and redesigned missions could help pave the way for a permanent lunar presence and future human exploration of Mars.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20reveals%20bold%20new%20plan%20to%20return%20astronauts%20to%20the%20Moon%20in%202028",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-      "summary": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CAfter%2040%20years%2C%20CERN%20finds%20evidence%20of%20a%20one-in-10-billion%20particle%20decay",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
-      "summary": "The Shroud of Turin, one of history's most mysterious religious artifacts, is yielding surprising new clues through DNA analysis. Scientists have uncovered a complex mixture of biological traces that may reveal more about the cloth's past and the environments it encountered. The findings offer a fresh scientific perspective on a centuries-old mystery that continues to spark fascination and debate.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm",
-      "image": "https://source.unsplash.com/1600x900/?Environment%2CDNA%20on%20the%20Shroud%20of%20Turin%20reveals%20centuries%20of%20hidden%20secrets",
-      "wiki_url": "",
-      "category": "Environment"
     },
     {
       "title": "Dearest Gentle Reader,",
