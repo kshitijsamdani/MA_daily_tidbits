@@ -1,6 +1,30 @@
 {
-  "date": "2026-11-12 07:35 UTC",
+  "date": "2026-11-13 07:06 UTC",
   "items": [
+    {
+      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fossil-rich regions around the world, researchers have created a powerful tool to guide future excavations.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%20new%20treasure%20map%20reveals%20where%20Earth%27s%20lost%20prehistoric%20life%20may%20be%20hiding",
+      "wiki_url": "",
+      "category": "Biology"
+    },
+    {
+      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+      "summary": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles away, suggests the building blocks of life may once have been widespread across Mars.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Perseverance%20confirms%20a%20key%20ingredient%20for%20life%20hidden%20in%20ancient%20Mars%20rocks",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Crows can make decisions twice as fast as humans, scientists discover",
+      "summary": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CCrows%20can%20make%20decisions%20twice%20as%20fast%20as%20humans%2C%20scientists%20discover",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
       "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potentially solving a mystery that has puzzled researchers for over a decade.",
@@ -10,34 +34,10 @@
       "category": "Biology"
     },
     {
-      "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
-      "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on ozone-destroying chemicals prevented even greater damage, and Earth's protective ozone layer is still recovering.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20reveals%20Earth%27s%20ozone%20hole%20has%20grown%20to%20a%20size%20not%20seen%20in%20a%20decade",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "A massive new simulation reveals how the universe emerged from darkness",
-      "summary": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations could not.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20massive%20new%20simulation%20reveals%20how%20the%20universe%20emerged%20from%20darkness",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-      "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20discover%20a%20giant%2066-pound%20rodent%20that%20lived%2034%20million%20years%20ago",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Why heart attacks can still happen even when bad cholesterol is low",
-      "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond cholesterol buildup.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CWhy%20heart%20attacks%20can%20still%20happen%20even%20when%20bad%20cholesterol%20is%20low",
+      "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
+      "summary": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly identical species, including one previously unknown to science. Hidden ultraviolet wing patterns and DNA differences revealed the truth, leaving scientists puzzled about how the butterflies remain genetically separate despite living side by side.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20butterfly%20that%20fooled%20scientists%20for%20200%20years%20finally%20reveals%20its%20secrets",
       "wiki_url": "",
       "category": "AI"
     },
