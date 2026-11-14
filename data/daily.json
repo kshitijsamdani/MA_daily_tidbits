@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-13 07:06 UTC",
+  "date": "2026-11-14 06:55 UTC",
   "items": [
+    {
+      "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
+      "summary": "A 5,000-year-old mystery surrounding the tombs of Egypt’s first kings has taken a disturbing turn. Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at least 39% of those studied may have been deliberately killed. The findings support a century-old theory that royal attendants were sacrificed when kings died, possibly to serve them in the afterlife.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2C5%2C000-year-old%20skulls%20reveal%20a%20disturbing%20secret%20of%20ancient%20Egypt%27s%20first%20kings",
+      "wiki_url": "",
+      "category": "Science"
+    },
+    {
+      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+      "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threats. Surprisingly, prior vaccination completely prevented these harmful changes in the mouse model.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20a%20hidden%20danger%20of%20viral%20infections%20that%20vaccines%20may%20prevent",
+      "wiki_url": "",
+      "category": "Science"
+    },
     {
       "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
       "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fossil-rich regions around the world, researchers have created a powerful tool to guide future excavations.",
@@ -10,34 +26,18 @@
       "category": "Biology"
     },
     {
-      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
-      "summary": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles away, suggests the building blocks of life may once have been widespread across Mars.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%E2%80%99s%20Perseverance%20confirms%20a%20key%20ingredient%20for%20life%20hidden%20in%20ancient%20Mars%20rocks",
+      "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+      "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, light-controlled electronics.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20capture%20electrons%20making%20seemingly%20impossible%20quantum%20jumps",
       "wiki_url": "",
-      "category": "AI"
+      "category": "Physics"
     },
     {
-      "title": "Crows can make decisions twice as fast as humans, scientists discover",
-      "summary": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CCrows%20can%20make%20decisions%20twice%20as%20fast%20as%20humans%2C%20scientists%20discover",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
-      "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potentially solving a mystery that has puzzled researchers for over a decade.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CWhere%20are%20all%20the%20males%3F%20Ancient%20human%20fossils%20reveal%20a%20startling%20mystery",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
-      "summary": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly identical species, including one previously unknown to science. Hidden ultraviolet wing patterns and DNA differences revealed the truth, leaving scientists puzzled about how the butterflies remain genetically separate despite living side by side.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20butterfly%20that%20fooled%20scientists%20for%20200%20years%20finally%20reveals%20its%20secrets",
+      "title": "Superheated magma could fuel towering lava fountains",
+      "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has not been superheated.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CSuperheated%20magma%20could%20fuel%20towering%20lava%20fountains",
       "wiki_url": "",
       "category": "AI"
     },
