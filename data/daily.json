@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-14 06:55 UTC",
+  "date": "2026-11-15 07:01 UTC",
   "items": [
     {
-      "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
-      "summary": "A 5,000-year-old mystery surrounding the tombs of Egypt’s first kings has taken a disturbing turn. Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at least 39% of those studied may have been deliberately killed. The findings support a century-old theory that royal attendants were sacrificed when kings died, possibly to serve them in the afterlife.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2C5%2C000-year-old%20skulls%20reveal%20a%20disturbing%20secret%20of%20ancient%20Egypt%27s%20first%20kings",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-      "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threats. Surprisingly, prior vaccination completely prevented these harmful changes in the mouse model.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20discover%20a%20hidden%20danger%20of%20viral%20infections%20that%20vaccines%20may%20prevent",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fossil-rich regions around the world, researchers have created a powerful tool to guide future excavations.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
-      "image": "https://source.unsplash.com/1600x900/?Biology%2CA%20new%20treasure%20map%20reveals%20where%20Earth%27s%20lost%20prehistoric%20life%20may%20be%20hiding",
-      "wiki_url": "",
-      "category": "Biology"
-    },
-    {
-      "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-      "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, light-controlled electronics.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CScientists%20capture%20electrons%20making%20seemingly%20impossible%20quantum%20jumps",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Superheated magma could fuel towering lava fountains",
-      "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has not been superheated.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CSuperheated%20magma%20could%20fuel%20towering%20lava%20fountains",
+      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAlzheimer%E2%80%99s%20may%20start%20shrinking%20two%20brain%20regions%20years%20before%20memory%20loss",
       "wiki_url": "",
       "category": "AI"
+    },
+    {
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia. Keeping regular times for sleeping, eating, and other activities may help regulate the body's internal clock, which influences mood, sleep, and overall health.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20a%20simple%20daily%20routine%20linked%20to%20less%20pain%20and%20depression",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+      "summary": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CEuclid%20discovers%20ancient%20cosmic%20beacons%20from%20the%20dawn%20of%20time%2C%20shining%20like%20a%20trillion%20suns",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+      "summary": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrients originating in the sea. The findings reveal that marine resources traveled through ancient food chains, supplementing the diets of everything from plant-eating dinosaurs to predators.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CDinosaurs%20may%20have%20been%20eating%20seaweed%20100%20million%20years%20ago",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+      "image": "https://source.unsplash.com/1600x900/?Science%2CPhysicists%20use%20laser%20light%20to%20unlock%20a%20crystal%27s%20hidden%20electrical%20powers",
+      "wiki_url": "",
+      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
