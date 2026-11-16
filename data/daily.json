@@ -1,6 +1,30 @@
 {
-  "date": "2026-11-15 07:01 UTC",
+  "date": "2026-11-16 07:08 UTC",
   "items": [
+    {
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CVitamin%20C%20could%20help%20block%20cancer-linked%20chemicals%20in%20your%20stomach%2C%20study%20finds",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+      "summary": "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s. New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their magnetic fields. Remarkably, the models indicate that their magnetic poles could shift by tens of degrees within just a few decades, far faster than Earth's.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CUranus%20and%20Neptune%E2%80%99s%20bizarre%20magnetic%20fields%20may%20finally%20be%20explained",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "summary": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's emerging mysteries.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CAstronomers%20discover%20a%20dead%20star%20spinning%20every%208%20minutes%20and%20sending%20mysterious%20radio%20pulses",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
       "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
@@ -10,36 +34,12 @@
       "category": "AI"
     },
     {
-      "title": "Scientists find a simple daily routine linked to less pain and depression",
-      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia. Keeping regular times for sleeping, eating, and other activities may help regulate the body's internal clock, which influences mood, sleep, and overall health.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20find%20a%20simple%20daily%20routine%20linked%20to%20less%20pain%20and%20depression",
+      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+      "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20common%20osteoporosis%20drug%20blocked%20spinal%20damage%20in%20a%20surprising%20new%20study",
       "wiki_url": "",
       "category": "AI"
-    },
-    {
-      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
-      "summary": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
-      "image": "https://source.unsplash.com/1600x900/?Space%2CEuclid%20discovers%20ancient%20cosmic%20beacons%20from%20the%20dawn%20of%20time%2C%20shining%20like%20a%20trillion%20suns",
-      "wiki_url": "",
-      "category": "Space"
-    },
-    {
-      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
-      "summary": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrients originating in the sea. The findings reveal that marine resources traveled through ancient food chains, supplementing the diets of everything from plant-eating dinosaurs to predators.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CDinosaurs%20may%20have%20been%20eating%20seaweed%20100%20million%20years%20ago",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
-      "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CPhysicists%20use%20laser%20light%20to%20unlock%20a%20crystal%27s%20hidden%20electrical%20powers",
-      "wiki_url": "",
-      "category": "Science"
     },
     {
       "title": "Dearest Gentle Reader,",
