@@ -1,43 +1,43 @@
 {
-  "date": "2026-11-16 07:08 UTC",
+  "date": "2026-11-17 08:21 UTC",
   "items": [
+    {
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against future threats to Earth.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNASA%20smashed%20into%20an%20asteroid.%20Now%20Hera%20has%20revealed%20a%20strange%20new%20world",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "summary": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon's extreme temperatures. Built from hundreds of stacked layers, the material withstands crushing pressure without losing its thermal protection, potentially paving the way for tougher, longer-lasting lunar habitats.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CThe%20secret%20to%20building%20Moon%20bases%20may%20be%20hiding%20in%20emergency%20blankets",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "summary": "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CNASA%20is%20offering%20%241%20million%20for%20bold%20ideas%20to%20help%20build%20a%20Moon%20base",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+      "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer's risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surprising differences in immune activity and gut-brain interactions, opening the door to more personalized treatments for neurological disorders.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20hidden%20biological%20divide%20may%20help%20explain%20Alzheimer%E2%80%99s%20and%20chronic%20pain",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
       "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk.",
       "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CVitamin%20C%20could%20help%20block%20cancer-linked%20chemicals%20in%20your%20stomach%2C%20study%20finds",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-      "summary": "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s. New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their magnetic fields. Remarkably, the models indicate that their magnetic poles could shift by tens of degrees within just a few decades, far faster than Earth's.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CUranus%20and%20Neptune%E2%80%99s%20bizarre%20magnetic%20fields%20may%20finally%20be%20explained",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-      "summary": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's emerging mysteries.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAstronomers%20discover%20a%20dead%20star%20spinning%20every%208%20minutes%20and%20sending%20mysterious%20radio%20pulses",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-      "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CAlzheimer%E2%80%99s%20may%20start%20shrinking%20two%20brain%20regions%20years%20before%20memory%20loss",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-      "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20common%20osteoporosis%20drug%20blocked%20spinal%20damage%20in%20a%20surprising%20new%20study",
       "wiki_url": "",
       "category": "AI"
     },
