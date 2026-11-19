@@ -1,6 +1,30 @@
 {
-  "date": "2026-11-18 07:51 UTC",
+  "date": "2026-11-19 07:47 UTC",
   "items": [
+    {
+      "title": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
+      "summary": "Deep-sea researchers have captured stunning new footage of an extraordinarily rare fish with a transparent head and rotating eyes nearly 2,000 feet beneath the ocean's surface. Known as the barreleye fish, this bizarre creature uses its upward-pointing eyes to spot prey before rotating them forward to track its next meal, all while a transparent dome protects them.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CBizarre%20deep-sea%20fish%20with%20a%20see-through%20head%20captured%20in%20stunning%204K",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
+      "summary": "Scientists may have finally explained why up to more than a billion years of Earth's geological history are missing from rocks around the world. New research suggests that powerful currents deep inside the planet slowly raised and lowered entire continents, allowing erosion to erase vast stretches of geological history before they were buried and preserved.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CMore%20than%20a%20billion%20years%20of%20Earth%27s%20history%20vanished.%20Scientists%20may%20finally%20know%20why",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "New discovery reveals what may be holding back room-temperature superconductors",
+      "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggesting that a different obstacle may be preventing room-temperature superconductivity.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CNew%20discovery%20reveals%20what%20may%20be%20holding%20back%20room-temperature%20superconductors",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
       "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against future threats to Earth.",
@@ -14,30 +38,6 @@
       "summary": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whether the strange signal is real.",
       "link": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
       "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20mysterious%20twist%20in%20the%20universe%E2%80%99s%20oldest%20light%20could%20reveal%20new%20physics",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "The hidden language of psychopathy is not what scientists expected",
-      "summary": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiety. The findings challenge familiar stereotypes about psychopathy and suggest that the stories people tell about their lives may offer important clues about their personalities.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20hidden%20language%20of%20psychopathy%20is%20not%20what%20scientists%20expected",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
-      "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time they spend using them.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
-      "image": "https://source.unsplash.com/1600x900/?Science%2CScientists%20tracked%20kids%20for%208%20years.%20What%20they%20found%20about%20screen%20time%20was%20surprising",
-      "wiki_url": "",
-      "category": "Science"
-    },
-    {
-      "title": "A material just one atom thick reveals a strange quantum secret",
-      "summary": "Researchers at the University of Osaka have discovered a remarkable quantum state forming at the boundary between a one-atom-thick material and a metal. They observed electrons behaving as though they were unusually heavy, including a previously unseen state created by interactions between the ultrathin layer and the copper beneath it. This first-of-its-kind observation reveals a promising new way to control exotic quantum behavior.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CA%20material%20just%20one%20atom%20thick%20reveals%20a%20strange%20quantum%20secret",
       "wiki_url": "",
       "category": "Physics"
     },
