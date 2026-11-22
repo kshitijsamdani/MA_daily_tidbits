@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-21 07:36 UTC",
+  "date": "2026-11-22 07:18 UTC",
   "items": [
+    {
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+      "image": "https://source.unsplash.com/1600x900/?Physics%2CTime%20may%20be%20far%20stranger%20than%20we%20realize.%20Scientists%20have%20a%20way%20to%20test%20it",
+      "wiki_url": "",
+      "category": "Physics"
+    },
+    {
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CA%20giant%20star%20swallowed%20another%20star.%20James%20Webb%20reveals%20the%20aftermath",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
       "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.",
@@ -22,22 +38,6 @@
       "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants.",
       "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2CTwo%20massive%20stars%20may%20be%20secretly%20feeding%20the%20Milky%20Way%E2%80%99s%20supermassive%20black%20hole",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
-      "summary": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where unknown particles and forces may be hiding.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
-      "image": "https://source.unsplash.com/1600x900/?Physics%2CCERN%20scientists%20finally%20find%20evidence%20of%20a%20particle%20decay%20so%20rare%20it%20took%2040%20years%20to%20detect",
-      "wiki_url": "",
-      "category": "Physics"
-    },
-    {
-      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-      "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Earth.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20turn%20Moon%20dust%20into%20LEGO-like%20bricks%20for%20future%20lunar%20bases",
       "wiki_url": "",
       "category": "AI"
     },
