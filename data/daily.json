@@ -1,43 +1,43 @@
 {
-  "date": "2026-11-25 09:00 UTC",
+  "date": "2026-11-26 08:47 UTC",
   "items": [
+    {
+      "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+      "summary": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known as brine pools, these extremely salty, oxygen-free environments are surprisingly teeming with microbial life, challenging our understanding of where living organisms can survive.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+      "image": "https://source.unsplash.com/1600x900/?Environment%2CScientists%20discover%20mysterious%20lakes%20more%20than%20a%20mile%20beneath%20the%20Red%20Sea",
+      "wiki_url": "",
+      "category": "Environment"
+    },
+    {
+      "title": "A space telescope hunting for dark matter just discovered something unexpected",
+      "summary": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. The icy object is approximately 1.3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to complete.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+      "image": "https://source.unsplash.com/1600x900/?Space%2CA%20space%20telescope%20hunting%20for%20dark%20matter%20just%20discovered%20something%20unexpected",
+      "wiki_url": "",
+      "category": "Space"
+    },
+    {
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "summary": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any difference between the electron and positron could expose cracks in the Standard Model of particle physics.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CPhysicists%20trap%20antimatter%20in%20a%20breakthrough%20that%20could%20explain%20why%20the%20universe%20exists",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+      "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CWhat%20is%20a%20thought%20made%20of%3F%20Why%20human%20consciousness%20may%20be%20beyond%20AI%E2%80%99s%20reach",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
       "summary": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where the vessel may have traveled and undergone repairs more than two millennia ago.",
       "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
       "image": "https://source.unsplash.com/1600x900/?AI%2C2%2C200-year-old%20Roman%20shipwreck%20reveals%20an%20ingenious%20waterproofing%20trick",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Earth's next ice age may have already begun. Global warming stopped it",
-      "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 years ago, signaling the possible start of a new glacial period. But by the 1960s, rising temperatures had reversed that growth, causing the ice to shrink instead.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CEarth%27s%20next%20ice%20age%20may%20have%20already%20begun.%20Global%20warming%20stopped%20it",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
-      "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CNew%20nose%20drops%20restore%20youthful%20memory%20and%20fight%20Alzheimer%E2%80%99s%20in%20aging%20mice",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
-      "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery raises an astonishing possibility: Carbon essential to life may have traveled from space to Earth's depths before emerging through volcanoes billions of years later.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CEarth%27s%20core%20may%20be%20leaking%20a%204.5-billion-year-old%20secret",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
-      "summary": "A tiny California trapdoor spider named after Stephen Colbert has a genome roughly 50% larger than a human's, despite being only about the size of a quarter. Scientists discovered that its enormous genome contains 4.6 billion DNA base pairs and 52 chromosomes, revealing surprising clues about spider evolution.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThis%20tiny%20spider%20named%20after%20Stephen%20Colbert%20has%20a%20genome%2050%25%20larger%20than%20a%20human%E2%80%99s",
       "wiki_url": "",
       "category": "AI"
     },
