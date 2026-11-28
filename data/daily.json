@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-27 08:58 UTC",
+  "date": "2026-11-28 08:19 UTC",
   "items": [
+    {
+      "title": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+      "summary": "The narwhal’s iconic spiral tusk, once prized in Europe as the horn of a mythical unicorn, conceals an extraordinary feat of natural engineering. Using advanced X-ray technology, an international team of scientists discovered that the tusk contains two intertwined microscopic spirals that twist in opposite directions.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20narwhal%E2%80%99s%20legendary%20%E2%80%9Cunicorn%20horn%E2%80%9D%20holds%20a%20remarkable%20engineering%20secret",
+      "wiki_url": "",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+      "summary": "Virginia Tech scientists have discovered how to transform one of the world's hardest-to-recycle plastics into a valuable ingredient for high-performance engine oil. Their innovative process converts discarded PVC into a useful lubricant material in just three hours. The breakthrough could turn a major source of plastic pollution into a valuable industrial resource while making lubricant production more sustainable.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+      "image": "https://source.unsplash.com/1600x900/?AI%2CScientists%20turn%20one%20of%20the%20world%E2%80%99s%20hardest-to-recycle%20plastics%20into%20high-performance%20lubricating%20oil",
+      "wiki_url": "",
+      "category": "AI"
+    },
     {
       "title": "Scientists identify two ages when children may be most vulnerable to screen time",
       "summary": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to children's learning and memory: infancy and the start of formal schooling. Greater screen exposure during these developmental windows was linked to poorer academic performance and weaker working memory years later.",
@@ -24,22 +40,6 @@
       "image": "https://source.unsplash.com/1600x900/?Science%2CThis%20345-million-year-old%20fossil%20had%20scientists%20fooled%20for%20decades",
       "wiki_url": "",
       "category": "Science"
-    },
-    {
-      "title": "The surprising reason women seem better at multitasking than men",
-      "summary": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help explain why women are widely perceived as better multitaskers.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CThe%20surprising%20reason%20women%20seem%20better%20at%20multitasking%20than%20men",
-      "wiki_url": "",
-      "category": "AI"
-    },
-    {
-      "title": "For decades, scientists may have misunderstood how brain cells work",
-      "summary": "A major new study challenges a long-standing assumption about how the brain works, revealing that most neurons are versatile multitaskers rather than highly specialized workers. By analyzing recordings from 43 regions of the mouse brain, researchers discovered that although some neurons are dedicated to specific functions, most respond to a wide variety of information in remarkably distinct ways.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
-      "image": "https://source.unsplash.com/1600x900/?AI%2CFor%20decades%2C%20scientists%20may%20have%20misunderstood%20how%20brain%20cells%20work",
-      "wiki_url": "",
-      "category": "AI"
     },
     {
       "title": "Dearest Gentle Reader,",
